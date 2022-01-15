@@ -1,0 +1,983 @@
+Total count: 66, 2 bugs (Closure 93 & Closure 63) are duplicate.
+
+Chart 1
+source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+1797 - 1797
+###    buggy:  ###
+- if (dataset != null) {
+### developer: ###
++ if (dataset == null) {
+###    ours:   ###
++ if (dataset == null) {
+
+Chart 7
+source/org/jfree/data/time/TimePeriodValues.java
+300 - 303
+###    buggy:  ###
+- long s = getDataItem(this.minMiddleIndex).getPeriod().getStart()
+-     .getTime();
+- long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd()
+-     .getTime();
+### developer: ###
++ long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart()
++     .getTime();
++ long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd()
++     .getTime();
+###    ours:   ###
++ long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart().getTime();long e = getDataItem(this.maxMiddleIndex).getPeriod().getEnd().getTime();
+
+Chart 8
+source/org/jfree/data/time/Week.java
+175 - 175
+###    buggy:  ###
+- this(time, RegularTimePeriod.DEFAULT_TIME_ZONE, Locale.getDefault());
+### developer: ###
++ this(time, zone, Locale.getDefault());
+###    ours:   ###
++ this(time, zone, Locale.getDefault());
+
+Chart 9
+source/org/jfree/data/time/TimeSeries.java
+944 - 944
+###    buggy:  ###
+- if (endIndex < 0) {
+### developer: ###
++ if ((endIndex < 0) || (endIndex < startIndex)) {
+###    ours:   ###
++ if (endIndex <0 || startIndex >endIndex){
+
+Chart 11
+source/org/jfree/chart/util/ShapeUtilities.java
+275 - 275
+###    buggy:  ###
+- PathIterator iterator2 = p1.getPathIterator(null);
+### developer: ###
++ PathIterator iterator2 = p2.getPathIterator(null);
+###    ours:   ###
++ PathIterator iterator2 = p2.getPathIterator(null);
+
+// Equivalence: next 'if' statement won't execute if 'removed' is false.
+Chart 14
+source/org/jfree/chart/plot/XYPlot.java
+2293 - 2293
+###    buggy:  ###
+- boolean removed = markers.remove(marker);
+### developer: ###
++ if (markers == null) {
++     return false;
++ }
++ boolean removed = markers.remove(marker);
+###    ours:   ###
++ boolean removed = markers!= null && markers.remove(marker);
+
+Chart 14
+source/org/jfree/chart/plot/XYPlot.java
+2529 - 2529
+###    buggy:  ###
+- boolean removed = markers.remove(marker);
+### developer: ###
++ if (markers == null) {
++     return false;
++ }
++ boolean removed = markers.remove(marker);
+###    ours:   ###
++ boolean removed = markers!= null && markers.remove(marker);
+
+Chart 14
+source/org/jfree/chart/plot/CategoryPlot.java
+2166 - 2166
+###    buggy:  ###
+- boolean removed = markers.remove(marker);
+### developer: ###
++ if (markers == null) {
++     return false;
++ }
++ boolean removed = markers.remove(marker);
+###    ours:   ###
++ boolean removed = markers!= null && markers.remove(marker);
+
+Chart 14
+source/org/jfree/chart/plot/CategoryPlot.java
+2448 - 2448
+###    buggy:  ###
+- boolean removed = markers.remove(marker);
+### developer: ###
++ if (markers == null) {
++     return false;
++ }
++ boolean removed = markers.remove(marker);
+###    ours:   ###
++ boolean removed = markers!= null && markers.remove(marker);
+
+Chart 24
+source/org/jfree/chart/renderer/GrayPaintScale.java
+126 - 127
+###    buggy:  ###
+- int g = (int) ((value - this.lowerBound) / (this.upperBound
+-         - this.lowerBound) * 255.0);
+### developer: ###
++ int g = (int) ((v - this.lowerBound) / (this.upperBound
++         - this.lowerBound) * 255.0);
+###    ours:   ###
++ int g = (int) ((v - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
+
+Closure 4
+src/com/google/javascript/rhino/jstype/NamedType.java
+190 - 190
+###    buggy:  ###
+- if (detectImplicitPrototypeCycle()) {
+### developer: ###
++ if (detectInheritanceCycle()) {
+###    ours:   ###
++ if (detectInheritanceCycle()) {
+
+Closure 4
+src/com/google/javascript/rhino/jstype/NamedType.java
+202 - 202
+###    buggy:  ###
+- if (detectImplicitPrototypeCycle()) {
+### developer: ###
++ if (detectInheritanceCycle()) {
+###    ours:   ###
++ if (detectInheritanceCycle()){
+
+Closure 10
+src/com/google/javascript/jscomp/NodeUtil.java
+1417 - 1417
+###    buggy:  ###
+- return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+### developer: ###
++ return anyResultsMatch(n, MAY_BE_STRING_PREDICATE);
+###    ours:   ###
++ return anyResultsMatch(n, MAY_BE_STRING_PREDICATE);
+
+Closure 11
+src/com/google/javascript/jscomp/TypeCheck.java
+1314 - 1315
+###    buggy:  ###
+- } else if (n.getJSType() != null && parent.isAssign()) {
+-       return;
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Closure 18
+src/com/google/javascript/jscomp/Compiler.java
+1288 - 1288
+###    buggy:  ###
+- if (options.dependencyOptions.needsManagement() && options.closurePass
+### developer: ###
++ if (options.dependencyOptions.needsManagement()) {
+###    ours:   ###
++ if (options.dependencyOptions.needsManagement()) {
+
+Closure 31
+src/com/google/javascript/jscomp/Compiler.java
+1284 - 1286
+###    buggy:  ###
+- if (options.dependencyOptions.needsManagement() &&
+-           !options.skipAllPasses &&
+-           options.closurePass) {
+### developer: ###
++ if (options.dependencyOptions.needsManagement() &&
++     options.closurePass) {
+###    ours:   ###
++ if (options.dependencyOptions.needsManagement() && options.closurePass){
+
+Closure 38
+src/com/google/javascript/jscomp/CodeConsumer.java
+245 - 245
+###    buggy:  ###
+- if (x < 0 && prev == '-') {
+### developer: ###
++ if ((x < 0 || negativeZero) && prev == '-') {
+###    ours:   ###
++ if ((x<0 || isNegativeZero(x)) && prev == '-'){
+
+// Equivalence: '{' pairs the '}' of if statement.
+Closure 40
+src/com/google/javascript/jscomp/NameAnalyzer.java
+635 - 636
+###    buggy:  ###
+- JsName name = getName(ns.name, false);
+-           if (name != null) {
+### developer: ###
++ JsName name = getName(ns.name, true);
+###    ours:   ###
++ JsName name = getName(ns.name, true);{
+
+Closure 46
+src/com/google/javascript/rhino/jstype/RecordType.java
+141 - 155
+###    buggy:  ###
+- @Override
+-   public JSType getLeastSupertype(JSType that) {
+-     if (!that.isRecordType()) {
+-       return super.getLeastSupertype(that);
+-     }
+-     RecordTypeBuilder builder = new RecordTypeBuilder(registry);
+-     for (String property : properties.keySet()) {
+-       if (that.toMaybeRecordType().hasProperty(property) &&
+-           that.toMaybeRecordType().getPropertyType(property).isEquivalentTo(
+-               getPropertyType(property))) {
+-         builder.addProperty(property, getPropertyType(property),
+-             getPropertyNode(property));
+-       }
+-     }
+-     return builder.build();
+-   }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Closure 62
+src/com/google/javascript/jscomp/LightweightMessageFormatter.java
+97 - 98
+###    buggy:  ###
+- if (excerpt.equals(LINE)
+-           && 0 <= charno && charno < sourceExcerpt.length()) {
+### developer: ###
++ if (excerpt.equals(LINE)
++ && 0 <= charno && charno <= sourceExcerpt.length()) {
+###    ours:   ###
++ if (excerpt.equals(LINE) && 0 <= charno && charno <= sourceExcerpt.length()){
+
+// Same as 62
+Closure 63
+src/com/google/javascript/jscomp/LightweightMessageFormatter.java
+97 - 98
+###    buggy:  ###
+- if (excerpt.equals(LINE)
+-           && 0 <= charno && charno < sourceExcerpt.length()) {
+### developer: ###
++ if (excerpt.equals(LINE)
++ && 0 <= charno && charno <= sourceExcerpt.length()) {
+###    ours:   ###
++ if (excerpt.equals(LINE) && 0 <= charno && charno <= sourceExcerpt.length()){
+
+Closure 70
+src/com/google/javascript/jscomp/TypedScopeCreator.java
+1744 - 1745
+###    buggy:  ###
+- defineSlot(astParameter, functionNode,
+-                   jsDocParameter.getJSType(), true);
+### developer: ###
++ defineSlot(astParameter, functionNode,
++     jsDocParameter.getJSType(), false);
+###    ours:   ###
++ defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), false);
+
+Closure 73
+src/com/google/javascript/jscomp/CodeGenerator.java
+1045 - 1045
+###    buggy:  ###
+- if (c > 0x1f && c <= 0x7f
+### developer: ###
++ if (c > 0x1f && c < 0x7f) {
+###    ours:   ###
++ if (c > 0x1f && c < 0x7f) {
+
+Closure 78
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+711 - 711
+###    buggy:  ###
+- error(DiagnosticType.error(JSC_DIVIDE_BY_0_ERROR, Divide by 0), right);
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Closure 78
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+718 - 718
+###    buggy:  ###
+- error(DiagnosticType.error(JSC_DIVIDE_BY_0_ERROR, Divide by 0), right);
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Closure 86
+src/com/google/javascript/jscomp/NodeUtil.java
+2465 - 2465
+###    buggy:  ###
+- return true;
+### developer: ###
++ return false;
+###    ours:   ###
++ return false;
+
+Closure 92
+src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+789 - 789
+###    buggy:  ###
+- int indexOfDot = namespace.indexOf('.');
+### developer: ###
++ int indexOfDot = namespace.lastIndexOf('.');
+###    ours:   ###
++ int indexOfDot = namespace.lastIndexOf('.');
+
+// Same as 92
+Closure 93
+src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+789 - 789
+###    buggy:  ###
+- int indexOfDot = namespace.indexOf('.');
+### developer: ###
++ int indexOfDot = namespace.lastIndexOf('.');
+###    ours:   ###
++ int indexOfDot = namespace.lastIndexOf('.');
+
+// Equivalence: 'hasSideEffects' won't use anymore.
+Closure 115
+src/com/google/javascript/jscomp/FunctionInjector.java
+697 - 704
+###    buggy:  ###
+- boolean hasSideEffects = false;
+-     if (block.hasChildren()) {
+-       Preconditions.checkState(block.hasOneChild());
+-       Node stmt = block.getFirstChild();
+-       if (stmt.isReturn()) {
+-         hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler);
+-       }
+-     }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ boolean hasSideEffects = false;
+
+Closure 115
+src/com/google/javascript/jscomp/FunctionInjector.java
+730 - 732
+###    buggy:  ###
+- if (hasSideEffects && NodeUtil.canBeSideEffected(cArg)) {
+-             return CanInlineResult.NO;
+-           }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Closure 123
+src/com/google/javascript/jscomp/CodeGenerator.java
+285 - 285
+###    buggy:  ###
+- Context rhsContext = Context.OTHER;
+### developer: ###
++ Context rhsContext = getContextForNoInOperator(context);
+###    ours:   ###
++ Context rhsContext = getContextForNoInOperator(context);
+
+Closure 126
+src/com/google/javascript/jscomp/MinimizeExitPoints.java
+141 - 144
+###    buggy:  ###
+- if (NodeUtil.hasFinally(n)) {
+-         Node finallyBlock = n.getLastChild();
+-         tryMinimizeExits(finallyBlock, exitType, labelName);
+-       }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Lang 6
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+95 - 95
+###    buggy:  ###
+- pos += Character.charCount(Character.codePointAt(input, pos));
+### developer: ###
++ pos += Character.charCount(Character.codePointAt(input, pt));
+###    ours:   ###
++ pos += Character.charCount(Character.codePointAt(input, pt));
+
+Lang 10
+src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+304 - 304
+###    buggy:  ###
+- boolean wasWhite= false;
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+// Equivalence: search from patch instead of complie, it can't complie if deleted here.
+Lang 10
+src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+307 - 314
+###    buggy:  ###
+- if(Character.isWhitespace(c)) {
+-                 if(!wasWhite) {
+-                     wasWhite= true;
+-                     regex.append(\\s*+);
+-                 }
+-                 continue;
+-             }
+-             wasWhite= false;
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Lang 22
+src/main/java/org/apache/commons/lang3/math/Fraction.java
+584 - 584
+###    buggy:  ###
+- if (Math.abs(u) <= 1 || Math.abs(v) <= 1) {
+### developer: ###
++ if (Math.abs(u) == 1 || Math.abs(v) == 1) {
+###    ours:   ###
++ if (Math.abs(u) == 1 || Math.abs(v) == 1) {
+
+Lang 26
+src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+820 - 820
+###    buggy:  ###
+- Calendar c = new GregorianCalendar
+### developer: ###
++ Calendar c = new GregorianCalendar(mTimeZone, mLocale);
+###    ours:   ###
++ Calendar c = new GregorianCalendar(mTimeZone, mLocale);
+
+Lang 29
+src/main/java/org/apache/commons/lang3/SystemUtils.java
+1672 - 1672
+###    buggy:  ###
+- static float toJavaVersionInt(String version
+### developer: ###
++ static int toJavaVersionInt(String version) {
+###    ours:   ###
++ static int toJavaVersionInt(String version) {
+
+// Equivalence: do same thing.
+Lang 33
+src/main/java/org/apache/commons/lang3/ClassUtils.java
+910 - 910
+###    buggy:  ###
+- classes[i] = array[i].getClass();
+### developer: ###
++ classes[i] = array[i] == null ? null : array[i].getClass();
+###    ours:   ###
++ if (array[i] == null)  classes[i] = null;  else  classes[i] = array[i].getClass();
+
+Lang 34
+src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
+148 - 148
+###    buggy:  ###
+- return REGISTRY.get() != null ? REGISTRY.get() : Collections.<Object, Object>emptyMap()
+### developer: ###
++ return REGISTRY.get();
+###    ours:   ###
++ return REGISTRY.get();
+
+Lang 34
+src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
+164 - 164
+###    buggy:  ###
+- return m.containsKey(value);
+### developer: ###
++ return m != null && m.containsKey(value);
+###    ours:   ###
++ return (m!= null && m.containsKey(value));
+
+// Repeat the following path, one fix with two chances.
+Lang 51
+src/java/org/apache/commons/lang/BooleanUtils.java
+670 - 670
+###    buggy:  ###
+- ???
+### developer: ###
++ ???
+###    ours:   ###
++ ???
+
+// Equivalence: switch statement in Java.
+Lang 51
+src/java/org/apache/commons/lang/BooleanUtils.java
+682 - 682
+###    buggy:  ###
+- }
+### developer: ###
++ return false;}
+###    ours:   ###
++ } return false;
+
+Lang 59
+src/java/org/apache/commons/lang/text/StrBuilder.java
+884 - 884
+###    buggy:  ###
+- str.getChars(0, strLen, buffer, size);
+### developer: ###
++ str.getChars(0, width, buffer, size);
+###    ours:   ###
++ str.getChars(0, width, buffer, size);
+
+// Equivalence: 'this.' is optional if no 'size' local var in function.
+Lang 60
+src/java/org/apache/commons/lang/text/StrBuilder.java
+1673 - 1673
+###    buggy:  ###
+- for (int i = 0; i < thisBuf.length; i++
+### developer: ###
++ for (int i = 0; i < this.size; i++) {
+###    ours:   ###
++ for (int i = 0; i <size; i++){
+
+Lang 60
+src/java/org/apache/commons/lang/text/StrBuilder.java
+1730 - 1730
+###    buggy:  ###
+- for (int i = startIndex; i < thisBuf.length; i++) {
+### developer: ###
++ for (int i = startIndex; i < size; i++) {
+###    ours:   ###
++ for (int i = startIndex; i <size; i++){
+
+// Equivalence: out of bounds, can't out of the range of 'double' type.
+Math 2
+src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java
+268 - 268
+###    buggy:  ###
+- return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+### developer: ###
++ return getSampleSize() * (getNumberOfSuccesses() / (double) getPopulationSize()
+###    ours:   ###
++ return (double) getSampleSize() * getNumberOfSuccesses() / (double) getPopulationSize();
+
+Math 5
+src/main/java/org/apache/commons/math3/complex/Complex.java
+305 - 305
+###    buggy:  ###
+- return NaN;
+### developer: ###
++ return INF;
+###    ours:   ###
++ return INF;
+
+// Equivalence: Integer division issue, '* 0.5' is same as '/ 2.0' here.
+Math 11
+src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
+183 - 185
+###    buggy:  ###
+- return FastMath.pow(2 * FastMath.PI, -dim / 2) *
+-             FastMath.pow(covarianceMatrixDeterminant, -0.5) *
+-             getExponentTerm(vals);
+### developer: ###
++ return FastMath.pow(2 * FastMath.PI, -0.5 * dim) *
++             FastMath.pow(covarianceMatrixDeterminant, -0.5) *
++             getExponentTerm(vals);
+###    ours:   ###
++ return FastMath.pow(2 * FastMath.PI, -dim / 2.0) * FastMath.pow(covarianceMatrixDeterminant, -0.5) * getExponentTerm(vals);
+
+// Equivalence: 2*TWO_POWER_52 = TWO_POWER_53
+Math 15
+src/main/java/org/apache/commons/math3/util/FastMath.java
+1541 - 1541
+###    buggy:  ###
+- if (y >= TWO_POWER_52 || y <= -TWO_POWER_52
+### developer: ###
++ if (y >= TWO_POWER_53 || y <= -TWO_POWER_53) {
+###    ours:   ###
++ if (y >= 2*TWO_POWER_52 || y <= -2*TWO_POWER_52){
+
+Math 22
+src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java
+184 - 184
+###    buggy:  ###
+- return false;
+### developer: ###
++ return true;
+###    ours:   ###
++ return true;
+
+Math 22
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java
+275 - 275
+###    buggy:  ###
+- return true;
+### developer: ###
++ return false;
+###    ours:   ###
++ return false;
+
+Math 27
+src/main/java/org/apache/commons/math3/fraction/Fraction.java
+597 - 597
+###    buggy:  ###
+- return multiply(100).doubleValue();
+### developer: ###
++ return 100 * doubleValue();
+###    ours:   ###
++ return doubleValue() * 100;
+
+Math 30
+src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java
+173 - 173
+###    buggy:  ###
+- final double n1n2prod = n1 * n2;
+### developer: ###
++ final double n1n2prod = n1 * n2;
+###    ours:   ###
++ final double n1n2prod = n1 * n2;
+
+Math 34
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
+209 - 209
+###    buggy:  ###
+- return chromosomes.iterator();
+### developer: ###
++ return getChromosomes().iterator();
+###    ours:   ###
++ return getChromosomes().iterator();
+
+Math 35
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+51 - 51
+###    buggy:  ###
+- this.elitismRate = elitismRate;
+### developer: ###
++ setElitismRate(elitismRate);
+###    ours:   ###
++ setElitismRate(elitismRate);
+
+Math 35
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+65 - 65
+###    buggy:  ###
+- this.elitismRate = elitismRate;
+### developer: ###
++ setElitismRate(elitismRate);
+###    ours:   ###
++ setElitismRate(elitismRate);
+
+Math 38
+src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+1660 - 1660
+###    buggy:  ###
+- throw new PathIsExploredException(); // XXX
+### developer: ###
++ EMPTY
+###    ours:   ###
++ /* throw new PathIsExploredException(); */
+
+Math 38
+src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+1662 - 1663
+###    buggy:  ###
+- final int iptMinus1 = ipt;
+-                 final int jptMinus1 = jpt;
+### developer: ###
++ final int iptMinus1 = ipt - 1;
++                 final int jptMinus1 = jpt - 1;
+###    ours:   ###
++ final int iptMinus1 = ipt - 1; final int jptMinus1 = jpt - 1;
+
+Math 38
+src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+1752 - 1752
+###    buggy:  ###
+- throw new PathIsExploredException(); // XXX
+### developer: ###
++ EMPTY
+###    ours:   ###
++ /* throw new PathIsExploredException(); */
+
+Math 43
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+158 - 158
+###    buggy:  ###
+- if (!(meanImpl instanceof Mean)) {
+### developer: ###
++ if (meanImpl != mean) {
+###    ours:   ###
++ if (meanImpl != mean) {
+
+Math 43
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+161 - 161
+###    buggy:  ###
+- if (!(varianceImpl instanceof Variance)) {
+### developer: ###
++ if (varianceImpl != variance) {
+###    ours:   ###
++ if (!(varianceImpl == variance)){
+
+Math 43
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+164 - 164
+###    buggy:  ###
+- if (!(geoMeanImpl instanceof GeometricMean)) {
+### developer: ###
++ if (geoMeanImpl != geoMean) {
+###    ours:   ###
++ if (geoMeanImpl != geoMean) {
+
+Math 49
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+345 - 345
+###    buggy:  ###
+- Iterator iter = res.entries.iterator();
+### developer: ###
++ Iterator iter = entries.iterator();
+###    ours:   ###
++ Iterator iter = entries.iterator();
+
+Math 49
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+358 - 358
+###    buggy:  ###
+- Iterator iter = res.entries.iterator();
+### developer: ###
++ Iterator iter = entries.iterator();
+###    ours:   ###
++ Iterator iter = entries.iterator();
+
+Math 49
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+370 - 370
+###    buggy:  ###
+- Iterator iter = res.entries.iterator();
+### developer: ###
++ Iterator iter = entries.iterator();
+###    ours:   ###
++ Iterator iter = entries.iterator();
+
+Math 49
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+383 - 383
+###    buggy:  ###
+- Iterator iter = res.entries.iterator();
+### developer: ###
++ Iterator iter = entries.iterator();
+###    ours:   ###
++ Iterator iter = entries.iterator();
+
+Math 50
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+187 - 190
+###    buggy:  ###
+- if (x == x1) {
+-                         x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol));
+-                         f0 = computeObjectiveValue(x0);
+-                     }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Math 56
+src/main/java/org/apache/commons/math/util/MultidimensionalCounter.java
+237 - 243
+###    buggy:  ###
+- int idx = 1;
+-         while (count < index) {
+-             count += idx;
+-             ++idx;
+-         }
+-         --idx;
+-         indices[last] = idx;
+### developer: ###
++ indices[last] = index - count;
+###    ours:   ###
++ indices[last] = index - count;
+
+Math 57
+src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
+175 - 175
+###    buggy:  ###
+- double sum = 0;
+### developer: ###
++ double sum = 0;
+###    ours:   ###
++ double sum = 0;
+
+Math 58
+src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java
+121 - 121
+###    buggy:  ###
+- return fit(new Gaussian.Parametric(), guess);
+### developer: ###
++ return fit(guess);
+###    ours:   ###
++ return fit(guess);
+
+Math 59
+src/main/java/org/apache/commons/math/util/FastMath.java
+3482 - 3482
+###    buggy:  ###
+- return (a <= b) ? b : (Float.isNaN(a + b) ? Float.NaN : b
+### developer: ###
++ return (a <= b) ? b : (Float.isNaN(a + b) ? Float.NaN : a);
+###    ours:   ###
++ return (a <= b)? b : (Float.isNaN(a + b)? Float.NaN : a);
+
+Math 70
+src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java
+72 - 72
+###    buggy:  ###
+- return solve(min, max);
+### developer: ###
++ return solve(f, min, max);
+###    ours:   ###
++ return solve(f, min, max);
+
+Math 75
+src/main/java/org/apache/commons/math/stat/Frequency.java
+303 - 303
+###    buggy:  ###
+- return getCumPct((Comparable<?>) v);
+### developer: ###
++ return getPct((Comparable<?>) v);
+###    ours:   ###
++ return getPct((Comparable<?>) v);
+
+Math 77
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
+721 - 721
+###    buggy:  ###
+- max += Math.max(max, Math.abs(a));
+### developer: ###
++ max = Math.max(max, Math.abs(a));
+###    ours:   ###
++ max = Math.max(max, Math.abs(a));
+
+Math 77
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+498 - 506
+###    buggy:  ###
+- public double getLInfNorm() {
+-         double max = 0;
+-         Iterator iter = entries.iterator();
+-         while (iter.hasNext()) {
+-             iter.advance();
+-             max += iter.value();
+-         }
+-         return max;
+-     }
+### developer: ###
++ EMPTY
+###    ours:   ###
++ EMPTY
+
+Math 79
+src/main/java/org/apache/commons/math/util/MathUtils.java
+1624 - 1624
+###    buggy:  ###
+- int sum = 0;
+### developer: ###
++ double sum = 0;
+###    ours:   ###
++ double sum = 0;
+
+Math 79
+src/main/java/org/apache/commons/math/util/MathUtils.java
+1626 - 1626
+###    buggy:  ###
+- final int dp = p1[i] - p2[i];
+### developer: ###
++ final double dp = p1[i] - p2[i];
+###    ours:   ###
++ final double dp = p1[i] - p2[i];
+
+Math 80
+src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+1135 - 1135
+###    buggy:  ###
+- int j = 4 * n - 1;
+### developer: ###
++ int j = 4 * (n - 1);
+###    ours:   ###
++ int j = 4 * (n - 1);
+
+Math 82
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+82 - 82
+###    buggy:  ###
+- if (MathUtils.compareTo(entry, 0, epsilon) >= 0
+### developer: ###
++ if (MathUtils.compareTo(entry, 0, epsilon) > 0) {
+###    ours:   ###
++ if (MathUtils.compareTo(entry, 0, epsilon) > 0) {
+
+Math 85
+src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+198 - 198
+###    buggy:  ###
+- if (fa * fb >= 0.0 ) {
+### developer: ###
++ if (fa * fb > 0.0 ) {
+###    ours:   ###
++ if (fa * fb > 0.0 ) {
+
+Math 94
+src/java/org/apache/commons/math/util/MathUtils.java
+412 - 412
+###    buggy:  ###
+- if (u * v == 0) {
+### developer: ###
++ if ((u == 0) || (v == 0)) {
+###    ours:   ###
++ if ((u == 0) || (v == 0)) {
+
+// Equivalence:  'getImaginary()' directly returns imaginary part; 'getReal()' directly returns real part.
+Math 96
+src/java/org/apache/commons/math/complex/Complex.java
+258 - 258
+###    buggy:  ###
+- ret = (Double.doubleToRawLongBits(real) == Double.doubleToRawLongBits(rhs.getReal())) && (Double.doubleToRawLongBits(imaginary) == Double.doubleToRawLongBits(rhs.getImaginary()));
+### developer: ###
++ ret = (real == rhs.real) && (imaginary == rhs.imaginary);
+###    ours:   ###
++ ret = (real == rhs.getReal()) && (imaginary == rhs.getImaginary());
+
+Math 98
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java
+991 - 991
+###    buggy:  ###
+- final BigDecimal[] out = new BigDecimal[v.length];
+### developer: ###
++ final BigDecimal[] out = new BigDecimal[nRows];
+###    ours:   ###
++ final BigDecimal[] out = new BigDecimal[nRows];
+
+Math 98
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java
+779 - 779
+###    buggy:  ###
+- final double[] out = new double[v.length];
+### developer: ###
++ final double[] out = new double[nRows];
+###    ours:   ###
++ final double[] out = new double[nRows];
+
+Mockito 5
+src/org/mockito/internal/verification/VerificationOverTimeImpl.java
+91 - 91
+###    buggy:  ###
+- catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+### developer: ###
++ catch (AssertionError e) {
+###    ours:   ###
++ catch (AssertionError e){
+
+Time 4
+src/main/java/org/joda/time/Partial.java
+464 - 464
+###    buggy:  ###
+- Partial newPartial = new Partial(iChronology, newTypes, newValues);
+### developer: ###
++ Partial newPartial = new Partial(newTypes, newValues, iChronology);
+###    ours:   ###
++ Partial newPartial = new Partial(newTypes, newValues, iChronology);
+
+Time 19
+src/main/java/org/joda/time/DateTimeZone.java
+900 - 900
+###    buggy:  ###
+- } else if (offsetLocal > 0) {
+### developer: ###
++ } else if (offsetLocal >= 0) {
+###    ours:   ###
++ }else if (offsetLocal >= 0){
