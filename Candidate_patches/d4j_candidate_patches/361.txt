@@ -1,0 +1,958 @@
+golden:
+writer.write(entityValue);
+inference:
+writer.write(entityValue.get());
+
+writer.write(entityValue, 0);
+writer.write(entityValue, null);
+writer.write(entityValue, 1);
+writer.write(string);
+writer.write(entityValue, i);
+writer.write(EntityValue);
+writer.write(value);
+writer.write("%s", entityValue);
+writer.write(c);
+writer.write(entityValue, -1);
+writer.write(&entityValue);
+writer.write('n');
+writer.write(entityValue, len);
+writer.write(entityValue);
+writer.write(*entityValue);
+writer.write(entityValue + 1);
+writer.write('0');
+writer.write((char *)entityValue);
+writer.write(entityValue, 16);
+writer.printf(entityValue);
+writer.write(semiColonIdx);
+writer.write(entityLen);
+writer.write (entityValue);
+writer.write(entityContent);
+writer.write((int)entityValue);
+writer.write((char*)entityValue);
+(void) writer.write(entityValue);
+writer.write(string.get());
+writer.write(aValue);
+writer.write(entityValue, firstAmp);
+writer.write(entityIdx);
+writer.write(entityValue, c);
+writer.write(newValue);
+writer.write("%s",entityValue);
+writer.write(entityValue, type);
+writer.write(entityStr);
+writer.write(entityValue, end);
+writer.write(entityLength);
+rv = writer.write(entityValue);
+stream.write(entityValue);
+writer.write(entityKey);
+value = entityValue;
+writer.write(entityValue++);
+writer.write(entityValue, "");
+writer.write(entityValue, length);
+writer.write(entityType);
+out: writer.write(entityValue);
+writer.write(val);
+writer.write(result);
+writer.write(int(entityValue));
+writer.write(' ');
+writer.write(intValue);
+writer.write(entityValue, 2);
+writer.write(entity);
+writer.write(buf);
+writer.write((char **)entityValue);
+string.append(entityValue);
+writer.write(nextIdx);
+writer.write(sizeof(entityValue));
+writer.write(entityValue, true);
+else writer.write(entityValue);
+++entityValue;
+player.write(entityValue);
+writer.write(entityValue, value);
+writer.write(entityString);
+editor.write(entityValue);
+writer.write(entityName);
+writer.write(entityContent.get());
+writer.write(name);
+writer.write(entityValue, 0, 0);
+writer.write(entityValue.len);
+writer.write(entityValue.decode());
+writer.write(entityValue1, 0);
+writer.write(entityChar);
+writer.write(entityValue, first);
+writer.write(null);
+writer.write(entity.get());
+writer.write(type);
+writer.write(ENTITY_VALUE);
+writer.write(entityValue, line);
+writer.write(str);
+writer.write(entityValue2.get());
+writer.write("");
+writer.write(entityValue, 4);
+writer.output(entityValue);
+writer.write(entityValue, ENOMEM);
+writer.write(entityValue+1);
+writer.write(entityValue2);
+writer.write(entityValue.trim());
+writer.write(b);
+writer.write(key);
+writer.write(entityValue.get());
+writer.write(entityValue, encoding);
+writer.write(u);
+writer.write(entityContentLen);
+writer.write_(entityValue);
+writer.write(entityPtr);
+writer.write(entityValue, string);
+writer.write(c); continue;
+writer.write(unicodeValue);
+writer.write(entityValue, 32);
+writer.write(entityContent.value);
+writer.write(entityValue2, 0);
+writer.write(l);
+writer.write("%s", entryValue);
+writer.write(isHexChar);
+writer.write(entityVal);
+writer.write(end);
+writer.write(entityValue, 100);
+writer.write(entityInt);
+writer.write(entityValue==0);
+writer.write(semiColon);
+writer.write("n");
+writer.write(ch);
+writer.write(entityValue1, -1);
+writer.write(--entityValue);
+writer.write((long)entityValue);
+writer.write([entityValue]);
+writer.write(entityValue - 1);
+writer.write(contentValue);
+writer.write('%s', entityValue);
+writer.write(char(entityValue));
+writer.write(entityValue, false);
+writer.write(entityValue, p);
+writer.write(entityBuf);
+writer.write(entityContent.charAt(0));
+writer.write(entityCode);
+writer.write(entityValue, buf);
+writer.write(entityValue, val);
+owner.write(entityValue);
+writer.write(entityValue, 10);
+writer.write(entityData);
+writer.write(entityValue, 1, 0);
+writer.write(entityEmpty);
+writer.write(EntityValue.get());
+writer.write('');
+writer.write(/*entityValue*/);
+writer.write(entityValue1);
+writer.write(entityValue == 0);
+writer.write(entityValue, 15);
+write(entityValue, 0);
+writer.write(entityValue, null);
+write(entityValue.get());
+writer.write(!entityValue);
+writer.write(entityPrefix);
+writer.write(entITY_VALUE);
+writer.write(entityValueLen);
+writer.write(entityRef);
+writer.write(entityValue, key);
+writer.write(entityValue, this);
+writer.write(len);
+writer.write(substring);
+writer.write(entityValue, self);
+writer.write(entity_value);
+writer.write(None);
+writer.write(entityValue); continue;
+writer.write(entityValue == -1)
+writer.write(ret);
+writer.write(entityText);
+writer.write(entityEnd);
+writer.write(entityIndex);
+writer.write(firstValue);
+writer.write(entityId);
+writer.write(entityNode);
+writer.write(entityValue, ret);
+writer.write('t');
+writer.write(entityEnum);
+writer.write(entityNum);
+writer.write(';');
+writer.write(entityvalue);
+writer.write(firstAmp);
+writer.write(i);
+writer.write(entityValue, char*);
+writer.write(" ");
+writer.write(entityValue + 1, 0);
+writer.write(v);
+writer.write(',');
+writer.write(entityValue, namespaceID);
+int entityValue;
+int i;
+writer.write(p);
+break;
+writer.write(entityValue, rv);
+writer.write(entityValue, '');
+writer.write(text);
+writer.write(entityInfo);
+writer.write(entityValue, &end);
+writer.write(entityValue, ep);
+writer.write(entityValue, firstLen);
+writer.write(entityValue, e);
+writer.write(entityValue == -1);
+writer.write(entityValue, '0');
+/* * Then we could write a value that is already encoded for this text. */ writer.write(entityValue,'');
+if (entityValue && entityValue == 0)  writer.write(entityValue);  else  writer.write(entityValue);
+if (entityValue) writer.write(entityValue);
+if (nextIdx = 0)  writer.write(entityValue);  else  writer.write(entityValue);
+writer.write('%s',entityValue);
+writer.write(entityValue, sizeof(entityValue));
+writer.write(entityValue, "%s", entityValue);
+if (semiColonIdx == -1)  writer.write(c); continue;
+writer.write(entityValue,'');
+writer.write(entityValue, eUnichar);
+writer.write(entityValue, firstReplace);
+if (entityValue) writer.write(entityValue); else  /* not the case */ writer.write(entityValue);
+if (entityValue)  writer.write(entityValue);
+char *next = '0';
+writer.write(entityValue, &entityValue.substring(2));
+/* we've lost the key of a tmp. */ writer.write(entityValue, null);
+if (entityValue &&!(entityValue == -1))  writer.write(entityValue);
+writer.write(entityValue, sizeof(entityValue), sizeof(entityValue), sizeof(entityValue), sizeof(entityValue), "%s", __func__);
+if (firstIdx >= i)  writer.write(entityValue); else  writer.write(entityValue);
+if (!entityValue)  writer.write(entityValue);  else  writer.write(entityValue);
+writer.write(entityValue, &unix);
+writer.write((unsigned long)entityValue);
+char nextIdx = i + 1; int semiColonIdx = string.indexOf('&', nextIdx); if (semiColonIdx == -1)  writer.write(c); continue;
+writer.write(entityValue, "%s", nextIdx);
+writer.write(entityValue, null);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1])  writer.write(buf); return;  writer.write(entityValue, buf, null);
+if (!entityValue)  writer.write(entityValue);
+else  writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue)  writer.write(entityValue);  else  writer.write(entityValue);
+if (entityValue == -1)  writer.write(c); continue;  int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (entityValue) writer.write(entityValue); else writer.write(entityValue);
+writer.write(entityValue, "%s", (unsigned char *)1);
+writer.write(entityValue, true);
+writer.write(entityValue, &empty);
+if (entityValue && (!entityValue.isEmpty()))  writer.write(entityValue);
+if ((entityValue)!= 0)  writer.write(entityValue);  else  writer.write(entityValue);
+writer.write(entityValue, "%s", nextIdx, endIdx, &endIdx);
+writer.write(entityValue, "%s%s", entryValue);
+if (entityValue!= 0)  writer.write(entityValue);  else
+/* * If we want to re-enter the value of the string, then re-enter the value. */ writer.write(entityValue);
+writer.write(entityValue, &newAmp);
+if (entityValue!= 0)  writer.write(entityValue);
+writer.write(entityValue, &semiColonIdx);
+writer.write(entityValue, (void *)0);
+/* do this! */ if (entityValue) writer.write(entityValue);
+if (entityValue) writer.write(entityValue); else  writer.write(entityValue);
+int retVal = string.last(); if (retVal  0)  retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == 0)  writer.write(entityValue);  else  writer.write(entityValue);
+/* Unknown entity value */ writer.write(entityValue);
+if (entityValue && unicodeClone == 0)  writer.write(entityValue);  else  writer.write(entityValue);
+if (entityValue &&!entityValue.endsWith(""))  writer.write(entityValue);
+if (entityValue == 0)  char isHexChar = entityContent.charAt(1); try  switch (isHexChar)  case 'X' : case 'x' :  entityValue = Integer.parseInt(entityContent.substring(2), 16);  default :  entityValue = Integer.parseInt(entityContent.substring(2), 16);
+writer.write((void*)entityValue);
+writer.write(entityValue, (int)entity);
+if (entityValue && (entityValue.charAt(len + 1) > 0))  char isHexChar = entityValue.charAt(len + 1); try  switch (isHexChar)  case 'X' : case 'x' :  entityValue = Integer.parseInt(entityContent.substring(2), 16);  default :  entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0)  char '[' = entryValue; if (entityContent.charAt(0) == '0')  if (entityContent.charAt(0) == '#')  char isHexChar = entityContent.charAt(1); try  switch (isHexChar)  case 'X' : case 'x' :  entityValue = Integer.parseInt(entityContent.substring(2), 16);  default :  entityValue = Integer.parseInt(entityContent.substring(2), 16);  default :  entityValue = Integer.parseInt(entityContent.substring(2), 16);  default :  entityValue = Integer.parseInt(
+if ((!entityValue || (size_t)entityValue))  writer.write(entityValue);
+if (entityValue == -1)  writer.write(entityValue);
+writer.write(entityValue, "%s", (char*)entityValue);
+writer.write((u_char *)entityValue);
+writer.write(entityValue, 0, name);
+
+if (entityValue == 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx = 0) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<int retVal = string.last(); if (retVal <0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == -1) &writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (firstIdx >= i) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&int retVal = string.last(); if (retVal &0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue!= 0) <writer.write(entityValue); else
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) writer.write(buf); return; &writer.write(entityValue, buf, null);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) &writer.write(entityValue); else <writer.write(entityValue);
+writer.write("&n");
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx &= 0) &writer.write(entityValue); &else &writer.write(entityValue);
+&int retVal = string.last(); if (retVal <0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (firstIdx >= i) writer.write(entityValue); else <writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); &else writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && entityValue == 0) writer.write(entityValue); else <writer.write(entityValue);
+if ((entityValue)!= 0) writer.write(entityValue); &else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) writer.write(entityValue); &else &writer.write(entityValue);
+writer.write("n");
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); else writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); else writer.write(entityValue);
+<if (entityValue && entityValue == 0) writer.write(entityValue); &else <writer.write(entityValue);
+&if (entityValue) &writer.write(entityValue);
+if (nextIdx <= 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (nextIdx = 0) writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) &writer.write(entityValue);
+writer.write('&');
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) &writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&int retVal = string.last(); if (retVal 0) retVal = Integer.parseInt(entityValue, retVal); break;
+if ((!entityValue || (size_t)entityValue)) writer.write(entityValue);
+if (nextIdx <= 0) <writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); else <writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue!= 0) <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) writer.write(entityValue); else <writer.write(entityValue);
+if (!entityValue) <writer.write(entityValue); <else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); &else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx &= 0) writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx <= 0) writer.write(entityValue); <else <writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); else &writer.write(entityValue);
+if ((entityValue)!= 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && entityValue == 0) writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (semiColonIdx == -1) <writer.write(c); continue;
+if (nextIdx <= 0) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); <else writer.write(entityValue);
+&if (entityValue && entityValue == 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (nextIdx <= 0) &writer.write(entityValue); else <writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) <writer.write(buf); return; &writer.write(entityValue, buf, null);
+<if (entityValue) <writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue!= 0) <writer.write(entityValue); <else
+<if (entityValue && entityValue == 0) <writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue!= 0) writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if ((entityValue)!= 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); &else <writer.write(entityValue);
+if (nextIdx = 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); else writer.write(entityValue);
+if ((entityValue)!= 0) <writer.write(entityValue); &else <writer.write(entityValue);
+if (nextIdx &= 0) <writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue == -1) writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); <else &writer.write(entityValue);
+if (!entityValue) <writer.write(entityValue); &else &writer.write(entityValue);
+if (nextIdx = 0) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue) writer.write(entityValue); else /* not the case */ writer.write(entityValue);
+if ((entityValue)!= 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (!entityValue) <writer.write(entityValue); &else writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (semiColonIdx == -1) writer.write(c); continue;
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == -1) <writer.write(c); continue; &int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if ((entityValue)!= 0) &writer.write(entityValue); else writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); else &writer.write(entityValue);
+if (!entityValue) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (entityValue && entityValue == 0) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); else <writer.write(entityValue);
+&if (entityValue && entityValue == 0) writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (firstIdx >= i) writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+writer.write(entityValue, '<0');
+if (entityValue && entityValue == 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue == 0) <writer.write(entityValue); else <writer.write(entityValue);
+<else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); <else <writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); &else &writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) <writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); &else writer.write(entityValue);
+&if (entityValue && entityValue == 0) writer.write(entityValue); <else <writer.write(entityValue);
+&int retVal = string.last(); if (retVal &0) &retVal = Integer.parseInt(entityValue, retVal); break;
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx = 0) <writer.write(entityValue); else <writer.write(entityValue);
+int retVal = string.last(); if (retVal 0) <retVal = Integer.parseInt(entityValue, retVal); break;
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); <else <writer.write(entityValue);
+if (!entityValue) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (firstIdx >= i) writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && entityValue == 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); &else <writer.write(entityValue);
+if ((entityValue)!= 0) <writer.write(entityValue); else <writer.write(entityValue);
+<if (firstIdx >= i) writer.write(entityValue); else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); else &writer.write(entityValue);
+&if (entityValue && entityValue == 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); <else <writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (entityValue && entityValue == 0) writer.write(entityValue); <else writer.write(entityValue);
+if (nextIdx <= 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (firstIdx >= i) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) writer.write(entityValue); else &writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue) writer.write(entityValue); else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (firstIdx >= i) &writer.write(entityValue); else <writer.write(entityValue);
+&if (firstIdx >= i) <writer.write(entityValue); else <writer.write(entityValue);
+<int retVal = string.last(); if (retVal 0) <retVal = Integer.parseInt(entityValue, retVal); break;
+<writer.write(entityValue);
+if (nextIdx = 0) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (firstIdx >= i) writer.write(entityValue); else &writer.write(entityValue);
+if (!entityValue) &writer.write(entityValue); else writer.write(entityValue);
+if (nextIdx &= 0) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == -1) <writer.write(c); continue; <int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (!entityValue) &writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) writer.write(entityValue); &else <writer.write(entityValue);
+if (!entityValue) writer.write(entityValue); &else writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (nextIdx = 0) <writer.write(entityValue); <else &writer.write(entityValue);
+if (!entityValue) &writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+writer.write('<t');
+<if (firstIdx >= i) <writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx <= 0) <writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (firstIdx >= i) &writer.write(entityValue); else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx <= 0) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue && entityValue == 0) writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&int retVal = string.last(); if (retVal 0) &retVal = Integer.parseInt(entityValue, retVal); break;
+&int retVal = string.last(); if (retVal <0) &retVal = Integer.parseInt(entityValue, retVal); break;
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+int retVal = string.last(); if (retVal <0) retVal = Integer.parseInt(entityValue, retVal); break;
+if ((entityValue)!= 0) writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &writer.write(entityValue); &else <writer.write(entityValue);
+else writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (!entityValue) writer.write(entityValue); <else <writer.write(entityValue);
+writer.write('<0');
+if (nextIdx <= 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue) writer.write(entityValue); else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+<int retVal = string.last(); if (retVal 0) retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if ((entityValue)!= 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) &writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (!entityValue) <writer.write(entityValue); else <writer.write(entityValue);
+if ((entityValue)!= 0) writer.write(entityValue); &else &writer.write(entityValue);
+if (!entityValue) writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue) writer.write(entityValue); else &/* not the case */ writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+<int retVal = string.last(); if (retVal &0) <retVal = Integer.parseInt(entityValue, retVal); break;
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); <else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (firstIdx >= i) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); <else <writer.write(entityValue);
+&int retVal = string.last(); if (retVal &0) retVal = Integer.parseInt(entityValue, retVal); break;
+&if (entityValue && entityValue == 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); &else <writer.write(entityValue);
+if ((!entityValue || (size_t)entityValue)) <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if ((entityValue)!= 0) writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); &else writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); <else writer.write(entityValue);
+int retVal = string.last(); if (retVal 0) &retVal = Integer.parseInt(entityValue, retVal); break;
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue) writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if ((entityValue)!= 0) writer.write(entityValue); <else <writer.write(entityValue);
+<if (entityValue && entityValue == 0) writer.write(entityValue); &else &writer.write(entityValue);
+if (nextIdx &= 0) &writer.write(entityValue); <else writer.write(entityValue);
+&if (firstIdx >= i) <writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+int retVal = string.last(); if (retVal 0) retVal = Integer.parseInt(entityValue, retVal); break;
+if (nextIdx &= 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); else <writer.write(entityValue);
+&if (entityValue && entityValue == 0) writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) writer.write(entityValue); else &writer.write(entityValue);
+writer.write('&t');
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (!entityValue.isEmpty())) &writer.write(entityValue);
+&writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) <writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue!= 0) &writer.write(entityValue); <else
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue && entityValue == 0) writer.write(entityValue); <else <writer.write(entityValue);
+if (!entityValue) writer.write(entityValue); <else &writer.write(entityValue);
+int retVal = string.last(); if (retVal &0) retVal = Integer.parseInt(entityValue, retVal); break;
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if ((entityValue)!= 0) <writer.write(entityValue); else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) <writer.write(entityValue); <else &writer.write(entityValue);
+writer.write("<n");
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) &writer.write(entityValue); &else writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); else writer.write(entityValue);
+char nextIdx = i + 1; int semiColonIdx = string.indexOf('&', nextIdx); if (semiColonIdx == -1) &writer.write(c); continue;
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && entityValue == 0) writer.write(entityValue); &else &writer.write(entityValue);
+writer.write('t');
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); &else writer.write(entityValue);
+/* do this! */ if (entityValue) writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && entityValue == 0) writer.write(entityValue); &else <writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue) <writer.write(entityValue);
+if (nextIdx &= 0) <writer.write(entityValue); else writer.write(entityValue);
+if (nextIdx = 0) writer.write(entityValue); else writer.write(entityValue);
+else &writer.write(entityValue);
+if (nextIdx = 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx = 0) <writer.write(entityValue); <else <writer.write(entityValue);
+writer.write('&n');
+if (nextIdx &= 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (nextIdx = 0) &writer.write(entityValue); else <writer.write(entityValue);
+if (nextIdx <= 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (semiColonIdx == -1) &writer.write(c); continue;
+if ((entityValue)!= 0) <writer.write(entityValue); else &writer.write(entityValue);
+<if (firstIdx >= i) &writer.write(entityValue); else &writer.write(entityValue);
+if (firstIdx >= i) &writer.write(entityValue); else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); &else writer.write(entityValue);
+<if (entityValue && entityValue == 0) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) <writer.write(entityValue); else writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue &&!entityValue.endsWith("")) <writer.write(entityValue);
+</* do this! */ if (entityValue) writer.write(entityValue);
+int retVal = string.last(); if (retVal <0) &retVal = Integer.parseInt(entityValue, retVal); break;
+if ((entityValue)!= 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); else writer.write(entityValue);
+if (nextIdx <= 0) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue == 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) &writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&int retVal = string.last(); if (retVal 0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue && (!entityValue.isEmpty())) <writer.write(entityValue);
+if (nextIdx &= 0) <writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == -1) writer.write(c); continue; &int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue &&!(entityValue == -1)) <writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue == 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && entityValue == 0) &writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) <writer.write(entityValue); <else writer.write(entityValue);
+if (!entityValue) &writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+<if (entityValue && entityValue == 0) &writer.write(entityValue); else <writer.write(entityValue);
+if (nextIdx = 0) writer.write(entityValue); &else &writer.write(entityValue);
+if (nextIdx &= 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx <= 0) writer.write(entityValue); &else <writer.write(entityValue);
+if ((entityValue)!= 0) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+writer.write(entityValue, '0');
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&int retVal = string.last(); if (retVal <0) retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue && unicodeClone == 0) writer.write(entityValue); &else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx &= 0) <writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (!entityValue) writer.write(entityValue); else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (!entityValue.isEmpty())) writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<int retVal = string.last(); if (retVal <0) &retVal = Integer.parseInt(entityValue, retVal); break;
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) writer.write(buf); return; <writer.write(entityValue, buf, null);
+if (nextIdx <= 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) writer.write(entityValue); <else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+writer.write('<n');
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+writer.write('<');
+if (nextIdx &= 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue &&!(entityValue == -1)) writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if ((entityValue)!= 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue) writer.write(entityValue); else writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) <writer.write(entityValue); <else &writer.write(entityValue);
+else <writer.write(entityValue);
+if (firstIdx >= i) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == -1) <writer.write(entityValue);
+if (entityValue == 0) &writer.write(entityValue); else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx = 0) writer.write(entityValue); &else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue!= 0) &writer.write(entityValue); &else
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+char *next = '0';
+if ((entityValue)!= 0) <writer.write(entityValue); <else &writer.write(entityValue);
+if (!entityValue) writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+char nextIdx = i + 1; int semiColonIdx = string.indexOf('&', nextIdx); if (semiColonIdx == -1) <writer.write(c); continue;
+if (nextIdx <= 0) writer.write(entityValue); &else &writer.write(entityValue);
+writer.write(entityValue);
+<else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && unicodeClone == 0) writer.write(entityValue); <else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (firstIdx >= i) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue &&!(entityValue == -1)) &writer.write(entityValue);
+writer.write('n');
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (firstIdx >= i) <writer.write(entityValue); else writer.write(entityValue);
+<if (firstIdx >= i) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (entityValue && entityValue == 0) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if ((entityValue)!= 0) writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == -1) &writer.write(c); continue; <int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) &writer.write(entityValue); &else <writer.write(entityValue);
+&if (entityValue && entityValue == 0) <writer.write(entityValue); &else <writer.write(entityValue);
+char nextIdx = i + 1; int semiColonIdx = string.indexOf('&', nextIdx); if (semiColonIdx == -1) writer.write(c); continue;
+if (entityValue!= 0) writer.write(entityValue); &else
+if (!entityValue) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue == -1) &writer.write(c); continue; &int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (nextIdx = 0) <writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx = 0) <writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == -1) &writer.write(c); continue; int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); else <writer.write(entityValue);
+if (firstIdx >= i) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) writer.write(entityValue); <else <writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (firstIdx >= i) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&else <writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); <else writer.write(entityValue);
+&if (entityValue && entityValue == 0) writer.write(entityValue); &else &writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); <else <writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) <writer.write(entityValue); &else &writer.write(entityValue);
+<int retVal = string.last(); if (retVal <0) retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue && entityValue == 0) <writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && unicodeClone == 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) &writer.write(entityValue); else writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx <= 0) writer.write(entityValue); else <writer.write(entityValue);
+if (nextIdx <= 0) &writer.write(entityValue); &else <writer.write(entityValue);
+if (nextIdx <= 0) <writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (nextIdx &= 0) <writer.write(entityValue); <else <writer.write(entityValue);
+writer.write('&0');
+<int retVal = string.last(); if (retVal 0) &retVal = Integer.parseInt(entityValue, retVal); break;
+if (nextIdx <= 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == -1) <writer.write(c); continue; int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+<else &writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == -1) writer.write(c); continue; <int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (entityValue && entityValue == 0) <writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); else <writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); <else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+char *next = '&0';
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+int retVal = string.last(); if (retVal <0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (nextIdx = 0) writer.write(entityValue); else &writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) <writer.write(buf); return; <writer.write(entityValue, buf, null);
+if (firstIdx >= i) <writer.write(entityValue); else writer.write(entityValue);
+<if (entityValue && entityValue == 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (nextIdx = 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue) &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+<int retVal = string.last(); if (retVal &0) &retVal = Integer.parseInt(entityValue, retVal); break;
+&if (entityValue && entityValue == 0) &writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); else &writer.write(entityValue);
+if ((entityValue)!= 0) <writer.write(entityValue); <else <writer.write(entityValue);
+if ((entityValue)!= 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); <else <writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue && unicodeClone == 0) writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '&0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && entityValue == 0) &writer.write(entityValue); else <writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) &writer.write(buf); return; <writer.write(entityValue, buf, null);
+if (nextIdx <= 0) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) writer.write(entityValue); <else <writer.write(entityValue);
+<if (entityValue && entityValue == 0) <writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue!= 0) writer.write(entityValue); else
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) <writer.write(entityValue); else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && entityValue == 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if ((entityValue)!= 0) <writer.write(entityValue); <else writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); <else &writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) &writer.write(entityValue); &else &writer.write(entityValue);
+if (nextIdx = 0) writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue!= 0) writer.write(entityValue); <else
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '<0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) writer.write(entityValue); else <writer.write(entityValue);
+char *next = '<0';
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) <writer.write(entityValue); &else <writer.write(entityValue);
+&/* do this! */ if (entityValue) writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) &writer.write(buf); return; writer.write(entityValue, buf, null);
+if (firstIdx >= i) <writer.write(entityValue); else <writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) <writer.write(buf); return; writer.write(entityValue, buf, null);
+&if (firstIdx >= i) &writer.write(entityValue); else writer.write(entityValue);
+<if (entityValue) writer.write(entityValue);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) &writer.write(buf); return; &writer.write(entityValue, buf, null);
+&if (entityValue && entityValue == 0) <writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue &&!entityValue.endsWith("")) &writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); &else writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue) writer.write(entityValue); else </* not the case */ writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue!= 0) &writer.write(entityValue);
+if ((!entityValue || (size_t)entityValue)) &writer.write(entityValue);
+if (entityValue && entityValue == 0) <writer.write(entityValue); <else writer.write(entityValue);
+&if (entityValue && entityValue == 0) &writer.write(entityValue); <else &writer.write(entityValue);
+int retVal = string.last(); if (retVal &0) &retVal = Integer.parseInt(entityValue, retVal); break;
+<if (entityValue && entityValue == 0) writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue == 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (!entityValue) &writer.write(entityValue); &else <writer.write(entityValue);
+if (nextIdx <= 0) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+char buf[sizeof(buf) - 1]; if (!buf[sizeof(buf) - 1]) writer.write(buf); return; writer.write(entityValue, buf, null);
+if (entityValue && entityValue == 0) <writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue &&!entityValue.endsWith("")) writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); else &writer.write(entityValue);
+/* Then we'll see if this is the right place to remove it. */ if (entityValue) writer.write(entityValue); else writer.write(entityValue);
+if (entityValue!= 0) &writer.write(entityValue); else
+<if (entityValue && entityValue == 0) &writer.write(entityValue); else &writer.write(entityValue);
+<if (entityValue) &writer.write(entityValue);
+if (entityValue && (entityValue.charAt(len + 1) > 0)) &char isHexChar = entityValue.charAt(len + 1); try <switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) &case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (firstIdx >= i) &writer.write(entityValue); else <writer.write(entityValue);
+if (nextIdx &= 0) writer.write(entityValue); <else &writer.write(entityValue);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try &switch (isHexChar) &case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try switch (isHexChar) &case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && unicodeClone == 0) <writer.write(entityValue); <else &writer.write(entityValue);
+writer.write(entityValue, '&0');
+int retVal = string.last(); if (retVal &0) <retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx = 0) &writer.write(entityValue); <else <writer.write(entityValue);
+&if (entityValue && entityValue == 0) writer.write(entityValue); else writer.write(entityValue);
+writer.write('0');
+if (nextIdx <= 0) writer.write(entityValue); else &writer.write(entityValue);
+writer.write('');
+<if (entityValue && entityValue == 0) writer.write(entityValue); <else writer.write(entityValue);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try <switch (isHexChar) <case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+&if (entityValue && entityValue == 0) <writer.write(entityValue); <else <writer.write(entityValue);
+<int retVal = string.last(); if (retVal &0) retVal = Integer.parseInt(entityValue, retVal); break;
+if (entityValue == 0) char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) &writer.write(entityValue); else &writer.write(entityValue);
+if (entityValue && entityValue == 0) writer.write(entityValue); &else writer.write(entityValue);
+if (entityValue == -1) writer.write(c); continue; int nbPos; int nbIdx = 0; char *nb; int nbLength; int nbPos; char *nbPos; int nbPos = 0; char *nbPos = 0; char *nbPos = 0; char *nbPos = 0; int nbPos = 0; int nbPos = 0; char *nbPos = 0; int rdp = 0;
+if (nextIdx &= 0) &writer.write(entityValue); <else &writer.write(entityValue);
+if (firstIdx >= i) <writer.write(entityValue); else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) <writer.write(entityValue); &else <writer.write(entityValue);
+if (entityValue!= 0) <writer.write(entityValue); &else
+if (entityValue && (entityValue.charAt(len + 1) > 0)) <char isHexChar = entityValue.charAt(len + 1); try switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+if (nextIdx &= 0) <writer.write(entityValue); else <writer.write(entityValue);
+&else &writer.write(entityValue);
+if (entityValue && entityValue == 0) &writer.write(entityValue); &else &writer.write(entityValue);
+&if (firstIdx >= i) &writer.write(entityValue); else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue == 0) &char isHexChar = entityContent.charAt(1); try &switch (isHexChar) <case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '&0') <if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (!entityValue) <writer.write(entityValue); <else &writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) char '[' = entryValue; if (entityContent.charAt(0) == '0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && (entityValue.charAt(len + 1) > 0)) char isHexChar = entityValue.charAt(len + 1); try &switch (isHexChar) case 'X' : case 'x' : &entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') <if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) &char '[' = entryValue; if (entityContent.charAt(0) == '0') if (entityContent.charAt(0) == '#') &char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+&if (entityValue && entityValue == 0) <writer.write(entityValue); else <writer.write(entityValue);
+if (entityValue) <writer.write(entityValue);
+&else writer.write(entityValue);
+/* This function will just use the user's data as it is * not * used. */ if (entityValue == 0) <char '[' = entryValue; if (entityContent.charAt(0) == '<0') &if (entityContent.charAt(0) == '#') <char isHexChar = entityContent.charAt(1); try switch (isHexChar) case 'X' : case 'x' : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(
+if (entityValue && unicodeClone == 0) writer.write(entityValue); &else &writer.write(entityValue);
+&if (entityValue) writer.write(entityValue);
+<if (entityValue && entityValue == 0) &writer.write(entityValue); &else &writer.write(entityValue);
+if (entityValue == 0) <char isHexChar = entityContent.charAt(1); try <switch (isHexChar) case 'X' : case 'x' : <entityValue = Integer.parseInt(entityContent.substring(2), 16); default : entityValue = Integer.parseInt(entityContent.substring(2), 16);

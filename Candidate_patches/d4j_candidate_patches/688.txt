@@ -1,0 +1,508 @@
+golden:
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) {
+inference:
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) || NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) || NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())  1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(CArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getUnicode()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(buf, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 2){
+else if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 0){
+NodeUtil.mayEffectMutableState(cArg, compiler) if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if(NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.nameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) == 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(&block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, &fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg.get(), compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 0){
+if(NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, cArg.get()) > 1){
+if ( NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler.get()) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) == 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(cArg, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, 0) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString() ) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, block.get()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg.get(), compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.nameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler), &NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())!= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) >= 0){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState( cArg, compiler ) && NodeUtil.getNameReferenceCount( block, fnParam.getString() ) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString())  1)){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  Preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, cArg.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block.get(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+else if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  NodeUtil.getNameReferenceCount(block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString())  1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(Block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.GetNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(CArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam){
+if (NodeUtil.mayEffectMutableState(node, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState (cArg, compiler) && NodeUtil.getNameReferenceCount ( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, block.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && BlockUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())  0){
+if (NodeUtil.mayEffectMutableState( CArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( Block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler.get()) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnNode.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 2){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(node, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, NodeUtil.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, Compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString()){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && GetNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler), &NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(&cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, 0) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.hasNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  NodeUtil.getNameReferenceCount( block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && GetNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.GetString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getUnicode()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) == 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) ){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.hasNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 3){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.GetUnicode()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount() > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, name) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) ){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  NodeUtil.getNameReferenceCount(block, fnParam.getString());  else{
+if (NodeUtil.mayEffectNodeState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, Compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( fnParam.getString() ) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) == 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) >= 1)){
+if (NodeUtil.isEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, getter_AddRefs(fnParam)) > 1){
+if (NodeUtil.mayEffectMutableState(ch, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 2)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && *(NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(context, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(cArg, block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( fnParam.getString()) > 1){
+if (NodeUtil.mayEffect(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (!NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && BlockUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(buffer, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam.getString()) > 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, (int)fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString(), 0) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) == -1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, flags) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( Block.get(), fnParam.getString()) > 1){
+if (NameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&(NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  NodeUtil.getNameReferenceCount( block, fnParam.getString());  else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString("")) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 4){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler); if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())  2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, flags) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler); if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState( cArg, compiler ) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, 0) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 2){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, &fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount(block, fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString().get()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam)  1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block)){
+if (NodeUtil.MayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, getter_Copies(fnParam)) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(FnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '0'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node.getLastChild(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler))){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.get() == null){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isSingleString(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString().Equals(NodeUtil.getNameReferenceCount(block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.get() && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= 0 && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((char*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nsCRT::strdup(NodeUtil.getNameReferenceCount( block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, (char *)fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, (cArg == 0? cArg : fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= null && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  if (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) &&!NodeUtil.isStringReferenceCount(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && NodeUtil.isNameDeepScope(block)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isDuplicate() && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((void *) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isInstanceOf(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, ((uintptr_t)fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg == '0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler)) = 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString()  1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((NodeUtil*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node.getFirstChild(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler))  if (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= '.'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '.'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((void **)block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString()!= null && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((int) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((unsigned char*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getUnicode() == '0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler); if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, block.get()) > 1){
+if(NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.GetUnicode()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((char*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) || NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) &1){
+else if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString().Equals(NodeUtil.getNameReferenceCount(block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg == '<0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) if (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) &0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString() ) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, 0) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((unsigned char*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(node, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( Block.get(), fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount( block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getUnicode()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) ){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) == 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg == '&0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount( block, fnParam.getString()); &else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnNode.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( Block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) &1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.hasNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <if (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount( block, fnParam.getString()); &else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getUnicode()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '<0'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString().get()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) == -1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) <1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block.get(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= null && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.get() == null){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '0'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString()){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount( block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, getter_Copies(fnParam)) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler))){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 1){
+<if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler), &NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isSingleString(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(Block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(&block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) &2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) <2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node.getLastChild(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, cArg.get()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam.getString()) > 0){
+if(NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &Preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState( cArg, compiler ) && NodeUtil.getNameReferenceCount( block, fnParam.getString() ) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount(block, fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount( block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState( CArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, name) > 1){
+else if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, Compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && NodeUtil.isNameDeepScope(block)){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, cArg.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount(block, fnParam.getString()); &else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getUnicode() == '0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '.'){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount(block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) <0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && &NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) >= 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && BlockUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 2)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, 0) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && *(NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(buf, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState( cArg, compiler ) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isDuplicate() && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount( block, fnParam.getString()); &else{
+if (!NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() == '&0'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() &1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, 0) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, ((uintptr_t)fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) 2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((void *) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) ){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectNodeState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((NodeUtil*) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, (int)fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) >= 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getUnicode() == '<0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nsCRT::strdup(NodeUtil.getNameReferenceCount( block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) if (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((void **)block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) == 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler)) <= 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.get() && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler); if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler.get()) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(context, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString())){
+if (NameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg.get(), compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.GetString()) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString(), 0) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, &fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) == 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= 0 && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(node, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 3){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount( block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.isInstanceOf(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.nameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, &fnParam.getString()) > 1){
+if ( NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && <NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) <1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &if (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount(block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(CArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString("")) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <if (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <Preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(FnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler), &NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, block.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.hasNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, flags) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (nodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler.get()) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, (cArg == 0? cArg : fnParam.getString())) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.GetNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount((int) block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount( block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(cArg, block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, Compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(fnParam) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount() > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && BlockUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount(block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount( block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) <1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, NodeUtil.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg.getUnicode() == '&0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, getter_AddRefs(fnParam)) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount( block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount(block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) if (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && cArg == '0' && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &NodeUtil.getNameReferenceCount(block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, (char *)fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) >= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) == 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && GetNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&(NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) > 2){
+if (NodeUtil.mayEffectMutableState (cArg, compiler) && NodeUtil.getNameReferenceCount ( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) &if (nodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffect(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount(block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam!= '.'){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount(block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) if (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString()!= null && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, null) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && fnParam.getString() <1){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( fnParam.getString() ) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 2){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount(block, fnParam.getString()); &else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler)) = 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.MayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg.get(), compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString())!= 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.nameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) &1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 4){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(ch, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) || NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && nameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(cArg, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && GetNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) Preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) && (NodeUtil.mayEffectMutableState(cArg, compiler)) &= 0){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, null) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount( block, fnParam.getString()); <else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) <1){
+if (NodeUtil.mayEffectMutableState(&cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount(block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block) > 1){
+if (nodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if ((NodeUtil.mayEffectMutableState(cArg, compiler)) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) NodeUtil.getNameReferenceCount(block, fnParam.getString()); &else{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( fnParam.getString()) > 1){
+&if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(node.getFirstChild(), fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam) &1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) &&!NodeUtil.getNameReferenceCount( block, fnParam.getString()) &&!NodeUtil.isStringReferenceCount(block, fnParam.getString())){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount( block, fnParam.getString());{
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(buffer, fnParam.getString()) > 1){
+NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1{
+if (NodeUtil.mayEffectMutableState(cArg, compiler, flags) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler)) <NodeUtil.getNameReferenceCount(block, fnParam.getString()); else{
+if (NodeUtil.mayEffectMutableState(CArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block)){
+if (NodeUtil.isEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) 1){
+if (NodeUtil.mayEffectMutableState(cArg, compiler, block) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1){

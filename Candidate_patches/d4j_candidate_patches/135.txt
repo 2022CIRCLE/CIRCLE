@@ -1,0 +1,348 @@
+golden:
+return solve(f, min, yMin, max, yMax, initial, yInitial);
+inference:
+return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0);
+return solve(f, min, max, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, max);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin);
+return solve(f, min, yMin, max, yMax, min, yInitial);
+return solve (f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax);
+return solve(f, min, min, max, max, initial, yInitial);
+return solve(f, min, min, max, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, null);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min);
+return solve(f, min, min, max, yMax, initial, yInitial);
+return (solve(f, min, yMin, max, yMax, initial, yInitial));
+return solve(f, min, yMin, min, yMax, initial, yInitial);
+return solve(f, yMin, max, yMax, initial, yInitial);
+return solve(f, yMin, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, 0);
+return solve((f, min, yMin, max, yMax, initial, yInitial));
+return f.solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, initial);
+return solve(f, min, yMin, max, yMax, yInitial);
+result = solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, min, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 1);
+return solve(f, min, yMin, min, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, (int)yInitial);
+return solve2(f, min, yMin, max, yMax, initial, yInitial);
+return resolve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, max);
+return solve(f, min, yMin, max, yMax, 0, initial, yInitial);
+return solve(f, min, max, min, initial, yInitial);
+return solve(f, min, yMin, yMax, initial, yInitial);
+return solve(f, min, max, yMin, yMax, initial, yInitial);
+return solve(f, min, max, min, yMin, initial, yInitial);
+return solve(f, min, max, yMax, initial, yInitial);
+return solve(f, min, min, max, min, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, first, yInitial);
+return solve(f, min, min, max, min, max, initial, yInitial);
+return solve(f, min, yMin, max, yMax, yInitial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, max);
+return solv(f, min, yMin, max, yMax, initial, yInitial);
+return _solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yInitial, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, Initial, yInitial);
+return solve((int)f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, 0);
+return resolve(f, min, yMin, max, yMax, initial, yInitial, 0);
+return solve(f, min, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, yInitial, yMin);
+return solve(f, yMin, min, max, yMax, initial, yInitial);
+return do_solve(f, min, yMin, max, yMax, initial, yInitial);
+return f.solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, null);
+
+return find(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, 0, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, max, initial, yInitial);
+return solve(f, min, yMin, 0, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, false);
+return solve(f, min, yMin, max, yMax, initial, max, yInitial);
+return solve(f, min, yMin, max, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, -1);
+return solve(f, min, yMin, max, yMax, (int) initial, yInitial);
+return solve(f, min, yMin, max, min, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial+1);
+return solve(f, min, yMin, max, yMax, initial, *yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial - 1);
+return solving(f, min, yMin, max, yMax, initial, yInitial);
+result = solve(f, min, yMin, max, yMax, initial, yInitial); return result;
+return solve(f, min, max, yMin, initial, yInitial, yMin);
+return solve(f, min, yMin, max, yMax, yInitial, initial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, p);
+return solve(f, min, yMin, max, yMax, yInitial, min, yMin);
+return solve(f, 0, yMin, max, yMax, initial, yInitial);
+return solve(f, min, max, yInitial, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, xInitial);
+return solve(f, min, max, yMin, initial, yInitial, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 2);
+return solve(f, min, min, max, yMin, yMax, initial, yInitial);
+return solve(f, min, max, yMin, initial, yInitial, min, yMin);
+return solve(f, min, 0, yMin, max, yMax, initial, yInitial);
+(void) solve(f, min, yMin, max, yMax, initial, yInitial);
+return do_resolve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, max, yMin, min, yMax, initial, yInitial);
+return solve(f, min, yMin, max, (int)yMax, initial, yInitial);
+return solve1(f, min, yMin, max, yMax, initial, yInitial);
+return solved(f, min, yMin, max, yMax, initial, yInitial);
+return solve();
+returnsolve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial + 1);
+return fix(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, 0, yInitial);
+return f;
+return solve(f, min, yMin, max, yMax, null, initial, yInitial);
+return solve( f, min, yMin, max, yMax, initial, yInitial );
+return solve(&f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, result);
+return resolv(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial == 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yOut);
+return solve(f, min, yMin, max, yMax, int, initial, yInitial);
+return solve(f, min, yMin, max, yMax, integer, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yStart);
+return solve(f, min, yMin, max, yMax, &initial, yInitial);
+return solve(f, min, yMin, max, yMax, start, yInitial);
+return solve(*f, min, yMin, max, yMax, initial, yInitial);
+return solvef(f, min, yMin, max, yMax, initial, yInitial);
+rv = solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, integer);
+return solve(lf, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial)
+f = solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve([f, min, yMin, max, yMax, initial, yInitial]);
+return solve(f, min, yMin, max, yMax, initial, YInitial);
+return solve(f, min, *yMin, *max, *yMax, initial, yInitial);
+return solve(f, min, max, max, initial, yInitial);
+return solve(F, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yVal);
+return solve(f, min, min, max, min, yMax, initial, yInitial);
+return solve(i, f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, yInitial, yMax);
+return solve(p, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, v);
+return solve(f, initial, yInitial);
+return solve(f, min, yMin, max, max, initial, yInitial);
+return solve(f, min, yMin, max, yMax, min, yMin);
+return solve(f, min, yMin, max, yMax, yInitial, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, n);
+return solve(f, min, min, min, max, max, initial, yInitial);
+return solve(f, min, min, max, max, yMin, initial, yInitial);
+ret = solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve0(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, min);
+return solve(f, min, max, yMin, initial, yInitial, yMax);
+return resolve(f, min, yMin, max, yMax, initial);
+return solve(f, min, yMin, max, xMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, true);
+return resolve(f, min, max, yMin, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, xMin);
+return solve(x, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, res);
+return resolve(f, min, yMin, max, yMax, initial, yInitial, max);
+return solve(f, min, yMin, max, yMax, initial, yInitial, len);
+return res;
+return solve(m, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMin, initial, yInitial, 0);
+return solve(this, f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, initial, yInitial);
+return(solve(f, min, yMin, max, yMax, initial, yInitial));
+return solve(f, min, yMin, max, (int)yMin, initial, yInitial);
+return solveFunction(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, *yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial=0);
+return solve(f, min, yMin, max, yMax, 0, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, flags);
+return solve(f, min, yMin, initial, yMax, yInitial);
+return solve(0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, false);
+return solve(0, f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, max);
+return solve(f, min, yMin, max, yMax, min);
+return solve(f, min, yMin, max, yMax, initial, yInitial, rval);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, null);
+return solve(f, min, yMin, max, yMax, initial, initial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, max, max);
+return solve(f, min, min, max, yMin, initial, yInitial, min, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, max, min);
+res = solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, 0);
+return resolve(f, min, yMin, max, yMax, initial, yInitial, yMin);
+return fsolve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, min, max, max, initial, min, yInitial);
+return solve(f, min, yMin, max, 0, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, aResult);
+return solve(f, min, max, yMin, initial, yInitial, max);
+break;
+return solve(x, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, (0));
+return solve(f, min, yMin, max, yMax, initial, yInitial  0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, min);
+return solve(f, min, yMin, max, yMax, initial, yInitial, xMax);
+return rv;
+return solve(f, min, yMin, max, yMax, initial;
+return solve(f, min, yMin, max, yMax, min, yInitial, yMin);
+return resolve(f, min, yMin, max, yMax, initial, yInitial, yMax);
+return solve(f, min, yMin, max, yMax, initial, yOut);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, &yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, &yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), f.value(max), f.value(min), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max); f.value(max); return f;
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, yMin, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yAvailable);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, yInitial, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yOut_next);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yMin, max);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin, &yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yRealFunction);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial, yMax, min, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min));
+return solve(f, min, yMin, max, yMax, initial, yInitial, yEnd);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yMin, yMax, yInitial, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max); return f;
+return solve(f, min, yMin, max, yMax, initial, yInitial, f, yMin, yMin, yMax, f, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, p, f);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f, max);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yExitial, min, yExitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yStart, yEnd);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yOffset);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, 0, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial, yOffset);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, yMin, yMax, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, &ev);
+return solve(f, min, yMin, max, yMax, initial, yInitial, max, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, yMax, yMin, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, min, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, yOffset);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, min, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max), f.value(max
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yMin, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yDetachedOn);
+return solve(f, min, yMin, max, yMax, initial, yInitial, &yMax, &yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yValue);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial, 0, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yRealFunction, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin, 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, 0, max, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, yFlags);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(min), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max); f.value(min), f.value(max), f.value(max); return f;
+return solve(f, min, yMin, max, yMax, initial, yInitial, f, min, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yEnv);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin, yMax, yMin, yMax, yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMin, yMin, yMax, yMax);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yOutitial, yInitial, yOutitial, yOutitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yInitial, min);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, min, yMin, min);
+return solve(f, min, yMin, max, yMax, initial, yInitial, yMax, f.value(min));
+return solve(f, min, yMin, max, yMax, initial, yInitial, yRealFunction, yRealFunction);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max);  else  if (yInitial * yMin  0)  f.value(min); if (yMin > 0)  f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+&return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+&return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial 0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial <0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+<return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else &if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial &0);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else <if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin <0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin 0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin <0) <f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else <if (yInitial * yMin &0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin 0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); &else <if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin <0) &f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else if (yInitial * yMin &0) f.value(min); if (yMin > 0) f.value(
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); else &if (yInitial * yMin &0) <f.value(min); if (yMin > 0) f.value(
+<return solve(f, min, yMin, max, yMax, initial, yInitial);
+return solve(f, min, yMin, max, yMax, initial, yInitial, f.value(min), yMin, yMax, f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max), f.value(min), f.value(max), f.value(min), f.value(min), f.value(max), f.value(max), f.value(max), f.value(max); f.value(min); f.value(max); f.value(max); f.value(max); f.value(max); f.value(max); return f.value(max); <else &if (yInitial * yMin 0) <f.value(min); if (yMin > 0) f.value(

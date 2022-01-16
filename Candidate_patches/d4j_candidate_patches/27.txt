@@ -1,0 +1,653 @@
+golden:
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
+inference:
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (str.charAt(0) == '-' || Character.isDigit(str.charAt(0)))){
+if (dec == null && exp == null && isDigits(number.substring(1)) && (number.charAt(0) == '-' || Character.isDigit(number.charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(unsigned char) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null && isDigits(string) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null)  isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC.substring(1)) && (NUMERIC.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dec == null && exp == null && isDigit(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char) && (unsigned charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(number.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(number.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring))){
+if (dec == null || exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if ((dec == null) && exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (isDigit(numeric.substring(1))){
+if (dec == null)  if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null == '-' || Character.isDigit(null))){
+if (dec == 0 && exp == 0 && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (dec == null && exp == null && isDigits(dec) && (numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(num.substring(1)) && (num.charAt(0) == '-' || Character.isDigit(num.charAt(0)))){
+if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if(dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(0)))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null)  exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (desc == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)))  if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(dev.substring(1)) && (dev.charAt(0) == '-' || Character.isDigit(dev.charAt(0)))){
+if (dec == null && exp == null && isDigit(NUMERIC.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dev == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char*) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char*))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.substring(0)))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ) )){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || String.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(namespace.substring(1)) && (namespace.charAt(0) == '-' || Character.isDigit(namespace.charAt(0)))){
+if (dec == null && exp == null && isDigits(character.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(character.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(1)))){
+if (dec == null && exp == null && isDigits(numeric.substring(3)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.charAt(0)))){
+if (dec == null && exp == null && isDigit(unsigned char) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null)  isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring(1)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (substring.charAt(0) == '-' || Character.isDigit(substring.charAt(0)))){
+if (dec == null || exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring (1))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(string(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null)  if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(char) && (numeric.charAt(0) == '-' || Character.isDigit(char))){
+if (dec == null && exp == null && isDigits(param.substring(1)) && (param.charAt(0) == '-' || Character.isDigit(param.charAt(0)))){
+if (dec == null && exp == null && isDigits (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec==null && exp==null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null || isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits() && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null == null || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(string)){
+if (dec == null && exp == null && isDigit(string) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && IsDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char)){
+if (dec == null && exp == null && isDigits(dec.substring(1)) && (dec.charAt(0) == '-' || Character.isDigit(dec.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) || (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(4)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(name) && (name.charAt(0) == '-' || Character.isDigit(name))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)); && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(1) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.substring(1)))){
+if (dec == null && exp == null && isDigits(charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(charAt(0)))){
+if (dec == null && exp == null && isDigit (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.string(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(util.substring(1)) && (util.charAt(0) == '-' || Character.isDigit(util.charAt(0)))){
+if (dec == null && exp == null &&!isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(string)) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigit(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(u.substring(1)) && (u.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(unsigned char) && (unsigned charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null && isDigits( numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(name) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (dec == null && exp == null && isDigits(num.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(num.charAt(0)))){
+if (dec == null && exp == null && isDigit(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (dec == null && exp == null && isDigits(null)){
+if (dec == null && exp == null && isDigits(u.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (substringAt(0) == '-' || Character.isDigit(substringAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dev.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(dev.charAt(0)))){
+if (dec == null && exp == null && isDigits(key.substring(1)) && (key.charAt(0) == '-' || Character.isDigit(key.charAt(0)))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec && exp && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && (isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && (isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == 0 || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string))  if (numeric.charAt(0) == '-' || Character.isDigit(string)){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(1) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(string[1]) && (string[0] == '-' || Character.isDigit(string[1]))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(dec)){
+if (dec == null && exp == null && isDigits() && (numeric.charAt(0) == '-' || Character.isDigit())){
+if (dec == null && exp == null && isDigit(numeric) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (dec && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigit(string)){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(name) && (name == '-' || Character.isDigit(name))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(unsigned char)){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (unsigned charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(2)))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(2)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (!isDigit(numeric.substring(1))){
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(3)))){
+if (dec == null && exp == null && isDigits(numeric.substring(0)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && isDigit(numeric.charAt(0))){
+if ( dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ) )){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-') || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.CharAt(0) == '-' || Character.isDigit(numeric.CharAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(3)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (isDigit(dec)){
+if (dec == null && exp == null && isDigits(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name))){
+if (dec == null){
+if ((dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring[0]))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(2)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(char))){
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.CharAt(0)))){
+if (dec == null && exp == null && isDigits(namespace, numeric.substring(1)) && (namespace, numeric.charAt(0) == '-' || Character.isDigit(namespace, numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!character){
+if (dec == null && exp == null && isDigits(string); && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '-')){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if (! isDigit(numeric.charAt(0)))  if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))  char lastChar = dec;  else if (exp == null && isDigits(numeric.substring(1)))  if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))  if (ec == null)  if (ec == null)  if (exp == null)  if (isDigits(numeric.substring(1)))  if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && isEmpty()){
+if (dec == null && exp == null && isDigits(NUMERIC_DIGIT_LEN) && (NUMERIC_ARRAY_PREFIX(numeric.substring(1)) == '-' || Character.isDigit(NUMERIC_ARRAY_PREFIX(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (*numeric.charAt(0) == '-' ||!character.isUnknown(charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if (dec == null && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(suffixes[numeric.substring(1)]) && (numeric.charAt(0) == '-' || Character.isDigit(suffixes[numeric.charAt(0)]))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) == -1){
+if (dec == null && exp == null && isDigits(substring(1)) && (unsigned charAt(0) == '-' || Character.isDigit(substring))){
+if (dec == null && exp == null && isDigits(string);{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && ((numeric.charAt(0) == '-') || (type == null)))){
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numerator.substring(1)) && (numerator.charAt(0) == '-' || Character.isDigit(numerator.charAt(0)))){
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((unsigned char)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && ((unsigned charAt(0) == '-' || Character.isDigit((unsigned char)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dec) && (dec == null || isDigit(dec))){
+if (dec == null && exp == null && isDigits(charNode.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(charNode.charAt(0)))){
+if (dec == null && exp == null && isDigits((char*)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((char*)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(u.charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC_INT(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_INT(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit((int)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned int1) && (unsigned int0 == '-' || Character.isDigit(unsigned int0))){
+if (dec == null && exp == null && isDigits(string)) && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(string + '-') && (string + '-')){
+if (dec == null && exp == null && isDigits(NUMERIC_STYLE_NAMESPACE) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_STYLE_NAMESPACE))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((int)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned int) && (unsigned int) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned int))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits((char *)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((char *)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '0' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string + 1 ) && (string + 1!= '-' || Character.isDigit(string + 1 ))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(substring(1)) && (unsigned long)numeric.charAt(0) == '-' || Character.isDigit(substring(2)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dec.substring(1)) && (dec.charAt(0) == '-' || Character.isDigit(dec.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char_t) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char_t))){
+if (dec == null && exp == null && isDigits((char*)numeric.substring(1)) && ((char*)numeric.charAt(0) == '-' || Character.isDigit((char*)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(string + '0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '0'))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((c == null) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(unsigned int(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned int(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && isNaN(numeric.charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos + 1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if (! isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (decPos == -1)){
+if (dec == null && exp == null && isDigits(NUMERIC_EXT) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_EXT))){
+if (dec == null && exp == null && isDigits(decPos + 1, decPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!DEPRECATED_LITERAL_STRING(""").Equals(""))){
+if (dec == null && exp == null && isDigits(dec))  if ((numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(namespace) && (namespace.charAt(0) == '-' || Character.isDigit(namespace.charAt(0)))){
+if (dec == null && exp == null && isDigits(name[0])) && (name[1] == '-' || Character.isDigit(name[1]))){
+if (dec == null && exp == null && isDigits((u_char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((u_char)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '0')){
+if (dec == null && exp == null && isDigits(uint.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(uint.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char(1)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))  if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char[1]) && (unsigned char[0] == '-' || Character.isDigit(unsigned char[1]))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(decPos + 1, decPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(char))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((int)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(namespace, numeric.substring(1)) && (namespace, numeric.charAt(0) == '-' || Character.isDigit(namespace, numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned char[1]) && (unsigned char[0] == '-' || Character.isDigit(unsigned char[1]))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!character){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (unsigned charAt(0) == '-' || Character.isDigit(substring))){
+if (dec == null && exp == null && isDigits(null)){
+if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(0)))){
+if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(1) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(u.charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null) &if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (desc == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned char) && (unsigned charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits(character.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(character.charAt(0)))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || String.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(char) && (numeric.charAt(0) == '-' || Character.isDigit(char))){
+if (dec == null && exp == null && isDigits(unsigned int(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned int(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(charNode.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(charNode.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos + 1))){
+if (dec == null && exp == null && isDigits(numeric.substring(4)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(dec) && (numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.CharAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(uint.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(uint.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(dev.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(dev.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(1) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (decPos == -1)){
+if (dec == null && exp == null) &isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring))){
+if (dec == null && exp == null && isDigits(num.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(num.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(NUMERIC_INT(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_INT(numeric.charAt(0))))){
+if (dec == null) if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && ((numeric.charAt(0) == '-') || (type == null)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits((char*)numeric.substring(1)) && ((char*)numeric.charAt(0) == '-' || Character.isDigit((char*)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null || exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string + '<0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '<0'))){
+if (dec == null && exp == null && isDigits(string[1]) && (string[0] == '-' || Character.isDigit(string[1]))){
+if (dec == null && exp == null && isDigits(charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)) &if (numeric.charAt(0) == '-' || Character.isDigit(string)){
+if (dec == null && exp == null) &isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null.charAt(0)))){
+if (dec == null && exp == null && isDigits(string + '<0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '0'))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null) <exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigit(string) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned char) && (unsigned charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null && isDigits(string + '<0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '&0'))){
+if (dec == null && exp == null && isDigits(decPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(2)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) || (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(2)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (dec == null && isDigit(numeric.charAt(0))){
+if (!isDigit(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(string)){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string + '&0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '<0'))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC_EXT) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_EXT))){
+if (dec == null && exp == null && isDigits(dec) && (dec == null || isDigit(dec))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!DEPRECATED_LITERAL_STRING("&"").Equals(""))){
+if (dec == null && exp == null && isDigits(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numerator.substring(1)) && (numerator.charAt(0) == '-' || Character.isDigit(numerator.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned char)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dev == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if ((dec == null) && exp == null){
+if (dec == null && exp == null && isDigits(string); && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigit(numeric.substring(1))) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char_t) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char_t))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.CharAt(0) == '-' || Character.isDigit(numeric.CharAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits( numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) == -1){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && isNaN(numeric.charAt(0)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(dec)) &if ((numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)) if (numeric.charAt(0) == '-' || Character.isDigit(string)){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigit(numeric.substring(1))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigit(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ) )){
+if (dec == null && exp == null) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(3)))){
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring(1)))){
+if (dec == null && exp == null && isDigits((char*)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((char*)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(2)))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.substring(0)))){
+if (dec == null && exp == null && isDigits(unsigned int1) && (unsigned int0 == '-' || Character.isDigit(unsigned int0))){
+if (dec == null && exp == null && isDigits(substring(1)) && (substringAt(0) == '-' || Character.isDigit(substringAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '<0' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null) exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(unsigned char) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(null) && (null.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) == -1){
+if (dec == null && exp == null && isDigits(u.substring(1)) && (u.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))){
+if (dec == null && exp == null) isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec && exp && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(suffixes[numeric.substring(1)]) && (numeric.charAt(0) == '-' || Character.isDigit(suffixes[numeric.charAt(0)]))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '&0')){
+if (dec == null && exp == null && isDigits(string + '0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '&0'))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string)) <if (numeric.charAt(0) == '-' || Character.isDigit(string)){
+if (dec == null && exp == null && isDigits(numeric.substring(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(key.substring(1)) && (key.charAt(0) == '-' || Character.isDigit(key.charAt(0)))){
+if (dec == null && exp == null && isDigit(unsigned char)){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (dec == null && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(string + '&0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '0'))){
+if (dec == null && exp == null && isDigits(number.substring(1)) && (number.charAt(0) == '-' || Character.isDigit(number.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null) isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(null) && (null == null || Character.isDigit(null))){
+if (dec && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(param.substring(1)) && (param.charAt(0) == '-' || Character.isDigit(param.charAt(0)))){
+if (dec == null && exp == null && isDigit(name.substring(1)) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC.substring(1)) && (NUMERIC.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null &&!isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits(string + '0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '<0'))){
+if (dec == null && exp == null && isDigits(name[0])) && (name[1] == '-' || Character.isDigit(name[1]))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && (isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!DEPRECATED_LITERAL_STRING(""").Equals(""))){
+if (dec == null && exp == null && isDigits( numeric.substring(1) ) && (numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && isEmpty()){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '0' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits() && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null || isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string + '-') && (string + '-')){
+if (dec == null && exp == null && isDigits(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.substring(1)))){
+if (dec == null && exp == null && isDigit (numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(number.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(number.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == 0 || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dec)) if ((numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string)) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec==null && exp==null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dev.substring(1)) && (dev.charAt(0) == '-' || Character.isDigit(dev.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char(1)) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits() && (numeric.charAt(0) == '-' || Character.isDigit())){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-') || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && ((unsigned charAt(0) == '-' || Character.isDigit((unsigned char)numeric.charAt(0)))){
+if (dec == null && exp == null) <isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(0)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(num.substring(1)) && (num.charAt(0) == '-' || Character.isDigit(num.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (*numeric.charAt(0) == '-' ||!character.isUnknown(charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null) &exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned char*) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char*))){
+if (dec == null && exp == null && isDigits(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(1)))){
+if (dec == null && exp == null && isDigits(null) && (null == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((c == null) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '&0' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '<0')){
+if ( dec == null && exp == null && isDigits( numeric.substring(1) ) && ( numeric.charAt(0) == '-' || Character.isDigit( numeric.charAt(0) ) )){
+if (dec == null && exp == null && isDigits(string + '&0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '&0'))){
+if (dec == null && exp == null && isDigits (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (dec == null && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &(numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits((char *)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((char *)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring (1))){
+if (dec == null && exp == null && isDigits(string + '0') && (numeric.charAt(0) == '-' || Character.isDigit(string + '0'))){
+if (dec == null && exp == null && isDigit(NUMERIC.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(str.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(str.substring(1)))){
+if (dec == null && exp == null && isDigits (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && ((charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if(dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && IsDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && ((numeric.charAt(0) == '-' || Character.isDigit((int)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(unsigned char)){
+if (dec == null && exp == null && isDigits(dec.substring(1)) && (dec.charAt(0) == '-' || Character.isDigit(dec.charAt(0)))){
+if (isDigit(dec)){
+if (dec == null && exp == null && isDigits(name) && (name.charAt(0) == '-' || Character.isDigit(name.charAt(0)))){
+if (exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits((unsigned char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((unsigned char)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring (1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null) <if (isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; &else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(unsigned int) && (unsigned int) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned int))){
+if (isDigits(numeric.substring(1))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(string)) && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits((int)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string)){
+if (dec == null || exp == null){
+if (dec == null && exp == null && isDigits(numeric.substring(1)); && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(dec)) <if ((numeric.charAt(0) == '-' || Character.isDigit(dec))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &&!DEPRECATED_LITERAL_STRING("<"").Equals(""))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(unsigned char) && (numeric.charAt(0) == '-' || Character.isDigit(unsigned char))){
+if (dec == null && exp == null) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(namespace) && (namespace.charAt(0) == '-' || Character.isDigit(namespace.charAt(0)))){
+if (dec == null && exp == null && isDigits(string) && (string == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && isDigits(dec)){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) == -1){
+if (dec == null && exp == null && isDigits(NUMERIC_DIGIT_LEN) && (NUMERIC_ARRAY_PREFIX(numeric.substring(1)) == '-' || Character.isDigit(NUMERIC_ARRAY_PREFIX(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(util.substring(1)) && (util.charAt(0) == '-' || Character.isDigit(util.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(decPos + 1, expPos) && (numeric.charAt(0) == '-' || Character.isDigit(decPos))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &(numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) <char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <(numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == 0 && exp == 0 && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(name) && (name == '-' || Character.isDigit(name))){
+if (dec == null && exp == null && isDigits(name) && (name.charAt(0) == '-' || Character.isDigit(name))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (unsigned charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(null))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(3)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(substring(1)) && (unsigned long)numeric.charAt(0) == '-' || Character.isDigit(substring(2)))){
+if (dec == null && exp == null && isDigits(numeric.string(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(string + 1 ) && (string + 1!= '-' || Character.isDigit(string + 1 ))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '0')){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(u.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(u.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits((u_char)numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit((u_char)numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(NUMERIC_STYLE_NAMESPACE) && (numeric.charAt(0) == '-' || Character.isDigit(NUMERIC_STYLE_NAMESPACE))){
+if (dec == null && exp == null && isDigits(string) && (string.charAt(0) == '-' || Character.isDigit(string))){
+if (dec == null && exp == null && (isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(1))) if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) <if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) char lastChar = dec; <else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(substring(1)) && (substring.charAt(0) == '-' || Character.isDigit(substring.charAt(0)))){
+if (dec == null && exp == null && isDigits(dec.substring(1)) && (dec.charAt(0) == '-' || Character.isDigit(dec.charAt(0)))){
+if (dec == null && exp == null && isDigit(numeric.substring(2)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null) <isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigit(string) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <(numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1))) <if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1))) &if (! isDigit(numeric.charAt(0))) &if (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) &char lastChar = dec; else if (exp == null && isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) if (ec == null) if (ec == null) if (exp == null) if (isDigits(numeric.substring(1))) if ((numeric.charAt(0) == '-' || Character.is{
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && isDigit(numeric.charAt(0))){
+if (dec == null && exp == null && isDigits(substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(substring[0]))){
+if (dec == null && exp == null && isDigit (numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit (numeric.charAt(0)))){
+if (dec == null && exp == null && isDigits(str.substring(1)) && (str.charAt(0) == '-' || Character.isDigit(str.charAt(0)))){
+if (isDigit(numeric.substring(1))){
+if (dec == null && exp == null && isDigit(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0))) && (numeric.charAt(0) == '-')){
+if (dec == null && exp == null && isDigits(namespace.substring(1)) && (namespace.charAt(0) == '-' || Character.isDigit(namespace.charAt(0)))){
+if (dec == null && exp == null){
+if (dec == null && exp == null && isDigit(string.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){
+if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(3)))){

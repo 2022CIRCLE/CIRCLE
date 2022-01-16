@@ -1,0 +1,416 @@
+golden:
+for (Node c = n.getFirstChild(); c != null; c = c.getNext()) {
+inference:
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = n.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.getNext()){
+for (Node c = (Node)n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node c = n.getFirstChild(); c!= n; c = n.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getChildCount(); c!= 0; c = c.getNext()){
+for (Node c = n.firstChild; c!= n.next){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= '0'; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = (Node)c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= node; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.firstChild; c!= 0; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.firstChild; c!= null; c = c){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = n.next){
+for (Node c = n.getFirstChild(); c!= n; c = c.next){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c){
+for (Node c = n.firstChild; c!= null; c = n.next){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() - 1; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.firstChild; c!= n.next; c = c.getNext()){
+for (Node c = getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.firstChild){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext(n)){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.firstChild; c!= null; c = c.firstChild){
+for (Node c = n.getFirstChild (); c!= null; c = c.getNext ()){
+for (Node c = n.getFirstChild(); c!= null, c = c.getNext()){
+for (Node c = aNode.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext(n)){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = (Node)c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next); c = c.getNext()){
+for (Node c = m.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= this; c = c.getNext()){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() && c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c){
+for (Node c = n.getFirstChild(); c!= n, c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getFirst()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = (Node)n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c++){
+for (Node c = n.getFirstChild(); c!= null; c = c){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node c = getFirstChild(n); c!= null; c = getNext()){
+for (node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild(); c!= null; c = c.next){
+for (PRUint32 c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.mNext; c = c.getNext()){
+for (Node c = n.getFirstChild() - 1; c!= null; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node c = getFirstChild(n); c!= null; c = getNext(c)){
+for (Node c = n.firstChild(); c!= null; c = c.next){
+for (Node n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext();){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n; c = c){
+for (Node c = n.nextChild; c!= null; c = c.getNext()){
+for (Node *c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node i = n.getFirstChild(); i!= null; i++){
+for (Node c = getFirstChild(n); c!= null; c = getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c!= c.getNext()){
+for (Node c = n.getFirstChild() && c!= null; c = c.getNext()){
+while (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getChildren(); c!= null; c = c.getNext()){
+for (Node c = n.findFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.next; c!= null; c = c.next){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= nc; c = c.getNext()){
+for (Node c = n.getFirstChild(); *c!= null; c = c.getNext()){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.none; c = c.getNext()){
+for (Node c = getFirstChild(n); c!= null; c = getNext(c)){
+for (Node c = n.firstChild; c!= n.next; c = c.next){
+for (Node c = n.getFirstChild(); c!= -1; c = c.getNext()){
+for (Node c = n; c!= n; c = c.getNext()){
+for (Node c=n.getFirstChild(); c!=null; c=c.getNext()){
+for (Node c = n.eFirstChild(); c!= null; c = c.eNext()){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node c = n.getFirstChild(); c!= NUL; c = c.getNext()){
+for (CfgNode c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c){
+for (Node c = n.nextChild; c!= null; c = c.next){
+for (n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n.firstChild; c!= c; c = c.next){
+for (Node c = n.getFirstChild(); c!= c; c = c.getNext()){
+for (Node c = n.getChildCount(); c!= 0; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null;){
+for (Node c = n.mFirstChild; c!= null; c = c.mNext){
+for (Noden> c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getChildren(); c!= null; c = c.getNext()){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next, c = c.getNext()){
+for (Node c = n.getFirstChild (); c!= null; c = c.getNext ()){
+for (Node c = n.firstChild; c!= n; c = c.getNext()){
+for (Node c = n.ngetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.next; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n; c = (Node)c.getNext()){
+for (Iterator c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.getFirstChild(this); c!= null; c = c.getNext()){
+for (Node c = node.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c=n.getFirstChild(); c!= null; c=c.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = *n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node a = n.getFirstChild(); a!= null; a = a.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext){
+for (Node c = n.getFirstChild(); c!= null; c = c.getFirst()){
+for (Node c = &n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c++){
+for (Node c = n.findFirstChild(); c!= null; c = c.getNext()){
+for (Node i = n.getFirstChild(); i!= null; i = c.getNext()){
+for (Node i = n.getFirstChild(); i!= null; i = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext());{
+for (Node c = n.getFirstChild(); c!= nn; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0, c = c.getNext()){
+for (Node c = n.firstChild; c!= n; c = n.next){
+for (Node c = n.getLastChild(); c!= null; c = c.getNext()){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.getFirstChild()){
+for (Node c = n.getFirstChild(); c!= null; c!= c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node i = n.getFirstChild(); i!= null; i++){
+for (Node c = n.nsFirstChild(); c!= null; c = c.nsNext()){
+for (Node c = n.getFirstChild(); c!= c.getNext()){
+for (Node c, c = n.getFirstChild(); c!= null; c = c.getNext()){
+Node c = n.getFirstChild(); c!= null; c = c.getNext();{
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext();){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.c.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = n.getFirstChild(); c = c.getNext()){
+for (Node c = n.ngetFirstChild(); c!= null; c = c.ngetNext()){
+if (n.getFirstChild()){
+for (Node c = n.firstChild; c!= n; c = c.firstChild){
+Node c = n.getFirstChild(); c!= null; c = c.getNext();{
+for (Node c = c.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= n; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= n; c = c.getNext(n)){
+For (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c.getNext()){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+Node c = n.getFirstChild();{
+for (Node c = n.nsFirstChild(); c!= null; c = c.nsNext){
+for (Node c = n.getFirstChild(); c!= null, c = c.getNext()){
+
+for (Node c = n.getFirstChild(); c!= n.getFirstChild(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.mChild; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.mNext){
+for (Node c = n.getFirstChild(); c!= n.mCfgAttr; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.mNode; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.next){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getFirst()){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext(n)){
+for (Node c = &n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getChildren(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node c = n.getFirstChild(); c!= n.getFirstChild(); c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c!= c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next, c = c.getNext()){
+for (Node c=n.getFirstChild(); c!=null; c=c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c){
+for (Node c = n.getChildCount(); c!= 0; c = c.getNext()){
+for (Node c = getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.nsFirstChild(); c!= null; c = c.nsNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node c = n.firstChild; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c++){
+for (Node c = n.getFirstChild(); c!= n, c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext();){
+for (CfgNode c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.getFirstChild()){
+for (Node c = n.getFirstChild(); c!= node; c = c.getNext()){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node i = n.getFirstChild(); i!= null; i++){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.next){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node c = n.GetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.getNext()){
+for (Node c = n.next; c!= null; c = c.getNext()){
+for (Node c = getFirstChild(n); c!= null; c = getNext(c)){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = m.getFirstChild(); c!= null; c = c.getNext()){
+for (Iterator c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c){
+for (Node c = n.getFirstChild(); c!= null, c = c.getNext()){
+for (Node c = n.getChildCount(); c!= 0; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getFirst()){
+for (Node c = getFirstChild(n); c!= null; c = getNext()){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getFirst()){
+for (Node c = n.findFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() && c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext(n)){
+for (Node c = n.getFirstChild(); c!= null; c = c){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c){
+for (Node c = aNode.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild(); c!= null; c = c.next){
+for (Node c = getFirstChild(n); c!= null; c = getNext(c)){
+for (Node c = n.getFirstChild(); c!= n.mNext; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= -1; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= c; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Noden> c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= n; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= this; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.mNode; c = c.getNext()){
+for (Node<n> c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= nc; c = c.getNext()){
+for (Node i = n.getFirstChild(); i!= null; i = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c!= c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node a = n.getFirstChild(); a!= null; a = a.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = n.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= c; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.mNext){
+for (Node c = n.getFirstChild(n); c!= n; c = c.getNext(n)){
+for (Node c = n.getFirstChild(); c!= null; c = (Node)c.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+<for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null, c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = n.next){
+for (Node c = n.firstChild; c!= n; c = n.next){
+for (Node c = n.getFirstChild(); c!= n.mCfgAttr; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() && c!= null; c = c.getNext()){
+&for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = n.next){
+for (Node c = n.firstChild; c!= null; c = c.next){
+while (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.ngetFirstChild(); c!= null; c = c.getNext()){
+for (Node c = (Node)n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = (Node)c.getNext()){
+for (Node c = n.getFirstChild(); c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.mNext){
+for (Node c = n.nextChild; c!= null; c = c.getNext()){
+for (Node c, c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = c.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() - 1; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = n.getFirstChild(); c!= n; c = (Node)c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext();){
+if (n.getFirstChild()){
+for (Node c = n.getFirstChild(); c!= null; c = c){
+for (Node c = n.getFirstChild(); c!= n.none; c = c.getNext()){
+for (Node *c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= NUL; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.getNext(); c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node i = n.getFirstChild(); i!= null; i = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild(); c!= null; c = c.next){
+for (Node c = n.getFirstChild(this); c!= null; c = c.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node n = n.getFirstChild(); n!= null; n = n.getNext()){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.getLastChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next); c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.firstChild){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+for (Node c = n; c!= null; c = c.getNext()){
+for (Node c = n.nsFirstChild(); c!= null; c = c.nsNext){
+for (Node c = n.getFirstChild(); c!= n.next){
+for (Node c = n.getFirstChild (); c!= null; c = c.getNext ()){
+for (Node c = n.getFirstChild(); c!= nn; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (Node c = n.getChildCount(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= n; c = c.getNext()){
+for (Node c = n; c!= n; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= '<0'; c = c.getNext()){
+for (Node c = node.getFirstChild(); c!= null; c = c.getNext()){
+for (node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = *n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= n; c = c.firstChild){
+for (Node c = n.getChildren(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= '&0'; c = c.getNext()){
+for (Node c = n.getFirstChild(); *c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild() - 1; c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0; c = c.getNext()){
+for (Node c=n.getFirstChild(); c!= null; c=c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c.getNext()){
+For (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getFirst()){
+for (Node c = n.getFirstChild(); c!= n; c = n.getNext()){
+for (Node c = n.GetFirstChild(); c!= null; c = c.GetNext()){
+for (Node i = n.getFirstChild(); i!= null; i++){
+for (Node c = n.firstChild; c!= n; c = c.next){
+for (Node c = n.firstChild; c!= 0; c = c.next){
+for (Node c = n.eFirstChild(); c!= null; c = c.eNext()){
+for(Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c++){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= null; c = c.firstChild){
+for (Node c = n.getFirstChild(); c!= null; c){
+for (Node c = getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= 0, c = c.getNext()){
+for (Node c = n.getFirstChild (); c!= null; c = c.getNext ()){
+for (Node c = n.getFirstChild(); c!= n; c = c.getNext()){
+for (Node c = n.nextChild; c!= null; c = c.nextChild){
+for (Node c = n.firstChild; c!= n.next; c = c.next){
+for (Node c = getFirstChild(n); c!= null; c = getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.GetNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.c.getNext()){
+for (Node c = n.firstChild; c!= n.next){
+for (Node c = n.next; c!= null; c = c.next){
+for (Node c = n.findFirstChild(); c!= null; c = c.getNext()){
+for (Node&n> c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= '0'; c = c.getNext()){
+for (Node c = n.getFirstChild(n); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n; c = c.next){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.firstChild; c!= n.next; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.next){
+for (Node c = n.firstChild; c!= null; c = c){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext(); c = c.getNext()){
+for (PRUint32 c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(&c); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n; c = c){
+for (Node c = n.getFirstChild(); c!= n.mChild; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= null;){
+for (Node c = (Node)n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.getFirstChild(); c!= n.next; c = c.getNext()){
+for (Node c = n.mFirstChild; c!= null; c = c.mNext){
+for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
+for (Node c = n.ngetFirstChild(); c!= null; c = c.ngetNext()){

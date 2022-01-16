@@ -1,0 +1,877 @@
+golden:
+return reportMatcher(Any.ANY).returnList();
+inference:
+return anyMatcher(Any.ANY);
+return ReportMatcher(Any.ANY).returnList();
+return reportMatcher(Any.ANY);
+return reportMatcher(Any.ANY).returnList();
+return Any.ANY.returnList();
+return Any.ANY;
+return anyMatcher();
+return anyMatcher(Any.ANY).returnList();
+return anyList();
+return Any.ANY.returnList();
+return reportMatcher(Any.ANY).return();
+return rv;
+return reportMatcher(Any.ANY).returnList();
+return any;
+return result;
+return ReportMatcher(Any.ANY);
+return Report(Any.ANY).returnList();
+return (Any.ANY).returnList();
+return reportMatcher(Any.ANY, 0);
+return any.returnList();
+return any(Any.ANY);
+return (reportMatcher(Any.ANY));
+return ReportList(Any.ANY);
+return ReportMatcher(Any.ANY).returnList();
+return anyMatcher(any.ANY);
+return reportMatcher(Any).returnList();
+return reportMatcher(Any.ANY, &any);
+return reportMatcher(Any.ANY).get();
+return Any.ANY.return();
+return anyList(Any.ANY);
+return reportMatcher(Any.ANY)!= 0;
+return any();
+return reportMatcher();
+return list(Any.ANY);
+return reportMatcher(Any.aNY);
+return retval;
+return aAny.ANY;
+return (Any.ANY)returnList();
+return reportMatcher(Any);
+return reportMatcher(any);
+return anything;
+return reportMatcher(Any.ANY).returnList(this);
+return reportMatcher(any.ANY);
+return this;
+return anyMatch(Any.ANY);
+return reportMatcher(IAny.ANY).returnList();
+return (any.ANY).returnList();
+return reportMatcher( Any.ANY );
+return (anyMatcher(Any.ANY));
+return reportMatcher(Any.ANY).list();
+return reportMatcher(Any.ANY).returnList(any);
+return reportMatcher(Any.ANY).returnArray();
+return anyList;
+return reportMatcher(Any.null).returnList();
+return reportMatcher(any).returnList();
+return ReportList(Any.ANY).returnList();
+return Any.aNY.returnList();
+return reportMatcher(Any.ANY, any);
+return any.returnList();
+return reportMatcher(Any.aNY).returnList();
+return ReportAnyMatcher(Any.ANY).returnList();
+return NS_OK;
+return aReturnList();
+return reportMatcher(Any.IA).returnList();
+return Report(Any.ANY);
+return ret;
+return (Any.ANY);
+return Any.Any();
+return Any.ANY();
+return reportMatcher(any.aNY);
+return(Any.ANY).returnList();
+return AnyMatcher(Any.ANY);
+return mMatcher(Any.ANY).returnList();
+returnanyMatcher(Any.ANY);
+return reportMatcher(Any.NUM).returnList();
+returnAny.ANY;
+return reportMatcher(any.ANY).returnList();
+return ReportMatcher(any.ANY).returnList();
+return ReportAnyMatcher(Any.ANY);
+return anyMatcher.returnList();
+return (any)returnList();
+return any.list();
+return ANY.ANY;
+return reportMatcher(Any.ANY, null);
+return(reportMatcher(Any.ANY));
+return any(Any.ANY).returnList();
+return (any.ANY)returnList();
+return Report(Any.ANY).returnList();
+return mList;
+return reportMatcher (Any.ANY).returnList ();
+return reportMatcher(Any.ANY, &anyList);
+return aAny;
+return super.returnList();
+return reportMatcher().returnList();
+return reportMatcher(Any.ANY)!= null;
+return any.aNY;
+return ReportAny(Any.ANY);
+return reportArena(Any.ANY).returnList();
+return Any.ANY().returnList();
+return *any;
+return Any.any();
+return reportMatcher( ANY.ANY );
+return resultList();
+return status;
+return reportMatcher(AnyANY);
+return reportMatcher(aAny.ANY).returnList();
+return reportMatcher(Any.ANON).returnList();
+return reportMatcher(Any.ANY, anyList);
+return false;
+return None;
+return All();
+return reportMatcher(Any.get()).returnList();
+return mList(Any.ANY);
+return anyAll();
+return reportMatcher(Any.ANY).return();
+return reportMatcher(Any.ANY).returnList(0);
+return reportMatcher(Any.ANY, this);
+return returnReportMatcher(Any.ANY);
+return anyMatcher(Any.ANY).returnList();
+return any.ANY;
+return reportMatcher(Any.ANY).returnObject();
+return anyMatcher;
+return report(Any.ANY);
+return anyList(any.ANY);
+return reportMatcher(any.aNY).returnList();
+return reportMatcher(Any.ANY).returnList ();
+return reportMatcher(Any.ANY, 1);
+return any(any.ANY);
+return reportList(Any.ANY);
+return AnyANY.returnList();
+return reportMatcher(Any.ANY, false);
+return reportMatcher(Any, Any.ANY);
+return ANY.ANY.returnList();
+return = reportMatcher(Any.ANY).returnList();
+return reportMatcher(Any.ANY, true);
+return report(Any.ANY).returnList();
+return reportMatcher(Any.NewANY).returnList();
+return reportMatcher(Any.ANY).return(this);
+return Any.ANY.ReturnList();
+return reportAttributes(Any.ANY);
+return(Any.ANY);
+return Any.aNY;
+return reportMatcher(Any.NUMERIC).returnList();
+return reportMatcher(Any.ANY).returnMap();
+return any.return();
+return aReturnList;
+return reportMatcher(Any.ANY).returns();
+return getMatcher(Any.ANY).returnList();
+return reportMatcher(Any.ANY).return_any();
+return ruleMatcher(Any.ANY).returnList();
+return reportMatcher(Any.NUM);
+return reportMatcher(Any.LONG).returnList();
+return Any;
+return reportMatcher(Any.ANY) == 0;
+return returnList(Any.ANY);
+return anyMatcher( Any.ANY );
+return resultList(Any.ANY);
+return Any(Any.ANY);
+return Report().returnList();
+return reportMatcher(Any.ANY).return(any);
+return ReportAtom(Any.ANY).returnList();
+return aReturnList(Any.ANY);
+return aReturnMatcher(Any.ANY);
+return reportMatcher(Any.ANY).returnType();
+return 0;
+return mInner.returnList();
+return Any.List();
+return returnAny(Any.ANY);
+return (ReportMatcher(Any.ANY));
+return reportAtom(Any.ANY).returnList();
+return Any.returnList();
+return Any.aNY.returnList();
+return reportMatcher(Any.ASYNC).returnList();
+return reportMatcher(Any.ANY).Return();
+return reportAttr(Any.ANY).returnList();
+return aResult;
+return reportArena(Any.ANY);
+return reportMatch(Any.ANY).returnList();
+return reportMatcher( Any.ANY ).returnList();
+returnAny.ANY.returnList();
+return reportAll(Any.ANY);
+return (anyMatcher)returnList();
+return reportMatcher(null).returnList();
+return anyANY;
+return reportAsList(Any.ANY);
+return (anyMatcher(Any.ANY).returnList());
+return (any.ANY);
+return aList;
+return anyMap();
+return (any) reportMatcher(Any.ANY);
+return res;
+return Any.ANY.return();
+return reportMatcher(Any.ANY).ReturnList();
+return reportMatcher(any.get()).returnList();
+return list(any.ANY);
+return mList(Any.ANY).returnList();
+return List(Any.ANY);
+return reportAtom(Any.ANY);
+aReturn = rv; return aReturn;
+return NS_REINTERPRET_CAST(reportMatcher(Any.ANY)).returnList();
+return reportMatcher(Any.ANY).returnList(Allocator());
+return reportMatcher(Any.ANY, ANY_ANY);
+if (!any.isEmpty())  return NS_OK;  return nsRefPtrnsIArena>;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv))  LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv;  if (!Any.ANY) return rv; return rv;
+if (!aResult) return NS_ERROR_NULL_POINTER; return NS_OK;
+return reportMatcher(Any.ANY).returnList(scrollPos);
+return reportMatcher(Any.ANY).returnList(mAttributes);
+return reportMatcher(Any.ANY)? Any.ANY : Any.ANY;
+return reportMatcher(Any.ANY, any.flags);
+return reportMatcher(Any.ANY, null).returnList();
+rv = aReportMatcher.returnList(); return rv;
+nsresult rv; rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; char *retval; rv = rv; rv = nsCRT::strdup(retval); if (NS_FAILED(rv)) return rv; return rv;
+return reportMatcher(Any.ANY)? rv : returnList(rv);
+return reportMatcher(Any.ANY).return(Allocator);
+return reportMatcher(Any.ANY).returnList(mList);
+return reportMatcher(Any.ANY)? ret : result;
+return reportMatcher(Any.ANY, &Any.ANY.returnList);
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All)  nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target)  nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target)  nsCOM
+return reportMatcher(Any.ANY, 0).returnList();
+rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; rv = anyList(); return rv;
+return reportMatcher(Any.ANY).returnList(Any.ANY);
+if (reportMatcher(Any.ANY).returnList())  return NS_OK;  return NS_OK;
+return reportMatcher(Any.ANY).returnList(any.get());
+if (Any.ANY)  return reportMatcher(Any.ANY);  return nsresult::returnList(aNodeInfo);
+return reportMatcher(Any.ANY, &any.ANY);
+return reportMatcher(Any.ANY)? Any.ANY : None;
+return reportMatcher(Any.ANY, None).returnList();
+return fprintf(stderr, "return listn");
+if ((mAttrResult == NS_CONTENT_ATTR_NOT_THERE) || (mAttrResult == NS_CONTENT_ATTR_NOT_THERE)) return NS_OK; return NS_OK;
+if (any.size == 0) return 0; return nsresult? NS_OK : NS_OK;
+if (Any.IsInitialized())  /* * This is done before the list is created. */ if (Any.IsInitialized())  return retval;   return retval;
+return (reportMatcher(Any.ANY)).returnList();
+return (reportMatcher(Any.ANY).returnList());
+return reportMatcher(Any.ANY).returnList(aLimiter);
+return (any) mIsVoid();
+return reportMatcher(Any.ANY, ANY_NO_CLONE);
+return mInner.returnList(any.ANY);
+if (Any.ANY)  if (isInList())  ret = getAttr(kNameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None, INameSpaceID_None
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes)  nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release();  return styleContext.Release();
+/* * No SMDB entries for any the same list */ if(mCmd == -1) return NS_OK; return NS_OK;
+return ReportAttributeReference(any.ANY);
+return reportMatcher(Any.ANY, &any.advance());
+return reportMatcher(Any.ANY, ANY.ISNOT, Any.ISNOT, Any.ISNOT);
+return reportMatcher(Any.ANY).returnList((Arena) arena);
+return reportMatcher(Any.ANY).return(NS_OK);
+if (aResult == aList)  if (aResult == any) return (-1); return (reportMatcher(Any.ANY));  return NS_OK;
+return reportMatcher(Any.ANY).return(mCaseInsensitiveStr);
+if (null == any) return NS_ERROR_NULL_POINTER; return NS_OK;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength))  return mType;  return NS_OK;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; rv = rv; return NS_OK;
+return ReportAsMatcher(Any.ANY).returnList();
+if (Any.ANY)  char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else  char *bp;  if (Any.ANY) bp = any.ANY; if (bp)  bp = result; bp = result;  return bp;
+if (returnList)  return anyList;  return reportMatcher(Any.ANY).returnList();
+if (Any.ANY == null) return NS_OK; return NS_NewList(any);
+return reportMatcher(Any.ANY).return(false);
+if (returnList) return mResult; return NS_OK;
+return reportMatcher(Any.ANY).returnList(aCmd, &ret);
+return reportMatcher(Any.ANY, Any.Match).returnList();
+return reportMatcher(Any.ANY, Any.ANY).returnList();
+if (mArena!= 0) return mArena.mItemArena = 0; return mArena.mItemArena = 0;
+nsresult rv; if (Any.ANY) rv = Return(any); if (NS_FAILED(rv)) return rv; return NS_OK;
+if (!returnList()) return 0; return 0;
+rv = reportMatcher(Any.ANY).returnList(); if (rv)  rv = addNodeList(rv);  return rv;
+return reportMatcher(Any.ANY).return('0');
+return reportMatcher(Any.ANY).returnList(Any.NUMERIC);
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE)  return NS_OK;  return NS_OK;
+if (!any)  return NS_ERROR_NULL_POINTER;  return NS_OK;
+return reportMatcher(Any.ANY)? ret = ret : ret;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv))  if (! aName)  return NS_ERROR_NULL_POINTER;  return rv;
+rv = rv; if (Any.ANY && Any.ANY.rIsArray()) rv = Any.ANY.returnList(); else if (Any.ANY.rIsArray()) rv = Any.ANY.returnList(); else if (Any.ANY.rIsArray()) rv = Any.ANY.returnList(); return rv;
+if (Any.ANY)  return rv;  else  return (reportMatcher(Any.ANY).returnList());
+return reportMatcher(Any.ANY).returnList(aCase);
+return (anyMatcher(Any.ANY)).returnList();
+return reportMatcher(Any.ANY).returnList(null);
+return reportMatcher(Any.ANY, anyType);
+return reportMatcher(Any.ANY)? returnList(0, 0, 0) : 0;
+nsresult rv = reportMatcher(Any.ANY).returnList(); if (NS_FAILED(rv)) return rv; return rv;
+return _anyMatcher(Any.ANY).returnList();
+return reportMatcher(Any.ANY, any.returnList());
+return reportMatcher(Any.ANY)? rv : list();
+rv = rv = aReference; if (NS_FAILED(rv)) return rv; return NS_OK;
+rv = aAny.ANY; if (NS_FAILED(rv)) return rv; if (!any) return NS_ERROR_NULL_POINTER; rv = aAny.returnList(); return rv;
+return reportMatcher(Any.ANY).returnList(*getter_AddRefs(mMatchList));
+return reportMatcher(Any.ANY).returnList(!any);
+return reportMatcher(Any.ANY).return( NS_STATIC_CAST(char*, any.ANY));
+if (any)  return Report(Any.ANY);  else  /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK;  return NS_OK;
+return mArray(Any.ANY, true, true, false, false);
+/* * XXX * The default implementation for this is a list of iterator. The result is * the result of the * new list that might have * been created. */ if (return_list == any.list) return list; return NS_OK;
+return reportMatcher(Any.ANY).return(A_Matcher);
+return reportMatcher(Any.ANY)? kList() : kIsDestroying? kList() : 0;
+return reportMatcher(Any.ANY).returnList(("cstrlen(Any) == 0x0"));
+return reportMatcher(Any.ANY, true).returnList();
+return reportMatcher(Any.ANY, (void **)&any);
+return ifaca.anyMatcher.returnList();
+return reportMatcher(Any.ANY).returnList(aMatch);
+if (!aReturn) return NS_ERROR_NULL_POINTER; return NS_OK;
+return reportMatcher(Any.ANY).returnList(mType);
+return reportMatcher(Any.ANY).return(rv);
+return reportMatcher(Any.ANY).returnList(result);
+return NS_STATIC_CAST(Any.ANY, Any.ANY).returnList();
+if (mArena)  return mArena.mArena.mArena;  if (!mArena)  return NS_ERROR_NULL_POINTER;  return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+rv = reportMatcher(Any.ANY).returnList(); if (rv) &rv = addNodeList(rv); &return rv;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) return NS_ERROR_NULL_POINTER; return rv;
+if (reportMatcher(Any.ANY).returnList()) return NS_OK; <return NS_OK;
+if (any) &return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (any) return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) <return rv; else return (reportMatcher(Any.ANY).returnList());
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <<return retval;
+if (any) <return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (mArena) return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) &LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; &if (!Any.ANY) return rv; return rv;
+if (any) return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (any) <return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+return fprintf(stderr, "return list&n");
+if (returnList) <return anyList; return reportMatcher(Any.ANY).returnList();
+if (any) return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (!any.isEmpty()) &return NS_OK; &return nsRefPtr<nsIArena>;
+if (!any.isEmpty()) &return NS_OK; return nsRefPtr<nsIArena>;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <<return retval;
+if (any) return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &<return retval;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &return retval;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any.isEmpty()) <return NS_OK; <return nsRefPtr<nsIArena>;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <&return retval;
+if (any) &return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; return retval;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) &return mType; <return NS_OK;
+if (any) &return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any.isEmpty()) return NS_OK; <return nsRefPtrnsIArena>;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (mArena) return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (any) <return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &&return retval;
+if (Any.ANY) <if (isInList()) ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+if (mArena) &return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <&return retval;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) <return reportMatcher(Any.ANY); <return nsresult::returnList(aNodeInfo);
+if (Any.ANY) &if (isInList()) ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+if (aResult == aList) <if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); return NS_OK;
+if (Any.ANY) <if (isInList()) <ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (returnList) <return anyList; &return reportMatcher(Any.ANY).returnList();
+if (mArena) <return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (!any.isEmpty()) return NS_OK; &return nsRefPtrnsIArena>;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <return retval;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) &return NS_ERROR_NULL_POINTER; return rv;
+if (!any.isEmpty()) <return NS_OK; return nsRefPtrnsIArena>;
+if (!any.isEmpty()) <return NS_OK; &return nsRefPtr&nsIArena>;
+if (any) &return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) <return mType; <return NS_OK;
+if (any) &return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (any) &return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (!any) return NS_ERROR_NULL_POINTER; &return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) <return NS_ERROR_NULL_POINTER; <return rv;
+if (returnList) &return anyList; <return reportMatcher(Any.ANY).returnList();
+if (any) &return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (any) &return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) &nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); &return styleContext.Release();
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <&return retval;
+if (any) &return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &return retval;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &return retval;
+if (any) &return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (reportMatcher(Any.ANY).returnList()) return NS_OK; &return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) &return rv; <else &return (reportMatcher(Any.ANY).returnList());
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (any) <return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) &return NS_OK; &return NS_OK;
+if (Any.ANY) <return rv; &else &return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) <return NS_OK; <return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &return retval;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <<return retval;
+if (!any) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) return mType; return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <&return retval;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &<return retval;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (!any.isEmpty()) return NS_OK; &return nsRefPtr<nsIArena>;
+if (Any.ANY) return rv; &else return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (any) return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (Any.ANY) return rv; <else &return (reportMatcher(Any.ANY).returnList());
+if (any) <return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (any) &return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (!any.isEmpty()) <return NS_OK; &return nsRefPtr<nsIArena>;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) return mType; &return NS_OK;
+if (mArena) return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) &return rv; else <return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (any) return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) <return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) return NS_ERROR_NULL_POINTER; &return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) return rv; <else return (reportMatcher(Any.ANY).returnList());
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) &return rv; &else return (reportMatcher(Any.ANY).returnList());
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) <return NS_ERROR_NULL_POINTER; <return rv;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) <return NS_ERROR_NULL_POINTER; return rv;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <<return retval;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) return NS_ERROR_NULL_POINTER; &return rv;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; return retval;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) <return NS_OK; return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &<return retval;
+if (Any.ANY) return rv; &else &return (reportMatcher(Any.ANY).returnList());
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) return NS_ERROR_NULL_POINTER; &return rv;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (any) &return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (!any) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (any) <return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (!any.isEmpty()) return NS_OK; return nsRefPtr<nsIArena>;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <&return retval;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <<return retval;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (any) return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (reportMatcher(Any.ANY).returnList()) &return NS_OK; return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &&return retval;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (aResult == aList) if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) &return NS_ERROR_NULL_POINTER; <return rv;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (reportMatcher(Any.ANY).returnList()) <return NS_OK; return NS_OK;
+if (Any.ANY) <return rv; &else return (reportMatcher(Any.ANY).returnList());
+if (any) &return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) <return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (reportMatcher(Any.ANY).returnList()) &return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) &return NS_ERROR_NULL_POINTER; return rv;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); return styleContext.Release();
+rv = reportMatcher(Any.ANY).returnList(); if (rv) &rv = addNodeList(rv); <return rv;
+if (Any.ANY) return rv; else &return (reportMatcher(Any.ANY).returnList());
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (any) return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &&return retval;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); <return styleContext.Release();
+if (Any.ANY) &return rv; <else <return (reportMatcher(Any.ANY).returnList());
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &&return retval;
+if (any) <return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) &if (isInList()) <ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) <nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); return styleContext.Release();
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) &return reportMatcher(Any.ANY); &return nsresult::returnList(aNodeInfo);
+return reportMatcher(Any.ANY).return('&0');
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <return retval;
+if (!any.isEmpty()) <return NS_OK; return nsRefPtr&nsIArena>;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) <return reportMatcher(Any.ANY); &return nsresult::returnList(aNodeInfo);
+if (!any.isEmpty()) return NS_OK; &return nsRefPtr&nsIArena>;
+if (mArena) return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) &nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); <return styleContext.Release();
+if (Any.ANY) <if (isInList()) &ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+if (Any.ANY) return reportMatcher(Any.ANY); &return nsresult::returnList(aNodeInfo);
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); &return styleContext.Release();
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) &LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; if (!Any.ANY) return rv; return rv;
+if (!any.isEmpty()) &return NS_OK; <return nsRefPtr&nsIArena>;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; return retval;
+if (any) <return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) &return mType; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+rv = reportMatcher(Any.ANY).returnList(); if (rv) <rv = addNodeList(rv); return rv;
+if (!any) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (any) <return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any.isEmpty()) &return NS_OK; <return nsRefPtr<nsIArena>;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &return retval;
+if (any) &return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) <return mType; return NS_OK;
+if (any) return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &&return retval;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) &return NS_OK; <return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; return retval;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &<return retval;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (any) <return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; &if (!Any.ANY) return rv; return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) return rv; else <return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &&return retval;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &return retval;
+if (!any) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; return retval;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) return NS_ERROR_NULL_POINTER; <return rv;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) <LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; if (!Any.ANY) return rv; return rv;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) &return NS_ERROR_NULL_POINTER; <return rv;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &&return retval;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (any) &return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) <return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <&return retval;
+if (any) return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+return reportMatcher(Any.ANY).return('0');
+if (aResult == aList) <if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); &return NS_OK;
+if (aResult == aList) &if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); &return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (any) &return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (any) &return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+rv = reportMatcher(Any.ANY).returnList(); if (rv) rv = addNodeList(rv); &return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+rv = reportMatcher(Any.ANY).returnList(); if (rv) <rv = addNodeList(rv); &return rv;
+if (Any.ANY) <return rv; <else &return (reportMatcher(Any.ANY).returnList());
+if (any) return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (returnList) <return anyList; <return reportMatcher(Any.ANY).returnList();
+if (any) <return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <return retval;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) <return NS_OK; &return NS_OK;
+if (!any.isEmpty()) return NS_OK; <return nsRefPtr<nsIArena>;
+if (any) &return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (!any) &return NS_ERROR_NULL_POINTER; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (mArena) <return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; if (!Any.ANY) return rv; return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) <return rv; &else <return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) <return NS_ERROR_NULL_POINTER; <return rv;
+if (any) <return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+rv = reportMatcher(Any.ANY).returnList(); if (rv) rv = addNodeList(rv); return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &&return retval;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; return retval;
+if (any) <return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (any) &return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (!any.isEmpty()) <return NS_OK; &return nsRefPtrnsIArena>;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <<return retval;
+if (reportMatcher(Any.ANY).returnList()) return NS_OK; return NS_OK;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <return retval;
+if (Any.ANY) &return rv; else &return (reportMatcher(Any.ANY).returnList());
+return fprintf(stderr, "return listn");
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &return retval;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (any) <return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (any) <return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (mArena) &return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (any) <return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <&return retval;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) <return mType; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &&return retval;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <<return retval;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) &nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); return styleContext.Release();
+if (Any.ANY) if (isInList()) <ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+if (any) &return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (any) <return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) &return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) &return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) return rv; else return (reportMatcher(Any.ANY).returnList());
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) <return rv; <else return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (aResult == aList) &if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) &return NS_ERROR_NULL_POINTER; &return rv;
+if (!any.isEmpty()) &return NS_OK; &return nsRefPtrnsIArena>;
+if (returnList) return anyList; return reportMatcher(Any.ANY).returnList();
+rv = reportMatcher(Any.ANY).returnList(); if (rv) rv = addNodeList(rv); <return rv;
+if (reportMatcher(Any.ANY).returnList()) &return NS_OK; <return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <<return retval;
+if (mArena) return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (aResult == aList) if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); &return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) return NS_ERROR_NULL_POINTER; <return rv;
+if (any) return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any.isEmpty()) &return NS_OK; return nsRefPtrnsIArena>;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+rv = reportMatcher(Any.ANY).returnList(); if (rv) &rv = addNodeList(rv); return rv;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &return retval;
+if (any) <return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (any) return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (mArena) return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) return NS_ERROR_NULL_POINTER; <return rv;
+if (any) <return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (mArena) return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (!any.isEmpty()) &return NS_OK; return nsRefPtr&nsIArena>;
+if (any) return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+if (any) return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (any) &return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) return rv; <else <return (reportMatcher(Any.ANY).returnList());
+if (mArena) return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (returnList) &return anyList; &return reportMatcher(Any.ANY).returnList();
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; return retval;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (aResult == aList) <if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); <return NS_OK;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) <nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); <return styleContext.Release();
+if (Any.ANY) <return rv; <else <return (reportMatcher(Any.ANY).returnList());
+if (any) <return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.ANY) <return reportMatcher(Any.ANY); return nsresult::returnList(aNodeInfo);
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+return fprintf(stderr, "return list<n");
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) &return mType; &return NS_OK;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (any) &return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (any) <return Report(Any.ANY); &else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) <return NS_ERROR_NULL_POINTER; return rv;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) &return mArena.mArena.mArena; if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (mArena) &return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &<return retval;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) <LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; <if (!Any.ANY) return rv; return rv;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (Any.ANY) &return reportMatcher(Any.ANY); return nsresult::returnList(aNodeInfo);
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &<return retval;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if ((mType!= nsIDOMHTML::eHTML) && (mType!= nsIDOMHTML::eHTML::eTypeLength)) return mType; <return NS_OK;
+if (any) return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (aResult == aList) &if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); return NS_OK;
+if (Any.ANY) &if (isInList()) &ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) &return NS_ERROR_NULL_POINTER; <return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &<return retval;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) &return NS_ERROR_NULL_POINTER; return rv;
+if (aResult == aList) if (aResult == any) return (-1); return (reportMatcher(Any.ANY)); <return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; <if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <return retval;
+if (returnList) return anyList; <return reportMatcher(Any.ANY).returnList();
+return reportMatcher(Any.ANY).return('<0');
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) <return NS_ERROR_NULL_POINTER; return rv;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <return retval;
+if (!any.isEmpty()) &return NS_OK; <return nsRefPtrnsIArena>;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; &<return retval;
+if (any) &return Report(Any.ANY); &else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) &return rv; &else &return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (any) return Report(Any.ANY); &else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) &return rv; else return (reportMatcher(Any.ANY).returnList());
+if (any) <return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; <<return retval;
+if (!any) return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (any) return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (any) return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) &return rv; &else <return (reportMatcher(Any.ANY).returnList());
+if (any) <return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (returnList) return anyList; &return reportMatcher(Any.ANY).returnList();
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <&return retval;
+if (returnList) &return anyList; return reportMatcher(Any.ANY).returnList();
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; &<return retval;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) return NS_ERROR_NULL_POINTER; return rv;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <return retval;
+if (Any.IsInitialized()) </* * This is done before the list is created. */ if (Any.IsInitialized()) <return retval; return retval;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) &return NS_OK; return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <&return retval;
+if (Any.ANY) if (isInList()) ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; <if (!Any.ANY) return rv; return rv;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) return NS_OK; <return NS_OK;
+if (Any.ANY) if (isInList()) &ret = getAttr(kNameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null, INameSpaceID_null
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (!any.isEmpty()) return NS_OK; return nsRefPtrnsIArena>;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) <LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; &if (!Any.ANY) return rv; return rv;
+rv = reportMatcher(Any.ANY).returnList(); if (rv) <rv = addNodeList(rv); <return rv;
+nsresult rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) &LOG(L_ERR, "nsArena: Release() called with a possible list"); if (NS_FAILED(rv)) return rv; <if (!Any.ANY) return rv; return rv;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (any) return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+/* * This does not make sense to report a name of any to report, which may be either set to an object, or set a non-NULL object, and any. */ if (mAttributes) <nsIStyleContext* styleContext = (nsIStyleContext*)mAttributes; styleContext.Release(); styleContext.Release(); styleContext.Release(); &return styleContext.Release();
+if (any) return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (!any.isEmpty()) &return NS_OK; &return nsRefPtr&nsIArena>;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(len!= 0, "not yet implemented"); if ((rdfServ) == NS_RDF_NO_CLONE) return NS_OK; return NS_OK;
+if (any) return Report(Any.ANY); <else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) &return NS_ERROR_NULL_POINTER; &return rv;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) return NS_ERROR_NULL_POINTER; return rv;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) <return NS_ERROR_NULL_POINTER; &return rv;
+if (any) return Report(Any.ANY); <else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (any) &return Report(Any.ANY); <else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (!any.isEmpty()) return NS_OK; return nsRefPtr&nsIArena>;
+if (mArena) &return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else char *bp; if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (Any.ANY) &return reportMatcher(Any.ANY); <return nsresult::returnList(aNodeInfo);
+if (reportMatcher(Any.ANY).returnList()) <return NS_OK; &return NS_OK;
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) nsCOM
+if (!any.isEmpty()) <return NS_OK; return nsRefPtr<nsIArena>;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (Any.ANY) return reportMatcher(Any.ANY); return nsresult::returnList(aNodeInfo);
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) &if (! aName) &return NS_ERROR_NULL_POINTER; &return rv;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) &nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.ANY) <return rv; else <return (reportMatcher(Any.ANY).returnList());
+if (any) return Report(Any.ANY); else </* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; return NS_OK;
+if (!any.isEmpty()) <return NS_OK; <return nsRefPtrnsIArena>;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; &return retval;
+if (any) return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.IsInitialized()) &/* * This is done before the list is created. */ if (Any.IsInitialized()) &return retval; <return retval;
+if (any) &return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; &return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (mArena) <return mArena.mArena.mArena; <if (!mArena) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (Any.ANY) <char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) bp = result; bp = result; return bp;
+if (mArena) return mArena.mArena.mArena; <if (!mArena) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (Any.ANY) return reportMatcher(Any.ANY); <return nsresult::returnList(aNodeInfo);
+if (!any.isEmpty()) return NS_OK; <return nsRefPtr&nsIArena>;
+if (any) return Report(Any.ANY); else /* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;
+if (reportMatcher(Any.ANY).returnList()) <return NS_OK; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr&nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) &nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+if (!any.isEmpty()) <return NS_OK; <return nsRefPtr&nsIArena>;
+if (any) <return Report(Any.ANY); else &/* XXX The new option for any other reason is to be re-loaded */ if (Any.ANY) return Report(Any.ANY); return NS_OK; <return NS_OK;
+if (mArena) return mArena.mArena.mArena; &if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtr<nsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) &nsCOM
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) <if (! aName) <return NS_ERROR_NULL_POINTER; &return rv;
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; return retval;
+NS_PRECONDITION(mState == ANY_ACTIVE || mPositioned == ANY_POPUP_ALL) if (mState == ANY_POPUP_All) return; NS_PRECONDITION(!any.mAttributes || mOwner, "bad attribute value"); NS_PRECONDITION(!any.mAttributes && mOwner!= ANY_POPUP_ALL) if (mOwner!= Any.mAttributes && mOwner!= ANY_POPUP_All) <nsCOMPtrnsIAtom> target; mOwner.GetCurrentUserName(getter_AddRefs(target)); if (target) <nsIAtom *target = mOwner.GetAttributes(getter_AddRefs(target)); if (target) <nsCOM
+if (Any.IsInitialized()) /* * This is done before the list is created. */ if (Any.IsInitialized()) return retval; <return retval;
+if (mArena) <return mArena.mArena.mArena; &if (!mArena) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+nsresult rv; rv = Any.ANY; if (! aName) return rv; if (NS_SUCCEEDED(rv) && NS_FAILED(rv)) if (! aName) <return NS_ERROR_NULL_POINTER; &return rv;
+if (mArena) <return mArena.mArena.mArena; if (!mArena) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (Any.ANY) &return rv; <else return (reportMatcher(Any.ANY).returnList());
+if (!any) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (Any.ANY) <return rv; else &return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) return rv; &else <return (reportMatcher(Any.ANY).returnList());
+if (Any.ANY) char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else &char *bp; &if (Any.ANY) bp = any.ANY; if (bp) <bp = result; bp = result; return bp;
+if (Any.ANY) &char *bp; /* Any.ANY */ if (Any.ANY) bp = result; else <char *bp; <if (Any.ANY) bp = any.ANY; if (bp) &bp = result; bp = result; return bp;

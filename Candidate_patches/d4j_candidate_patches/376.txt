@@ -1,0 +1,765 @@
+golden:
+if ((p2 > overflow) || (q2 > overflow)) {
+inference:
+if ((p2 >= overflow) || (q2 >= overflow)){
+if ((p2 > overflow) || (q2 > overflow)){
+if ((p2  overflow) || (q2  overflow)){
+if ((p2 > overflow) && (q2 > overflow)){
+if ((p2 > overflow) || (q2  overflow)){
+if ((p2 == overflow) || (q2 == overflow)){
+if ((p2 > overflow)){
+if (p2 > overflow){
+if (p2 >= overflow){
+if ((p2 > overflow) || q2 > overflow){
+if ((p1 > overflow) || (q1 > overflow)){
+if (p2 > overflow || q2 > overflow){
+if ((p2 = overflow) || (q2 = overflow)){
+if ((p2  overflow) || (q2 > overflow)){
+if (((p2 > overflow) || (q2 > overflow))){
+if ((p3 > overflow) || (q3 > overflow)){
+if ((p2 >= overflow) || (q2 > overflow)){
+if ((p2 >= 0) || (q2 >= 0)){
+if((p2 > overflow) || (q2 > overflow)){
+if ((p2 > overflow || q2 > overflow)){
+if (!(p2 > overflow) || (q2 > overflow)){
+if ( (p2 > overflow) || (q2 > overflow)){
+if (q2 > overflow){
+if ((*p2 > overflow) || (*q2 > overflow)){
+if ((p2 > overflow) || (q2 == overflow)){
+if ((p2 == -1) || (q2 == -1)){
+if ((p2 > p2) || (q2 > p2)){
+if (p2  overflow){
+else if ((p2 > overflow) || (q2 > overflow)){
+if ((p2 > q2) || (q2 > q2)){
+if ((p2 > a0) || (q2 > a0)){
+if ((p2 > 0) || (q2 > 0)){
+if ((p2 == 0) || (q2 == 0)){
+if ((p2 > overflow) && (q2  overflow)){
+if ((q2 > overflow) || (p2 > overflow)){
+if ((p2 > &overflow) || (q2 > &overflow)){
+if (p2  overflow || q2  overflow){
+if (((p2  overflow) || (q2  overflow))){
+if ( (p2 > overflow) || (q2 > overflow) ){
+if (P2 > overflow){
+if ((p2 > overflow) || (p2 > overflow)){
+if ((p2 > int) || (q2 > int)){
+if ((p2 >> overflow) || (q2 >> overflow)){
+if ((p2 - overflow) || (q2 - overflow)){
+if (((p2 >= overflow) || (q2 >= overflow))){
+if (p2 >= overflow || q2 >= overflow){
+if ((p2 >= overflow) && (q2 >= overflow)){
+if ((p2 > overflow || (q2 > overflow))){
+if ((P2 > overflow) || (q2 > overflow)){
+if (((p2 > overflow) || (q2 > overflow)){
+if ((p2!= overflow) || (q2!= overflow)){
+if ((p2  0) || (q2  0)){
+if ((p2 > v) || (q2 > v)){
+if ((p2  p2) || (q2  p2)){
+if (p2 > overflow || (q2 > overflow)){
+if ((p2 >= a0) || (q2 >= a0)){
+if (((p2 > overflow) || (q2  overflow))){
+if (((p2 > overflow)) || (q2 > overflow)){
+if ((p2 > overflow) || q2 > overflow)){
+if (overflow){
+if ((p2 > overflow) || (q1 > overflow)){
+if (p2 > overflow && q2 > overflow){
+if ((p2 >= overflow) || (q2 > overflow==0)){
+if ((p2 > = overflow) || (q2 >= overflow)){
+if ((p2 > OVERFLOW) || (q2 > OVERFLOW)){
+if ((p2 > p2) || (q2 > p3)){
+if (p2 > q2){
+if ((p2 = 0) || (q2 = 0)){
+if ((q2 > overflow)){
+if ((P2 > overflow) || (Q2 > overflow)){
+if ((bp2 > overflow) || (bp2 > overflow)){
+if ((p2 > overflow) || q2  overflow){
+if ((p2 + overflow) || (q2 + overflow)){
+if (p2  overflow || (q2  overflow)){
+if ((p2 > overflow) && q2 > overflow){
+if ((lp2 > overflow) || (lq2 > overflow)){
+if (p2 >= overflow || (q2 >= overflow)){
+if (p2 == overflow || q2 == overflow){
+if (p2  overflow || q2 > overflow){
+if (!((p2 > overflow) || (q2 > overflow))){
+if ((p2 > value) || (q2 > value)){
+if ((p2 = p2) > overflow) || (q2 = q2)){
+if ((m2 > overflow) || (m2 > overflow)){
+if (p2 == overflow){
+if ((p2 >= overflow)){
+if ((p2 > overflow && q2 > overflow)){
+if ((p2 > overflow) || (*q2 > overflow)){
+if ((p2 > *overflow) || (q2 > *overflow)){
+if (((p2 > overflow) && (q2 > overflow))){
+if ((p2  p2) || (q2  p3)){
+if (((p2 >= overflow) || (q2 >= overflow)){
+if ((p2 >= p2) || (q2 >= q2)){
+if ((p1 > overflow) || (q2 > overflow)){
+if ( ((p2 > overflow) || (q2 > overflow)) ){
+if ((p2 > length) || (q2 > length)){
+if ((p2  overflow) || (q2 == overflow)){
+if ((p2 > this.overflow) || (q2 > this.overflow)){
+if ((p2 > maxIterations) || (q2 > maxIterations)){
+if ((h2 > overflow) || (h2 > overflow)){
+if (p2 == overflow || (q2 == overflow)){
+if ((p2 >= -1) || (q2 >= -1)){
+if ((p2 >= overflow) || (q2 = overflow)){
+if ((p2 > Overflow) || (q2 > Overflow)){
+if (p2 > overflow || q2  overflow){
+if ((p2 > r0) || (q2 > r0)){
+if ((p2 >= Overflow) || (q2 >= Overflow)){
+if ((p2) > overflow || (q2) > overflow)){
+if (overflow && (p2 > overflow) || (q2 > overflow)){
+if ((&p2 > overflow) || (&q2 > overflow)){
+if ((p2 > value.overflow) || (q2 > value.overflow)){
+if ((p2 = overflow) || (q2 >= overflow)){
+if (p1 > overflow){
+if ((p2 > 1) || (q2 > 1)){
+if ((x2 > overflow) || (x2 > overflow)){
+if ((p2 > overflow) || (q2 > overflow)  0){
+if ((p2 > overflow) || (Q2 > overflow)){
+if (p2 > overflow && (q2 > overflow)){
+if ((x1 > overflow) || (x1 > overflow)){
+if ((p2  overflow)){
+if ((p2 > overflow || q2  overflow)){
+while ((p2 > overflow) || (q2 > overflow)){
+if ((p2 > q2)){
+if ((a2 > overflow) || (q2 > overflow)){
+if (p2 >= overflow || q2 > overflow){
+if (a0 > overflow){
+if ((p2 > -overflow) || (q2 > -overflow)){
+if (p2 >= overflow || (q2 > overflow)){
+if ((p2 >= v) || (q2 >= v)){
+if (((p2 > overflow) && (q2 > overflow)){
+if (*(p2 > overflow) || *(q2 > overflow)){
+if (p2 = overflow){
+if ((p2 >= p2) || (q2 >= p2)){
+if ((xp2 > overflow) || (xp2 > overflow)){
+if (!(p2 > overflow) ||!(q2 > overflow)){
+if ((p2 > >flow) || (q2 > overflow)){
+if ((p2 == null) || (q2 == null)){
+if ((p2 >= 1.0) || (q2 >= 1.0)){
+if ((p2 >= int) || (q2 >= int)){
+if ((b2 > overflow) || (b2 > overflow)){
+if ((p2 > q2) || (p2 > q2)){
+if ((p2 > overflow)|| (q2 > overflow)){
+if ((p2 = p2) > overflow || (q2 = q2)){
+if ((p2  overflow) && (q2  overflow)){
+if ((m2 > overflow) || (q2 > overflow)){
+if ((p2 > overflow) || (q2 = overflow)){
+if ((p2  a0) || (q2  a0)){
+if ((p2 > overflow) || (q2 >= overflow)){
+if ((p2!= 0) || (q2!= 0)){
+if ((p2  int) || (q2  int)){
+if (p2 > overflow || (q2  overflow)){
+if (P2 > overflow || P2 > overflow){
+if ((p2  v) || (q2  v)){
+if ((p2 >= 1) || (q2 >= 1)){
+if ((p2 >= overflow)|| (q2 >= overflow)){
+if ((p2 >= q2) || (q2 >= q2)){
+if ((p2 = p2) || (q2 = q2)){
+if ((p2  overflow || (q2  overflow))){
+if (((p2  overflow) || (q2  overflow)){
+if ((p2 > overflow && (q2 > overflow))){
+if ((p2 >= 0 || (q2 >= 0))){
+if (((p2 = p2) > overflow) || (q2 = q2)){
+if ((p2 > overflow || (q2  overflow))){
+if ((p2 == overflow) && (q2 == overflow)){
+if ((p2 > overflow) || (q2 >> overflow)){
+if ((p2 > q2) || (q2 > q3)){
+if ((p2 > q2) || (q2 > q1)){
+if (bp2 > overflow){
+if ((p2 > overflow) || (q2) > overflow){
+if ((!(p2 > overflow) || (q2 > overflow))){
+if ((a0 > overflow) || (p2 > overflow)){
+if (p3 > overflow){
+if (lp2 > overflow){
+if (((p2  overflow) || (q2 > overflow))){
+if ((p2 >= overflow || (q2 >= overflow))){
+if (overflow || (p2 > overflow)){
+if (!(p2 > overflow)){
+if (((p2 == overflow) || (q2 == overflow))){
+if ((p2 > overflow) || (q2 > overflow) == 0){
+if ((p2 == p2) || (q2 == q2)){
+if (((p1 > overflow) || (q1 > overflow))){
+if ((p2) > overflow){
+if(p2 > overflow){
+if ( ((p2 > overflow) || (q2 > overflow)){
+if ((p2 > overflow) || (q2 > overflow)!= 0){
+if ((p2 == overflow || (q2 == overflow))){
+if ((p2 > overflow) || (p2  overflow)){
+if ( ((p2 > overflow) || (q2 > overflow))){
+if ((p2 > overflow) || (q2 > overflow == 0)){
+if ((p2 > overflow) == 0 || (q2 > overflow)){
+if ((p2 > overflow) || (q2  (int) overflow)){
+if ((p2 >= a0) || (q2 >= a1)){
+if ((p2 > overflow) || (q2 > overflow) == -1){
+if ((p2 = p2 > overflow) || (q2 = q2)){
+if (((p2 > overflow) || (q2  overflow)){
+else{
+if (((p2  overflow) || (q2 > overflow)){
+if ((p2  r2) || (q2  r3)){
+if ((p2 > q2) || (p2 > overflow)){
+if ((p2  (unsigned char) overflow) || (q2  (unsigned char) overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (h2 > h2)){
+if ((p2  (int) overflow) || (q2  (int) overflow)){
+if ((p2  p2 - 1) || (q2  p2 - 1)){
+if ((p2 > overflow) || (q2 > overflow) || (bp == 0)){
+if ((p2  (l)2) || (q2  (l)2)){
+if ((p2 >= 0.0) || (q2 >= 0.0)){
+if ((p2 > bP2) || (q2 > bP2)){
+if ((p2 > overflow) || (q2 > overflow) || (*p2) == 0){
+if ((p2 > overflow) || (q2 > overflow) || (p2  (q2 - q2))){
+if ((p2 > overflow) || (q2 > overflow) || (p2  overflow)){
+if ((p2  op) || (q2  op)){
+if ((p2 > overflow) || (q2 > overflow) || (!(p2 > xdouble)xdouble)){
+if ((p2 > overflow) || (q2 > overflow) || (*x) == -1){
+if ((p2 > overflow) || (q2 > overflow) || (n  maxIterations && FastMath.abs(convergent - value) > epsilon && q2  maxDenominator)){
+if ((p2 > epsilon) || (q2 > epsilon)){
+if ((p2 > overflow) || (q2 > overflow) || (q2  overflow)){
+if ((p2  (double)overflow) || (q2  (double)overflow)){
+if ((p2 >= epsilon) || (q2 >= epsilon)){
+if ((p2  (long)p2) || (q2  (long)q2)){
+if ((p2  v2) || (q2  v2)){
+if ((p2 > x2 || (p2 > x2 || (q2 > x2))){
+if ((p2  (int)overflow) || (q2  (int)overflow)){
+if ((p2  m) || (q2  m)){
+if ((p2 > hr2) || (q2 > hr2)){
+if ((p2 > h2) || (q2 > h2)){
+if ((p2 > overflow) || (q2 > overflow) || (p2  (p2 - overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (n  maxIterations && FastMath.abs(convergent - value) > epsilon)){
+if ((p2 > hoverflow) || (q2 > hoverflow)){
+if ((p2 > op2 || (q2 > op2)){
+if ((p2 >  overflow) || (q2 >  overflow)){
+if ((p2 >= XP_OVERFLOW) || (q2 >= XP_OVERFLOW)){
+if ((p2  d) || (q2  d)){
+if ((p2 > m2) || (q2 > m2)){
+if ((p2 >= OVERFLOW) || (q2 >= OVERFLOW)){
+if ((p2 > x) || (q2 > x)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 > maxMath)){
+if ((p2  gMaxOfFlow) || (q2  gMaxOfFlow)){
+if ((p2 > odb.maxDenominator) || (q2 > odb.maxDenominator)){
+if ((lp2 > overflow) || (lq2 > overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (n <maxIterations && FastMath.abs(convergent - value) > epsilon && q2 maxDenominator)){
+if ((p2 <0) || (q2 <0)){
+if (((p2 > overflow) || (q2 overflow))){
+if ((p2 &p2 - 1) || (q2 p2 - 1)){
+if ((p2 <overflow) && (q2 <overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 (p2 - overflow)){
+if (p2 &overflow || q2 overflow){
+if ((p2 <gMaxOfFlow) || (q2 <gMaxOfFlow)){
+if ((p2 > q2) || (p2 > q2)){
+if (lp2 > overflow){
+if ((p2 &overflow) || (q2 overflow)){
+if ((p2 p2 - 1) || (q2 &p2 - 1)){
+if ((p2 > r0) || (q2 > r0)){
+if ((p2 > overflow) || (q2 > overflow) || (q2 &overflow)){
+if ((p2 <(double)overflow) || (q2 <(double)overflow)){
+if ((p2 > overflow || (q2 > overflow))){
+if ((p2 > overflow) || (q2 == overflow)){
+if ((p2 > overflow) || (q2 > overflow) <0){
+if ((p2 overflow)){
+if ((p2 > = overflow) || (q2 >= overflow)){
+if ((p2 overflow) || (q2 > overflow)){
+if ((p2 (unsigned char) overflow) || (q2 &(unsigned char) overflow)){
+if ((p2 > overflow || q2 > overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 &(q2 - q2))){
+if ((p2 > op2 || (q2 > op2)){
+if ((p2 &int) || (q2 &int)){
+if (p2 > overflow || (q2 > overflow)){
+if ((p2 > overflow) || (q2 (int) overflow)){
+if ((p2 a0) || (q2 &a0)){
+if ((p2 > overflow || (q2 <overflow))){
+if ((p2 > m2) || (q2 > m2)){
+if ((p2 &(int) overflow) || (q2 &(int) overflow)){
+if (((p2 > overflow) || (q2 > overflow))){
+if (((p1 > overflow) || (q1 > overflow))){
+if ((p2 > overflow) || (q2 > overflow) || (bp == 0)){
+if ((p2 &(long)p2) || (q2 (long)q2)){
+if ((p2 > overflow || q2 &overflow)){
+if ((p2 &op) || (q2 <op)){
+if (P2 > overflow || P2 > overflow){
+if ((p2 <(int)overflow) || (q2 &(int)overflow)){
+if (p2 >= overflow || (q2 > overflow)){
+if ((P2 > overflow) || (q2 > overflow)){
+if ((p2 <(l)2) || (q2 (l)2)){
+if ((p2 > overflow) || (q2 > overflow) == 0){
+if ((p2 > overflow) && (q2 <overflow)){
+if ((P2 > overflow) || (Q2 > overflow)){
+if (p1 > overflow){
+if ((p2 0) || (q2 <0)){
+if (p2 overflow || q2 overflow){
+if ((p2 &v2) || (q2 &v2)){
+if ((p2 <(long)p2) || (q2 &(long)q2)){
+if ((p2 > overflow) || (q2 > overflow) 0){
+if ((p2 <= overflow) || (q2 <= overflow)){
+if (p2 > overflow || q2 &overflow){
+if ((p2 v2) || (q2 &v2)){
+if ((p2 &(long)p2) || (q2 &(long)q2)){
+if (p2 &overflow || q2 > overflow){
+if ((p2 > overflow || q2 <overflow)){
+if ((p2 > <overflow) || (q2 > <overflow)){
+if ((p2 >= -1) || (q2 >= -1)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 > maxMath)){
+if ((p2 r2) || (q2 &r3)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 overflow)){
+if ((p2 &(int) overflow) || (q2 (int) overflow)){
+if ((p2 <= overflow) || (q2 >= overflow)){
+if ((!(p2 > overflow) || (q2 > overflow))){
+if ((&p2 > overflow) || (&q2 > overflow)){
+if ((p2 <int) || (q2 <int)){
+if ((p2 (long)p2) || (q2 (long)q2)){
+if ((p2 > &overflow) || (q2 > &overflow)){
+if ((p2 v2) || (q2 <v2)){
+if ((p2 m) || (q2 m)){
+if ((p2 > int) || (q2 > int)){
+if ((p2 &(unsigned char) overflow) || (q2 (unsigned char) overflow)){
+if (p2 overflow || q2 <overflow){
+if ((p2 <r2) || (q2 r3)){
+if ((p2 > q2)){
+if ((p2 > overflow) || (q2 > overflow) || (!(p2 > xdouble)xdouble)){
+if ((p2 == overflow || (q2 == overflow))){
+if ((p2 <d) || (q2 <d)){
+if ((p2 <p2) || (q2 &p3)){
+if ((p2 int) || (q2 &int)){
+if ((p2 &d) || (q2 &d)){
+if ((p2 > >flow) || (q2 > overflow)){
+if ((p2 > value) || (q2 > value)){
+if ((p2 m) || (q2 <m)){
+if ((p2 > overflow && (q2 > overflow))){
+if ((p2 > overflow) || (q2 > overflow) || (n <maxIterations && FastMath.abs(convergent - value) > epsilon && q2 &maxDenominator)){
+if ((p2 - overflow) || (q2 - overflow)){
+if ((p2 <(int) overflow) || (q2 (int) overflow)){
+if ((p2 > overflow) || (*q2 > overflow)){
+if ((p2 &= overflow) || (q2 = overflow)){
+if (p2 <overflow || q2 <overflow){
+if ((p2 m) || (q2 &m)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 <overflow)){
+if (p2 > overflow){
+if ((p2 &p2) || (q2 <p3)){
+if (((p2 <overflow) || (q2 <overflow))){
+if ((p2 0) || (q2 0)){
+if ((p2 = overflow) || (q2 &= overflow)){
+if ((p2 = overflow) || (q2 >= overflow)){
+if ((p2 <m) || (q2 <m)){
+if ((p2 <= overflow) || (q2 = overflow)){
+if ((p2 > overflow) || (q2 >> overflow)){
+if ((p2 > overflow)){
+if ((p2 (int)overflow) || (q2 (int)overflow)){
+if ((p2 (int) overflow) || (q2 &(int) overflow)){
+if ((p2 p2) || (q2 &p2)){
+if ((p2 > overflow) && q2 > overflow){
+if ((p2 == -1) || (q2 == -1)){
+if (p2 == overflow || q2 == overflow){
+if ((p2 > q2) || (q2 > q3)){
+if ((p2 > overflow) || (q2 > overflow == 0)){
+if ((p2 <v) || (q2 &v)){
+if ((p2 > v) || (q2 > v)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 &(p2 - overflow)){
+if ((p2 &overflow) && (q2 overflow)){
+if (((p2 &overflow) || (q2 > overflow))){
+if (((p2 <overflow) || (q2 <overflow)){
+if ((p2!= overflow) || (q2!= overflow)){
+if ((p2 > overflow) || q2 overflow){
+if ((p2 &p2) || (q2 &p3)){
+if ((p2 >= XP_OVERFLOW) || (q2 >= XP_OVERFLOW)){
+if ((p2 > overflow) || (q2 > overflow) == -1){
+if ((p2 <v2) || (q2 v2)){
+if (((p2 <overflow) || (q2 overflow)){
+if (p2 &overflow || q2 &overflow){
+if ((p2 > overflow) || (q2 <= overflow)){
+if (overflow || (p2 > overflow)){
+if ((x1 > overflow) || (x1 > overflow)){
+if ((p2 (int)overflow) || (q2 &(int)overflow)){
+if (P2 > overflow){
+if ((p2 >= a0) || (q2 >= a0)){
+if ((p2 d) || (q2 d)){
+if ((bp2 > overflow) || (bp2 > overflow)){
+if ((p2 &overflow) && (q2 <overflow)){
+if (p2 >= overflow || q2 > overflow){
+if ((p2 > overflow) || (q2 > overflow) || (p2 &overflow)){
+if ((b2 > overflow) || (b2 > overflow)){
+if ((p2 > overflow) || (p2 <overflow)){
+if ((p2 > overflow) || (q2 <(int) overflow)){
+if ((p2 d) || (q2 <d)){
+if ((p2 overflow) || (q2 &overflow)){
+if ((p2 > overflow) && (q2 &overflow)){
+if (!((p2 > overflow) || (q2 > overflow))){
+if ((p2 > hoverflow) || (q2 > hoverflow)){
+if ((p2 <v2) || (q2 <v2)){
+if ((p2 a0) || (q2 <a0)){
+if ((p2 p2 - 1) || (q2 p2 - 1)){
+else{
+if ((p2 &p2) || (q2 <p2)){
+if ((p2 == p2) || (q2 == q2)){
+if ((q2 > overflow)){
+if ((p2 > p2) || (q2 > p3)){
+if ((p2 &a0) || (q2 <a0)){
+if (((p2 > overflow) || (q2 <overflow))){
+if ((p2) > overflow || (q2) > overflow)){
+if (p2 &= overflow){
+if (p2 &overflow || (q2 <overflow)){
+if ((p2 > length) || (q2 > length)){
+if ( (p2 > overflow) || (q2 > overflow) ){
+if ( ((p2 > overflow) || (q2 > overflow))){
+if (p2 > overflow || q2 <overflow){
+if ((p2 &v) || (q2 <v)){
+if ((p2 >= Overflow) || (q2 >= Overflow)){
+if ((p2 (int) overflow) || (q2 <(int) overflow)){
+if ((p2 (l)2) || (q2 &(l)2)){
+if ((p2 p2) || (q2 p2)){
+if ((p2 &= overflow) || (q2 >= overflow)){
+if (p2 > overflow || (q2 <overflow)){
+if ((p2 >= q2) || (q2 >= q2)){
+if (((p2 > overflow) && (q2 > overflow))){
+if ((p2 > overflow) || (p2 > overflow)){
+if ((p2 <0) || (q2 0)){
+if (((p2 = p2) > overflow) || (q2 = q2)){
+if ((p2 &overflow) || (q2 == overflow)){
+if (((p2 >= overflow) || (q2 >= overflow)){
+if ((p2 <a0) || (q2 &a0)){
+if ((p2 <p2 - 1) || (q2 p2 - 1)){
+if ((p2 op) || (q2 &op)){
+if (p2 > overflow && (q2 > overflow)){
+if ((p2 <overflow) || (q2 overflow)){
+if ((p2 overflow || (q2 <overflow))){
+if ((p2 > overflow) || (q2 > overflow) || (n maxIterations && FastMath.abs(convergent - value) > epsilon && q2 <maxDenominator)){
+if ((p2 > overflow) || (p2 &overflow)){
+if ((p2 &0) || (q2 &0)){
+if ((p2 >= v) || (q2 >= v)){
+if ((p2 &(int)overflow) || (q2 (int)overflow)){
+if ((p2 &int) || (q2 <int)){
+if ((p2 <(unsigned char) overflow) || (q2 <(unsigned char) overflow)){
+if ((p2 &(int) overflow) || (q2 <(int) overflow)){
+if (((p2 overflow) || (q2 &overflow)){
+if ((p2 &d) || (q2 d)){
+if ((p2 <overflow || (q2 <overflow))){
+if (((p2 overflow) || (q2 > overflow))){
+if ((p2 &(int)overflow) || (q2 &(int)overflow)){
+if ((p2 d) || (q2 &d)){
+if ((*p2 > overflow) || (*q2 > overflow)){
+if (((p2 &overflow) || (q2 &overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (*x) == -1){
+if (p2 overflow || q2 > overflow){
+if ((p2 >= overflow) || (q2 > overflow==0)){
+if ((p2 &m) || (q2 <m)){
+if ((p2 <m) || (q2 m)){
+if (((p2 <overflow) || (q2 overflow))){
+if ((p2 > epsilon) || (q2 > epsilon)){
+if (((p2 > overflow) || (q2 > overflow)){
+if ((p2 op) || (q2 <op)){
+if ((h2 > overflow) || (h2 > overflow)){
+if ((p2 v2) || (q2 v2)){
+if ((p2 <d) || (q2 d)){
+if ((p2 > overflow) || (q2 > overflow) || (n &maxIterations && FastMath.abs(convergent - value) > epsilon && q2 &maxDenominator)){
+if ((p2 > q2) || (q2 > q2)){
+if ((p2 >= 0.0) || (q2 >= 0.0)){
+if ((p2 <overflow) && (q2 &overflow)){
+if ((p2 (int) overflow) || (q2 (int) overflow)){
+if ((p2 = overflow) || (q2 <= overflow)){
+&if ((p2 > overflow) || (q2 > overflow)){
+if ((p2 > overflow) == 0 || (q2 > overflow)){
+if (p2 <overflow || (q2 <overflow)){
+if ((p2 <int) || (q2 int)){
+if ((p2 <int) || (q2 &int)){
+if ((p2 &m) || (q2 &m)){
+if ((m2 > overflow) || (m2 > overflow)){
+if ((p2!= 0) || (q2!= 0)){
+if ((p2 > overflow || (q2 overflow))){
+if ((p2 > overflow) || (q1 > overflow)){
+if ((p2 p2 - 1) || (q2 <p2 - 1)){
+if ((p2 > overflow) || (q2 > overflow) || (n maxIterations && FastMath.abs(convergent - value) > epsilon)){
+if ((p2 (long)p2) || (q2 <(long)q2)){
+if (((p2 <overflow) || (q2 &overflow)){
+if (p2 overflow || (q2 <overflow)){
+if ((p2 > 0) || (q2 > 0)){
+if ((p2 gMaxOfFlow) || (q2 &gMaxOfFlow)){
+if (p2 <overflow || (q2 &overflow)){
+if ((p2 >= 1.0) || (q2 >= 1.0)){
+if (p2 > overflow || q2 overflow){
+if ((p2 r2) || (q2 r3)){
+if ((p2 > overflow) || (q2 > overflow) || (n &maxIterations && FastMath.abs(convergent - value) > epsilon && q2 <maxDenominator)){
+if ((p2 + overflow) || (q2 + overflow)){
+if ((p2 overflow) || (q2 overflow)){
+if ( ((p2 > overflow) || (q2 > overflow)){
+if ((p2 <v) || (q2 v)){
+if (p3 > overflow){
+if ((p2 &v2) || (q2 <v2)){
+if ((p2 > overflow) || (q2 > overflow) || (n maxIterations && FastMath.abs(convergent - value) > epsilon && q2 maxDenominator)){
+if (p2 &overflow || (q2 overflow)){
+if ((p1 > overflow) || (q1 > overflow)){
+if ((p3 > overflow) || (q3 > overflow)){
+if ((p2 p2) || (q2 <p2)){
+if ((p2 > overflow) || (q2) > overflow){
+if ((p2 > overflow) || (q2 > overflow) || (p2 (q2 - q2))){
+if ((p2 0) || (q2 &0)){
+if ((p2 >= overflow)|| (q2 >= overflow)){
+if ((p2 &(l)2) || (q2 <(l)2)){
+if ((p2 > overflow) || (q2 > overflow)){
+if (p2 >= overflow || (q2 >= overflow)){
+if ((p2 &(int)overflow) || (q2 <(int)overflow)){
+if ((p2 <(long)p2) || (q2 (long)q2)){
+if ( ((p2 > overflow) || (q2 > overflow)) ){
+if (((p2 overflow) || (q2 overflow)){
+if ((p2 overflow) && (q2 overflow)){
+if ((p2 > overflow || q2 overflow)){
+if ((p2 > q2) || (q2 > q1)){
+if (p2 &overflow){
+if ((p2 <(int)overflow) || (q2 (int)overflow)){
+if ((p2 > overflow) || (q2 > <overflow)){
+if ((p2 > <overflow) || (q2 > overflow)){
+if (((p2 > overflow) || (q2 &overflow)){
+if ((p2 > overflow) || q2 <overflow){
+if (q2 > overflow){
+if ((p2 > overflow) || q2 > overflow)){
+if (((p2 overflow) || (q2 > overflow)){
+if ((p2 &overflow) || (q2 <overflow)){
+if ((p2 > &overflow) || (q2 > <overflow)){
+if ((p2 > overflow) || (q2 > &overflow)){
+if ((p2 <op) || (q2 <op)){
+if ((p2 p2) || (q2 &p3)){
+if ((p2 (double)overflow) || (q2 (double)overflow)){
+if ((p2 <overflow || (q2 overflow))){
+if (((p2 > overflow) || (q2 &overflow))){
+if ((p2 > overflow) || (q2 &= overflow)){
+if ((p2 <(int)overflow) || (q2 <(int)overflow)){
+if ((p2 >= 0 || (q2 >= 0))){
+if ((p2 &(double)overflow) || (q2 &(double)overflow)){
+if ((p2 &p2 - 1) || (q2 <p2 - 1)){
+if ((p2 <a0) || (q2 <a0)){
+if ((p2 &overflow) || (q2 &overflow)){
+if ((p2 > overflow || (q2 &overflow))){
+if ((p2 >> overflow) || (q2 >> overflow)){
+if ((p2 > *overflow) || (q2 > *overflow)){
+if ((p2 > odb.maxDenominator) || (q2 > odb.maxDenominator)){
+if ((p2 overflow) && (q2 <overflow)){
+if ((p2 <p2 - 1) || (q2 &p2 - 1)){
+if (((p2 >= overflow) || (q2 >= overflow))){
+if ((p2 > &overflow) || (q2 > overflow)){
+if (((p2 > overflow)) || (q2 > overflow)){
+if (!(p2 > overflow) ||!(q2 > overflow)){
+if ((p2 = 0) || (q2 = 0)){
+if ((p2 > value.overflow) || (q2 > value.overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (n &maxIterations && FastMath.abs(convergent - value) > epsilon && q2 maxDenominator)){
+if (p2 overflow){
+if (p2 >= overflow || q2 >= overflow){
+if ((p2 p2) || (q2 p3)){
+if ((p2 (long)p2) || (q2 &(long)q2)){
+if ((p2 overflow) && (q2 &overflow)){
+if ((p2 v) || (q2 v)){
+if (p2 &overflow || q2 <overflow){
+if ((p2 r2) || (q2 <r3)){
+while ((p2 > overflow) || (q2 > overflow)){
+if ((x2 > overflow) || (x2 > overflow)){
+if ((m2 > overflow) || (q2 > overflow)){
+if ((p2 (unsigned char) overflow) || (q2 (unsigned char) overflow)){
+if ((p2 <v) || (q2 <v)){
+if (p2 <overflow || (q2 overflow)){
+if ((p2 &v) || (q2 v)){
+if ((p2 &p2) || (q2 p2)){
+if (overflow){
+if ((p2 >= overflow) || (q2 <= overflow)){
+if ((p2 >= overflow)){
+if ((p2 == overflow) || (q2 == overflow)){
+if ((p2 <(double)overflow) || (q2 &(double)overflow)){
+if (((p2 overflow) || (q2 overflow))){
+if ((p2 <overflow) || (q2 <overflow)){
+if ((p2 >= 0) || (q2 >= 0)){
+if ((p2 > overflow)|| (q2 > overflow)){
+if ((p2 > overflow) || q2 > overflow){
+if (((p2 &overflow) || (q2 &overflow))){
+if (((p2 <overflow) || (q2 > overflow))){
+if ((p2 &(long)p2) || (q2 <(long)q2)){
+if ((p2 &gMaxOfFlow) || (q2 &gMaxOfFlow)){
+if (bp2 > overflow){
+if (p2 <overflow || q2 &overflow){
+if ((p2 >= p2) || (q2 >= p2)){
+if ((p2 > overflow) || (q2 = overflow)){
+if (!(p2 > overflow)){
+if ((p2 &overflow) || (q2 > overflow)){
+if ( (p2 > overflow) || (q2 > overflow)){
+if ((p2 overflow) || (q2 == overflow)){
+if ((p2 op) || (q2 op)){
+if ((p2 <r2) || (q2 <r3)){
+if ((p2 >= overflow || (q2 >= overflow))){
+if ((p2 > overflow) || (q2 > overflow) || (q2 <overflow)){
+if ((p2 gMaxOfFlow) || (q2 gMaxOfFlow)){
+if ((p2 <v2) || (q2 &v2)){
+if ((p2 v) || (q2 <v)){
+if ((p2 &r2) || (q2 r3)){
+if ((p2 <r2) || (q2 &r3)){
+if ((p2 > OVERFLOW) || (q2 > OVERFLOW)){
+if (p2 <overflow || q2 overflow){
+if ((p2 <(unsigned char) overflow) || (q2 &(unsigned char) overflow)){
+if ((p2 &p2) || (q2 p3)){
+if(p2 > overflow){
+if ((p2 &gMaxOfFlow) || (q2 gMaxOfFlow)){
+if ((p2 <p2) || (q2 p2)){
+if ((p2 > overflow && q2 > overflow)){
+if (((p2 &overflow) || (q2 overflow))){
+if ((p2 <p2 - 1) || (q2 <p2 - 1)){
+if ((p2 > overflow) || (q2 overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (h2 > h2)){
+if ((p2 >= overflow) || (q2 >= overflow)){
+if ((p2 <overflow || (q2 &overflow))){
+if (p2 <= overflow){
+if ((p2 > overflow) || (q2 &(int) overflow)){
+if ((p2 &(double)overflow) || (q2 (double)overflow)){
+if ((p2 (l)2) || (q2 <(l)2)){
+if (((p2 <overflow) || (q2 &overflow))){
+if ((p2 gMaxOfFlow) || (q2 <gMaxOfFlow)){
+if ((p2 &int) || (q2 int)){
+if ((p2 &overflow || (q2 overflow))){
+if ((p2 &0) || (q2 <0)){
+if (p2 > overflow && q2 > overflow){
+if ((p2 <(long)p2) || (q2 <(long)q2)){
+if ((p2 <(int) overflow) || (q2 <(int) overflow)){
+if ((p2 (int)overflow) || (q2 <(int)overflow)){
+if (((p2 &overflow) || (q2 <overflow))){
+if (p2 overflow || (q2 overflow)){
+if (((p2 overflow) || (q2 <overflow))){
+if ((p2 a0) || (q2 a0)){
+if ((p2 >= int) || (q2 >= int)){
+if ((p2 &(l)2) || (q2 &(l)2)){
+if ((p2 > overflow) || (q2 >= overflow)){
+if ((p2 <overflow) || (q2 == overflow)){
+if ((p2 > a0) || (q2 > a0)){
+if (p2 <overflow){
+if (((p2 <overflow) || (q2 > overflow)){
+if ((p2 &v2) || (q2 v2)){
+if (p2 = overflow){
+if ((p2 &(unsigned char) overflow) || (q2 <(unsigned char) overflow)){
+if ((p2 (double)overflow) || (q2 <(double)overflow)){
+if ((p2 <gMaxOfFlow) || (q2 &gMaxOfFlow)){
+if ((p2) > overflow){
+if (a0 > overflow){
+if ((p2 > overflow) || (q2 > overflow) &0){
+if ((p2 > overflow) || (q2 > overflow) || (*p2) == 0){
+if ((p2 <overflow) && (q2 overflow)){
+if ((p2 <d) || (q2 &d)){
+if ((p2 > bP2) || (q2 > bP2)){
+if ((a2 > overflow) || (q2 > overflow)){
+if ((p2 &r2) || (q2 <r3)){
+if ((p2 &a0) || (q2 a0)){
+if ((p2 > q2) || (p2 > overflow)){
+if ((p2 <op) || (q2 op)){
+if ((p2 &m) || (q2 m)){
+if ((p2 &v) || (q2 &v)){
+if (((p2 > overflow) && (q2 > overflow)){
+else if ((p2 > overflow) || (q2 > overflow)){
+if ((p2 >= overflow) || (q2 &= overflow)){
+if ((p2 >= OVERFLOW) || (q2 >= OVERFLOW)){
+if ((p2 >= overflow) && (q2 >= overflow)){
+if ((p2 <p2) || (q2 p3)){
+if ((p2 <a0) || (q2 a0)){
+if ((p2 int) || (q2 int)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 <(p2 - overflow)){
+if (p2 > overflow || (q2 &overflow)){
+if ((p2 <(unsigned char) overflow) || (q2 (unsigned char) overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (n <maxIterations && FastMath.abs(convergent - value) > epsilon)){
+if ((p2 <overflow)){
+if ((p2 >= overflow) || (q2 = overflow)){
+if (p2 >= overflow){
+if ((p2 &overflow) && (q2 &overflow)){
+if ((p2 > hr2) || (q2 > hr2)){
+if ((p2 v) || (q2 &v)){
+if ((p2 &overflow || (q2 <overflow))){
+if ((p2 > overflow) || (q2 > overflow)!= 0){
+if ((p2 &d) || (q2 <d)){
+if ((p2 &= overflow) || (q2 &= overflow)){
+if ((p2 <(double)overflow) || (q2 (double)overflow)){
+if ((p2 overflow || (q2 overflow))){
+if ((p2 <p2) || (q2 <p3)){
+if (p2 == overflow || (q2 == overflow)){
+if ((p2 <m) || (q2 &m)){
+if ((p2 == null) || (q2 == null)){
+if ((p2 &(l)2) || (q2 (l)2)){
+if ((p2 <p2) || (q2 <p2)){
+if ((p2 = p2) > overflow || (q2 = q2)){
+if ((p2 > -overflow) || (q2 > -overflow)){
+if ((p2 >= p2) || (q2 >= q2)){
+if ((p2 > p2) || (q2 > p2)){
+if (((p2 &overflow) || (q2 <overflow)){
+if (((p2 overflow) || (q2 <overflow)){
+if ((p2 <(int) overflow) || (q2 &(int) overflow)){
+if ((p2 >= a0) || (q2 >= a1)){
+if ((p2 > overflow) || (q2 <overflow)){
+if ((p2 &(double)overflow) || (q2 <(double)overflow)){
+if ((p2 <op) || (q2 &op)){
+if (((p2 &overflow) || (q2 > overflow)){
+if ((p2 &= overflow) || (q2 <= overflow)){
+if (((p2 overflow) || (q2 &overflow))){
+if ((p2 &a0) || (q2 &a0)){
+if (p2 > overflow || (q2 overflow)){
+if (((p2 == overflow) || (q2 == overflow))){
+if ((xp2 > overflow) || (xp2 > overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (n maxIterations && FastMath.abs(convergent - value) > epsilon && q2 &maxDenominator)){
+if ((p2 &op) || (q2 &op)){
+if ((p2 <gMaxOfFlow) || (q2 gMaxOfFlow)){
+if (p2 &overflow || (q2 &overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (q2 overflow)){
+if (p2 <overflow || q2 > overflow){
+if ((q2 > overflow) || (p2 > overflow)){
+if ((p2 <(l)2) || (q2 &(l)2)){
+if ((p2 <overflow) || (q2 &overflow)){
+if ((p2 &overflow || (q2 &overflow))){
+if ((p2 &p2) || (q2 &p2)){
+if ((p2 > Overflow) || (q2 > Overflow)){
+if ((p2 >= epsilon) || (q2 >= epsilon)){
+if ((p2 > this.overflow) || (q2 > this.overflow)){
+if ((p2 = p2 > overflow) || (q2 = q2)){
+if (overflow && (p2 > overflow) || (q2 > overflow)){
+if (!(p2 > overflow) || (q2 > overflow)){
+if (p2 overflow || q2 &overflow){
+if (((p2 > overflow) || (q2 <overflow)){
+if ((p2 &gMaxOfFlow) || (q2 <gMaxOfFlow)){
+if ((p2 &(unsigned char) overflow) || (q2 &(unsigned char) overflow)){
+if ((p2 overflow || (q2 &overflow))){
+if ((p2 > overflow) || (q2 > overflow) || (n <maxIterations && FastMath.abs(convergent - value) > epsilon && q2 <maxDenominator)){
+if ((p2 > <overflow) || (q2 > &overflow)){
+if ((p2 p2) || (q2 <p3)){
+if ((a0 > overflow) || (p2 > overflow)){
+if ((p2 > x2 || (p2 > x2 || (q2 > x2))){
+if ((p2 <= overflow) || (q2 &= overflow)){
+<if ((p2 > overflow) || (q2 > overflow)){
+if (p2 == overflow){
+if ((p2 >= 1) || (q2 >= 1)){
+if ((p2 = p2) || (q2 = q2)){
+if ((p2 (unsigned char) overflow) || (q2 <(unsigned char) overflow)){
+if ((p1 > overflow) || (q2 > overflow)){
+if ((p2 > overflow) || (p2 overflow)){
+if ((p2 > x) || (q2 > x)){
+if ((p2 &overflow)){
+if ((p2 > overflow) || (q2 > overflow) || (p2 <(q2 - q2))){
+if ((p2 = overflow) || (q2 = overflow)){
+if ((p2 > h2) || (q2 > h2)){
+if (p2 > q2){
+if ((p2 >= overflow) || (q2 > overflow)){
+if (p2 overflow || (q2 &overflow)){
+if (((p2 > overflow) || (q2 overflow)){
+if ((p2 == 0) || (q2 == 0)){
+if ((p2 > 1) || (q2 > 1)){
+if ((p2 int) || (q2 <int)){
+if ((p2 > overflow) || (q2 > overflow) || (n &maxIterations && FastMath.abs(convergent - value) > epsilon)){
+if ((p2 > maxIterations) || (q2 > maxIterations)){
+if ((p2 > overflow) && (q2 overflow)){
+if ((p2 (double)overflow) || (q2 &(double)overflow)){
+if((p2 > overflow) || (q2 > overflow)){
+if ((p2 > overflow) || q2 &overflow){
+if (*(p2 > overflow) || *(q2 > overflow)){
+if ((p2 <overflow) || (q2 > overflow)){
+if ((p2 > overflow) || (q2 &overflow)){
+if ((p2 <p2) || (q2 &p2)){
+if ((p2 &r2) || (q2 &r3)){
+if ((p2 > overflow) || (Q2 > overflow)){
+if (p2 > overflow || q2 > overflow){
+if ((p2 == overflow) && (q2 == overflow)){
+if (((p2 &overflow) || (q2 overflow)){
+if ((p2 &p2 - 1) || (q2 &p2 - 1)){
+if ((p2 <0) || (q2 &0)){
+if ((p2 > overflow) && (q2 > overflow)){
+if ((p2 &op) || (q2 op)){
+if ((p2 = p2) > overflow) || (q2 = q2)){
+if ((p2 &0) || (q2 0)){
+if ((p2 <(l)2) || (q2 <(l)2)){
+if ((p2 (l)2) || (q2 (l)2)){
+if ((p2 overflow) || (q2 <overflow)){

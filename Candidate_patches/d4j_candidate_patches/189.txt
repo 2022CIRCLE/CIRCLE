@@ -1,0 +1,547 @@
+golden:
+if (parent != null && parent.getType() == Token.ASSIGN) {
+inference:
+if (parent!= null){
+if (parent){
+if (parent!= null){
+if (parent!= null && parent){
+if (n.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NUMBER){
+if (!parent && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent!= n){
+if (parent!= null || parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if(parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (parent!= null && parent.getType()!= Token.ASSIGN){
+if (parent!= null && parent == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent){
+if (parent!= null && type == Token.ASSIGN){
+if (!parent){
+else if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null &&!parent.getType()){
+if (parent && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NUMBER){
+if (parent!= null && parent.getType() == Token.null){
+if (parent == null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= null && parent!= n){
+if (n!= null && parent.getType() == Token.ASSIGN){
+if (parent!= n && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.STRING){
+if (parent!= null && pType == Token.ASSIGN){
+if (parent == null){
+if (n.getType() == Token.ASSIGN){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= n){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null || parent.getType() == Token.ASSIGN){
+if (parent!= node && parent.getType() == Token.ASSIGN){
+if (parent!= parent){
+if (parent!= null && parent.getType() == Token.false){
+if (parent == n){
+if (n!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SIGN){
+if (!parent.getType()){
+if (aType!= Token.ASSIGN){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= nil && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= null &&!parent){
+if (parent.getType() == Token.ASSIGN){
+if (parent!= null && parent == Token.ASSIGN){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (child!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType()!= Token.ASSIGN){
+if ((parent!= null) || parent.getType() == Token.ASSIGN){
+if (parent!= null && aType == Token.ASSIGN){
+if (parent!= NUL && parent.getType() == Token.ASSIGN){
+if (parent!= null && t.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SUCCESS){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && type == Token.ASSIGN){
+if (parent!= null &&!parent.getType()){
+if (null!= parent){
+if (!parent || parent.getType() == Token.ASSIGN){
+if (pType!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.Unknown){
+if (parent!= null && parent.getType() == Token.NONE){
+if (parent == null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASM){
+if (type == Token.ASSIGN){
+if (pType == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.true){
+if (type!= Token.ASSIGN){
+if (parent!= null && parent.Type() == Token.ASSIGN){
+if (parent!=null && parent.getType() == Token.ASSIGN){
+if(parent){
+if (parent!= null && parent.getType() == Token.ABSIGN){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (parent!= null && parent!= parent.getType()){
+if (parent!= null && parent.getType() == Token.String){
+if (*parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent!= null){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (t.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token){
+if (parent!= null && parent.getType() == Node.ASSIGN){
+if(parent!= null){
+if (parent!= null && parent.getType() == Token.null){
+if (parent!= null && parent.getType() == Token.XUL){
+if (parent!= null && parent.getType() == Token_ASSIGN){
+if (aType == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NAME){
+if (parent!= 0 && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ANY){
+if (parent == null){
+if (parent!= null && parent.getType() == Token.STRING){
+if (parent!= null && n.type == Token.ASSIGN){
+if (parent!= parent.getType()){
+if (parent!= null && pType == Token.ASSIGN){
+if (!parent.getType() && parent.getType() == Token.ASSIGN){
+if (parent!= null && *parent.getType() == Token.ASSIGN){
+if (n!= n && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent!= null){
+if (n.type == Token.ASSIGN){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= this){
+if (parent!= null && parent.getType() == Token.A){
+if (parent!= null && parent == n){
+if (parent!= null && parent.getType() == Token.UNKNOWN){
+if (*parent){
+if (parent!= null && parent!= parent){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NA){
+if (parent!= null && parent.getType() == Token.CLASS){
+if (parent!= null && parent.getType() == Token.ALIGN){
+if (Parent!= null && parent.getType() == Token.ASSIGN){
+if (n.type!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SIGN){
+if (parent!= null && parent.getType() == Token::ASSIGN){
+if (parent!= null && parent.getType() == Token.OBJECT){
+if (parent!= null && parent.getType() == Token.PRIVATE){
+if (n == parent){
+if (parent!= null && parent.getType() == Token.false){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= null && (parent.type == Token.ASSIGN)){
+if (parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.FUNCTION){
+if (parent!= null &&!parent){
+if (parent!= null && parent.getType() == Token.BLOCK){
+if (parent!= null && parent.getType() == TOKEN_ASSIGN){
+if (parent!= null && parent.getType() == Token.Z){
+if (mType!= Token.ASSIGN){
+if (!parent &&!parent.getType()){
+if (parent!= null && *parent){
+if (parent!= null && parent.getType() == Token.INT){
+if (parent!= null && parent.getType() == Token.DISPLAY){
+if (parent!= null && parent.getType() == Token.TOKEN){
+if (parent!= null && (parent.type() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.IGN){
+if (parentType!= Token.ASSIGN){
+if (parent!= null && parent!= null){
+if (n.type() == Token.ASSIGN){
+if (parent!= node){
+if (parent!= null && parent.getType() == Token.Type){
+if (parent!= null && parent!= null){
+if (parent!= null && parent.getType() == Token.ASM){
+if (parent!= null && parent.getType() == Token.NO_SIGN){
+if (parent!= null && parent.getType() == Token.Assign){
+if (parent!= null && parent.getType() == Token.TEXT){
+if (parent!= null && parent.getType() == Token.ASCII){
+if (n == n){
+if (parent!= null && parent.getType() == Token.UNIQUE){
+if (n.getType()!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.AUTO){
+if (parent == parent){
+if (parent!= null && parent.getType() == Token.Unknown){
+if (parent!= null && parent.getType() == Token.TYPE){
+if (parent!= null && parent.getType() == Token.INLINE){
+if (parent!= null && parent.getType() == Token.LONG){
+if (parent!= null && parent.getType() == Token.Arena){
+if (parent && parent){
+if (parent!= null && parent.getType() == Token.ACCESSIGN){
+if (parent!= null && parent.getType() == Token.Node){
+if (Parent!= null){
+if (n!= parent){
+if (parent!= null && parent.getType() == Token.NAME){
+if (parent!= null && parent.getType()!= Token.NUMBER){
+if (parent!= null && parent.getType() == Token.PRInt32()){
+if (parent!= null && parent.getType() == Token.STYLE){
+if (parent!= null && parent.getType() == Token.SAFE){
+if (parent!= null && parent.getType() == Token.Token){
+if (parent!= null && parent.getType() == Token.PRInt32){
+if (parent!= null && parent.getType() == Token.Assignment){
+if (n){
+if (n!= n){
+if (parent!= null)  Node lhs = parent.getFirstChild();{
+if (parent!= null && parent.getType() == Token.NO_STYLE){
+if (parent!= null{
+if (mParent){
+
+if (parent!= null && parent.getType() == Token.PRUint32){
+if (parent!= null && parent.getType() == Token.EXPECTED){
+if (parent!= null && (parent.type!= Token.ASSIGN)){
+if ( parent!= null && parent.getType() == Token.ASSIGN){
+if (child){
+if ( parent!= null && parent.getType() == Token.ASSIGN ){
+if (parent!= null && parent.getType() == Token.IsSupported){
+if (parent!= null && parent.getType() == Token.COMPARISON_ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_SUCCESS){
+if (parent!= null && parent.getType() == Token.THINK){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null &&!parent.isEmpty()){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.NoDE_ELEMENT){
+if (parent!= null && parent.getType() == Token.NOT_EMPTY){
+if (parent!= null && parent.getType() == Token.ASSIGN ||!parent.getType()){
+if (parent!= null && parent!= n && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BINARY){
+if (parent!= null && parent.getType() == Token.Empty){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.COMPARISON_ASSIGN){
+if (parent!= null && parent.getType() == Token.COMPLETE){
+if (parent!= null && parent.getType() == Token.XPathImpl){
+if ((parent!= null) && parent.getType() == Token.ASSIGN){
+if (!(parent!= null) && (parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.STYLE_CSTRING){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.hasThisType() || jsDoc.isOverride()){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SVG){
+if (!(parent!= null && parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.NO_CLASS){
+if (parent!= null && parent.getType() == Token.STYLE_TABLE_CLASS){
+if (parent!= null && parent.getType() == Token.SIGINT){
+if (parent!= null && parent.getType() == Token.COMPAT){
+if (!parent.isAbort() && parent.getType() == Token.ASSIGN){
+if (parent!= null &&!(parent!= n) && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ABSIGN){
+if (parent!= null && parent.getType() == Token.FIPSIGN){
+if (parent!= null && parent.getType() == Token.Disabled){
+if (parent!= null &&!parent.isInstance()){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.UnsignedInteger){
+if (parent!= null && parent.getType() == Token.NO_STATIC){
+if (parent!= null && n.type() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.AUTH_SIGN){
+if (parent!= null && parent.getType() == Token.LIST_ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_SUPPORTS){
+if (parent!= null &&!parent.hasAssignment){
+if (parent!= null && parent!= parent.getType()){
+if (parent!= null && parent.getType() == Token.IsEmpty()){
+if (parent!= null && parent.getType() == Token.LAST_CHAR){
+if (parent!= null && parent.getType() == Token.TOKEN_ALIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.STRING || parent.getType() == Token.LITTLE_PARENT){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.hasThisType() || jsDoc.isOverride()){
+if (parent!= null && parent.getType() == Token.OBJECT){
+if (parent!= null && parent.getType() == Token.CaseInsensitive){
+if (parent!= null && parent.getType() == Token.NO_SIGN){
+if (parent!= null && parent.getType() == Token.PRUint32()){
+if (parent!= null && parent.getType() == Token.SUCCESS){
+if (parent!= null && parent.getType() == Token.BUSY){
+if (parent!= null && parent.getType() == Token.UNKNOWN_ENCODING){
+if (parent!= null && parent.getType() == Token.NO_THING){
+if (parent!= null && parent.getType() == Token.TOKEN_ASSIGN){
+if (parent!= null && parent.getType() == Token.THREAD_EXPECTED){
+if (parent!= null && parent.getType() == Token.Assign){
+if (parent!= null && parent.getType() == Token.BULLET_NAME){
+if (parent!= null && parent.getType() == Token.Func){
+if (parent!= null && parent.getType() == Token.INT_ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BOOLEAN){
+if ((parent!= null) && (parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.ASM_TOKEN){
+if (!parent.hasAttributes){
+if (parent!= null && parent.getType() == Token.STRING ||!parent.getName()){
+if (parent!= null && &parent.getType() == Token.ASSIGN){
+if ((parent!= null) && (parent.type() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.STYLE_NONE){
+if (parent!= null && parent.getType() == Token.ASSIGN ||!parent.isEmpty()){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.NUMBER){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BLOCK){
+if (parent!= null && parent.getType() == Token.DISPLAY_SIGN){
+if (parent!= null && jsDoc.iStyles && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.CONTRACTID){
+if (parent!= null && parent.getType() == Token.X){
+if (!parent.hasAttributes() && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SINGLE){
+if (parent!= null &&!(parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.no_type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NOT_SUCCESS){
+if (parent!= null && parent.getType() == Token.PNG){
+if (parent!= null && parent.getType() == Token.A_SUCCESS){
+if (parent!= null) <Node lhs = parent.getFirstChild();{
+if (parent!= null && parent.getType() == Token.ASSIGN ||!parent.getType()){
+if (parent!= null && parent.getType() == Token.XPathImpl){
+if (parent!= null && parent.getType() == Token.NO_SUCCESS){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.UnsignedInteger){
+if (aType == Token.ASSIGN){
+if (parent!= null && *parent){
+if (parent!= null && parent.getType() == Token_ASSIGN){
+if (!parent){
+if (parent!= null && parent.getType()!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_SIGN){
+if (parent!= null && parent.getType() == Token){
+if (parent!= null && parent.getType() == Token.NA){
+if (n.getType()!= Token.ASSIGN){
+if (n!= n && parent.getType() == Token.ASSIGN){
+if (parent!= null && aType == Token.ASSIGN){
+if (parent == parent){
+if (parent!= null && parent.getType() == Token.STRING ||!parent.getName()){
+if (parent!= null && parent.getType() == Token.DISPLAY){
+if (parent!= NUL && parent.getType() == Token.ASSIGN){
+if (n.type!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.EXPECTED){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= null && t.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.PRInt32){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if(parent){
+if (n!= parent){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SAFE){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.hasThisType() || jsDoc.isOverride()){
+if (parent!= null) &Node lhs = parent.getFirstChild();{
+if (parent!= null && parent.getType() == Token.STYLE){
+if (*parent){
+if (parent!= null && (parent.type!= Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.XUL){
+if (parent!= null && parent.getType() == Token.null){
+if (parent!= null && parent.getType() == Token.A_SUCCESS){
+if (parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= null && parent){
+if (parent!= null && parent.getType() == Token.SIGN){
+if (parent!= null && parent.getType() == Token.PRIVATE){
+if (!parent.hasAttributes){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent && parent){
+if (parent!= null){
+if (!(parent!= null && parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.no_type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.SIGINT){
+if (parent!= null && parent.getType() == Token.Assign){
+if (parent!= null){
+if (mType!= Token.ASSIGN){
+if (parent!= null && parent!= null){
+if (parent!= null && parent!= n && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ALIGN){
+if (parent!= null && parent.getType() == Token.SINGLE){
+if (parent!= null && parent.getType() == Token.CLASS){
+if ((parent!= null) && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASM_TOKEN){
+if (aType!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.Assign){
+if (parent!= this){
+if (parent!= null && parent.getType() == Token.UNKNOWN_ENCODING){
+if ( parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= node && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.BULLET_NAME){
+if (parent!= n && parent.getType() == Token.ASSIGN){
+if (parent == n){
+if (parent!= null && parent.getType() == Token.NO_SIGN){
+if (parent!= null && parent.Type() == Token.ASSIGN){
+if ( parent!= null && parent.getType() == Token.ASSIGN ){
+if (parent!= null && parent.getType() == Token.INT_ASSIGN){
+if (Parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASM){
+if (parent!= null && &parent.getType() == Token.ASSIGN){
+if (parent!= null && parent!= null){
+if (parent!= null && parent.getType() == Token.UNKNOWN){
+if(parent!= null && parent.getType() == Token.ASSIGN){
+if (parent){
+if (parent!= null && parent.getType() == Token.NAME){
+if (parent!= null && parent.getType() == Token.CONTRACTID){
+if (parent!= null && parent!= parent){
+if (parent!= null && parent.getType() == Token.Func){
+if (parent!= null && parent.getType() == Token.IGN){
+if (!parent.getType()){
+if (n == n){
+if (!parent && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.X){
+if (parent!= nil && parent.getType() == Token.ASSIGN){
+else if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent!= parent.getType()){
+if (*parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null &&!parent.getType()){
+if (parent!= null && parent.getType() == Token.SUCCESS){
+if (parent!= null && parent.getType() == Token.INT){
+if (parent!= null &&!parent){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.NUMBER){
+if (type == Token.ASSIGN){
+if (!parent || parent.getType() == Token.ASSIGN){
+if (parent!= null && (parent.type == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.false){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BOOLEAN){
+if (parent!= null && parent.getType() == Token.PNG){
+if (parent!= null && parent.getType() == Token.SVG){
+if (parent!= null && parent.getType() == Token.NONE){
+if (parent!= null && parent.type() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.Unknown){
+if (parent!= null && parent.getType() == Token.Empty){
+if (parent == null){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.STRING || parent.getType() == Token.LITTLE_PARENT){
+if (parent!= null && parent.getType() == Token.Unknown){
+if (parent && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.AUTH_SIGN){
+if (parent!= null && parent.getType() == Token.NO_CLASS){
+if (n){
+if (!parent.hasAttributes() && parent.getType() == Token.ASSIGN){
+if (n!= n){
+if (parent!= null && parent.getType() == Token.NUMBER){
+if (parent!= null && parent.getType() == Token.BUSY){
+if (mParent){
+if (type!= Token.ASSIGN){
+if (parent!= null && (parent.type() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.LONG){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BINARY){
+if (null!= parent){
+if (parent!= null && parent.getType() == Token.STRING){
+if (n.type == Token.ASSIGN){
+if (parent!= null && parent!= n){
+if (pType == Token.ASSIGN){
+if (n.type() == Token.ASSIGN){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= null && parent){
+if (parent!= null && parent.getType() == Token.UNIQUE){
+if (parent!= null && parent!= null){
+if (parent!= null && parent.getType() == Token.LIST_ASSIGN){
+if (parent!= null && parent.getType() == Token.STRING){
+if (n.getType() == Token.ASSIGN){
+if (n == parent){
+if (!parent.isAbort() && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.Assignment){
+if (parent == null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NOT_SUCCESS){
+if (parent!= null && parent.getType() == Token.COMPARISON_ASSIGN){
+if (parent!= null && parent.getType() == Token.Token){
+if (parent!= null && jsDoc.iStyles && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Node.ASSIGN){
+if (parent!= null && parent.getType() == Token.ABSIGN){
+if ((parent!= null) && (parent.type() == Token.ASSIGN)){
+if (parent!= null){
+if (parent!= 0 && parent.getType() == Token.ASSIGN){
+if ((parent!= null) || parent.getType() == Token.ASSIGN){
+if (child){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && n.type == Token.ASSIGN){
+if (pType!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.BLOCK){
+if (parent!= null &&!(parent!= n) && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.STYLE_NONE){
+if (parent!= null &&!parent.hasAssignment){
+if (n.getType() == Token.ASSIGN){
+if (parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.TEXT){
+if (parent!= null && parent.getType() == Token.LAST_CHAR){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (parent!= null &&!parent.isEmpty()){
+if (n!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType()!= Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.THREAD_EXPECTED){
+if (parent!= null && parent.getType() == Token.TOKEN){
+if (parent!= null && parent.getType() == Token.COMPARISON_ASSIGN){
+if (parent!= null && pType == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.null){
+if (parent!= null && parent.getType() == Token.PRUint32){
+if (parent!= null && parent.getType() == Token.OBJECT){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.OBJECT){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.NoDE_ELEMENT){
+if (parent!= null && parent!= null){
+if (parent!= null && parent.getType() == Token.ASSIGN || parent.getType() == Token.BLOCK){
+if ((parent!= null) && (parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.AUTO){
+if (Parent!= null){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= parent.getType()){
+if (parent!= null && parent.getType() == Token.SIGN){
+if (parent!= null && parent.getType() == Token.ASM){
+if (parent!= null && parent.getType() == Token.ASCII){
+if (parent!= null && parent.getType() == Token.NUMBER){
+if (parent!= null && n.type() == Token.ASSIGN){
+if (parent!= null && parent!= parent.getType()){
+if (parent!= null && parent.getType() == Token.Arena){
+if (parent!= null && parent.getType() == Token.Node){
+if (parent!= null && parent.getType() == Token.COMPAT){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.true){
+if (parent!= null && parent.getType() == Token.ASSIGN ||!parent.isEmpty()){
+if (parent!= null &&!parent.getType()){
+if (!parent.getType() && parent.getType() == Token.ASSIGN){
+if (parent!= parent){
+if (parent!= null && parent.getType() == Token.ABSIGN){
+if (parent!= null && parent.getType() == Token.THINK){
+if (parent!= null) Node lhs = parent.getFirstChild();{
+if (parent!= null && parent.getType() == Token.Type){
+if (parent!= null || parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_STATIC){
+if (n!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_STYLE){
+if(parent!= null){
+if (parent!= null && parent.getType() == Token.false){
+if (parent!= null &&!parent.isInstance()){
+if (parent!= null && pType == Token.ASSIGN){
+if (parent!= null && parent.GetType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.PRUint32()){
+if (parent!= null && parent.getType() == Token.FUNCTION){
+if (parent!= null && parent.getType() == Token.TYPE){
+if (parent!= null && parent.getType() == Token.String){
+if (!(parent!= null) && (parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.NAME){
+if (parent == null){
+if (parent!= null && parent.getType() == Token.TOKEN_ASSIGN){
+if (parent!= null && type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_THING){
+if (parent!= null && parent.getType() == Token.ANY){
+if (parent!= null && parent.getType() == Token.PRInt32()){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= node){
+if (parent!=null && parent.getType() == Token.ASSIGN){
+if (parent!= null && n.getType() == Token.ASSIGN){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (t.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.INLINE){
+if (parent!= null && type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.TOKEN_ALIGN){
+if (parent!= null && parent!= n){
+if (parent!= null && parent.getType()!= Token.NUMBER){
+if (!parent &&!parent.getType()){
+if (parent!= null && parent.getType() == Token.Disabled){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.STYLE_TABLE_CLASS){
+if (parent!= null && parent.getType() == Token.SUCCESS){
+if (parent!= null && parent.type == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.A){
+if (parent!= null && parent.getType() == TOKEN_ASSIGN){
+if (parentType!= Token.ASSIGN){
+if (parent!= null && parent == n){
+if (parent!= null && parent.getType() == Token.FIPSIGN){
+if (parent!= null && parent.getType() == Token.STYLE_CSTRING){
+if (parent!= null && parent.getType() == Token.DISPLAY_SIGN){
+if (parent!= null && *parent.getType() == Token.ASSIGN){
+if (parent!= null &&!(parent.getType() == Token.ASSIGN)){
+if (parent!= null && parent.getType() == Token.NOT_EMPTY){
+if (parent!= null || parent.getType() == Token.ASSIGN){
+if (child!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.NO_SUPPORTS){
+if (parent!= null && parent == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token::ASSIGN){
+if (parent!= null && parent.getType() == Token.IsSupported){
+if (parent!= null && parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null &&!parent){
+if (parent!= null && parent.getType() == Token.ASSIGN || jsDoc.hasThisType() || jsDoc.isOverride()){
+if (parent!= null && parent.getType() == Token.ASSIGN){
+if (parent!= null && parent.getType() == Token.COMPLETE){
+if (parent!= null && parent.getType() == Token.Z){
+if (parent!= null && parent.getType() == Token.CaseInsensitive){
+if (parent!= null && parent.getType() == Token.IsEmpty()){
+if (parent == null && parent.getType() == Token.ASSIGN){
+if (parent!= n){
+if (parent!= null && parent.getType() == Token.ACCESSIGN){

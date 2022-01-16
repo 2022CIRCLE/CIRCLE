@@ -1,0 +1,712 @@
+golden:
+this.parent = parent;  // only named functions may be hoisted. this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+inference:
+this.parent = parent;
+this.parent = parent;
+
+this(parent, root);
+this(parent);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, NodeUtil.isHoistedFunctionDeclaration(root));
+this.parent = root;
+this.root = parent;
+super(parent, root);
+this.root = root;
+this = parent;
+this(parent,root);
+super(parent);
+this.parent = parent; this.isHoisted = root;
+this.isHoisted = root;
+this(parent, parent);
+this.parent = parent; this.isHoisted = root;
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(parent);
+this(parent, node);
+this(parent, &root);
+this.parent = root;
+this(parent, Root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, parent);
+this (parent, root);
+this = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = null;
+this.isHoisted = parent;
+this(parent, null);
+this.isHoisted = root;
+this.parent = parent; this.isHoisted = NodeUtil.isHoisted(root);
+this(parent, root, 0);
+this.isHoisted = nodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, parent, root);
+this.parent = parent; NodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, NodeUtil);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(node);
+this.parent = parent; this.isHoisted = Root;
+this.parent = this;
+isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent = parent;
+this.flags = flags;
+this.parent = parent; NodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, 0);
+this(parent, null);
+basicBlock(parent, root);
+this.parent = parent; this.isHoisted = Root;
+this.base = base;
+super(root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(parent, root);
+this_parent = parent;
+nsresult rv;
+NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; this.isHoisted = NodeUtil.isHoisted(root);
+this.root = parent;
+this.isHoisted = Root;
+super(parent); this.isHoisted = root;
+this.parent = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; this.isHoisted = isHoisted;
+this.isHoisted = parent;
+this.parent = parent; this.isHoisted = null;
+this(parent, root, null);
+this.parent = parent; this.isHoisted = null;
+this.isHoisted = null;
+this.isHoisted = isHoisted;
+this(parent, nodeUtil);
+if (parent) this.parent = parent;
+this(null);
+this.node = parent;
+this.parent = null;
+this.parent = node;
+this.isHoisted = RootUtil.isHoistedFunctionDeclaration(parent);
+this.hasHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = null; this.isHoisted = null;
+this (parent);
+this.base = root;
+this.parent = parent = NodeUtil.isHoistedFunctionDeclaration(root);
+this.root = root;
+this(parent,root,root);
+this(parent) = parent;
+this.isHoisted = NodeUtil.isHoisted(root);
+this(parent, RootFunctionDeclaration);
+this.isHoisted = nodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent = root;
+this.parent = parent; this.isHoisted = root;
+this.isHoisted = Root.isHoistedFunctionDeclaration();
+this.parent = parent; this = NodeUtil.isHoistedFunctionDeclaration(root);
+super(parent); this.isHoisted = root;
+this.parent = parent; this.isHoisted = isHoisted;
+this.parent = parent; this.isHoisted = Root.isHoistedFunctionDeclaration();
+this.parent = parent; this.isHoisted = parent;
+this(node);
+this.type = type;
+this.isHoisted = Root.isHoisted;
+this.base = parent;
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration();
+this.isHoisted = BasicBlock.isHoistedFunctionDeclaration(root);
+this.parent = parent; *this = NodeUtil.isHoistedFunctionDeclaration(root);
+this(node, parent);
+this.parent = parent; this.isHoisted = Root.isHoistedFunctionDeclaration();
+this(parent, root, null);
+this(parent, nodeUtil.isHoistedFunctionDeclaration(root));
+super (parent, root);
+this._parent = parent;
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.isHoisted = Root;
+this(parent, NodeUtil, root);
+this(parent, root, false);
+this.parent = parent; this.isHoisted = parent;
+this(parent,node);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(parent);
+this.isHoisted = BasicBlockUtil.isHoistedFunctionDeclaration(root);
+this(parent, node, root);
+super.basicBlock(parent, root);
+this.parent = NodeUtil.isHoistedFunctionDeclaration(parent);
+this.parent = parent; this.isHoisted = Root.isHoisted;
+super(parent,root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, this);
+this.parent = parent; this.isHoisted = Root.isHoisted();
+this(parent, base);
+this = root;
+this.node = parent;
+this(root, parent);
+this.parent = parent.get();
+this.parent = parent; this.isHoisted = true;
+this.parent = parent; this.isHoisted = NodeUtil.isHoisted();
+this.parent = parent; nodeUtil.isHoistedFunctionDeclaration(root);
+this.__parent = parent;
+this.isHoisted = Root.isHoisted();
+this.parent = parent; this.isHoisted = Root.isHoisted;
+this.parent = parent; this.isHoisted = true;
+this.parent = null; this.isHoisted = null;
+this.parent = parent; this.isHoisted = IsHoisted(root);
+BasicBlock();
+if (parent) this.parent = parent; else this.parent = parent;
+this.isHoisted = BasicBlock();
+this.isHoisted = RootUtil.isHoistedFunctionDeclaration();
+this.parent = parent; #endif
+this();
+this(parent, root, true);
+this.parent = parent; nodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, root, NodeUtil.isHoistedFunctionDeclaration(root));
+this.isHoisted = base;
+super (parent);
+this.isHoisted = RootUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent = null;
+this.isHoisted = IsHoisted(root);
+this.parent = parent; #endif
+this.basicBlock = parent;
+super(parent, root); this.isHoisted = root;
+this(parent, RootFunction);
+this.root = null;
+parent = parent;
+if (root) this.parent = parent;
+this.parent = parent; this.isHoisted = IsHoisted(root);
+this.parent = parent; this.isHoisted = NodeUtil.isHoisted();
+nsresult rv = NS_OK;
+this(parent, root, false);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, parent);
+this.parent = parent; this.isHoisted = isHoistedFunctionDeclaration(root);
+this.parent = parent = parent;
+this(root);
+this.parent = parent; NS_ENSURE_ARG_POINTER(root);
+this.parent = parent; this.isHoisted = true;
+this.root = parent; this.isHoisted = root;
+this.parent = parent; NodeUtil.isHoisted(root);
+this.parent = nodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; this.isHoisted = IsHoistedFunctionDeclaration(root);
+this.isHoisted = NodeUtil.isHoisted();
+this.parent = parent; this.isHoisted = Root.isHoisted();
+this(parent, nodeUtil, root);
+this(parent, root, NodeUtil);
+this.base = parent; this.base = root;
+this.parent = parent; NS_ENSURE_ARG_POINTER(root);
+this.parent = parent; this.isHoisted = isHoistedFunctionDeclaration(root);
+this(parent, null, null);
+this.parent = parent; this.isHoisted = NodeUtil!= null;
+this.parent = parent; this.isHoisted = base;
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(node);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, root);
+this(parent, NodeUtil.isHoistedFunctionDeclaration(root), 0);
+this.parent = parent; this.isHoisted = IsHoistedFunctionDeclaration(root);
+#endif
+NS_ENSURE_ARG_POINTER(parent);
+NS_ENSURE_ARG_POINTER(root);
+this.root = root; this.parent = parent;
+this = NodeUtil.isHoistedFunctionDeclaration(parent);
+this.parent = parent; this.root = root;
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(Root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration( root );
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(&root);
+this.parent = parent; this.root = root;
+NodeUtil.isHoistedFunctionDeclaration(root, parent);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration();
+if (parent)  this.parent = parent;
+this.parent = parent = null; this.isHoisted = null;
+this.isHoisted = (nsIDOMNode*) root;
+this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsCRT::free(null);
+NS_PRECONDITION(parent, "bad function"); if (root) return (NODE_IS_BLACKED); this.isHoisted = root;
+if (parent && (parent.nodeType == nsHTMLAtoms::root))  if (parent.parent.nodeType == nsHTMLAtoms::root)  this.parent = parent;  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mHaveClient = 0; mRecycler = 0;
+this.hasFunction = parent;
+this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mHook = null;
+this.hasHoisted = Root;
+this.parent = parent; this.isHoisted = hhist;
+mType = BasicBlock(parent, aModType); mType.isVariable = aModType.isVariable; mType.isLimiter = aModType.isLimiter; mType.isIterator = aModType.isInline; mType.isVariable = aModType.isFunctionDeclaration;
+nsCOMPtrnsIDOMNode> root; if (!node) return;
+this.parent = parent; if (!parent)  fprintf(stderr, "basic block: %s", root);
+this.root = parent; this.root = root;
+if (root) this.parent = parent; else this.parent = null;
+this.parent = parent; /* only named functions may be hoisted. */ this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent)  this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);  else  this.isHoisted = true;
+this(parent, root, "Blocks");
+this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, &this.nodeType);
+this.parent = parent; if (root)  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; this.isHoisted = RootUtil.isHoistedFunctionDeclaration();
+this.parent = parent; this.isHoisted = mCX.isHoistedFunctionDeclaration(root);
+if (root) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; /* * Only named functions may be hoisted. */ this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; this.isHoisted = c.isHoisted;
+this.parent = parent; /* Only named functions may be hoisted. */ this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this(parent, null, null, null, null);
+this.parent = parent; if (root)  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+aPtr = null; if (nodeUtil.isHoistedFunctionDeclaration(aPtr))  this.parent = parent; aPtr = NodeUtil.isHoistedFunctionDeclaration(aPtr);
+this.parent = parent; if (root)  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);  else  this.isHoisted = 0;
+if (parent)  this.parent = parent;  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, getter_AddRefs(root));
+if (parent)  this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root)  this.parent = parent;  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv)  return NS_ERROR_NOT_INITIALIZED;  return rv;
+if (root == parent) return; if (root == parent) return; if (root == root) return;
+this.parent = parent; nsFunctionDeclaration* functionDeclaration = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock)  return;  mCurrentBlock = null;  if (null == mCurrentBlock)  return;  if (null == mCurrentBlock)  return;
+if (node)  this.parent = parent;  else  this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root)  aParent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(aRoot);
+this.parent = parent; this.isHoisted = RootUtil.isHoistedFunctionDeclaration(root);
+this.isHoisted =!IsHoisted(root);
+this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root, &isHoisted);
+nsresult rv = NS_OK; if (root)  rv = root.GetBlock(&parent); if (NS_FAILED(rv)) return rv;
+if (root == null)  nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext)))  rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv))  rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv))  rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv))  rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+
+if (root) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = true;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (node) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent;
+if (parent) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = true;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = 0;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = 0;
+if (root) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = true;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = 0;
+this.parent = parent; if (!parent) fprintf(stderr, "basic block: %s", root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = 0;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = NS_OK; if (root) <rv = root.GetBlock(&parent); if (NS_FAILED(rv)) return rv;
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = true;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = true;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (node) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = true;
+aPtr = null; if (nodeUtil.isHoistedFunctionDeclaration(aPtr)) this.parent = parent; aPtr = NodeUtil.isHoistedFunctionDeclaration(aPtr);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = true;
+if (parent) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv) <return NS_ERROR_NOT_INITIALIZED; return rv;
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = 0;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = true;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = true;
+if (node) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = 0;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = 0;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = true;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = NS_OK; if (root) rv = root.GetBlock(&parent); if (NS_FAILED(rv)) return rv;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+nsresult rv = NS_OK; if (root) &rv = root.GetBlock(&parent); if (NS_FAILED(rv)) return rv;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = 0;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = 0;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = 0;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+nsCOMPtr&nsIDOMNode> root; if (!node) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = 0;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = 0;
+if (root) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (node) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = 0;
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = true;
+if (node) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) <aParent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(aRoot);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (node) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+aPtr = null; if (nodeUtil.isHoistedFunctionDeclaration(aPtr)) &this.parent = parent; aPtr = NodeUtil.isHoistedFunctionDeclaration(aPtr);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = 0;
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = 0;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+aPtr = null; if (nodeUtil.isHoistedFunctionDeclaration(aPtr)) <this.parent = parent; aPtr = NodeUtil.isHoistedFunctionDeclaration(aPtr);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &aParent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(aRoot);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv) return NS_ERROR_NOT_INITIALIZED; &return rv;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = 0;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = true;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = true;
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = true;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = 0;
+nsresult rv = BasicBlock(); if (! rv) &return NS_ERROR_NOT_INITIALIZED; return rv;
+if (parent) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = 0;
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = 0;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (node) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = true;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = 0;
+if (root) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv) return NS_ERROR_NOT_INITIALIZED; return rv;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+nsresult rv = BasicBlock(); if (! rv) &return NS_ERROR_NOT_INITIALIZED; &return rv;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) return; &mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = true;
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+nsresult rv = BasicBlock(); if (! rv) <return NS_ERROR_NOT_INITIALIZED; &return rv;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = 0;
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = true;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = 0;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = true;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (node) <this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent;
+if (parent) <this.parent = parent;
+if (node) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsCOMPtr<nsIDOMNode> root; if (!node) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (node) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = true;
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (!parent) <fprintf(stderr, "basic block: %s", root);
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (node) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = true;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) &this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else this.isHoisted = 0;
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (!parent) &fprintf(stderr, "basic block: %s", root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; &if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = true;
+if (parent) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (root == null) &nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) return; mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = 0;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = true;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else <this.isHoisted = true;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; <if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; &mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else &this.isHoisted = 0;
+nsresult rv = BasicBlock(); if (! rv) &return NS_ERROR_NOT_INITIALIZED; <return rv;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; <if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = true;
+if (root) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) &this.parent = parent;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv) return NS_ERROR_NOT_INITIALIZED; <return rv;
+if (parent) <this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else this.isHoisted = true;
+mCurrentBlock = parent; if (null == mCurrentBlock) <return; <mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root) &this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; <if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;
+if (parent) this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); else &this.isHoisted = true;
+this.parent = parent; if (root) &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = 0;
+if (node) <this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); <else <this.isHoisted = true;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsCOMPtrnsIDOMNode> root; if (!node) return;
+if (root == null) <nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) &nsCOMPtr<nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) &rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+mCurrentBlock = parent; if (null == mCurrentBlock) return; <mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+nsresult rv = BasicBlock(); if (! rv) <return NS_ERROR_NOT_INITIALIZED; <return rv;
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent) <this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) &if (parent.parent.nodeType == nsHTMLAtoms::root) <this.parent = parent; else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; &else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (node) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+this.parent = parent; if (root) this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = 0;
+if (root == null) <nsCOMPtr&nsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (root == null) <nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) <rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) <rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else &this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) aParent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(aRoot);
+if (root == null) nsCOMPtrnsIPresContext> presContext; if (NS_SUCCEEDED(rv = GetPresContext(this, &presContext))) rv = presContext.GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) &rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv)) rv = GetPresContext(getter_AddRefs(presContext)); if (NS_SUCCEEDED(rv) && NS_SUCCEED
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; <else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; mCurrentBlock = null; if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (parent) &this.parent = parent; this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root); &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (root) &this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; &if (null == mCurrentBlock) return; if (null == mCurrentBlock) return;
+if (root) this.parent = parent; &else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; <mCurrentBlock = null; &if (null == mCurrentBlock) <return; if (null == mCurrentBlock) return;
+if (node) <this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent) <this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; &else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) <if (parent.parent.nodeType == nsHTMLAtoms::root) this.parent = parent; else <this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+if (parent && (parent.nodeType == nsHTMLAtoms::root)) if (parent.parent.nodeType == nsHTMLAtoms::root) &this.parent = parent; <else this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
+mCurrentBlock = parent; if (null == mCurrentBlock) &return; &mCurrentBlock = null; if (null == mCurrentBlock) &return; if (null == mCurrentBlock) return;

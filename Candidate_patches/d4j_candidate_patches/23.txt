@@ -1,0 +1,475 @@
+golden:
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || !(baseType instanceof PrototypeObjectType)) {
+inference:
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()){
+if (baseType.hasReferenceName()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType()){
+if(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType == null){
+if (baseType.hasReferenceName() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (rootType.hasReferenceName() || rootType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType){
+if (baseType.hasReferenceName() || isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || rootType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||! (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (BaseType.hasReferenceName() || BaseType.isUnknownType() || BaseType.isFunctionPrototypeType() ||!(BaseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType)){
+if (baseType.hasReferenceName() || isNativeObjectType() || (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType()){
+if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType)){
+if(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType.get())){
+if (baseType.get() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof prototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || BaseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.hasReferenceName() && baseType.isUnknownType() && isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType){
+if (baseType.hasReferenceName && baseType.isUnknownType && isNativeObjectType && baseType.isFunctionPrototypeType &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.hasFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || type.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() && isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isPrototypeType()){
+if (baseType == null ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == prototype)){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||! (baseType instanceof PrototypeObjectType)){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isType() ||!(baseType instanceof PrototypeObjectType)){
+if (type.hasReferenceName() || type.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(type instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName())  baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.functionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName())  baseType.isUnknownType();{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType())  baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||! (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() && isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.getUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType() && isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == null){
+if (baseType.hasReferenceName())  if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || hasFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType.isType())){
+if (baseType!= null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceofPrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType.isFunctionPrototypeType())){
+if (baseType.referenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.getFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName || baseType.isUnknownType()){
+if (baseType.hasPrototype() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || getter_AddRefs(baseType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() ||!baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (!baseType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == null ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType() &&!(baseType instanceof PrototypeObjectType)){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType) || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == PrototypeObjectType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType())  baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.getPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof prototypeObjectType)){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof Type)){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()) || (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType())  if (isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.isUnknownType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || (baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType));{
+if (baseType == PrototypeObjectType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || basicType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType())  baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);  else{
+if (baseType.isUnknownType()){
+if (!baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isPrototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType(){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceofPrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!baseType.isFunctionPrototypeType()){
+if (!(baseType.hasReferenceName())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == prototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!( baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType())  if (!(baseType instanceof PrototypeObjectType)){
+if (! (baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == prototypeType)){
+if (!(baseType.hasReferenceName()) || baseType.isUnknownType()){
+if (baseType == prototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType(){
+if (baseType.hasReferenceName() ||!(baseType instanceof PrototypeObjectType) || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (isNativeObject){
+if (!(baseType instanceof PrototypeObjectType) && baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof NodeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType(){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()||!(baseType instanceof PrototypeObjectType)){
+if (baseType.get() == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isSyntaxType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || ((baseType == PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isType() || baseType.isType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IBidg)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!baseType.hasPrototypeType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ProtocolObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof prototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IsType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isPrototypePrototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isLossy)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == EOF)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isIntPrototype(registry)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isBindingType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.get())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PRUint32)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!baseType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof NS_STATIC_CAST(nsPrototype)))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isContentType() ||!IsBlockType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.hasFunctionType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isDependentType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isFunctionPrototype() && baseType.isAssignmentType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == null) || (baseType == null))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof pdb)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof if_PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isUnknown)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!((FunctionType) baseType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.hasPrototypePrototype())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isPrototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isNativeType() || isNativeObjectType() || isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.get())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == NS_INTERFACE_NO_OBJECT)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof ObjectType) ||!(baseType instanceof ObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IPv6PrototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isFunctionType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType == null){
+if (baseType.get() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof NodeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.get())){
+if (baseType.hasReferenceName() && baseType.isUnknownType()){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.isUnknownType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName()) if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isPrototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isBindingType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() ||!(baseType instanceof PrototypeObjectType) || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType == prototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) if (!(baseType instanceof PrototypeObjectType)){
+if (!baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || ((baseType == PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof ObjectType)){
+if (baseType!= null){
+if (baseType.hasReferenceName()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!baseType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || isNativeObjectType() || (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.getFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() && baseType.isUnknownType() && isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == prototype){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.isUnknownType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); else{
+if (baseType.hasReferenceName() ||!baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType() &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); <else{
+if (baseType.hasReferenceName()) <if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || rootType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isDependentType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName()){
+if (!baseType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) <if (!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType()){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.hasReferenceName() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType()){
+if (baseType == null ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType.get())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isNativeType() || isNativeObjectType() || isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IBidg)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||! (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||! (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!baseType.isFunctionPrototypeType()){
+if (baseType.hasPrototype() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType.isType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof prototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType.hasReferenceName())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isFunctionPrototype() && baseType.isAssignmentType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType) || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); else{
+if (baseType.hasReferenceName && baseType.isUnknownType && isNativeObjectType && baseType.isFunctionPrototypeType &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isIntPrototype(registry)){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof pdb)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof PrototypeObjectType))){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == PrototypeObjectType){
+if(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!((FunctionType) baseType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || basicType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isType() || baseType.isType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.functionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isFunctionType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.hasPrototypePrototype())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceofPrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.getPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); else{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||! (baseType instanceof PrototypeObjectType)){
+if (rootType.hasReferenceName() || rootType.isUnknownType() || isNativeObjectType() || rootType.isFunctionPrototypeType() ||!(rootType instanceof PrototypeObjectType)){
+if (baseType == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IsType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof prototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() && isNativeObjectType()){
+if (baseType.hasReferenceName()) <baseType.isUnknownType();{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof prototypeObjectType)){
+if (baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) <if (isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.getUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || type.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof Type)){
+if (baseType.referenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.get())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isPrototype){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) &if (isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == NS_INTERFACE_NO_OBJECT)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == null ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); <else{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isUnknown)){
+if (baseType.hasReferenceName() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName()){
+if (!(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == prototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!isSyntaxType()){
+if (type.hasReferenceName() || type.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(type instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isPrototype){
+if (baseType.hasReferenceName()) baseType.isUnknownType();{
+if (baseType == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || getter_AddRefs(baseType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!baseType.hasPrototypeType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType()){
+if (isNativeObject){
+if (baseType.hasReferenceName() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType)){
+if (BaseType.hasReferenceName() || BaseType.isUnknownType() || BaseType.isFunctionPrototypeType() ||!(BaseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof NS_STATIC_CAST(nsPrototype)))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if ( baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() ||!isNativeObjectType()){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == null) || (baseType == null))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType.isContentType() ||!IsBlockType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof IPv6PrototypeType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType() || isNativeObjectType() && baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) if (isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) &if (!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || BaseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName()) &baseType.isUnknownType();{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isPrototypePrototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PROtotypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) &baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); &else{
+if (baseType.hasReferenceName() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) || (baseType == EOF)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (!(baseType instanceof PrototypeObjectType) && baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); &else{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isPrototypeType()){
+if (!(baseType instanceof PrototypeObjectType) || baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.isUnknownType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PRUint32)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof if_PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() &&!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName()) &if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType);{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof ObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.hasFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ProtocolObjectType)){
+if (!(baseType.hasReferenceName()) || baseType.isUnknownType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == prototype)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.isLossy)){
+if (baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType == null){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()) || (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); <else{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || hasFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || (baseType.isFunctionPrototypeType() || (baseType instanceof PrototypeObjectType))){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) || (!(baseType instanceof ObjectType) ||!(baseType instanceof ObjectType))){
+if (baseType.hasReferenceName){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceofPrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!( baseType instanceof PrototypeObjectType)){
+if (baseType == PrototypeObjectType){
+if (! (baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() && baseType.isUnknownType() && isNativeObjectType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() && isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isFunctionPrototypeType()){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof ObjectType)){
+if (!(baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType())){
+if (baseType.hasReferenceName() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType == PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if ((baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType){
+if (baseType.hasReferenceName() || baseType.isUnknownType()) <baseType = new PrototypeObjectType( registry, this.getReferenceName() + ".prototype", baseType); &else{
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || isFunctionType() ||!(baseType instanceof PrototypeObjectType)){
+if (isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
+if (baseType.get() == null){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()){
+if (baseType.isUnknownType() || isNativeObjectType() || isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || type.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || baseType.isPrototypeType() ||!(baseType instanceof PrototypeObjectType)){
+if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() ||!(baseType instanceof PrototypeObjectType) ||!(baseType.hasFunctionType())){

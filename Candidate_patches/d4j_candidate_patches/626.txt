@@ -1,0 +1,354 @@
+golden:
+return VariableLiveness.KILL;
+inference:
+return VariableLiveness;
+return VariableLiveness.READ;
+
+return VariableLiveness.KILL;
+return VariableLiveness.KILL;
+return VariableLiveness.true;
+return VariableLiveness_KILL;
+return VariableLiveness.value;
+return VariableLiveness.PR_KILL;
+return VariableLiveness::KILL;
+return VariableLiveness.false;
+return VariableLiveness.VALUE;
+return VariableLiveness(variable);
+return VariableLiveness.FILL;
+return VariableLiveness.true;
+return VariableLiveness.MAX_VALUE;
+return VariableLiveness.read;
+return (VariableLiveness.KILL);
+return VariableLiveness.get();
+return variable.KILL;
+return VariableCfg.KILL;
+return VariableLiveness.false;
+return VariableLiveness.NONE;
+return VariableLiveness.kill;
+return VariableLiveness.kILL;
+return VariableValue.KILL;
+return VariableLiveness.true;
+return VariableLiveness.INVALID;
+result = VariableLiveness.KILL;
+return VariableLiveness.Read;
+return VariableVariableLiveness.KILL;
+return VariableLiveness.Kill;
+return VARIABLE_KILL;
+return VariableLiveness().KILL;
+return KILL;
+return VariableLiveness.VALID;
+return VariableLiveness.PILL;
+return VariableUtil.KILL;
+return VariableLiveness.KILL_VALUE;
+return VariableLiveness.EMPTY;
+return VariableLiveness.OK;
+return VariableLiveness.prev;
+return VariableLiveness(n);
+return VariableLiveness.GetKill();
+return VariableLiveness.Milliseconds;
+return VariableLiveness.Kill();
+return VariableLiveness.MAX_KILL;
+return VariableLiveness.CANCEL;
+return VARIABLELiveness.KILL;
+return VariableLiveness.CR;
+return VariableLiveness.KILL_NONE;
+return VariableLiveness.SUCCESS;
+return VariableLiveness.IsVariable;
+return VariableLocale.KILL;
+return VariableLiveness.toString();
+return VariableLiveness.size();
+return VariableChildren.KILL;
+return VariableCode.KILL;
+return VariableLetter.KILL;
+return VariableLiveness.Readable;
+return VariableLiveness.eKILL;
+ret = VariableLiveness.KILL;
+return VariableCfgNode.KILL;
+Return VariableLiveness.KILL;
+return NS_OK;
+return VariableLiveness.IS_KILL;
+return VariableLivenessImpl.KILL;
+return VariableLiveness.reason;
+return VariableLiveness.mKILL;
+return VariableLong.KILL;
+return VariableLiveness.PRIVATE;
+return VariableLiveness.Fill;
+return VariableLiveness(KILL);
+return VariableCurrentLiveness.KILL;
+return VariableLiveness.null;
+return VariableLiveness.RHS;
+return VariableLiveness.KILL();
+return VariableLiveness.REFERENCE;
+return VariableChild.KILL;
+return variable.kILL;
+return variable;
+return aVariableLiveness.KILL;
+return VariableData.KILL;
+return VariableLiveness.Truncate();
+return (VariableLiveness)KILL;
+return false;
+return VariableVariable.KILL;
+return VariableLiveness.NA;
+return VariableLiveness.FLAG_KILL;
+return VariableLiveness.ML;
+return VariableLiveness.CLONE;
+return VariableLiveness.LOCK;
+return VariableLiveness.ANY;
+return VariableLiveness.1;
+return VariableLiveness.ACTIVE;
+return VariableLiveness.PRESENT;
+return VariableLiveness.Milli;
+return VariableLiveness.None;
+return VariableLiveness.isVariable;
+return VariableLiveness.CILL;
+return VariableLiveness.Ready;
+return VariableLiveness.CURRENT;
+return VariableLiveness.BOOLEAN;
+return VariableLiveness.LOOKUP;
+return VariableLoad.KILL;
+return Variable(variable);
+return VariableLiveness.PER_KILL;
+return VariableLiveness.CACHE;
+return VariableLiveness.DR;
+return VariableLiveness.VISUAL;
+return VariableLiveness.COMPLETE;
+return VariableKill;
+return VariableLiveness.ready;
+rv = VariableLiveness.KILL;
+return VariableLiveness.Variable;
+return VariableLiveness.CACHE_KILL;
+return VariableLiveness.aValue;
+return VariableLiveness);
+return VariableLiveness.TAIL;
+return VariableLiveness.size;
+return VariableLiveness.copy();
+return VariableLiveness.KEY;
+return VariableLiveness.COUNT;
+return VariableLiveness.KILL_COUNT;
+return VariableLiveness(VariableLiveness);
+return VariableLiveness.PRESS_KILL;
+return VariableLiveness.PKILL;
+return VariableLiveness.COLOR;
+return VariableLiveness.WITH_KILL;
+return VariableLiveness.TYPE;
+return VariableLiveness.MODIFIED;
+return VariableLiveness.type;
+return VariableLiveness.mVariable;
+return VariableLiveness.USE_KILL;
+return VariableLiveness.PRUint32;
+return VariableLiveness.CALLBACK;
+return VariableLiveness.KILL_KILL;
+return VariableLiveness.primitive;
+return VariableLiveness.create(variable);
+return VariableLiveness.LIVE;
+return VariableLiveness.DR_KILL;
+return VariableLiveness.isVariable();
+return VariableLiveness.BeforeKill;
+return VariableLiveness.CONG;
+return VariableLiveness.PUBLIC;
+return VariableLiveness.TYPE_KILL;
+return VariableLiveness.REMOVE_KILL;
+return VariableLiveness.PRINTING;
+return VariableLiveness.DISPLAY;
+return VariableLiveness.REMOVE;
+return VariableLiveness.MOUSE;
+return VariableLiveness.CFG_KILL;
+return v;
+return VariableLiveness.Empty;
+return VariableLiveness.MAX;
+return VariableLiveness.CALL;
+return VariableLiveness.PRINT_KILL;
+return VariableLiveness.absoluteKill;
+return rv;
+return VariableLiveness
+return VariableLiveness.READ_KILL;
+return VariableLiveness.REFLOW;
+return Variable;
+return VariableLiveness.KILL_READ;
+return VariableLiveness.RealKill;
+return VariableLiveness.LOCAL_KILL;
+return VariableLiveness.FLAGS;
+return VariableLiveness.VARIABLE;
+return VariableLiveness.createKill;
+return VariableLiveness.KILL_AUTO;
+return VariableLiveness.KILL_2;
+return VariableLiveness.CONTENT;
+return VariableLiveness.isKill;
+variable = VariableLiveness.KILL;
+return result;
+return VariableLiveness.LIST_KILL;
+return VariableLiveness.MILLISECONDS;
+return 0;
+return false;
+return VariableLiveness.KILL_ANY;
+return VariableLiveness.KILL(n);
+return VariableLiveness.KILL_ACTIVE;
+return VariableLiveness.PRINTF;
+break;
+return VariableLiveness.KILL_ALLOW;
+return n;
+return VariableLiveness.DEVICE;
+return VariableLiveness.EXPECTED;
+return null;
+return VariableLiveness.KILL_FILL;
+return VariableLiveness.KILL_LOW;
+return VariableLiveness.KILL_PARSE;
+return VariableLiveness.LIST_INIT_WRITABLE;
+return VariableLiveness.Read);
+return VariableLiveness.MilliPLEX;
+return VariableLiveness.KILL_DEAD;
+return VariableLiveness.create();
+return VariableLiveness.MAX_VILL;
+return VariableLiveness.MAX_PREFIX;
+return VariableLiveness.create("VariableLiveness", "kILL");
+return VariableLiveness.IsKILL;
+return VariableLiveness.IsEmpty();
+return VariableLiveness.RGB;
+return VariableLiveness.CULTURE_KILL;
+return VariableLiveness.EXPECTED_KILL;
+return VariableLiveness.CLIENT_NONE;
+return VariableLiveness.BIOUND;
+return VariableLiveness.PRUint32();
+return VariableLiveness.KILL_FACTOR;
+return VariableLiveness.kILL;  else  if (NodeUtil.isEmpty(n))  if (NodeUtil.isLhs(n, n.getParent()))  if (NodeUtil.isLhs(n, n.getParent()))  if (NodeUtil.isSingleton(n))  if (NodeUtil.isBound(0, 0))  n.getParent() = n.getFirstChild(); n.getNext() = n.getNext())  if (ControlFlowGraph.isEnteringNewCfgNode(child))  if (!ControlFlowGraph.isEnteringNewCfgNode(child))  if (!ControlFlowGraph.isEnteringNewCfgNode(child))  if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.EXPECTED_VALUE;
+return VariableLiveness.Visibility;
+return VariableLiveness.KILL | VariableLiveness.MAYBE_LIVE;
+return VariableLiveness.KILL_VARIABLE;
+return VariableLiveness.KILL_ITEM;
+return VariableLiveness.Variant;
+return VariableLiveness.KILL_BEFORE_FOREACH;
+return VariableLiveness.kILL_MILLISEAS;
+return VariableLiveness.kill == 0? VariableLiveness.KILL : VariableLiveness.KILL;
+return VariableLiveness.D_KILL;
+return VariableLiveness.KILL;  else  return VariableLiveness.READ;
+return VariableLiveness.KILL_PRE;
+return VariableLiveness.Visible;
+return VariableLiveness.CurrentContext.KILL;
+return VariableLiveness.KILL_FLAG;
+return VariableLiveness.KILL_NAMED;
+return VariableLiveness.ACFG_KILL;
+return VariableLiveness.VariableCaseEffect;
+return VariableLiveness.KILL | (VariableExpression | VariableExpression);
+return VariableLiveness.PUL;
+return VariableLiveness.CB;
+return VariableLiveness.MAX_VARIABLE_KILL;
+return VariableLiveness.DEVICE_KILL;
+return VariableLiveness.KILL_CRITICAL;
+return VariableLiveness.Limiter;
+return VariableLiveness.MILLISEXPECTED;
+return VariableLiveness.KILL_REFLOW;
+return VariableLiveness.KILL_TO_INT32(variable);
+return VariableLiveness.Difference(variable);
+return VariableLiveness.IsVariable();
+return VariableLiveness.MAX_VARIABLE;
+return VariableLiveness.CellRead;
+return VariableLiveness.CreateItem(kIsInResourced);
+return VariableLiveness.LIST_TO_NONE;
+return VariableLiveness.VAR_KILL;
+return VariableLiveness.Read();
+return VariableLiveness.IsSame;
+return VariableLiveness.INVALID_VALUE;
+return VariableLiveness.GetBounds();
+return VariableLiveness.Void();
+return VariableLiveness.LIST_FOREACH(variable, kInStation);
+return VariableLiveness.STATIC_CAST(variable.KILL, VariableLiveness.STATIC_CAST(String)&variable);
+return VariableLiveness.kill == 0;
+return VariableLiveness.PRUint32(0);
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; else &return VariableLiveness.READ;
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; else return VariableLiveness.READ;
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; &else &return VariableLiveness.READ;
+&return VariableLiveness.KILL;
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; &else return VariableLiveness.READ;
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness;
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL;
+return VariableLiveness.kILL;
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; else <return VariableLiveness.READ;
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL;
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+<return VariableLiveness.KILL;
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; <else <return VariableLiveness.READ;
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; <else &return VariableLiveness.READ;
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; <else return VariableLiveness.READ;
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else <if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.KILL; &else <return VariableLiveness.READ;
+return VariableLiveness.kILL; else &if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; <else &if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else if (NodeUtil.isEmpty(n)) &if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else &if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) <if (NodeUtil.isLhs(n, n.getParent())) <if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.kILL; else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)
+return VariableLiveness.READ;
+return VariableLiveness.kILL; &else <if (NodeUtil.isEmpty(n)) if (NodeUtil.isLhs(n, n.getParent())) &if (NodeUtil.isLhs(n, n.getParent())) if (NodeUtil.isSingleton(n)) if (NodeUtil.isBound(0, 0)) n.getParent() = n.getFirstChild(); n.getNext() = n.getNext()) if (ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)) if (!ControlFlowGraph.isEnteringNewCfgNode(child)

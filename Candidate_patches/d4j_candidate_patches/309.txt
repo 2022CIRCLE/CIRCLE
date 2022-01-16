@@ -1,0 +1,360 @@
+golden:
+return 0.5 * exp(-x);
+inference:
+return (0.5 * exp(-x));
+return 0.5 * exp(x);
+return exp(-x);
+return 0.5 * exp((long)-x);
+return (0.5 * exp(-x))/2;
+return 0.5 * exp(-z);
+return 0.5 * exp((int)x);
+return 0.5 * exp(z);
+return exp(x);
+return 0.5 * exp(-x);
+return 0.5 / exp(-x);
+return 0.5 * exp(-y);
+return 1.0 * exp(-x);
+
+return 0.5;
+return 0.5*exp(-x);
+return(0.5 * exp(-x));
+return -0.5 * exp(-x);
+return 0.5 * exp(y);
+return 0.5 - exp(-x);
+return (int)0.5 * exp(-x);
+return 0.5 + exp(-x);
+return 0.4 * exp(-x);
+return (float) exp(-x);
+return 0.5 * exp((double)-x);
+return 0.5 * exp(x - x);
+return 0;
+return 0.5 * exp((long)x);
+return 0.5 * exp(-x - 1);
+return 0.5*exp(x);
+return 0.5  exp(-x);
+return 128 * exp(-x);
+return (0.5 * exp(x));
+return *exp(-x);
+return 0.5. * exp(-x);
+return 0.5 * x;
+return 0.5 * exp(&x);
+return 0.5 * exp(x, -x);
+ret = 0.5 * exp(-x);
+return 0.9 * exp(-x);
+return 0.5 * exp(-x, 0);
+return -0.5 * exp(x);
+return 0.5 * exp(-p);
+return 0.5 * exp(s);
+return 0.5 * exp(ya);
+return 0.5 * exp (-x);
+return (float) 0.5 * exp(-x);
+return (exp(-x))/2;
+return 0.5 * exp(m);
+return 0.5 * expr(-x);
+return 0.8 * exp(-x);
+return 0.5 * exp(x) + 1;
+return 0.5 * exp(a);
+return 0.5 * exp(x-x);
+return 0.5 * exp(*x);
+return +exp(-x);
+return 0, 0.5 * exp(-x);
+return 0.5 * -x;
+return 0.5 * exp(-x + 1);
+return 0.5 * exp(-x) + 1;
+return 0.5 - exp(x);
+return 2 * exp(-x);
+return 0.5 * exp(-(long)x);
+return 0.5 * exp(x, 0);
+return 0.5 * exp(-lx);
+return 0.5 * exp( -x );
+return (2.5 * exp(-x));
+return 0.5 * exp(x - 1);
+return 0.5 * exp((-x));
+return 0.5 * exp(-i);
+return 0.5 * exp(x-1);
+return (1.0 * exp(-x));
+return (long)0.5 * exp(-x);
+return 0.5 * exp(+x);
+return 0.5 * exp(++x);
+return 0.6 * exp(-x);
+return 0 * exp(-x);
+return 0.5 * exp(lx);
+return 0.5 * exp(i);
+return 0, exp(-x);
+return.5 * exp(-x);
+return 1;
+return (0.5*exp(-x));
+return 0.5 * exp(-1);
+return (0.5 * exp(-x))
+return 0.5 * (-x);
+return int exp(-x);
+return 0.5 * exp(c);
+return 1.5 * exp(-x);
+return 0.5 * (exp(-x));
+break;
+return 0.3 * exp(-x);
+return 0.5 * expp(-x);
+return 0.5 * exp((double)x);
+return exp(0.5 * -x);
+return 0.5 * exp(p);
+return 0.5 * exp(x + 1);
+return 0.5 * exp(ep);
+return 0.5 * exp(-ya);
+return (0.5 - exp(-x));
+result = 0.5 * exp(-x);
+return (0.5) exp(-x);
+return 0.5 / exp(x);
+return 0.5 * exp(-u);
+return (float)0.5 * exp(-x);
+goto err;
+return 0.5 * exp(x--);
+return 0.0 * exp(-x);
+goto out;
+return 0.5 * exp(-d);
+return 0.2 * exp(-x);
+return exp(-x, 0.5);
+return 0.5 * _exp(-x);
+return 0.5 * exp(-a);
+return 0.7 * exp(-x);
+return 0.5 * exp(-l);
+return 0.5 * exp(l);
+return 0.5 * exp(__func__);
+exp(-x); return 0.5;
+return 0.5 * exp(x) + x;
+return [0.5 * exp(-x)];
+return 0.9f * exp(-x);
+return int(0.5 * exp(-x));
+return 0.5_exp(-x);
+return 0.5*exp(-z);
+return exp((int)-x);
+return (int) exp(-x);
+return 0.5 * exp(-m);
+return 0.5 * exp(h);
+return 0.5 * exp(0, -x);
+return 0.5  exp(x);
+return 0.5 * exp((float)-x);
+return 0.5 * * exp(-x);
+return 0.5 * exp(-x+1);
+return 0.5 * exp(-c);
+return exp(-z);
+return 0.5 * exp(-b);
+return (0.5 * exp(-x);)
+return 0.5 * exp(x+1);
+return 1.0 * exp(x);
+return 0.5 * exp(x - z);
+return -1 * exp(-x);
+return 0.5 * exp(X);
+return 0.5 * exp(x) - 1;
+return exp(0.5 * exp(-x));
+return 0.5 * exp(d);
+return 0.5 * exp(x) / 2;
+return 0.5 * exp(x) + 0.5;
+return 0.5 * exp((char *)x);
+return 0.5 * exp(-r);
+return MAX(0.5 * exp(-x));
+return 0.5 * exp(buf);
+return 0.5 * exp(-t);
+return x;
+return (0.5  exp(-x));
+goto ret;
+return 0.5 * exp(x)-1;
+return (-x);
+return 0.5 * exp(-(double)x);
+return (0.5 * exp(-x)));
+return exp(-x) - 0.5;
+goto bad;
+return (1.0 * exp(-x))/2;
+return min(0.5 * exp(-x));
+return 0.5 * exp(-x)-1;
+return 0.5 * exp(-x - 2);
+return exp(-1);
+return 0.5 * exp(int(x));
+return -1;
+return (0.5 * exp(-x););
+return 0.5 * exp((v)-x);
+return 0.5 * exp(/*x*/);
+return 0.5
+return 0.5 * exp(x), -x;
+return 0.5 * exp((void *)x);
+return 0.5 * exp(-x-x);
+return (*exp(-x))/2;
+return 0.5 * exp(x, -z);
+return 0.5 * exp(-x * 2);
+return result;
+return(0.5 * exp(-x))/2;
+goto done;
+res = 0.5 * exp(-x);
+return 0.5 * exp(-x + 2);
+return 128;
+return 0.5 * exp(-x, 0.0);
+return 0.5 * exp(x) - x;
+return 0.5 * exp((u_long)x);
+return 0.5 * exp((int)-x);
+return 0.5 * exp((unsigned char *) -x);
+return 0.5 * exp(-x, -1);
+return 0.5 * exp((u_int)-x);
+return 0.5 * exp(x, 0.5);
+return 0.5 * exp(x) / ap;
+return 0.5 * exp(((long)-x));
+return (x  0.5)? (0.5 * exp(x)) : 0.5;
+return 0.5 * exp(((double)-x));
+return 0.5 * exp(((double)x));
+return (-x / 0.5) * exp(-x);
+return 0.5 * exp(-x - ya) - ya;
+return 0.5 * exp(-x - ya);
+return 0.5 * exp(-x - a_max_b);
+return 0.5 * exp(-x, (unsigned long)0);
+return (x > 0)? 0.5 : exp(-x);
+return 0.5 * exp(-x);  else  /* XXX */  return 0.5 * exp(-x);
+return 0.5 * exp((unsigned long)-x);
+return 0.5 * exp(-x);  else  if (x  -20)  if (x  0.0)  x = -x;  exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp((unsigned long)x);
+return ((int)0.5 * exp(-x));
+return 0.5 * exp(-x) * x;
+return 0.5 * exp(((int)x));
+return 0.5 * exp(-x * 0.5);
+return 0.5 * exp(-x + (ya - hiPrec[1]) - (ya - hiPrec[0] - hiPrec[1]));
+return 0.5 * exp(-x - (float)x);
+return 0.5 * exp(-x) / 2;
+return 0.5 * exp((unsigned char) -x);
+return 0.5 * exp(-x, -yp);
+return 0.5 * exp(-x, 0, -1);
+return 0.5 * exp(-(u_int8_t)x);
+return 0.5 * exp(-x * 1.0);
+return 0.5 * exp(-x * 0xff);
+return (x + exp(-x));
+return 0.5 * exp(-yz);
+return 0.5 * exp(x) + ((lx-x)/y) - x;
+return 0.5 * exp(-x, aC.diff);
+return 0.5 * exp((u_int16_t *)-x);
+return ((max_t)-(x*2) * exp(x));
+return (x  0.5? 0.5 * exp(-x) : 0);
+return ((exp(-x)) == 0)? 0.5 : 0.5 * exp(-x));
+return 0.5 * exp(-x); <else &if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &/* XXX */ return 0.5 * exp(-x);
+return 0.5 * exp(-x); else if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else /* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else &if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return (x &0.5)? (0.5 * exp(x)) : 0.5;
+return 0.5 &exp(x);
+return 0.5 * exp(-x); <else <if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else </* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return (x &0.5? 0.5 * exp(-x) : 0);
+return 0.5 * exp(-x); <else <if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(x);
+return 0.5 * exp(-x); else &/* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); else </* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else <if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &/* XXX */ return 0.5 * exp(-x);
+<return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else <if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &/* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); else <if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else /* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else </* XXX */ return 0.5 * exp(-x);
+return (0.5 exp(-x));
+return 0.5 * exp(-x); <else /* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else &/* XXX */ return 0.5 * exp(-x);
+return 0.5 * exp(-x); else if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 <exp(x);
+return 0.5 * exp(-x); <else &/* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else &/* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else </* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); else if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else <if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else /* XXX */ &return 0.5 * exp(-x);
+return 0.5 exp(-x);
+return 0.5 * exp(-x); <else if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else </* XXX */ return 0.5 * exp(-x);
+return (0.5 <exp(-x));
+return 0.5 * exp(-x); <else </* XXX */ return 0.5 * exp(-x);
+return 0.5 * exp(-x);
+return 0.5 * exp(-x); else /* XXX */ return 0.5 * exp(-x);
+return 0.5 * exp(-x); &else &if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else /* XXX */ return 0.5 * exp(-x);
+return 0.5 * exp(-x); else if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return (x <0.5)? (0.5 * exp(x)) : 0.5;
+return 0.5 * exp(-x); &else if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else &if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else </* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else &if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+&return 0.5 * exp(-x);
+return (x 0.5? 0.5 * exp(-x) : 0);
+return 0.5 <exp(-x);
+return 0.5 * exp(-x); &else <if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else &if (x &-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 exp(x);
+return 0.5 * exp(-x); <else if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else /* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else </* XXX */ &return 0.5 * exp(-x);
+return (x <0.5? 0.5 * exp(-x) : 0);
+return 0.5 * exp(-x); else &/* XXX */ &return 0.5 * exp(-x);
+return 0.5 * exp(-x); else if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return (x 0.5)? (0.5 * exp(x)) : 0.5;
+return 0.5 * exp(-x); &else &if (x -20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x <-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); else <if (x <-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x <-20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &/* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); <else if (x -20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else <if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else &if (x -20) if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); &else </* XXX */ <return 0.5 * exp(-x);
+return 0.5 * exp(-x); else <if (x &-20) &if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return (0.5 &exp(-x));
+return 0.5 * exp(-x); &else /* XXX */ return 0.5 * exp(-x);
+return 0.5 &exp(-x);
+return 0.5 * exp(-x); &else if (x &-20) <if (x 0.0) x = -x; exp(x, 0.0, hiPrec); double ya = hiPrec[0] + hiPrec[1]; double yb = -(ya - hiPrec[0] - hiPrec[1]); double temp = ya * HEX_40000000; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; ya = ya + temp - temp; double yaa = ya + temp - temp; double yab = ya - yaa; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip[-1] = 0; recip
+return 0.5 * exp(-x); <else /* XXX */ &return 0.5 * exp(-x);

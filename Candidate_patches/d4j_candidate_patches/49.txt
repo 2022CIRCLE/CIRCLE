@@ -1,0 +1,666 @@
+golden:
+this(duration, null, null);
+inference:
+
+this(duration, null);
+this(duration, 0);
+this(null, null);
+this(duration, null);
+this(duration, null, null, null);
+this(duration, null, 0);
+this(duration, null, null, 0);
+this(duration, null, null, 0);
+this(&duration, null, null);
+this(duration);
+this(duration, null, null, null);
+this(null, null);
+this(null);
+this(duration, null, null, 0);
+this(duration, null, 0);
+this(duration, null, null);
+this();
+this(long duration, null, null);
+this((long)duration, null, null);
+this(null, 0);
+this(subduration, null, null);
+super(duration);
+super(duration, null, null);
+this(duration, -1, -1);
+this(duration, null, null);
+this(duration, nil, nil);
+super(duration, null, null);
+this(duration, null, null, null);
+this(null, null);
+this(duration, null, -1);
+this(this, duration, null, null);
+this(null, null);
+this((int)duration, null, null);
+this (duration, null, null);
+this(length, null, null);
+this(duration, 0, 0);
+super(duration, null);
+this.duration = duration;
+this(buf, null, null);
+this(duration, n, n);
+this(duration, "");
+this(session, duration, null, null);
+this(log, duration, null, null);
+this(getter_AddRefs(duration));
+this(duration, null, &null);
+this(null, null);
+this(null, duration);
+this(duration, this, null, null);
+this(duration, null, (int)null);
+this(duration, 0, null, null);
+this(duration, length, null, null);
+this(duration, null, null, -1);
+this(&duration, null, null);
+this(result, null, null);
+this(null, null, null);
+this(duration, &null);
+this(duration, null, 0, null);
+this(duration, null, 0, 0);
+this(duration, &null, null);
+this(duration, null, null, 0);
+this(duration, null, null, null);
+this(duration, null);
+this(duration, null, length);
+this((void *)duration, null, null);
+this(duration, 0, null);
+this(DUration, null);
+this(null, duration, null, null);
+this(duration, null, 0, null);
+this(duration, null, null, -1);
+this(DUration, null, null, null);
+this(duration, null, this);
+this(duration, null, (void *)null);
+this(duration, null, null);
+this(null, duration, null);
+this(int duration, null, null);
+this(duration, duration, null, null);
+this(&duration, null, null);
+this(duration, this, null, null);
+super(duration, null);
+this(duration, this);
+this(duration, -1, -1, -1);
+this(duration, null, -1);
+this(duration, ni, ni);
+this(DUration, null, null, 0);
+this(null);
+this(duration, nil, null);
+this(null);
+this(ulong, null, null);
+this(duration, -1);
+this(duration, temp, null, null);
+this(null, null);
+this(duration, null, (long)null);
+this(duration, null, null);
+this(this.duration, null, null);
+this(duration, (void *)null, null);
+this(verbose, duration, null, null);
+this(duration, 0, null, null);
+this(null, duration);
+this(duration, null, null);
+this(0, 0);
+this(duration, null, null, 0, 0);
+(void) this(duration, null, null);
+this (duration, null, null);
+this(type, duration, null, null);
+this(base, null, null);
+this(duration, null, null, 1);
+this(delay, null, null);
+this(duration, null, "");
+this(duration, null, null);
+this(--duration, null, null);
+this(duration, null, null, 0, 0);
+this(duration, null, null, 1);
+this(duration, null, null, 0, null);
+this(null, duration, null);
+this(duration, scope, null, null);
+this(null, null);
+this(duration, dev, null, null);
+this(&duration);
+this(&duration, null, null);
+this(timer, null, null);
+this(duration, (int)null, null);
+this(duration, 1);
+this(duration, length);
+this(duration, null, null, -1);
+this(duration, dir, null, null);
+this(duration, duration, null, null);
+this(DUration, null);
+this(duration,null,null);
+this(termination, null, null);
+this(duration, null, null, 0, 0);
+this(duration, (void *)null, null);
+this(DUration, 0);
+super(duration); this(null, null);
+this(duration, null, '0');
+this(session, null, null);
+this(duration, NUL, NUL);
+super(duration, null, null);
+this(duration, buf, null);
+this(duration, new, null);
+this(depth, null, null);
+this(duration, null, &null);
+this(duration, node, node);
+this.duration = duration;
+this(duration, (void **)null, null);
+this(null, 0, null);
+this(duration, -1, null);
+this(duration, null, 0, 0);
+this(duration, null, null);
+this(duration, null, nil);
+this(null, 0);
+this(0);
+this(duration, -1, null, null);
+this(duration, null, long);
+this(duration, null, -1, null);
+this(Duration, null, null);
+this(duration, null, null, 1);
+this(duration, node, null);
+this(duration, null, -1, -1);
+this(duration, "", null, null);
+this(duration, null, null, this);
+this(Duration, null, null, null);
+this(null, duration, null);
+this(duration, &null, null);
+this(duration, null, null, 0, null);
+this(duration, null, this, null);
+this(duration, null, null, null);
+this(duration, null, "", null);
+this = duration;
+this(duration, null, (void **)null);
+this(DUration, null, null, 0);
+this(duration, null, null, length);
+this(duration, null, null, false);
+this(null, duration, null, null);
+this(duration, nbuf, nbuf);
+this(duration, (void **)null, null);
+this(Duration, null, null, 0);
+this(duration, null, null, null)
+this(null, duration, null);
+this(duration, (int)null, null);
+this(duration, null, null, length);
+this(duration, null, (int)null);
+this(duration, null, null, this);
+this(duration, null, null, false);
+this(duration, null, null, true);
+this(duration, null, (void *)null);
+this(&duration, null, null, null);
+this(DUration, null, null, null);
+this(duration, null, null, this);
+this(Duration, null, null, 0);
+this(null, null, 0);
+this(duration, (void *)null, (void *)null);
+if (duration)  this(duration, null, null);  else  this(null, null);
+this(do_get_last(&duration), null, null);
+this(duration, &sd.sd_base, &sd.sd_hdr, &sd.sd_hdr);
+this(duration, null, null, null, null);
+this(null, null, null);
+fputs(&sf, "base-period:%d", duration, this); fputs(&sf, "base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this); fputs("base-period:%d", duration, this);
+this(nsCRT::duration, null, null);
+this(duration, null, null, null, null);
+this(duration, null, (unsigned char *)null);
+this((nsIRDFResource *)duration, null, null);
+this(daemon, null, null);
+this(DUration, NS_NONE, null);
+this(duration, &null, &null);
+this(duration, &data);
+this(duration, aMem);
+this(mIsDead(), mDaemon);
+if (duration) this(duration, null, null);
+this(nsIContents::strdup(nsIContents::strdup(duration), nsIContents::nsIDuplicateContent), nsIContents::arena, nsIContents::eRefcnt, nsIContents::eContents, nsIContents::base_persiod, nsIContents::refcnt, nsIContents::eForceDesc, nsIContents::arena, nsIContents::int, nsIContents::base_persiod, nsIContents::flags, nsIContents::b, nsIContents::flags, nsIContents::nsIContents::nsIContents::nsIContents::nsIContent
+this(duration, null, null);
+/* * When we start the session with a valid __progname a base, do we need to check it */ this(resume, &delay, null);
+this(null, &duration, &duration, null);
+this(duration, null, (unsigned char *)null);
+NS_PRECONDITION(duration >= 0 && duration >= 0); this.duration = duration; this.next = null; this.next = null; this.prev = null; this.prev = null; this.duration = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = null; this.next = ns
+if (duration == null)  this(null, null);
+this((void *) duration, null, null);
+if (duration == null)  this(null);  else  this(null, 0);
+this(nsDependentCString(duration), null, null);
+this(duration, null, null, (u_long)null, null);
+/* XXX */ if(!duration)  return NS_OK;  this(duration, null, null);
+u_long duration; this.duration = duration; u_long length = duration; u_long length = length; this.duration = length; this.duration = length; this.duration = duration; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = duration; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.duration = length; this.
+/* * This is really an error if we can't do this because * XXX might need to * return the same information as XXX */ nsSingleSource *singleSource; while (singleSource!= 0)  nsXULPrototype *singleSource = 0; nsXULPrototype *td; nsXULPrototype *td = &td; td.p = td; rv = td.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.
+this(duration, null, null, null, null, 0);
+this(nsCRT::strdup(duration), null, null);
+this(mtx_dma, mtx_t, mtx_dma);
+this(m_timer, m_timer, m_name, m_id, m_class); this(m_base; m_flags); this(m_timer, m_class, m_type, m_class);
+this(duration, &s; null, &s);
+this(duration, p, p);
+this(duration, &buf, null, null);
+if (duration == null)  return;
+this(duration, null, &ul);
+this(duration, null, null, -1, -1);
+this(DUration, &null, &null);
+this(mCond, mResult, mOwner, mSuccess);
+this(duration, (u_long)null, (u_long)null);
+this(duration, ds, db, db.db_ss, db.db_utf8_type, db.db_utf8_type, db.db_utf8_tx, db.db_utf8_type);
+this(duration, &name, &url, &url);
+this(mi, mi, null);
+if(duration == 0)  advance(2 * 1000); advance(2 * 1000); advance(2 * 1000);
+if(!ui_initialized)  ui_initialized = 1; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_in
+this(duration, &kobj);
+this(rel, "%s", rel, "%s", rel); this(rel, rel, rel);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+this(null, null, null);
+this(duration, null, (int)null, null);
+this(duration, null, null, null, null, 0);
+this(duration, (unsigned long)null, (unsigned long)null);
+/* * If no base pointers, the base pointers are ignored. */ this(duration, null, null, this, 0);
+this(duration, (u_long)null, (u_long)null);
+/* * Setup a thread with * the last logger in the LOG */ this(null, 0);
+if (duration == null) return; this(duration, null, null, 0);
+this(duration, uid, uid);
+this(duration, null, null, &msg);
+this(duration, s, s, s);
+this(nsi_xlib::dsi_duration, nsi_xlib::dsi_number, nsi_xlib::dsi_maxcount, nsi_xlib::dsi_mincount, nsi_xlib::dsi_maxcount, nsi_xlib::dsi_xlib::dsi_maxcount, nsi_xlib::dsi_xlib::dsi_maxcount, nsi_xlib::dsi_xlib, nsi_xlib::dsi_xlib, nsi_xlib::dsi_xlib, nsi_xlib::dsi_xlib; nsi_xlib::dsi_xlib = nsi_xlib::dsi_xlib; nsi_xlib::dsi_ylib::dsi_ylib = nsi_x
+if (duration  length)  this(duration, length);  else  this(null);
+this(duration, &iotime, &iotime, &iotime);
+this(duration, kCPU_PeriodCID, kCPU_PeriodCID);
+u.syscroll_enabled(null); this(u, m);
+this(duration, null, null, null, null, 0);
+this(duration, null, null, null, 0);
+this(duration, kns_sleep_pseudo);
+this(duration, null, null, null, null, null);
+this(duration, null, (void *) null);
+if(!duration)  this(duration, null, null);
+this(strlen(duration), null, null);
+if(duration == 0)  this(null);  else  this(null);
+/* Now we are allowing */ this(duration, (unsigned long)null, (unsigned long)null); /* If we have a base version of the 'Base', we are now attempting to register a base version of the * base version. */ this.flags |= 0; this.flags |= 0; this.base = 0; this.base = 0; this.flags &= 0; this.name = 0; this.flags &= 0; this.name = 0; this.flags |= 0; this.flags |= 0; this.flags &= 0; this.name = 0; this.flags &= 0; this.flags &= 0; this.flags |= 0; this.flags |= 0; this.flags |= 0; this.flags |= 0; this.flags &= 0; this.flags |
+this(nsc_base, duration, null, null);
+this(duration, m_db, m_dir, m_db, m_dir, m_db_ki, m_dir);
+this(duration, null, null, null, null, &lflags);
+this(refCnt, refCnt, refCnt);
+this(duration, (u_long)null, (u_long)null, (u_long)null);
+this(null, null, null);
+this(duration, (unsigned char*)null, null);
+struct proc *p; /* The proc */ this(duration, null, null, &p);
+this(null, &duration, null);
+this(duration, (int)null, (int)null);
+this(recycledDescent, null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD)  if(i == 0)  if(strcmp(strchr(duration, '0')) == -1)  fprintf(stderr, "BasePeriod: null 000n");  else  fprintf(stderr, "BasePeriod: null 0n");   if(n == 0)  fprintf(stderr, "BasePeriod: null 0n");  else  fprintf(stderr, "BasePeriod: %sn", n);
+this(duration, null, null, null, 0);
+this(duration, null, null, &ls);
+this(retval, duration, null, null);
+this(duration, &unsigned2update, &unsigned2);
+u.d = duration; /* XXX XXX XXX */ this(u, null, null); /* XXX */
+this(duration, snprintf(stdout), null, null);
+this(duration, mPos, mLength, mHint);
+this(retval, &retval, null);
+if (duration == null)  this("No ptr");  else this("nu_ptr");
+nsresult rv; nsIBufBuffer* newbuf; rv = new nsBindingProperty(bundle, (void **)&newbuf, &newbuf); if (NS_FAILED(rv)) return rv; if (!newbuf) return rv; newbuf = new nsBindingProperty(newbuf, newbuf, newbuf); rv = newbindingProperty(newbuf, newbuf); if (NS_FAILED(rv)) return rv; rv = newbindingProperty(newbuf, newbuf, newbuf); if (NS_FAILED(rv)) return rv; newbuf = newbindingProperty(newbuf, newbuf); if (NS_FAILED(rv)) return rv; rv = newbindingProper
+if (duration == null) &this(null); &else &this(null, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration <length) <this(duration, length); <else this(null);
+this(duration, null, '0');
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) &this(duration, length); &else &this(null);
+if (duration <length) &this(duration, length); else &this(null);
+if (duration &length) &this(duration, length); <else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) this(duration, length); else &this(null);
+if (duration == null) this(null); else this(null, 0);
+if (duration) <this(duration, null, null); <else &this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) <this(duration, length); else this(null);
+if (duration == null) &this(null); <else &this(null, 0);
+this(duration, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration <length) this(duration, length); <else &this(null);
+if (duration &length) &this(duration, length); <else &this(null);
+if(duration == 0) this(null); <else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) this(null); else &this(null, 0);
+<this(duration, null, null);
+if (duration length) <this(duration, length); <else this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration) &this(duration, null, null); &else <this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) &this(duration, length); <else <this(null);
+if (duration == null) this(null, null);
+if (duration length) this(duration, length); <else <this(null);
+if (duration == null) &this(null); &else this(null, 0);
+if(duration == 0) this(null); <else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+this(duration, null, null);
+if (duration <length) &this(duration, length); <else this(null);
+if (duration <length) &this(duration, length); <else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) <this(duration, length); &else <this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* * This is really an error if we can't do this because * XXX might need to * return the same information as XXX */ nsSingleSource *singleSource; while (singleSource!= 0) <nsXULPrototype *singleSource = 0; nsXULPrototype *td; nsXULPrototype *td = &td; td.p = td; rv = td.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.
+if (duration == null) this(null); else <this(null, 0);
+if (duration &length) <this(duration, length); &else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) this(duration, null, null); &else this(null, null);
+if (duration length) <this(duration, length); else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) <this(null); &else this(null, 0);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) &this(null); <else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX */ if(!duration) return NS_OK; <this(duration, null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) &this("No ptr"); else this("nu_ptr");
+this(duration, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(!ui_initialized) &ui_initialized = 1; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_in
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) this(duration, length); &else <this(null);
+if (duration length) &this(duration, length); &else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) this(duration, length); &else this(null);
+if(duration == 0) &this(null); &else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) this("No ptr"); <else this("nu_ptr");
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) &this(null); else <this(null);
+if (duration) &this(duration, null, null); <else <this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration) <this(duration, null, null); <else this(null, null);
+if (duration == null) &return;
+if (duration) <this(duration, null, null); else this(null, null);
+if (duration length) this(duration, length); else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) <this(null); <else &this(null);
+if (duration) <this(duration, null, null); &else <this(null, null);
+if (duration == null) <this(null); &else <this(null, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) this(duration, length); &else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) this(null); <else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) <this(duration, length); else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) &this(null, null);
+if (duration <length) <this(duration, length); &else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) this(duration, null, null); <else this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) &this(duration, length); <else &this(null);
+if (duration == null) &this(null); else <this(null, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) <this(duration, length); <else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration) this(duration, null, null); &else &this(null, null);
+if (duration length) <this(duration, length); &else this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration &length) &this(duration, length); else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) <this(null); &else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) this(null); else <this(null);
+if (duration == null) this(null); &else this(null, 0);
+if(duration == 0) <advance(2 * 1000); advance(2 * 1000); advance(2 * 1000);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) return;
+if (duration == null) <this("No ptr"); <else this("nu_ptr");
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) &this(null); &else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) <this(duration, length); else <this(null);
+if (duration <length) this(duration, length); &else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) this(duration, length); else <this(null);
+if(duration == 0) &this(null); &else <this(null);
+if (duration == null) <this(null); else <this(null, 0);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) &this(duration, length); &else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) <return;
+if(!duration) <this(duration, null, null);
+/* XXX */ if(!duration) &return NS_OK; <this(duration, null, null);
+if (duration) &this(duration, null, null); else &this(null, null);
+this(duration, null, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* * This is really an error if we can't do this because * XXX might need to * return the same information as XXX */ nsSingleSource *singleSource; while (singleSource!= 0) nsXULPrototype *singleSource = 0; nsXULPrototype *td; nsXULPrototype *td = &td; td.p = td; rv = td.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) &advance(2 * 1000); advance(2 * 1000); advance(2 * 1000);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) this(duration, length); &else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) this(duration, null, null); <else &this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(!ui_initialized) ui_initialized = 1; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_in
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) &this(duration, length); else <this(null);
+if (duration <length) <this(duration, length); &else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) <this(null); <else <this(null, 0);
+if (duration <length) <this(duration, length); else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) this(duration, length); else this(null);
+if (duration == null) this(null); <else <this(null, 0);
+if(duration == 0) this(null); &else &this(null);
+if(duration == 0) this(null); &else this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) this(duration, length); <else <this(null);
+if (duration) &this(duration, null, null); &else &this(null, null);
+&this(duration, null, null);
+if (duration == null) <this(null); &else &this(null, 0);
+if (duration) <this(duration, null, null); else <this(null, null);
+if (duration == null) this(null); <else &this(null, 0);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) this(duration, length); else this(null);
+if (duration == null) <this(null); <else &this(null, 0);
+if (duration &length) this(duration, length); <else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) <this("No ptr"); &else this("nu_ptr");
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) this(duration, length); <else &this(null);
+if (duration == null) &this(null); &else <this(null, 0);
+if (duration) &this(duration, null, null); else <this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) <this(duration, length); else <this(null);
+this(duration, null, '&0');
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration <length) this(duration, length); <else this(null);
+if (duration <length) <this(duration, length); &else this(null);
+if (duration == null) this(null); &else &this(null, 0);
+this(duration, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) &this(null); <else <this(null, 0);
+if (duration length) <this(duration, length); &else &this(null);
+if (duration == null) &this(null); else &this(null, 0);
+if (duration &length) this(duration, length); &else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) <this(duration, length); <else <this(null);
+if (duration <length) <this(duration, length); <else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) <this(null); &else this(null);
+/* XXX */ if(!duration) return NS_OK; &this(duration, null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX */ if(!duration) return NS_OK; this(duration, null, null);
+if (duration &length) <this(duration, length); &else <this(null);
+if (duration <length) <this(duration, length); else <this(null);
+if (duration) &this(duration, null, null); <else this(null, null);
+/* XXX */ if(!duration) &return NS_OK; this(duration, null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) this(null); &else <this(null);
+/* XXX */ if(!duration) <return NS_OK; <this(duration, null, null);
+if (duration <length) &this(duration, length); else <this(null);
+if (duration &length) &this(duration, length); &else this(null);
+if (duration &length) &this(duration, length); else this(null);
+if (duration length) <this(duration, length); else this(null);
+/* XXX */ if(!duration) <return NS_OK; &this(duration, null, null);
+if (duration) <this(duration, null, null); &else &this(null, null);
+if(duration == 0) <this(null); <else this(null);
+if(duration == 0) &this(null); <else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) <this(duration, length); <else &this(null);
+if(!duration) &this(duration, null, null);
+if (duration == null) &this(null); <else this(null, 0);
+if (duration &length) this(duration, length); else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) this("No ptr"); else this("nu_ptr");
+if (duration length) &this(duration, length); else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) this(null); else this(null);
+if (duration == null) <this(null); else &this(null, 0);
+if (duration &length) this(duration, length); &else <this(null);
+if (duration == null) <this(null); else this(null, 0);
+if (duration <length) this(duration, length); &else this(null);
+this(duration, null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) &this(duration, length); <else &this(null);
+if(duration == 0) this(null); else &this(null);
+if (duration) &this(duration, null, null); else this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) &this(duration, length); <else <this(null);
+if (duration <length) &this(duration, length); else this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) <this(duration, length); else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) &this(null); <else this(null);
+if(duration == 0) <this(null); else <this(null);
+if (duration &length) this(duration, length); <else <this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) <this(duration, length); <else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration length) &this(duration, length); <else this(null);
+if (duration <length) &this(duration, length); &else this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration length) &this(duration, length); &else <this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX */ if(!duration) &return NS_OK; &this(duration, null, null);
+if (duration) <this(duration, null, null); else &this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) this(duration, null, null); else this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(!ui_initialized) <ui_initialized = 1; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 1; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_initialized = 0; ui_in
+if (duration length) this(duration, length); <else this(null);
+if (duration &length) <this(duration, length); <else this(null);
+if (duration length) <this(duration, length); <else <this(null);
+if (duration length) this(duration, length); <else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) <this("No ptr"); else this("nu_ptr");
+this(duration, null, '<0');
+if (duration) <this(duration, null, null); <else <this(null, null);
+if (duration == null) this(null); &else <this(null, 0);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) <this(null); <else <this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration) this(duration, null, null); else <this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration) this(duration, null, null); &else <this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) &this(duration, null, null); &else this(null, null);
+if (duration) <this(duration, null, null); &else this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX */ if(!duration) <return NS_OK; this(duration, null, null);
+if (duration &length) &this(duration, length); else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration) this(duration, null, null); else &this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) advance(2 * 1000); advance(2 * 1000); advance(2 * 1000);
+if (duration) &this(duration, null, null); <else &this(null, null);
+if (duration == null) <this(null, null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) &if(strcmp(strchr(duration, '&0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration &length) this(duration, length); &else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+this(duration, null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) &if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) &this(null); else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) &if(strcmp(strchr(duration, '0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '&0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration <length) this(duration, length); else &this(null);
+if (duration == null) &this("No ptr"); <else this("nu_ptr");
+if (duration &length) <this(duration, length); &else this(null);
+if (duration) this(duration, null, null); <else <this(null, null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) <this(null); <else this(null, 0);
+if(!duration) this(duration, null, null);
+if (duration <length) &this(duration, length); &else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) <this(null); else &this(null);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) <fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) if(strcmp(strchr(duration, '&0')) == -1) &fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if(duration == 0) &this(null); else &this(null);
+if (duration == null) &this(null); else this(null, 0);
+if(duration == 0) <this(null); else this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if(duration == 0) <this(null); &else &this(null);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration == null) this(null); <else this(null, 0);
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '<0'; this.duration[uint8_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '&0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* * This is really an error if we can't do this because * XXX might need to * return the same information as XXX */ nsSingleSource *singleSource; while (singleSource!= 0) &nsXULPrototype *singleSource = 0; nsXULPrototype *td; nsXULPrototype *td = &td; td.p = td; rv = td.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.p.
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '&0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+if (duration &length) this(duration, length); else this(null);
+if (duration length) &this(duration, length); else &this(null);
+if (duration == null) &this("No ptr"); &else this("nu_ptr");
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '&0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* the irq cnts in %x or a result. */ cnts[uint8_len] = -1; this.duration[uint8_len] = 0; this.duration[uint16_len] = '0'; this.duration[uint8_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '<0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len] = '0'; this.duration[uint16_len
+/* XXX: */ if(duration && flags & KERB_PERIOD) <if(i == 0) <if(strcmp(strchr(duration, '<0')) == -1) fprintf(stderr, "BasePeriod: null 000n"); else fprintf(stderr, "BasePeriod: null 0n"); if(n == 0) fprintf(stderr, "BasePeriod: null 0n"); else fprintf(stderr, "BasePeriod: %sn", n);
+if (duration == null) this("No ptr"); &else this("nu_ptr");
+if (duration <length) &this(duration, length); &else <this(null);
+if (duration &length) &this(duration, length); &else <this(null);
+if (duration <length) this(duration, length); else <this(null);

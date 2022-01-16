@@ -1,0 +1,777 @@
+golden:
+if (MAKE_LOCAL_NAMES_UNIQUE) { MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); } removeDuplicateDeclarations(root);
+inference:
+
+removeDuplicateDeclarations(root);
+RemoveDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer);
+RemoveDuplicateDuplicateDeclarations(root);
+deleteDuplicateDeclarations(root);
+removeDuplicateDuplicateDeclarations(root);
+RemoveDeclaredNamesUnique(compiler, root);
+NodeTraversal.traverse(compiler, root);
+removeDuplicateDeclarations(externs, root);
+RemoveDeclarations(root);
+removeDuplicateDeclarations(compiler, root);
+NodeTraversal.traverse(compiler, renamer);
+if (MAKE_LOCAL_NAMES_UNIQUE)
+DestroyDeclarations(root);
+removeDuplicateNames(root);
+removeDuplicateDeclarations(nodeTraversal);
+RemoveRootDeclarations(root);
+return RemoveDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, root);
+destroyDuplicateDeclarations(root);
+RemoveDuplicateDeclarations(externs, root);
+RemoveDuplicateDeclarations();
+NodeTraversal t = new NodeTraversal(compiler, renamer); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this);
+NodeTraversal.traverse(compiler, renamer); removeDuplicateDeclarations(root);
+t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+NodeTraversal t = new NodeTraversal(compiler); t.traverseRoots(externs, root);
+RemoveRoots(root);
+RemoveDeclaredNamesUnique(compiler, renamer);
+removeDuplicateRoots(root);
+deprecated_removeDuplicateDeclarations(root);
+NodeTraversal.traverse(compiler, renamer, root);
+removeDuplicateDeclarations();
+NodeTraversal t = new NodeTraversal(compiler, renamer, root);
+removeDuplicateDeclarations(root, root);
+RemoveRemoveDuplicateDeclarations(root);
+RemoveDuplicateRoots(root);
+/* removeDuplicateDeclarations(root); */
+RemoveDeclaredDeclarations(root);
+NodeTraversal t = new NodeTraversal(); t.traverseRoots(externs, root);
+NodeTraversal t;
+NodeTraversal t = new NodeTraversal(compiler, root); removeDuplicateDeclarations(root);
+break;
+if (MAKE_LOCAL_NAMES_UNIQUE) removeDuplicateDeclarations(root);
+MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique();
+nodeTraversal.traverse(compiler, root);
+RemoveDuplicateDeclarations(compiler, root);
+RemoveDeclaredNamesUnique(compiler);
+RemoveDuplicateNames(root);
+addDuplicateDeclarations(root);
+return NS_OK;
+return removeDuplicateDeclarations(root);
+NodeTraversal.traverse(compiler, root); removeDuplicateDeclarations(root);
+RemoveDuplicateDeclarations(nodeTraversal);
+RemoveRoots(externs, root);
+Destroy();
+/* RemoveDuplicateDeclarations(root); */
+removalDuplicateDeclarations(root);
+removeDuplicateDeclarations( root );
+NodeTraversal.traverse(compiler, root, this);
+if (MAKE_LOCAL_NAMES_UNIQUE) RemoveDuplicateDeclarations(root);
+nodeTraversal.traverse(compiler, renamer);
+DestroyDuplicateDeclarations(root);
+removeDuplicateDeclarations(root); NodeTraversal.traverse(compiler, root);
+RemoveDeclaredNames(compiler, root);
+removeDuplicateDeclarations(externs);
+RemoveRoot(root);
+removeDuplicateDeclarations(nodeTraversal, root);
+removeDeclarations(root);
+RemoveDuplicateDeclarations(root, root);
+replaceDuplicateDeclarations(root);
+removeRemoveDuplicateDeclarations(root);
+if (compiler) removeDuplicateDeclarations(root);
+NodeTraversal.traverse(compiler, renamer, this);
+if (MAKE_LOCAL_NAMES_UNIQUE)  RemoveDuplicateDeclarations(root);
+t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+NS_RELEASE(root);
+nsresult rv;
+removeDuplicateDeclarations(compiler);
+RemoveDuplicateDeclarations( root );
+t.traverseRoots(externs, root);
+removeRootDeclarations(root);
+removeDuplicateDeclarations(node);
+removeDuplicateDeclarations(root, compiler);
+.removeDuplicateDeclarations(root);
+AddDuplicateDeclarations(root);
+removeDuplicateConstantAnnotations(root);
+removeDuplicateDeclarations(root,compiler);
+RemoveRootDuplicateDeclarations(root);
+DestroyDeclarations(externs, root);
+removeDuplicateDeclarations(root.get());
+NodeTraversal.traverse(compiler, renamer); RemoveDuplicateDeclarations(root);
+removeDuplicateDeclarations(root, MAKE_LOCAL_NAMES_UNIQUE);
+RemoveDuplicateDeclarations(root); NodeTraversal.traverse(compiler, root);
+NodeTraversal t; t.traverseRoots(externs, root);
+new PropogateConstantAnnotations(compiler, assertOnChange).process(externs, root);
+removedDuplicateDeclarations(root);
+ReleaseDuplicateDeclarations(root);
+NodeTraversal::removeDuplicateDeclarations(root);
+extractDuplicateDeclarations(root);
+removeDuplicateDeclarations(null);
+removeDuplicateDesc(root);
+removeRoots(root);
+removeDuplicateDeclarations(root, compiler, root);
+removeDuplicateDeclarations(root, this);
+NodeTraversal.traverse(compiler, renamer, root); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); RemoveDuplicateDeclarations(root);
+Init();
+removeDuplicateDeclarations(getter_AddRefs(root));
+NodeTraversal::traverse(compiler, root);
+nodeTraversal.traverse(compiler, renamer); removeDuplicateDeclarations(root);
+MAKE_LOCAL_NAMES_UNIQUE(compiler, root);
+/* removeDuplicateDeclarations(root);*/
+NodeTraversal.traverse(compiler, root, root);
+(void) removeDuplicateDeclarations(root);
+DestroyDeclarations();
+NodeTraversal t; t.traverseRoots(externs, root);
+createDuplicateDeclarations(root);
+removeDuplicateDclarations(root);
+RemoveDeclaredNamesUnique(compiler, renamer, root);
+rv = RemoveDuplicateDeclarations(root);
+RemoveDuplicateDeclarations(externs);
+return new NodeTraversal(compiler, renamer);
+RemoveDuplicateDeclarations(nodeTraversal, root);
+nodeTraversal.traverse(compiler, root); removeDuplicateDeclarations(root);
+Destroy(root);
+NodeTraversal t = new NodeTraversal(externs, root);
+removeDuplicateDeclarations(Root);
+removeDuplicateDeclarations(node, root);
+NodeTraversal t = new NodeTraversal(compiler); t.traverseRoots(externs, root);
+return MakeDeclaredNamesUnique(compiler, renamer);
+NS_RELEASE(compiler);
+rv = removeDuplicateDeclarations(root);
+removeDuplicateDeclarations(root); NodeTraversal.traverse(compiler, root, this);
+t = new NodeTraversal(compiler, renamer);
+RemoveDuplicateDeclarations(root)
+NodeTraversal.traverse(compiler, renamer, this); removeDuplicateDeclarations(root);
+removeDuplicateDeclarations(root, nodeTraversal);
+free(compiler, root);
+NodeTraversal t = new NodeTraversal(compiler, root, this);
+RemoveDeclaredNamesUnique();
+NodeTraversal t = NodeTraversal(compiler, renamer);
+RemoveDuplicateDeclarations(root, compiler);
+NodeTraversal.traverse(compiler, renamer);  removeDuplicateDeclarations(root);
+/* RemoveDuplicateDeclarations(root);*/
+RemoveDuplicateDclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); deleteDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, this);
+removeDuplicateDeclarations(root); #endif
+removeDuplicateDeclarations(root)
+RemoveDuplicateDesc(root);
+RemoveDuplicateDeclarations(node);
+NodeTraversal.traverse(compiler, root); RemoveDuplicateDeclarations(root);
+removeDuplicateDeclarations(root); MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique();
+NodeTraversal *t = new NodeTraversal(compiler, renamer);
+new NodeTraversal(compiler, renamer);
+NodeTraversal t = new NodeTraversal();
+#endif
+NodeTraversal t = new NodeTraversal(); t.traverseRoots(externs, root);
+nodeTraversal.traverse(compiler, renamer, root);
+RemoveDuplicateDeclarations(root, compiler, root);
+RemoveDuplicateNames(compiler, root);
+RemoveDuplicateDeclarations(root,compiler);
+NodeTraversal t = NodeTraversal(); t.traverseRoots(externs, root);
+removeDuplicateDeclarations(root); return NS_OK;
+NodeTraversal t = new NodeTraversal(compiler);
+NodeTraversal t = new NodeTraversal(externs, root); removeDuplicateDeclarations(root);
+NodeTraversal removeDuplicateDeclarations(root);
+nodeTraversal = new NodeTraversal(compiler, renamer);
+Stop();
+nodeTraversal.traverse(compiler, root, this);
+RemoveDuplicateDeclarations(root, this);
+nodeTraversal.traverse(externs, root);
+RemoveDuplicateDeclarations(node, root);
+if (MAKE_LOCAL_NAMES_UNIQUE) break;
+RemoveDuplicateDuplicateDuplicateDeclarations(root);
+RemoveNodeTraversal(compiler, root);
+RemoveDuplicateConstantAnnotations(compiler, root);
+NodeTraversal t; NodeTraversal.traverse(compiler, renamer);
+if (nodeTraversal) removeDuplicateDeclarations(root);
+RemoveRoot();
+AddDeclaredNamesUnique(compiler, renamer);
+removeDuplicateDeclarations(root); NodeTraversal.traverse(compiler, renamer);
+MAKE_LOCAL_NAMES_UNIQUE(compiler);
+NodeTraversal.traverse(compiler, root, this); removeDuplicateDeclarations(root);
+RemoveDeclaredNamesUnique(compiler, root, this);
+nodeTraversal = new NodeTraversal(compiler, renamer); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this, root);
+removeDeclaredNamesUnique(compiler, root);
+free(compiler);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (!compiler)  m.removeRoots(root);
+if (MAKE_LOCAL_NAMES_UNIQUE)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (compiler == null)  if ((error = xfree(compiler, root)))  RemoveDuplicateDeclarations(root);   else  if (MAKE_LOCAL_NAMES_UNIQUE)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);  removeDuplicateDeclarations(root);
+NodeTraversal.traverse(compiler, renamer); if (NS_FAILED(rv)) return rv;
+NodeTraversal t = new NodeTraversal(compiler, renamer, this); t.traverseRoots(externs, root);
+if (makeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (compiler!= null)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!nodeTraversal.compiler)  NodeTraversal.traverse(compiler, renamer);
+if (MAKE_LOCAL_NAMES_UNIQUE)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+/* * XXX should only work if no declarations are merged, except the builder. */ if (!compiler || root) return;
+if (compiler == null)  removeDuplicateDuplicateDeclarations(null);
+if (MAKE_LOCAL_NAMES_UNIQUE)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (compiler)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (mAKE_LOCAL_NAMES_UNIQUE)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (m_makeMatch)  NodeTraversal t = new NodeTraversal(compiler, t); t.traverseRoots(externs, root);
+if (MAKE_LOCAL_NAMES_UNIQUE)  /* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root); */
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc)))  nsAtom* aAtom = null; if (aAtom.refcount > 0)  nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++;  if (mRefcount = 0)  nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!exists)  removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, root); removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (m_dna)  NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv))  NS_RELEASE(child);   else  NS_RELEASE(child);
+if (compiler)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE)  if (MAKE_LOCAL_NAMES_UNQUEUED)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!m_cleanup)  RemoveDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, fp); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, &cnt); t.traverseRoots(externs, root);
+if (compiler) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (compiler)  NodeTraversal.traverse(compiler, renamer); t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+nsDependentString ns; nsAutoString ns; nsIDOMNodeTraversal::Traverse(compiler, ns); nsresult rv = nsDuplicateDeclarations(ns, root, ns); if (NS_FAILED(rv)) return rv;
+if (!node)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!XUL_IS_NAMED) return;
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique())  rdfs_printf("Props.process_declarations: %sn",compiler, root);  if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+NodeTraversal t = new NodeTraversal(compiler, renamer, xpath(root)); t.traverseRoots(externs, root);
+if (!ExternalTraversal) removeDuplicateDeclarations(root);
+if (!mProperty) return NS_OK; if (!mProperty) return NS_ERROR_NULL_POINTER; if (!mProperty) return NS_ERROR_NULL_POINTER; if (!mProperty) return NS_ERROR_NULL_POINTER;
+if (NS_SUCCEEDED(rv) && *compiler)  /*removeDuplicateDeclarations(root); */
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (mMake_LOCAL_NAMES_UNIQUE)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (macro)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique)  if (MAKE_LOCAL_NAMES_UNIQUE)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!SimpleDeclarations) return NS_OK; if (makeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (!isDebug())  if (!dummy)  return 0; return 0;
+NodeTraversal t = new NodeTraversal(compiler, renamer, root); t.traverseRoots(externs, root);
+if (makeDeclaredNamesUnique)  MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (compiler!= root)  NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);  removeDuplicateDeclarations(root);
+if (isLoaded(compiler))  NS_ADDREF(compiler);  removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) &removeDuplicateDuplicateDeclarations(null);
+if (!isDebug()) if (!dummy) &return 0; return 0;
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (m_dna) <NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!exists) removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <RemoveDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s&n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) &RemoveDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %sn",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (mAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (!nodeTraversal.compiler) &NodeTraversal.traverse(compiler, renamer);
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s&n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (mMake_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if ((nodeTraversal)!= 0) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (m_dna) &NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler!= root) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) /* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); */
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s&n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!isDebug()) if (!dummy) <return 0; return 0;
+if (!node) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+if (mAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s&n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (makeDeclaredNamesUnique) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+NodeTraversal.traverse(compiler, renamer); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) RemoveDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!node) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (macro) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (m_dna) NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (makeDeclaredNamesUnique) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &/* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root); */
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (!nodeTraversal.compiler) NodeTraversal.traverse(compiler, renamer);
+if (isLoaded(compiler)) NS_ADDREF(compiler); <removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+<RemoveDuplicateDeclarations(root);
+if (mMake_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (macro) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (m_dna) <NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s&n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if ((nodeTraversal)!= 0) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s&n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!node) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler!= null) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (mAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+if (!node) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (m_makeMatch) &NodeTraversal t = new NodeTraversal(compiler, t); t.traverseRoots(externs, root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!compiler) <m.removeRoots(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!compiler) m.removeRoots(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (mAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (mMake_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %sn",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (!SimpleDeclarations) return NS_OK; if (makeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler!= null) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (isLoaded(compiler)) &NS_ADDREF(compiler); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!node) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) removeDuplicateDuplicateDeclarations(null);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s<n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (isLoaded(compiler)) <NS_ADDREF(compiler); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s<n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (!isDebug()) &if (!dummy) return 0; return 0;
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (compiler!= root) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler!= null) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (m_makeMatch) NodeTraversal t = new NodeTraversal(compiler, t); t.traverseRoots(externs, root);
+if (makeDeclaredNamesUnique) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (mAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+if (macro) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler!= null) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (m_dna) &NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (mMake_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s<n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!node) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!m_cleanup) RemoveDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (isLoaded(compiler)) &NS_ADDREF(compiler); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, fp); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (makeDeclaredNamesUnique) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!compiler) &m.removeRoots(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) <removeDuplicateDuplicateDeclarations(null);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s&n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (MAKE_LOCAL_NAMES_UNIQUE) /* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root); */
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!SimpleDeclarations) return NS_OK; if (makeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, fp); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler) &NodeTraversal.traverse(compiler, renamer); t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &RemoveDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+if (compiler!= null) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s<n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (m_makeMatch) <NodeTraversal t = new NodeTraversal(compiler, t); t.traverseRoots(externs, root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler!= null) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (isLoaded(compiler)) NS_ADDREF(compiler); &removeDuplicateDeclarations(root);
+if (compiler!= root) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!m_cleanup) <RemoveDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (mAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (!isDebug()) <if (!dummy) return 0; return 0;
+if (compiler!= root) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) /* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root); */
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s<n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (makeDeclaredNamesUnique) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) &/* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); */
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!SimpleDeclarations) return NS_OK; if (makeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (NS_SUCCEEDED(rv) && *compiler) </*removeDuplicateDeclarations(root); */
+if (makeDeclaredNamesUnique) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (!isDebug()) <if (!dummy) &return 0; return 0;
+RemoveDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (macro) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) RemoveDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %sn",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+if (mMake_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &/* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root); */
+NodeTraversal.traverse(compiler, renamer); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+if (mAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %s<n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %sn",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (makeDeclaredNamesUnique) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler!= root) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s&n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+&RemoveDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if ((nodeTraversal)!= 0) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s&n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (isLoaded(compiler)) <NS_ADDREF(compiler); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (m_dna) NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+NodeTraversal t = new NodeTraversal(compiler, renamer, fp); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler!= null) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler!= root) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (compiler) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (compiler!= root) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+if ((nodeTraversal)!= 0) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+if (makeDeclaredNamesUnique) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (NS_SUCCEEDED(rv) && *compiler) &/*removeDuplicateDeclarations(root); */
+if (m_dna) NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (isLoaded(compiler)) <NS_ADDREF(compiler); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (macro) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %sn",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %sn",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (compiler!= null) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+RemoveDuplicateDeclarations(root);
+if (compiler) NodeTraversal.traverse(compiler, renamer); t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!nodeTraversal.compiler) <NodeTraversal.traverse(compiler, renamer);
+if (m_dna) &NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %sn",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!isDebug()) if (!dummy) return 0; return 0;
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) <if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (mMake_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); <else NS_RELEASE(child);
+NodeTraversal.traverse(compiler, renamer); &removeDuplicateDeclarations(root);
+removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler == null) <if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+if (makeDeclaredNamesUnique) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (mMake_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); <else NS_RELEASE(child);
+if (mMake_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) </* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); */
+if (MAKE_LOCAL_NAMES_UNIQUE) <RemoveDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %sn",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) <if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (mMake_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (!isDebug()) &if (!dummy) &return 0; return 0;
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler!= null) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE)
+if (compiler == null) if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!isDebug()) &if (!dummy) <return 0; return 0;
+if (macro) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) </* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root); */
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!node) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler!= root) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) &if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) &if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (macro) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!exists) <removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MAKE_LOCAL_NAMES_UNIQUE) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (!node) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; &if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s<n",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (!mMakeDeclaredNamesUnique) if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (macro) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (mAKE_LOCAL_NAMES_UNIQUE) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) <MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!m_cleanup) &RemoveDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (!isDebug()) <if (!dummy) <return 0; return 0;
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (macro) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtrnsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) &nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (compiler) <NodeTraversal.traverse(compiler, renamer); t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root);
+if (compiler == null) <if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (mAKE_LOCAL_NAMES_UNIQUE) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <&else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) &nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount <= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+if (compiler!= root) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (compiler == null) if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); <else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if ((nodeTraversal)!= 0) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (NS_SUCCEEDED(rv) && *compiler) /*removeDuplicateDeclarations(root); */
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr&nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); &else NS_RELEASE(child);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); <else NS_RELEASE(child);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; if (mRefcount &= 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+if (m_dna) <NodeTraversal t = new NodeTraversal(compiler, m_dna); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+if (isLoaded(compiler)) NS_ADDREF(compiler); removeDuplicateDeclarations(root);
+NodeTraversal t = new NodeTraversal(compiler, renamer, this); t.traverseRoots(externs, root); removeDuplicateDeclarations(root);
+nsCOMPtr&nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+/* If we do not have to re-process, just put it in a destination list. */ if (MAKE_LOCAL_NAMES_UNIQUE) if (MAKE_LOCAL_NAMES_UNQUEUED) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) <rdfs_printf("Props.process_declarations: %s<n",compiler, root); <if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); &<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (MAKE_LOCAL_NAMES_UNIQUE) </* makedeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root); */
+if (!node) &NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (makeDeclaredNamesUnique) <NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); &removeDuplicateDeclarations(root);
+if (isLoaded(compiler)) &NS_ADDREF(compiler); <removeDuplicateDeclarations(root);
+if (!mMakeDeclaredNamesUnique) <if (MAKE_LOCAL_NAMES_UNIQUE) &MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); <removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) rdfs_printf("Props.process_declarations: %sn",compiler, root); &if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs
+nsCOMPtr<nsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) <NS_RELEASE(child); &else NS_RELEASE(child);
+nsCOMPtrnsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); &else NS_RELEASE(child);
+if (compiler == null) &if ((error = xfree(compiler, root))) <RemoveDuplicateDeclarations(root); else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (compiler == null) &if ((error = xfree(compiler, root))) RemoveDuplicateDeclarations(root); &else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+nsAutoString enc; rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(nsIAtom*, enc)); if (rdftestnode.getNameSpaceManager(NS_DEFAULT_CAST(NodeTraversal*, enc))) <nsAtom* aAtom = null; if (aAtom.refcount > 0) <nsString nameSpace; aAtom.mRefcount++; aAtom.mRangeCount++; aAtom.mNum = aAtom.mNum; aAtom.mRangeCount++; aAtom.mCurrentRefCount++; <if (mRefcount = 0) nsString nameSpace; aAtom.mCurrentRefCount++; if (mRefcount =
+nsCOMPtr<nsIDOMNode> node; nsCOMPtr<nsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) &NS_RELEASE(child); else NS_RELEASE(child);
+nsCOMPtrnsIDOMNode> node; nsCOMPtrnsIDOMNode> child; rv = GetCurrentNode(getter_AddRefs(child)); if (NS_FAILED(rv)) NS_RELEASE(child); else NS_RELEASE(child);
+if (compiler == null) if ((error = xfree(compiler, root))) &RemoveDuplicateDeclarations(root); <<else if (MAKE_LOCAL_NAMES_UNIQUE) MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique(); NodeTraversal t = new NodeTraversal(compiler, renamer); t.traverseRoots(externs, root); removeDuplicateDeclarations(root); removeDuplicateDeclarations(root);
+if (!exists) &removeDuplicateDeclarations(root);
+if (MakeDeclaredNamesUnique renamer = new MakeDeclaredNamesUnique()) &rdfs_printf("Props.process_declarations: %s<n",compiler, root); if (!rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs_printf(rdfs

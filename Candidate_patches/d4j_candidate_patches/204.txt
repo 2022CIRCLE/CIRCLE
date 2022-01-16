@@ -1,0 +1,596 @@
+golden:
+char[] buffer = new char[count];
+inference:
+char[] buffer = new char[count];
+buffer = new char[count];
+
+char[] buffer = new char[count - 1];
+char[] buffer = new char[count-1];
+char *buffer = new char[count];
+char[] buffer = (char) new char[count];
+char[] buffer = new char[count+1];
+char[] buffer = new char[count + 1];
+char [] buffer = new char[count];
+char[] buffer = new char[count--];
+buffer[count] = new char[count];
+char[] buffer = new const char[count];
+char[] buffer = new char[count++];
+char[] buffer = new Char[count];
+char[] buffer = new (char[count]);
+char[] buffer;
+char[] buffer = char[count];
+char[] buffer = null;
+buf[count] = new char[count];
+char buffer = new char[count];
+char[] buffer = new char[0];
+char[] buffer = new unsigned char[count];
+char[] buffer = (char)new char[count];
+char buffer[] = new char[count];
+char ch[] buffer = new char[count];
+char buf[] buffer = new char[count];
+char[] buffer = new char[number];
+char [] buffer = new char [count];
+char[] buffer = new char[start];
+char[] buffer = new char[len];
+char* buffer = new char[count];
+char[] *buffer = new char[count];
+char char[] buffer = new char[count];
+char[] buffer; buffer = new char[count];
+char[] buffer = new char[size];
+char[] buffer = new char[count]; break;
+char[] buffer = new char[count] + 1;
+int buffer = new char[count];
+char[] buffer[count] = new char[count];
+char[] buf = new char[count];
+buffer = new (char[count]);
+char[] buffer = new char[count].get();
+char[] buffer=new char[count];
+buffer[] = new char[count];
+char[] buffer = new char[1];
+buffer = new buffer[count];
+char[] buffer = new char[&count];
+char] buffer = new char[count];
+buffer = (char) new char[count];
+char[] buffer= new char[count];
+buffer = new char[count - 1];
+char[] buffer = new char[count]; #endif
+char[] buffer[count];
+char *buffer = new char *count;
+char[] buffer = new (char[count]));
+char[] buffer = new char[count-2];
+char[] buffer = new char[index];
+char[] buffer = '0';
+char[] buffer = new char [count];
+buffer = new const char[count];
+const char[] buffer = new char[count];
+char[], buffer = new char[count];
+char[] buffer = null;
+char_buffer = new char_buffer[count];
+char[] buffer = new char[count] - 1;
+chars[] buffer = new chars[count];
+new char[count];
+unsigned long buffer = new unsigned long[count];
+char[] buffer = chars[count];
+char[] buffer = new (char[count]) buffer;
+char[] buffer = new char[i];
+int buffer = new int[count];
+char[] buffer = new char[count+2];
+char[] buffer = new char[count][1];
+result = new char[count];
+PRUint32 buffer = new PRUint32(count);
+char[] buffer = new String[count];
+char[] buffer = new char[Count];
+buffer[count] = '0';
+unsigned char[] buffer = new char[count];
+buffer = new unsigned char[count];
+char[] buffer = nu;
+char[] buffer = new long char[count];
+char[] buffer = new char[_count];
+buffer = new char[count-1];
+char[] buffer = new int char[count];
+char[] buffer = new char[128];
+char[] buffer; char[count];
+char[] buffer = new "";
+buffer = new char[count++];
+nchar[] buffer = new nchar[count];
+char *buffer = new char [count];
+char[] buffer = new (int)char[count];
+buf[count] = new buf[count];
+char[] buffer = new char[*count];
+char[] buffer = new char[length];
+char[] buffer = new (void) char[count];
+char[] buffer = new char[count][0];
+char[] buffer = new char[count][count];
+char[] buffer[] = new char[count];
+unsigned int buffer = new unsigned int[count];
+char[] buffer = new String(count);
+char[] buffer = unsigned char[count];
+char[] buffer = new char[count].char;
+char[] buffer = new char[count+len];
+char[] buffer = new char[int];
+char[] buffer = new char[count-count];
+buffer[count] = null;
+char[] buffer[count] = '0';
+char[count] buffer = new char[count];
+char **buffer = new char[count];
+const char* buffer = new const char[count];
+char[] buffer = 0;
+*buffer = new char[count];
+*buffer = new *buffer[count];
+char[] buffer = new string[count];
+size_t buffer = new char[count];
+char[] buffer = new chars[count];
+buffer = char[count];
+buffer = new chars[count];
+char[] buffer = nump;
+char _buffer = new char[count];
+char[] pbuffer = new char[count];
+buffer = new (char[count]) char[count];
+unsigned int buffer = new unsigned char[count];
+char[] buffer = new *char[count];
+unsigned char buffer = new unsigned char[count];
+buf = new char[count];
+char[1] buffer = new char[1];
+char[] buffer = new char[count:];
+char[] buffer = new char[];
+u_char buffer = new u_char[count];
+char1[] buffer = new char1[count];
+char2[] buffer = new char2[count];
+char b[] buffer = new char[count];
+char[] buffer = new char[addr];
+char[] buffer = new char[offset];
+ch[] buffer = new ch[count];
+char buffer[];
+char[] ch = new char[count];
+char[] buffer = new char[count]  1;
+char[] buffer = new char[count].next;
+char[] buffer = new (char[count]) random;
+value[] buffer = new value[count];
+char[] buffer = new (unsigned char[count]);
+(char[]) buffer = new (char[count]);
+int buffer = new int char[count];
+buf[] buffer = new buf[count];
+char buffer[count] = new char[count];
+return new char[count];
+char[] buffer = new char[count - start];
+char c[] buffer = new char[count];
+char[] buffer[count] = null;
+string[] buffer = new string[count];
+char[] buffer = new char[count].tqe;
+unsigned int buffer = new char[count];
+buffer = null;
+char[] buffer = new char[count+size];
+char[] buffer = new Char(count);
+buf[count] = '0';
+size_t buffer = new size_t[count];
+buffer = new char[count + 1];
+char[] buffer = new char[count;
+(char[]) buffer = new char[count];
+char buffer = new char[count - 1];
+char *buffer = new char;
+char[] buffer = new [char[count]];
+buffer = new (int) char[count];
+buffer = new char[count+1];
+char[] buffer = new char[(char)count];
+char[] buffer(new char[count]);
+char[] buffer = new (void *)char[count];
+char[] buffer = new char[count].buffer;
+char[] buffer = new length;
+char[] buffer = new char[count--+1];
+char[] buffer = new char[-1];
+char[] buffer = new char[count].len;
+(void) new (char[count]);
+unsigned long buffer = new char[count];
+char[] buffer = new char[count--);
+char[] buffer = new char[name];
+char[] buffer = new (char[count]) null;
+buffer = new (char[count]));
+char[] buffer = new char[count---1];
+char[] buffer = new PRUint32(count);
+char[] buffer; new char[count];
+buffer = new char[count].get();
+char[0] buffer = new char[0];
+buffer = new string[count];
+char[] buffer = new char[count+count];
+char[] buffer = newchar[count];
+char[] buffer = new char[count]; */
+char[] buffer = new char[count + 2];
+char[] buffer = new char[count]; char[] len;
+char[] buffer = new char[count]; /* * If we've got a copy of it now */
+char[] buffer = new char[count]; /* FIXME: This would be really useful */
+char[] buffer = new char[count]; char ch = (char) (random.nextInt(gap) + start);
+char[] buffer = new char[count]; char[] ch;
+char[] buffer = new char[count]; /* int n = 0 */
+char[] buffer = new char[count]; /* check for sizeof(*/
+char[] buffer = new char[count]; char[] prefix = '0';
+char[] buffer = new char[count];  else  char *p = (char)(unsigned long)(unsigned long); if (p = '0')  return '0';
+char[] buffer = new char[count-- - sizeof(char)-1];
+char[] buffer = new char[count];  else  char[] buffer = new char[count];
+char[] buffer = new char[count]; buffer = (char) 0;
+char[] buffer = new char[count]; char[] size = (int)(size * 2) + 1;
+char[] buffer = new char[count]; buffer[count] = (char) ((char) ch -'');
+char[] buffer = new char[count]; chars[count] = '0';
+char[] buffer = new char[count];  else  if (count >= 0)  if (count  0)  throw new IllegalArgumentException("Requested random string length " + count + " is less than 0.");  if (start == 0 && end == 0)  if (chars!= null)  end = chars.length;  else  if (!letters &&!numbers)  end = Integer.MAX_VALUE;  else  end = 'z' + 1; start ='';    char ch; if (chars == null)  ch = (char) (random.nextInt(gap) + start);  else  ch = (char) (random.nextInt(gap) + start);  else  ch = chars[random.nextIn
+char[] buffer = new char[count];  else  buffer[count] = '0';
+char[] buffer = new char[count]; buffer[count] = null;
+char[] buffer = new char[count];  else  char[] buffer = null;
+char[] buffer = new char[count]; /* don't get an empty char buffer. */
+char[] buffer = new char[count-- ::length];
+char[] buffer = new char[count]; /* * The * result of the char[count] array is the same as '0'. */
+char[] buffer = new char[count];  else  buffer = (char) (1;
+char[] buffer = new char[count]; char [] len; char[] offset; char[] length; char[1] line;
+buffer = new (unsigned char)char[count];
+char[] buffer = new char[count]; char[] buffer = '0';
+char[] buffer = new char[count];  else  buffer = (char) (buff.short());
+char[] buffer = new char[count]; buffer[count] = '0';
+char[] buffer = new char[count]; char *break;
+char[] buffer = new char[count]; buffer.assign(ch);
+char[] buffer = new char[count]; /* this doesn't matter */
+char[] buffer = new char[count]; char [] i;
+char[] buffer = new char[count];  else  if (count  0)  error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; /* * Set the start/end time of the write. */
+char[] buffer = new char[count]; /* XXX - this is necessary if it is not a pointer, * which will be * the first entry in the text file */
+char[] buffer = new char[count]; char[] last = new char[count];
+char[] buffer = new char[count]; /* XXX */
+char[] buffer = new char[count];  else  buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; char[] last = last;
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '0'; else buffer[p++] = '0';
+char[] buffer = new char[count]; <else <buffer[count] = '&0';
+char[] buffer = new char[count]; else &if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &buffer[count] = '<0';
+char[] buffer = new char[count]; <else <if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else buffer = (char) (buff.short());
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; /* * The * result of the char[count] array is the same as '&0'. */
+char[] buffer = new char[count]; <else char[] buffer = new char[count];
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; &else <if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; buffer[count] = '0';
+char[] buffer = new char[count]; <else &if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count] <1;
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; else <buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; <else buffer = (char) (buff.short());
+char[] buffer = new char[count]; <else <if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; <else &buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; else &buffer[count] = '<0';
+char[] buffer = new char[count]; <else <if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count] 1;
+char[] buffer = new char[count]; &else &buffer = (char) (1;
+char[] buffer = new char[count]; &else <if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &buffer[count] = '0';
+char[] buffer = new char[count]; <else if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; else <buffer = (char) (1;
+char[] buffer = new char[count]; char[] buffer = '<0';
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; <else char[] buffer = null;
+char[] buffer = new char[count]; <else <if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &char[] buffer = new char[count];
+char[] buffer = new char[count]; else <if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+buffer[count] = '<0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; buffer[count] = '<0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; else if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer[count] = '0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; <else &if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; <else <if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <buffer[count] = '<0';
+char[] buffer = new char[count]; else <char[] buffer = new char[count];
+char[] buffer = new char[count]; &else &if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '&0'; else buffer[p++] = '0';
+char[] buffer = new char[count]; chars[count] = '&0';
+char[] buffer = new char[count]; else <if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; else buffer = (char) (1;
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '0'; else buffer[p++] = '&0';
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '<0'; else buffer[p++] = '0';
+char[] buffer = new char[count]; <else if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else if (count &0) error("Cannot get random string length"); return -1;
+buffer = new char[count];
+char[] buffer = new char[count]; <else &if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; &else &if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <buffer = (char) (buff.short());
+char[] buffer = new char[count]; &else if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; <else &if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <buffer = (char) (buff.short());
+char[] buffer = new char[count]; chars[count] = '0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; <else <buffer[count] = '<0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count] &1;
+char[] buffer = new char[count]; chars[count] = '<0';
+char[] buffer = new char[count]; <else <if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; &else if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+buf[count] = '0';
+char[] buffer = new char[count]; else <if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '0'; else buffer[p++] = '<0';
+char[] buffer = new char[count]; else buffer[count] = '<0';
+char[] buffer = new char[count]; else <if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '<0'; else buffer[p++] = '&0';
+char[] buffer = new char[count]; &else char[] buffer = new char[count];
+char[] buffer = new char[count]; else &if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '<0'; else buffer[p++] = '<0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; else if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = '<0';
+char[] buffer = new char[count]; <else &buffer = (char) (buff.short());
+char[] buffer = new char[count]; &else buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; &else <if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; <else buffer[count] = '0';
+char[] buffer = new char[count]; <else &if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; else &if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else buffer[count] = '&0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; &else if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; else &if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = '0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+buffer[count] = '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; <else <char[] buffer = null;
+char[] buffer = new char[count]; &else <if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+buffer[count] = '&0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; else if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; <else if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <buffer = (char) (1;
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '&0'; else buffer[p++] = '&0';
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; <else if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer[count] = '&0';
+char[] buffer = new char[count]; &else <if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else char[] buffer = new char[count];
+char[] buffer = new char[count]; else if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <char[] buffer = null;
+char[] buffer = new char[count]; else &char[] buffer = null;
+char[] buffer = new char[count]; &else &buffer[count] = '0';
+char[] buffer = new char[count]; <else &if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &buffer[count] = '<0';
+char[] buffer = new char[count]; <else <buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; else <buffer[count] = '0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; &else &if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <buffer = (char) (1;
+char[] buffer = new char[count]; <else <if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else buffer[count] = '0';
+char[] buffer = new char[count]; <else <char[] buffer = new char[count];
+char[] buffer = new char[count]; &else buffer[count] = '<0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; <else &if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '0'; else buffer[p++] = '0';
+char[] buffer = new char[count]; else buffer = (char) (buff.short());
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; else if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; else &buffer[count] = '0';
+char[] buffer = new char[count]; else char[] buffer = null;
+char[] buffer = new char[count]; else <if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count];
+char[] buffer = new char[count]; &else <buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; &else <if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; else if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &buffer[count] = '&0';
+char[] buffer = new char[count]; &else &if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else buffer = (char) (1;
+char[] buffer = new char[count]; char *p; if (p) buffer[p++] = '&0'; else buffer[p++] = '<0';
+char[] buffer = new char[count]; else if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count-- - sizeof(char)-1];
+char[] buffer = new char[count-- - &sizeof(char)-1];
+char[] buffer = new char[count]; else <if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <if (count <0) error("Cannot get random string length"); return -1;
+buf[count] = '<0';
+char[] buffer = new char[count]; &else &buffer[count] = '&0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; <else if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else <buffer[count] = '<0';
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; else <if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else <if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; char[] prefix = '<0';
+char[] buffer = new char[count]; &else if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else char[] buffer = null;
+char[] buffer = new char[count]; <else <if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else buffer = (char) (1;
+char[] buffer = new char[count]; &else <if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; /* * The * result of the char[count] array is the same as '0'. */
+char[] buffer = new char[count]; else <if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <if (count >= 0) if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; char[] buffer = '&0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; else <if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else buffer[count] = '&0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; <else &buffer = (char) (1;
+char[] buffer = new char[count]; else &if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; else &if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &buffer = (char) (buff.short());
+char[] buffer = new char[count]; else if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &buffer[count] = '&0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; else &buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; <else <if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else <if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p = '<0') return '0';
+char[] buffer = new char[count]; else <if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; <else <if (count &0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &char[] buffer = null;
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; else &if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else if (count 0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &char[] buffer = null;
+char[] buffer = new char[count]; &else <buffer[count] = '&0';
+char[] buffer = new char[count]; &else buffer[count] = '0';
+char[] buffer = new char[count]; else &if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = '&0';
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; else <if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer[count] = '<0';
+char[] buffer = new char[count]; <else char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count-- - <sizeof(char)-1];
+char[] buffer = new char[count]; else if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &if (count >= 0) <if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; else <buffer[count] = '&0';
+char[] buffer = new char[count]; &else <if (count >= 0) &if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; char[] prefix = '0';
+char[] buffer = new char[count]; else &buffer = (char) (buff.short());
+char[] buffer = new char[count]; &else <if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &char[] buffer = new char[count];
+char[] buffer = new char[count]; else if (count >= 0) if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; else &if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; &else &if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; <else buffer[count] = '<0';
+char[] buffer = new char[count]; char[] prefix = '&0';
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; &else &if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else <if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else &char[] buffer = new char[count];
+char[] buffer = new char[count]; else &buffer = (char) (1;
+char[] buffer = new char[count]; char[] buffer = '0';
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p <= '0') return '0';
+char[] buffer = new char[count]; /* * The * result of the char[count] array is the same as '<0'. */
+char[] buffer = new char[count]; &else if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <buffer[count] = '0';
+char[] buffer = new char[count]; <else <char *p = (char)(unsigned long)(unsigned long); if (p &= '<0') return '0';
+char[] buffer = new char[count]; &else &if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else &char *p = (char)(unsigned long)(unsigned long); if (p = '0') return '0';
+char[] buffer = new char[count]; else <if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <if (count >= 0) &if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else <buffer[count] = '0';
+char[] buffer = new char[count]; <else &char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; &else <char *p = (char)(unsigned long)(unsigned long); if (p &= '0') return '0';
+char[] buffer = new char[count]; &else <if (count >= 0) <if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; &else <if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else &if (count <0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else buffer[count] = '&0';
+char[] buffer = new char[count]; else if (count >= 0) <if (count <0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; <else if (count 0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else char *p = (char)(unsigned long)(unsigned long); if (p <= '<0') return '0';
+char[] buffer = new char[count]; else &if (count 0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else if (count >= 0) if (count 0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p = '&0') return '0';
+char[] buffer = new char[count]; <else <if (count <0) <error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else &if (count >= 0) &if (count &0) throw new IllegalArgumentException("Requested random string length " + count + " is less than 0."); if (start == 0 && end == 0) if (chars!= null) end = chars.length; else if (!letters &&!numbers) end = Integer.MAX_VALUE; else end = 'z' + 1; start =''; char ch; if (chars == null) ch = (char) (random.nextInt(gap) + start); else ch = (char) (random.nextInt(gap) + start); else ch = chars[random.nextIn
+char[] buffer = new char[count]; else &char *p = (char)(unsigned long)(unsigned long); if (p <= '&0') return '0';
+char[] buffer = new char[count]; &else <char[] buffer = new char[count];
+char[] buffer = new char[count]; &else <char[] buffer = null;
+char[] buffer = new char[count]; else buffer[count] = (char) (Raw.seg(count) + start);
+char[] buffer = new char[count]; <else if (count &0) <error("Cannot get random string length"); return -1;
+buf[count] = '&0';
+char[] buffer = new char[count]; else <char *p = (char)(unsigned long)(unsigned long); if (p &= '&0') return '0';
+char[] buffer = new char[count]; &else if (count <0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; <else <if (count &0) error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; buffer[count] = '&0';
+char[] buffer = new char[count]; <else if (count &0) &error("Cannot get random string length"); return -1;
+char[] buffer = new char[count]; &else <buffer = (char) (buff.short());
+char[] buffer = new char[count]; <else if (count <0) <error("Cannot get random string length"); return -1;

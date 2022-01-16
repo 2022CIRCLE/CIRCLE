@@ -1,0 +1,502 @@
+golden:
+if (NodeUtil.isName(n) && variable.equals(n.getString())) {
+inference:
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n)){
+if (NodeUtil.isName(n) && variable.get() == n.getString()){
+if (NodeUtil.isName(n) && variable.get().equals(n.getString())){
+if (NodeUtil.isName(n) && variable == n.getString()){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable){
+if (NodeUtil.isName(n) && variable.equals(n.getUnicode())){
+if (NodeUtil.isName(n) || variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable!= n.getString()){
+if (NodeUtil.isName(n) && variable.get().Equals(n.getString())){
+if (!NodeUtil.isName(n) && variable.equals(n.getString())){
+if ((NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Length() > 0){
+if (n.isName() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get() == n.getString()){
+else if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getType() == Token.ASSIGN){
+if ((NodeUtil.isName(n) && variable.equals(n.getString()))){
+if (VarTerm.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n)){
+if (NodeUtil.isName(n))  if (variable.equals(n.getString())){
+if (VariableUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get()!= n.getString()){
+if (NodeUtil.isName(n) && variable.IsEmpty()){
+if (NodeUtil.isName(n) && variable.equals(n.getName())){
+if (NodeUtil.isName(n) && variable.Equals(n)){
+if (NodeUtil.isName(n) && variable.get()==n.getString()){
+if (NodeUtil.isName(n) && variable.get() == null){
+if (NodeUtil.isName(n) && variable && variable.Equals(n.getString())){
+if (n.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.get().isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == '0'){
+if (NodeUtil.isName((n)) && variable.equals(n.getString())){
+if(NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isNativeName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n.get()) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getUnicode())){
+if (NodeUtil.isName(n) && variable.equals(n.getString().get())){
+if (NodeUtil.isName(n) && variable.equals(n.get())){
+if (NodeUtil.isName(n) && variable[0].equals(n.getString())){
+if (NodeUtil.isName(&n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable==n.getString()){
+if (n.getString().Equals(n.getString())){
+if (NodeUtil.isName(n) && n.getString().Equals("")){
+if (NodeUtil.isName(n) && variable.Length() >= 0){
+if (n && variable.equals(n.getString())){
+if (n.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable[0] == n.getString()){
+if (NodeUtil.IsName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == Token.ASSIGN){
+if ( nodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable == null){
+if (NodeUtil.ISName(n) && variable.Equals(n.getString())){
+if (n.getString().Equals("")){
+if (NodeUtil.isName(n) && variable && variable.get() == n.getString()){
+if (n.isName(n) && variable.equals(n.getString())){
+if (n.getString().Equals(NodeUtil.isName(n))){
+if (NodeUtil.isName(n) && variable.Equals(n.GetString())){
+if (n.getName().Equals(n.getString())){
+if (NodeUtil.isName(n) && (variable == n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable){
+if (NodeUtil.isName(name) && variable.equals(name)){
+if (NodeUtil.isName(n) && variable.equals(n.getString(""))){
+if (NodeUtil.isName(n) && value.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get()){
+if (NodeUtil.IsName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName((void **)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get()){
+if (NodeUtil.isName(n) && value.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == n.getString().get()){
+if (NodeUtil.isName(n) && variable.equals(n.getDependentString())){
+if (n.getName() && variable.equals(n.getString())){
+if (NodeUtil.isName((void*)n) && variable.equals(n.getString())){
+if (GetNodeUtil().isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && attribute.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (n.getType() == Token.ASSIGN && variable.equals(n.getString())){
+if (n.isName() && variable.equals(n.getString())){
+if ((NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.EqualsLiteral(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.GetUnicode())){
+if (NodeUtil.isName(n.get()) && variable.equals(n.get())){
+if (NodeUtil.isName(n) && variable.equals(n.getBuffer())){
+if (NodeUtil.IsEmpty() && variable.equals(n.getString())){
+if ( NodeUtil.isName( n ) && variable.equals( n.getString() ) ){
+if (NodeUtil.isName(n) && variable.Equals(n.getString().get())){
+if (NodeUtil.isName(None) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getNodeType())){
+switch (n.getType()){
+if (NodeUtil.isName(n) && variable.equals(n.GetUnicode())){
+if (NodeUtil.isName(n) || variable.Equals(n.getString())){
+if ( NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) &&!variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().get()){
+if (NodeUtil.isName(n) && variable.Equals(n.getName())){
+if (NodeUtil.isName(n) && (variable.equals(n.getString()))){
+if (NodeUtil.isName(n) && variable.Length() == 0){
+if (NodeUtil.isName( n ) && variable.equals( n.getString() )){
+if (NodeUtil.isName(n))  if (variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && name.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getParent())){
+if (NameUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == n){
+if (n.getNodeType() == Token.ASSIGN){
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(&variable) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && name.Equals(n.getString())){
+if (!NodeUtil.isName(n)){
+if (NodeUtil.isName(n) && variable.GetUnicode() == n.getString()){
+if (NodeUtil.isName(n) && variable.equals(&n.getString())){
+if (NodeUtil.isName(n) && variable!= n){
+if (!NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n), variable.equals(n.getString())){
+if (NodeUtil.isName((void**)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n))  if (VarTerm.equals(n.getString())){
+if (n.isName && variable.equals(n.getString())){
+if (NodeUtil.isName(n.getName()) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == variable.get()){
+if (NodeUtil.isName(m) && variable.equals(m.getString())){
+if (NodeUtil.isName(aNode) && variable.equals(aNode.getString())){
+if (NodeUtil.isName(n).get() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(value) && variable.equals(value.getString())){
+if (NodeUtil.isName(n) && variable.get().equals(n)){
+if (NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (n.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName((void *)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getValue())){
+if (NodeUtil.isName(n) && variable!= null){
+if (NodeUtil.isName(n) && variable.get() == 0){
+if (NodeUtil.IS_Name(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && type.equals(n.getString())){
+if (NodeUtil.isName(n) && str.Equals(n.getString())){
+if (NodeUtil.isName(aName) && variable.equals(aName)){
+if (NodeUtil.isName(v) && variable.equals(v)){
+if (NodeUtils.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.ISName(n)){
+if (NodeUtil && variable.equals(n.getString())){
+if (NodeUtil.isName((n)) && variable.equals((n.getString()))){
+if (NodeUtil.isName(n) || variable == n.getString()){
+if (NodeUtil.isName(n))  variable.equals(n.getString());{
+if (NodeUtil.isName(n) && variable.equals(None)){
+if (n.getString() && variable.equals(n.getString())){
+if ( NodeUtil.isName(n) && variable.equals(n.getString()) ){
+if (NodeUtil.isName(n) ){
+if (NodeUtil.isName( n ) && variable.equals( n.getString() ) ){
+if (NodeUtil.isName(n) && variable.AssignWithConversion(n.getString())){
+if (NodeUtil.isName(n) && variable == n.getUnicode()){
+if (n.getString().Equals(n)){
+if (NodeUtil.isName(n) && variable.equals(n.getString()).get()){
+if ( NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtils.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n), variable){
+NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.isName() && variable.equals(n.getString())){
+variable = NodeUtil.isName(n); if (variable){
+if (NodeUtil.isName(n) && variable[0] == '0'){
+if (NodeUtil.isName(n) && variable.get().get().get()){
+if (NodeUtil.isName(n.getString()) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getString(""))){
+if (NodeUtil.isName(n) && variable.Equals(n.getString()) && variable){
+if (NodeUtil.isName(n) && variable == n.getString().get()){
+if (NodeUtil.isName(n) && variable.get() == n.getUnicode()){
+if (NodeUtil.isName(n) && variable.get().get().equals(n)){
+if (NodeUtil.isName(n) && variable.equals(n.getCharset())){
+if (NodeUtil.isName(n) && n.getString().Equals(variable)){
+if (NodeUtil.isName(n) && variable.equals(n) && variable.get()){
+if (NodeUtil.isName(n) && variable.equals(n.getNodeString())){
+if (NodeUtil.isName(n) && variable.equals(n.getBytes())){
+if (NodeUtil.isName(n))  if (variable == n.getString()){
+if (NodeUtil.isName(n) && variable.equals(n.getAssignment())){
+if (NodeUtil.isName(n) && variable.equals((n.getString()))){
+if (NodeUtil.isName(n) && variable.get().get() == '0'){
+if ( (NodeUtil.isName(n) && variable.equals(n.getString())) ){
+if (NodeUtil.isName(n) && variable!= n.getString().get()){
+if (n.isName(n)){
+if (NodeUtil.isName(n) && (variable.get() == n.getString())){
+if ( NodeUtil.isName( n ) && variable.equals( n.getString() )){
+if (NodeUtil.isName(n){
+if (n.isName()){
+if (NodeUtil.isName(n))  if (variable.get() == n.getString()){
+if (v){
+if (NodeUtil.isName(n) && variable.get() == NS_LITERAL_STRING("")){
+if (n){
+variable = n.getString(); if (NodeUtil.isName(n) && variable.equals(n)){
+if (NodeUtil.isName(n) && variable.get().get().get().equals(n)){
+if (NodeUtil.isName(n) && variable.LowerCaseEqualsLiteral(n)){
+if (v3){
+if (NodeUtil.isName(n) && variable && n.getString().Equals("")){
+if (NodeUtil.isName(n) && variable.get().get().equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == Token.IDOMELEMENT){
+if (n.getString().equals(NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().get().equals(n.getString())){
+if (n.getString().Equals(VarTerm)){
+if (NodeUtil.isName(n) && variable!= n.getString() && variable!= n.getString()){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '/'){
+if (n.getType() == Token.ASSIGN)  if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable!= n.getString() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getAsciiString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get()){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '0'){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && (NodeUtil.isLhs(n, n.getParent()) && n.getString().get() == Token.ASSIGN)){
+if (n.getString() == NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().equals(n.getString())){
+if (n.getString() == Token.ASSIGN){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.equals('0')){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) &&!VariableIsValid()){
+if (n.getName() == n.getString()){
+if (n.getType() == Token.ASSIGN)  n.getParent().getType() = Token.ASSIGN; if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getNodeType() == Node.STRING){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().get()){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().get().get().get().equals(n.getString())){
+if (n.getName().Equals("") && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable!= null && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable && variable.get() == '0'){
+if (n.getString().equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN)  Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ)  return state;  else{
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.Equals(n.getNodeType())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.equals('<0')){
+if (n.getNodeType() == Node.STRING){
+if (NodeUtil.isName(n) && (variable == n.getString())){
+if (NodeUtil.isName(n) && type.equals(n.getString())){
+if (n.getType() == Token.ASSIGN) &if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) ){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; &else{
+if (NodeUtil.isName(n) &&!variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; <else{
+if ( nodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n)) if (variable.Equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; &else{
+if (n.getString().equals(NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (n.getString() == NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable && variable.get() == '&0'){
+if (NodeUtil.isName(n) && variable[0] == '<0'){
+if (NodeUtil.isName(n) && variable.equals(n.getCharset())){
+if (NodeUtil.isName(n) && variable.equals(n.get())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && (NodeUtil.isLhs(n, n.getParent()) && n.getString().get() == Token.ASSIGN)){
+if (NodeUtil.isName(n) && name.equals(n.getString())){
+if ( NodeUtil.isName(n) && variable.equals(n.getString())){
+if (!NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '<0'){
+if (NodeUtil.isName(n) && variable.get().get().equals(n.getString())){
+if (n.isName() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '/'){
+if (NodeUtil.isName(n) && variable.get() == n.getString().get()){
+if (NodeUtil.isName(n)) &if (variable.Equals(n.getString())){
+if (NodeUtil.isName(n) || variable == n.getString()){
+if (n.getString().Equals("")){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().get().get().get().equals(n.getString())){
+if (v){
+if (n.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString(""))){
+if ( NodeUtil.isName( n ) && variable.equals( n.getString() ) ){
+if (NodeUtil.isName(n) && variable){
+if (NodeUtil.isName(n)){
+if (NodeUtil.isName(n)) if (variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(&n.getString())){
+if (NodeUtil.isName(n) && str.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.equals('&0')){
+if (NodeUtil.isName(n)) &variable.equals(n.getString());{
+if (NodeUtil.ISName(n)){
+if (NodeUtil.isName(n) && variable.LowerCaseEqualsLiteral(n)){
+if (VariableUtil.isName(n) && variable.equals(n.getString())){
+if (n.getString().Equals(VarTerm)){
+if (NodeUtil.isName(n) && variable.get().get().get().get()){
+if (NodeUtil.isName(n) && variable && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == null){
+if (NodeUtil.isName((void**)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().get().equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; <else{
+if (NodeUtil.isName(n) && n.getString().Equals("")){
+if (NodeUtil.isName((void*)n) && variable.equals(n.getString())){
+if (NodeUtil.IsEmpty() && variable.equals(n.getString())){
+if (NodeUtil.isName(n)) <if (VarTerm.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getString()) && variable){
+if (NodeUtil.isName(n.get()) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.isName && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getDependentString())){
+if (NodeUtil.isName(n) && attribute.equals(n.getString())){
+if (NodeUtil.isName(n)) <if (variable == n.getString()){
+if (NodeUtil.isName(n) && variable.get().get() == n.getString()){
+if (n.getString().Equals(n)){
+if (NodeUtil.isName(n) && variable.Length() > 0){
+if (NodeUtil.isName(n) || variable.Equals(n.getString())){
+if ((NodeUtil.isName(n) && variable.equals(n.getString()))){
+if (NodeUtil.isName(n) && (variable.equals(n.getString()))){
+if (NodeUtil.isName(n) && variable.IsEmpty()){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; &else{
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '&0'){
+if (NodeUtil.isName(n) && variable.get() == variable.get()){
+if (VarTerm.isName(n) && variable.equals(n.getString())){
+variable = n.getString(); if (NodeUtil.isName(n) && variable.equals(n)){
+if (NodeUtil.isName(n) && variable == n.getString().get()){
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if ( NodeUtil.isName(n) && variable.equals(n.getString()) ){
+if (n.getType() == Token.ASSIGN) if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; else{
+if (NodeUtil.isName(n) && variable.Equals(n.getName())){
+if (NodeUtil.isName(n) && variable.Length() == 0){
+if (NodeUtil.isName(n) && variable.AssignWithConversion(n.getString())){
+if(NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getUnicode())){
+if (NodeUtil.isName(n) && variable.equals(n.getString().get())){
+if (NodeUtil.isName(n) && variable.GetUnicode() == n.getString()){
+if ((NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getParent())){
+NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n)){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; &else{
+if (n.isName(n)){
+if (NodeUtil.isName((void *)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getValue())){
+if (NodeUtil.get().isName(n) && variable.equals(n.getString())){
+if (n){
+if (NodeUtil.isName(n) && variable.equals(n.getUnicode())){
+if (NodeUtil.isName(n) && variable.equals(n.GetUnicode())){
+if (NodeUtil.isName(n) && variable.get().get().get().get().equals(n.getString())){
+if (NodeUtil.ISName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable[0] == n.getString()){
+if (NodeUtil.isName(n) && variable.equals(n.getBytes())){
+if (NodeUtil.isName(n) && variable.equals(n.getAssignment())){
+if (!NodeUtil.isName(n)){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; else{
+if (NodeUtil.isName(n) && value.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == '0'){
+if (NodeUtil.isName(n) && variable && variable.get() == '0'){
+if ((NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(value) && variable.equals(value.getString())){
+if (NodeUtil.isName(n) && variable.get().equals(n)){
+if (NodeUtil.isName(n.getString()) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable[0].equals(n.getString())){
+if (NodeUtil.isName(n) && variable && variable.get() == n.getString()){
+if (n.getString().Equals(n.getString())){
+if (NodeUtil.isName(n)) <if (variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable == n.getString()){
+if (n.getString().Equals(NodeUtil.isName(n))){
+if (NodeUtil.isName(n) && variable.equals(n.getName())){
+if (v3){
+if (NodeUtil.isName(n) || variable.equals(n.getString())){
+if (NodeUtil.isName(n) && n.getString().Equals(variable)){
+if (n.getType() == Token.ASSIGN){
+if (NodeUtil.isName((void **)n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.Equals(n.getNodeType())){
+if (n.getString() == Token.ASSIGN){
+if (n.isName() && variable.equals(n.getString())){
+if ( (NodeUtil.isName(n) && variable.equals(n.getString())) ){
+if (n.getType() == Token.ASSIGN) n.getParent().getType() = Token.ASSIGN; if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get() == '<0'){
+if (NodeUtil.isName((n)) && variable.equals((n.getString()))){
+if (NodeUtil.isName(n) && variable.get()){
+if (NodeUtil.isName(n) && variable.get().equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; <else{
+if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN){
+if (NodeUtil.isName(n) && variable.get() == '&0'){
+if (NodeUtil.isName(n) && variable!= n.getString() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == Token.IDOMELEMENT){
+if (NodeUtil.isName(n)) <if (variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable == null){
+if (n.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n)) &if (variable.get() == n.getString()){
+if (NodeUtil.isNativeName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable==n.getString()){
+if (NodeUtil.isName(n) && variable.Equals(n.GetUnicode())){
+if (NodeUtil.isName(n) && variable.Length() >= 0){
+if (NodeUtil.isName(n)) &if (VarTerm.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == '<0'){
+if (NodeUtil.isName(n)) variable.equals(n.getString());{
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; else{
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; else{
+if (NodeUtil.isName(n)) &if (variable == n.getString()){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; else{
+if (NodeUtil.IS_Name(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n) && variable.get()){
+if (NodeUtil.IsName(n) && variable.Equals(n.getString())){
+if (NodeUtils.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == Token.ASSIGN){
+if (NodeUtil.isName(n) && variable.equals(n.getNodeType())){
+if (NodeUtil.isName(n) && variable.equals(n.getAsciiString())){
+if (NodeUtil.isName(n) && variable.get() == n){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get() == '0'){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; <else{
+if (NodeUtil.isName(n) && variable && n.getString().Equals("")){
+if (NodeUtil.isName(n) && variable && variable.Equals(n.getString())){
+if (NodeUtil.isName(n)) &if (variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable!= null){
+if (n.getType() == Token.ASSIGN) <if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.isName()){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; else{
+else if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.GetString())){
+if (NodeUtil.isName(n) && variable.equals(n.getBuffer())){
+if (n.getType() == Token.ASSIGN) &n.getParent().getType() = Token.ASSIGN; if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName( n ) && variable.equals( n.getString() )){
+if (NodeUtil.isName(n) && name.Equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; <else{
+if (NodeUtil.isName(n) && variable.Equals(n.getString(""))){
+if (n.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n)) if (variable == n.getString()){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; else{
+if (NodeUtil.isName((n)) && variable.equals(n.getString())){
+if (n.isName() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable!= null && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && (variable.get() == n.getString())){
+if (NodeUtil.isName(n) && variable.get() == 0){
+if (NodeUtil.isName(n) && variable.Equals(n.getString().get())){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; else{
+if (NodeUtil.isName(null) && variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; &else{
+if (NodeUtil.isName(n) && variable!= n.getString()){
+if (NodeUtil.IsName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n)) && variable.equals(n.getString())){
+if (NodeUtil.isName(n), variable){
+if (GetNodeUtil().isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get().equals(n)){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; &else{
+if (NodeUtil.isName(n)) <if (variable.get() == n.getString()){
+if (n.getType() == Token.ASSIGN && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && value.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get() == '&0'){
+if (NodeUtil.isName(n) && variable.get().get().get()){
+if (NodeUtil.isName(n) && variable.get()!= n.getString()){
+if (n.getString().equals(n.getString())){
+if (NodeUtil.isName(n).get() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get().get() == '0'){
+if (NodeUtil.isName(n)) <variable.equals(n.getString());{
+switch (n.getType()){
+variable = NodeUtil.isName(n); if (variable){
+if (NodeUtil.isName(n) && variable.get() == NS_LITERAL_STRING("")){
+if (n.getType() == Token.ASSIGN) <n.getParent().getType() = Token.ASSIGN; if (NodeUtil.isName(n) && variable.equals(n.getString())){
+if (n.getName() && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(null)){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; &else{
+if (NodeUtil.isName(n) && variable.equals(n.getString()).get()){
+if (NodeUtil.isName(n) && variable!= n){
+if (NodeUtil.isName(n) && variable[0] == '0'){
+if (n.getName().Equals("") && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable == n.getUnicode()){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) &&!VariableIsValid()){
+if (!NodeUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n.getName()) && variable.equals(n.getString())){
+if (NodeUtil.isName(v) && variable.equals(v)){
+if (NodeUtil.isName(n) && variable.get().get().get().equals(n)){
+if (NodeUtil.isName(n) && variable.equals((n.getString()))){
+if (NameUtil.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(aNode) && variable.equals(aNode.getString())){
+if (n.getName().Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.equals('0')){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get().get()){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; <else{
+if (NodeUtil.isName(n)) if (variable.get() == n.getString()){
+if (NodeUtil.isName(n), variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; <else{
+if (NodeUtil.isName(n) && variable.equals(n.getNodeString())){
+if (n.isName(n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable.get()){
+if (NodeUtil.isName(&n) && variable.equals(n.getString())){
+if (NodeUtil.isName(n.get()) && variable.equals(n.get())){
+if (NodeUtil && variable.equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; &else{
+if (NodeUtil.isName(m) && variable.equals(m.getString())){
+if (n && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable[0] == '&0'){
+if (NodeUtil.isName(n) && variable.get().Equals(n.getString())){
+if (NodeUtil.isName(name) && variable.equals(name)){
+if (n.getNodeType() == Token.ASSIGN) <Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; else{
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) &return state; <else{
+if (NodeUtil.isName(n) && variable!= n.getString() && variable!= n.getString()){
+if (NodeUtil.isName(aName) && variable.equals(aName)){
+if (NodeUtil.isName( n ) && variable.equals( n.getString() ) ){
+if (NodeUtil.isName(n)) if (VarTerm.equals(n.getString())){
+if (NodeUtil.isName(n) && variable && variable.get() == '<0'){
+if (NodeUtil.isName(n) && variable.get().get().get().get().get()){
+if (NodeUtil.isName(n) && variable!= n.getString().get()){
+if (NodeUtils.isName(n) && variable.Equals(n.getString())){
+if (n.getNodeType() == Token.ASSIGN) &Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) return state; <else{
+if ( NodeUtil.isName(n) && variable.Equals(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n)){
+if (n.getString() && variable.equals(n.getString())){
+if (NodeUtil.isName(&variable) && variable.equals(n.getString())){
+if (NodeUtil.isName(n) && variable.get() == n.getUnicode()){
+if (NodeUtil.isName(n) && variable.EqualsLiteral(n.getString())){
+if (NodeUtil.isName(n) && variable.Equals(n.getString())){
+if ( NodeUtil.isName( n ) && variable.equals( n.getString() )){
+if (NodeUtil.isName(n) && variable.get()==n.getString()){
+if (NodeUtil.isName(n) && variable.equals(n.getString()) && variable){
+if (n.getName() == n.getString()){
+if (NodeUtil.isName(n) && variable.get() == n.getString()){
+if (n.getNodeType() == Token.ASSIGN) Preconditions.checkState(n.getParent().getType() == Token.ASSIGN); VariableLiveness state = isVariableReadBeforeKill(rhs, variable); if (state == VariableLiveness.READ) <return state; &else{

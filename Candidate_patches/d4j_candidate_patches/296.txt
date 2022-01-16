@@ -1,0 +1,591 @@
+golden:
+if (!maybeModifiedArguments && !staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()) {
+inference:
+if (!maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments ||!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if(!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) || referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && references.isWellDefined() && references.isAssignedOnceInLifetime()){
+else if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo){
+if ((!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime){
+if (!maybeModifiedArguments && (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if ((maybeModifiedArguments &&!staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedInLifetime()){
+if (!maybeModifiedArguments &&!staleVars){
+if (!maybeModifiedArguments && (!staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(nv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments &&!staleVars.contains(v)){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.getWellDefined() && referenceInfo.getAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() ){
+if (!maybeModifiedArguments &&!v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(m) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && references.isWellDefined() && references.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.getAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceIn Lifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isEmpty()){
+if (!maybeModifiedArguments &&!staleVars.get() && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isInitializedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(p) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (isWellDefined(v) && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) ){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && ReferenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars[v] && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.hasAssignedOnceInLifetime()){
+if (!MaybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!(referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(Var) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && isWellDefined() && isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!(staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!v){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && ReferenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(rv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars && referenceInfo.isWellDefined()){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime(v)){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isInitializedInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(var) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&! staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(dv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && recInfo.isWellDefined() && recInfo.isAssignedOnceInLifetime()){
+if (++maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((maybeModifiedArguments) &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(c) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignOnceInLifetime()){
+if (!maybeModifiedArguments &&!(v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments ||!staleVars.contains(v)){
+if (!maybeModifiedArguments.contains(v) && referenceInfo.isWellDefined()){
+if (! maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! MaybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!(maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(i) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments)  if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v)){
+if (!maybeModifiedArguments && (staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(u) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(&v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&! referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments)  if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && resourceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && references.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && revisionInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments ||!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(dev) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.hasWellDefined() && referenceInfo.hasAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && ReferenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo){
+if (!maybeModifiedArguments &&!staleVars.containsKey(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && *staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())!= 0){
+if (!maybeModifiedArguments &&!staleVars.contains(r) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() ){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined(){
+if (!maybeModifiedArguments &&!inlineVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!flags.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v), referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments || referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars){
+if (!maybeModifiedArguments &&!ReferenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isImmutableOnceInLifetime()){
+if (StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo == null){
+if (!maybeModifiedArguments && isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime(0)){
+if (staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined(), referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(*v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v))  referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime();{
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDeclared() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments{
+if ((maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && recInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v){
+if ((staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime ()){
+if(!maybeModifiedArguments &&!staleVars.contains(v)){
+if (staleVars.contains(v)){
+if (! maybeModifiedArguments &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo == null){
+if (!maybeModifiedArguments && referInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!maybeModifiedArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo){
+if (!maybeModifiedArguments &&!isWellDefined(v) && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments){
+if (!maybeModifiedArguments &&!StaleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v))  referenceInfo.isWellDefined();{
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceIn Lifetime()){
+if (maybeModifiedArguments &&!staleVars.contains(v)){
+if ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()) == 0){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isOnceInLifetime()){
+if (!maybeModifiedArguments && (referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!referenceInfo.isWellDefined()){
+if (referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v){
+if (!staleVars.contains(v)){
+if (!maybeModifiedArguments ){
+if(!maybeModifiedArguments){
+if (!maybeModifiedArguments.contains(v)){
+if (isWellDefined(v)){
+
+if (maybeModifiedArguments){
+if (v){
+if (!maybeModifiedArguments && referenceInfo == null){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!aflags){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount  0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v!= null)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount >= 1 && refCount = 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isEmpty()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isValidVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v.vState && referenceInfo.isStatic())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((refCount == 0) &&!refCount)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v & refCount)  0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!declaration.isReferenced()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (nsDependentString(referenceInfo.get()))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!refCount){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isFound()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! referenceInfo.hasAssignedInTempVariables){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isPositioned()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isPositional()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!v){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!(referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (rv == true)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((declaration == init)? 2 : 3)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isImmutable() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isLongInit){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!IsInline()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isDrawing() && v &&!(referenceInfo.isFirstDrawing() && (referenceInfo.isFirstDrawing() && v.strlen(referenceInfo.get())))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! referenceInfo.hasAssignableOnce){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isLeftBody()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v == refCount) || ((refCount == refCount) &&! referenceInfo.hasWellDefined))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.hasAssignedInit &&!(!referenceInfo.hasAssignedInit)) && ((referenceInfo.hasAssignedInit) &&!(referenceInfo.hasAssignedInit))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mTarget){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v == referenceInfo.references.size())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isRef()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isValidDeclaration){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isUndefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v!= v) && (v == v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!declarationInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dma){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (!referenceInfo.isBitsInProgress())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isReferenced()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v && refCount >= 0) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount == 0) && referenceInfo.isInitialized())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isDisposed()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isLong){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.references.size()  0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (!maybeModifiedArguments && referenceInfo.isReferent())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!v.isWellDefined() &&!v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mAllocator){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isFunc()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isFalseInHistory){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isFunctionDescriptor() || referenceInfo.isDestructor())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mVariable){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isImmutable()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isEmpty()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!canInit(declaration, refCount)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dstRefCount){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!hasImmutable &&!isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!declaration.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount == 1)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (init)==0){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v)!= 0){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!hasDeclaration){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(nsIFrameState && referenceInfo.isCompleteInInTerminated())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((rv = referenceInfo.references.size() == 2) || (rv == refCount))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!IsDestruct){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!checkForFull){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!declaration && isFlags &&!declaration.getSensitive()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isVoid()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!rv == 0 && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isOfLines){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((refCount > 1) || (refCount > 2))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!initialized){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dialogs){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isUndefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isSimilar()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!item){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isIsNonModified){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isIsNull()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isValid) &&!(referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isOldOrEmpty()))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (rc == refCount? 2 : 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isLocked){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! v){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isHidden()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.isValid()? 0 : 0))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isNative){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!!referenceInfo.references.isFull()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!canInit(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isInitialized()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isNone){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v == v) || referenceInfo.isUnknown()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount > 1 && (refCount > 0) && (referenceInfo.isImmutableAndWellDefinedVariable(v, referenceInfo)))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v &&!dt)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (nodeInfo == aVarInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!validArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isInitialized){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!!ih){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isTargetVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!*inited){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((declaration == init) && (declaration == init))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!aResult.isWellDefined() && aResult.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!ldapRefs){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.hasAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isLocked){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments ||!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isSimilar()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDeclared() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isInitializedInLifetime()){
+if (! MaybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!v){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime(v)){
+if (!maybeModifiedArguments &&!(staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && ReferenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() ){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount <0)){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime()){
+if ((!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!(referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isHidden()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime ()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v && refCount >= 0) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments || referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceIn Lifetime()){
+if (!maybeModifiedArguments){
+if (v){
+if (!maybeModifiedArguments) if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount >= 1 && refCount &= 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dstRefCount){
+if (!maybeModifiedArguments ){
+if (!maybeModifiedArguments && (!staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isUndefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! referenceInfo.hasAssignableOnce){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isIsNull()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isInitializedOnceInLifetime()){
+if (!maybeModifiedArguments &&! staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && resourceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!StaleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(&v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) referenceInfo.isWellDefined();{
+if (! maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments ||!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mVariable){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isOfLines){
+if (!maybeModifiedArguments && referInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!referenceInfo.isWellDefined()){
+if (! maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && recInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!IsInline()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isRef()){
+if (!maybeModifiedArguments &&!flags.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (++maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isPositional()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((declaration == init)? 2 : 3)){
+if (!maybeModifiedArguments) <if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isEmpty()){
+if (!MaybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && references.isWellDefined() && references.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.hasWellDefined() && referenceInfo.hasAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isLeftBody()){
+if (!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v), referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(Var) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!isWellDefined(v) && referenceInfo.isAssignedOnceInLifetime()){
+if (isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!inlineVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v)!= 0){
+if (maybeModifiedArguments &&!staleVars.contains(v)){
+if (!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((rv = referenceInfo.references.size() == 2) || (rv == refCount))){
+if (!maybeModifiedArguments && (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!declarationInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount == 0) && referenceInfo.isInitialized())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!aResult.isWellDefined() && aResult.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceIn Lifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isDrawing() && v &&!(referenceInfo.isFirstDrawing() && (referenceInfo.isFirstDrawing() && v.strlen(referenceInfo.get())))){
+if ((staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!maybeModifiedArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(dv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && ReferenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.getWellDefined() && referenceInfo.getAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(dev) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if(!maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!!ih){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!canInit(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mTarget){
+if (!maybeModifiedArguments && isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())!= 0){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!ldapRefs){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isTargetVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!item){
+if ((maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!refCount){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (!referenceInfo.isBitsInProgress())){
+if (referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(u) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((declaration == init) && (declaration == init))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount &0)){
+if (!maybeModifiedArguments.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!declaration.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!*inited){
+if (!maybeModifiedArguments &&!staleVars.contains(i) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) <referenceInfo.isWellDefined();{
+if (!maybeModifiedArguments &&!staleVars.contains(v) || referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime(0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(nsIFrameState && referenceInfo.isCompleteInInTerminated())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v == refCount) || ((refCount == refCount) &&! referenceInfo.hasWellDefined))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined(), referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dialogs){
+if (!(maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!dma){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isFalseInHistory){
+if (staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.hasAssignedInit &&!(!referenceInfo.hasAssignedInit)) && ((referenceInfo.hasAssignedInit) &&!(referenceInfo.hasAssignedInit))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((refCount > 1) || (refCount > 2))){
+if (!maybeModifiedArguments.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(p) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()) == 0){
+if (maybeModifiedArguments){
+if (!maybeModifiedArguments) &if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((refCount == 0) &&!refCount)){
+if (!maybeModifiedArguments ||!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments && StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v & refCount) 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!aflags){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isInitialized){
+if (!maybeModifiedArguments &&!staleVars.contains(nv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.get() && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) ){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && references.isWellDefined() && references.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isImmutable() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!v.isWellDefined() &&!v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isImmutableOnceInLifetime()){
+if (!maybeModifiedArguments &&!StaleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!declaration && isFlags &&!declaration.getSensitive()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isDisposed()){
+if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isOnceInLifetime()){
+if (isWellDefined(v)){
+if (! maybeModifiedArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v & refCount) &0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v)){
+if (!maybeModifiedArguments && referenceInfo == null){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!v){
+if (!maybeModifiedArguments &&!staleVars.contains(c) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!mAllocator){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isValidVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&! referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments) &if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && isLong){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.getAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isPositioned()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isUndefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(m) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! v){
+if (!maybeModifiedArguments && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(rv) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isImmutable()){
+if (isWellDefined(v) && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo == null){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isOnceInLifetime()){
+if (!maybeModifiedArguments && ReferenceInfo.isWellDefined() && ReferenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (referenceInfo.isWellDefined() || referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!declaration.isReferenced()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!canInit(declaration, refCount)){
+else if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v == referenceInfo.references.size())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (nodeInfo == aVarInfo)){
+if ((maybeModifiedArguments) &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime();{
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount >= 1 && refCount = 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isInitialized()){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isEmpty()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!checkForFull){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!!referenceInfo.references.isFull()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && ((v & refCount) <0)){
+if (! maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v == v) || referenceInfo.isUnknown()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v &&!dt)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount == 1)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (rc == refCount? 2 : 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo){
+if (!maybeModifiedArguments &&!staleVars.contains(var) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!IsDestruct){
+if (!maybeModifiedArguments &&!staleVars.contains(v) &&!rv == 0 && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if ((maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) &referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime();{
+if (!maybeModifiedArguments &&!staleVars.containsKey(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && refInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.references.size() <0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isNative){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v!= v) && (v == v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.references.size() &0)){
+if (!maybeModifiedArguments &&!ReferenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!(v && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars[v] && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments) if (referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(r) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && (!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isValidDeclaration){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isnull){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!initialized){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && refInfo.isWellDefined() && refInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!isIsNonModified){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.isValid()? 0 : 0))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isFunc()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isVoid()){
+if (!maybeModifiedArguments.contains(v) && referenceInfo.isWellDefined()){
+if ((maybeModifiedArguments &&!staleVars.contains(v)) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount >= 1 && refCount <= 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(v.vState && referenceInfo.isStatic())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (referenceInfo.references.size() 0)){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) &referenceInfo.isWellDefined();{
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (nsDependentString(referenceInfo.get()))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (init)==0){
+if (!maybeModifiedArguments && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (rv == true)){
+if (!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!maybeModifiedArguments &&!staleVars.contains(v)){
+if (!maybeModifiedArguments &&!staleVars.contains(*v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() ){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isReferenced()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isFunctionDescriptor() || referenceInfo.isDestructor())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!hasDeclaration){
+if (!maybeModifiedArguments &&!(referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && references.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments && *staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
+if(!maybeModifiedArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && isWellDefined() && isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && revisionInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isEmpty()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && v.isWellDefined() && v.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (refCount > 1 && (refCount > 0) && (referenceInfo.isImmutableAndWellDefinedVariable(v, referenceInfo)))){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&! referenceInfo.hasAssignedInTempVariables){
+if (!maybeModifiedArguments &&!staleVars && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isValid) &&!(referenceInfo.isAssignedOnceInLifetime() &&!(referenceInfo.isOldOrEmpty()))){
+if (!maybeModifiedArguments &&!staleVars){
+if (!maybeModifiedArguments &&!staleVars.contains(v)) <referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime();{
+if (isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && referenceInfo.isFound()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (v!= null)){
+if (!maybeModifiedArguments &&!referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments) <if (staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() && (!maybeModifiedArguments && referenceInfo.isReferent())){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!hasImmutable &&!isImmutableAndWellDefinedVariable(v, referenceInfo)){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo == null){
+if(!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!validArguments){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && recInfo.isWellDefined() && recInfo.isAssignedOnceInLifetime()){
+if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime() &&!referenceInfo.isLongInit){

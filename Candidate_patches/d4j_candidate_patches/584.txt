@@ -1,0 +1,769 @@
+golden:
+if (comment.getValue().indexOf("/* @") != -1 || comment.getValue().indexOf("\n * @") != -1) {
+inference:
+if (comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue() == -1){
+if (comment.getValue()!= -1){
+if (comment.getValue().indexOf("/*@")!= -1){
+if (comment.getValue()!= -1 || comment.getValue()!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("n * @")){
+if (comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("n * @")!= -1){
+if ( comment.getValue().indexOf( "/* @")!= -1 || comment.getValue().indexOf( "n * @")!= -1){
+if (comment.getValue().Length()!= -1 || comment.getValue().Length()!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("n * @")){
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") == -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length()!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("n * @")){
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= -1){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("n * @") == -1){
+if (comment){
+if (comment.getText().indexOf("/* @")!= -1 || comment.getText().indexOf("n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("n * @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("n * @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().get().equals("/* @") || comment.getValue().get().equals("n * @")){
+if (comment == -1){
+if (comment.getValue().IsEmpty() || comment.getValue().IsEmpty()){
+if (comment.getValue().Length()!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0){
+if (comment.getValue().get().Equals("/* @") || comment.getValue().get().Equals("n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @") == -1){
+if (Comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Length() > 0){
+if (comment.get().indexOf("/* @")!= -1 || comment.get().indexOf("n * @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("n * @")!= -1){
+if (comment.getValue().indexOf("/* At")!= -1){
+if (comment!= -1){
+if (comment.getValue().indexOf("/* @")  0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Trim("/* @")!= -1 || comment.getValue().Trim("n * @")!= -1){
+if (comment.getValue().indexOf("n")!= -1){
+if (comment.getValue() == -1 || comment.getValue() == -1){
+if (comment.getValue()){
+if (comment.getValue().endsWith("/* @")){
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1){
+if (comment.getValue().get().indexOf("/* @")!= -1){
+if (comment.getValue().Find("/* @")!= -1){
+if (comment.getValue().indexOf("/* * @")!= -1){
+if (comment[0].getValue().indexOf("/* @")!= -1){
+comment = comment.getValue(); if (comment){
+if (comment.getName().indexOf("/* @")!= -1 || comment.getName().indexOf("n * @")!= -1){
+if (comment.getValue().startsWith("/* @")){
+if (comment.getValue().Equals("/*@") || comment.getValue().Equals("n * @")){
+comment = comment.getValue(); if (comment!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf(" * @")!= -1){
+if (comment.getValue().indexOf("/* @") > 0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().get()!= -1 || comment.getValue().get()!= -1){
+if ( comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") ){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")? -1) : -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (COMMENT.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue().EqualsLiteral("/* @") || comment.getValue().EqualsLiteral("n * @")){
+if (comment.getLineno().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/* @")){
+if (comment.getValue().find("/* @")!= -1){
+if (comment.getValue().find("/* @")!= -1 || comment.getValue().find("n * @")!= -1){
+if (! comment.getValue()){
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0){
+if (comment.getValue() && comment.getValue().indexOf("/* @")!= -1){
+if (!comment.getValue()){
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (comment.value.indexOf("/* @")!= -1 || comment.value.indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length()  0){
+if (comment.getValue().Find("/* @")!= -1 || comment.getValue().Find("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") - 1){
+if (comment.getValue()!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue() == null || comment.getValue() == null){
+if (comment.getValue().indexOf('/')!= -1 || comment.getValue().indexOf('n')!= -1){
+if (comment.getValue().IndexOf("/* @")!= -1){
+comment = comment.getValue(); if (comment == -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment == -1){
+if (comment.getValue().indexOf("/* #")!= -1){
+if (comment.getValue() == 0 || comment.getValue() == -1){
+if (comment.getValue().get() == -1){
+if (comment.getValue().indexOf(" /* @")!= -1){
+if (comment.getCode().indexOf("/* @")!= -1 || comment.getCode().indexOf("n * @")!= -1){
+if(comment.getValue().indexOf("/* @")!= -1){
+if (comment && comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/*")!= -1){
+if (comment.getValue()!= -1 && comment.getValue()!= -1){
+if (comment.getValue().indexOf("/*@")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue() == null || comment.getValue() == -1){
+if (comment.equals("/* @") || comment.equals("n * @")){
+if (comment.getValue().indexOf("/* ")!= -1){
+if (comment.getString().indexOf("/* @")!= -1 || comment.getString().indexOf("n * @")!= -1){
+if (Comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (strcmp(comment, "/* @")!= -1 || strcmp(comment, "n * @")!= -1){
+if ( comment.getValue()!= -1 || comment.getValue()!= -1){
+if (comment.getValue() == null || comment.getValue() == null || comment.getValue() == null){
+if( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1){
+if (comment == null || comment.getValue().indexOf("/* @")!= -1){
+if (mark.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getString().Equals("/* @") || comment.getString().Equals("n * @")){
+if (comment.getValue().Length() > 1){
+if (COMMENT.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().len()!= -1){
+if (comment.getValue().last()!= -1 || comment.getValue().last()!= -1){
+if (comment.getValue()!= -1 || comment.getValue() == -1){
+if (comment.getValue().get()!= -1){
+if (comment.getValue() && comment.getValue().indexOf("/* @")!= -1 || comment.getValue()!= -1){
+if (comment.getValue()!= 0 || comment.getValue()!= -1){
+if (comment.indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("* @")!= -1){
+if (comment.getValue().indexOf("/@")!= -1){
+if (comment.getValue().indexOf("/*n")!= -1){
+if (comment.getValue().equals("/*@") || comment.getValue().equals("n * @")){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @") -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1){
+if (comment.find("/* @")!= -1 || comment.find("n * @")!= -1){
+if (comment.getValue().last()!= -1){
+if (! comment.getValue() || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @")? -1) : -1){
+if (comment.getValue().Equals("/* At") || comment.getValue().Equals("n * @")){
+if (comment.GetValue().Equals("/* @") || comment.GetValue().Equals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length()  -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue()!= -1){
+if (comment.getValue().indexOf("/* @)!= -1){
+if (comment.getValue().Equals("/*") || comment.getValue().Equals("n * @")){
+if (comment.getValue().indexOf("/* ")!= -1 || comment.getValue().indexOf("n ")!= -1){
+if (comment.getText().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/*")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (!comment.getValue() || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/")!= -1){
+if (comment.getValue().indexOf('/')!= -1){
+if (comment.getValue().length() > 0 || comment.getValue().length() > 0){
+if (comment.getValue().equals("/* @")){
+if (comment == comment.getValue()){
+if (comment.getValue().indexOf("* @")!= -1){
+if (comment == -1 || comment == -1){
+if (comment.getValue().get().Length()!= -1 || comment.getValue().get().Length()!= -1){
+if (comment.getValue()!= null || comment.getValue()!= -1){
+if (comment.getValue().Equals("/* @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") = -1){
+if (comment.getValue() == null || comment.getValue() == null || comment.getValue() == -1){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/@")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.find("/* @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment && comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().get().startsWith("/* @") || comment.getValue().get().startsWith("n * @")){
+if (comment.getValue() == null){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue().endsWith("/* @") && comment.getValue().endsWith("n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.getValue().equals("/*") || comment.getValue().equals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") ){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() == -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().startsWith("n * @")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")!= -1){
+if (comment.getValue().Length() > 0 && comment.getValue().Length() > 0){
+if (comment == null){
+if (comments[0].getValue().indexOf("/* @")!= -1){
+if (comment.getValue().startsWith("/*@") || comment.getValue().startsWith("n * @")){
+if (comment.getValue().last().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= 1){
+if (Comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue() == comment.getValue() || comment.getValue() == comment.getValue()){
+if (comment.getValue().Length() >= 0 || comment.getValue().Length()!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() = -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n")!= -1){
+if (comment.getValue().Equals("n") || comment.getValue().Equals("n")){
+if (comment.getValue().Length() == 0 || comment.getValue().Length() == -1){
+if (comment!= null || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().get().Length()!= 0 || comment.getValue().get().Length()!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") = -1){
+if (comment.getValue().indexOf("/* At")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().len() > 0 || comment.getValue().len()!= -1){
+if (comment.getValue().length() > 0 || comment.getValue().length() > 0 || comment.getValue().length() > 0){
+comment = comment.getValue(); if (comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.getValue().cstrlen("/* @")!= -1){
+if (comment.getValue()!= null || comment.getValue()!= null){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().LowerCaseEqualsLiteral("/* @") || comment.getValue().LowerCaseEqualsLiteral("n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @") && comment.getValue().LowerCaseEquals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n").Equals("").Equals("n")){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("n * @")!= -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length()  0){
+if (comment.getValue().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("n * @")!= -1){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().get().indexOf("n * @")!= -1){
+if (comment.getValue().get().Length() > 0){
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n")){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length()  0 || comment.getValue().Length() > 0 || comment.getValue().Length()  0 || comment.getValue().Length()  0 || comment.getValue().Length()  0 || comment.getValue().Length() > 0 || comment.getValue().Length()  0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length()  0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() = 0){
+if (comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf('/')!= -1 || comment.getValue().indexOf('&n')!= -1){
+if( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @") && comment.getValue().LowerCaseEquals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue() && comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Trim("/* @")!= -1 || comment.getValue().Trim("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("<n").Equals("").Equals("<n")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") = -1){
+if (comment.getString().Equals("/* @") || comment.getString().Equals("&n * @")){
+if (comment.getValue().indexOf("/* At")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("&n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @") == -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @") == -1){
+if (comment.getValue().Equals("&n") || comment.getValue().Equals("&n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().equals("/* @") || comment.getValue().equals("&n * @") -1){
+if(comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/*@") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("&n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if ( comment.getValue().indexOf( "/* @")!= -1 || comment.getValue().indexOf( "&n * @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("<n * @")){
+if (comment.getValue().Equals("/* At") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().get().startsWith("/* @") || comment.getValue().get().startsWith("n * @")){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("<n * @")? -1) : -1){
+if (comment.getValue().indexOf("/@")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("<n").Equals("").Equals("n")){
+if (comment.getValue().Equals("<n") || comment.getValue().Equals("n")){
+if (comment.getValue().indexOf("/* @") <0 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("<n * @") &= -1){
+if( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("<n * @")){
+if (comments[0].getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("&n * @")){
+if (comment.getValue().LowerCaseEqualsLiteral("/* @") || comment.getValue().LowerCaseEqualsLiteral("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if ( comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("&n * @") &= -1){
+if (comment.getText().indexOf("/* @")!= -1 || comment.getText().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() &-1){
+if (comment.getValue()!= 0 || comment.getValue()!= -1){
+if (comment.getString().Equals("/* @") || comment.getString().Equals("n * @")){
+if (comment.getValue().Equals("/* @") && comment.getValue().Equals("<n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @") == -1){
+if (mark.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.find("/* @")!= -1 || comment.find("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("<n").Equals("").Equals("&n")){
+if (comment.getValue().Find("/* @")!= -1){
+if (comment.getValue()!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() <-1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("n").Equals("").Equals("&n")){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") <= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @") > 0 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue() == null || comment.getValue() == null || comment.getValue() == null){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("<n")){
+if (comment.getValue().indexOf("<n * @")!= -1){
+if (COMMENT.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1 || comment.indexOf("<n * @")!= -1){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().get().indexOf("&n * @")!= -1){
+if (comment.getLineno().indexOf("/* @")!= -1){
+if ( comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") ){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")? -1) : -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/*@") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() 0){
+if (comment.getValue().indexOf("/* ")!= -1 || comment.getValue().indexOf("<n ")!= -1){
+if (comment.indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("<n * @") = -1){
+if (comment == -1 || comment == -1){
+if (comment.getValue().indexOf("n")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n")!= -1){
+if (comment.getValue().indexOf("/*")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("&n").Equals("").Equals("&n")){
+if (Comment.getValue().indexOf("/* @")!= -1){
+if (comment.getCode().indexOf("/* @")!= -1 || comment.getCode().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().Length() == 0 || comment.getValue().Length() == -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") - 1){
+if (comment.getValue().get().equals("/* @") || comment.getValue().get().equals("&n * @")){
+if (comment.getValue().endsWith("/* @") || comment.getValue().startsWith("<n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("<n").Equals("").Equals("<n")){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @") -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") - 1){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("&n * @") == -1){
+if (comment.value.indexOf("/* @")!= -1 || comment.value.indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("<n * @")!= -1){
+if (comment.getValue().LowerCaseEqualsLiteral("/* @") || comment.getValue().LowerCaseEqualsLiteral("&n * @")!= -1){
+if (COMMENT.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().endsWith("/* @") && comment.getValue().endsWith("n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("* @")!= -1){
+if (comment.getValue().indexOf("/*<n")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("n * @")!= -1){
+if (! comment.getValue()){
+if (comment.value.indexOf("/* @")!= -1 || comment.value.indexOf("<n * @")!= -1){
+if (comment.getValue().indexOf("/* At")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") >= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0){
+if (comment.getValue().startsWith("/*@") || comment.getValue().startsWith("&n * @")){
+if (comment.getValue().indexOf('/')!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getName().indexOf("/* @")!= -1 || comment.getName().indexOf("&n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("<n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length()!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() &= 0){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("&n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue()){
+if (comment.getValue().cstrlen("/* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("n * @")!= -1){
+if (strcmp(comment, "/* @")!= -1 || strcmp(comment, "<n * @")!= -1){
+if (comment.getValue().Length()!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("&n * @") && comment.getValue().LowerCaseEquals("<n * @")){
+if (comment.GetValue().Equals("/* @") || comment.GetValue().Equals("n * @")){
+if (!comment.getValue()){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("n").Equals("").Equals("n")){
+if (comment.getValue().get() == -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (mark.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("&n * @") && comment.getValue().LowerCaseEquals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().get().Equals("/* @") || comment.getValue().get().Equals("&n * @")){
+if (comment.getValue().indexOf("/* @") 0 || comment.getValue().indexOf("<n * @")!= -1){
+if ( comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") ){
+if (comment.getValue().indexOf("/@")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().get().Length()!= 0 || comment.getValue().get().Length()!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") ){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("<n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("<n * @")){
+if (Comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/*@")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue() == null || comment.getValue() == -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("&n")){
+if (comment.getValue().indexOf("/*@")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getText().indexOf("/* @")!= -1){
+if (!comment.getValue() || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.GetValue().Equals("/* @") || comment.GetValue().Equals("<n * @")){
+if (comment.getValue() == null || comment.getValue() == null){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("<n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("<n * @")){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("n * @")!= -1){
+if (comment.getValue() == -1 || comment.getValue() == -1){
+if (comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("&n").Equals("").Equals("&n")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("n * @")!= -1){
+if (comment.getValue().get().equals("/* @") || comment.getValue().get().equals("n * @")){
+if (strcmp(comment, "/* @")!= -1 || strcmp(comment, "n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("&n").Equals("").Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().find("/* @")!= -1 || comment.getValue().find("n * @")!= -1){
+if (comment.getValue().get().startsWith("/* @") || comment.getValue().get().startsWith("<n * @")){
+if (comment.find("/* @")!= -1 || comment.find("<n * @")!= -1){
+if (comment.getValue().Equals("<n") || comment.getValue().Equals("&n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue() && comment.getValue().indexOf("/* @")!= -1 || comment.getValue()!= -1){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* At") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.equals("/* @") || comment.equals("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("&n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().startsWith("n * @")){
+if (comment.getValue().equals("/*@") || comment.getValue().equals("<n * @")){
+if (comment.getValue().equals("/*") || comment.getValue().equals("&n * @")){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("<n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("n * @")){
+if (comment.getValue().equals("/*") || comment.getValue().equals("<n * @")){
+if (comment.getValue().length() > 0 || comment.getValue().length() > 0){
+if (comment.getValue().Length() > 1){
+if (comment == comment.getValue()){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @") &= -1){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().get().indexOf("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("<n")){
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (comment.getString().Equals("/* @") || comment.getString().Equals("<n * @")){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("<n * @") && comment.getValue().LowerCaseEquals("&n * @")){
+if (comment.getValue().get().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().get().indexOf("<n * @")!= -1){
+if (comment.getValue()!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("&n").Equals("").Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("&n * @") >= -1){
+if (comment.getValue().Trim("/* @")!= -1 || comment.getValue().Trim("&n * @")!= -1){
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("n") || comment.getValue().Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() &= -1){
+if (! comment.getValue() || comment.getValue().indexOf("/* @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Equals("&n") || comment.getValue().Equals("n")){
+if (comment.getText().indexOf("/* @")!= -1 || comment.getText().indexOf("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("&n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf(" * @")!= -1){
+if (comment.get().indexOf("/* @")!= -1 || comment.get().indexOf("&n * @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Find("/* @")!= -1 || comment.getValue().Find("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")? -1) : -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().indexOf("/* @") &0 || comment.getValue().indexOf("n * @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0){
+if (comment.getValue().indexOf("/*")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().indexOf("/* @") <0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 && comment.getValue().Length() > 0){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("n * @")!= -1){
+if (comment.getValue().indexOf("/* At")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().get().startsWith("/* @") || comment.getValue().get().startsWith("&n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("n * @")){
+if (comment.getValue().indexOf("<n")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() <0){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("<n").Equals("").Equals("n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") ){
+if (mark.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") - 1){
+if (comment.equals("/* @") || comment.equals("n * @")){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("&n * @") &= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() = 0){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("&n * @")? -1) : -1){
+if (comment.getValue().startsWith("/*@") || comment.getValue().startsWith("n * @")){
+if (comment.getValue().Equals("n") || comment.getValue().Equals("n")){
+if (comment.getValue().indexOf("/* @") >= -1){
+if (comment.getName().indexOf("/* @")!= -1 || comment.getName().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/*n")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("&n * @") = -1){
+if (comment.getValue().indexOf("/* #")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") -1){
+if (comment.getValue()!= null || comment.getValue()!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue()!= -1){
+if (comment.getValue().len()!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("n").Equals("").Equals("<n")){
+if (comment){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().get().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (Comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().Equals("/* @")){
+if (comment.getValue().find("/* @")!= -1 || comment.getValue().find("<n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("n").Equals("").Equals("n")){
+if (comment.getValue().Find("/* @")!= -1 || comment.getValue().Find("<n * @")!= -1){
+if (Comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().indexOf("/*@")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("n")){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("<n * @") && comment.getValue().LowerCaseEquals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") -1){
+if (comment.getValue().indexOf("/")!= -1){
+if (comment.getCode().indexOf("/* @")!= -1 || comment.getCode().indexOf("<n * @")!= -1){
+if (comment.getValue().LowerCaseEqualsLiteral("/* @") || comment.getValue().LowerCaseEqualsLiteral("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().get()!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("<n * @") && comment.getValue().LowerCaseEquals("<n * @")){
+if (comment.getValue().indexOf("/* @)!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") 0 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("<n").Equals("").Equals("&n")){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @")? -1) : -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getString().indexOf("/* @")!= -1 || comment.getString().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/*")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @") > 0 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("&n * @") <= -1){
+if (comment.getValue().indexOf('/')!= -1 || comment.getValue().indexOf('n')!= -1){
+if (comment.getValue().IndexOf("/* @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("n * @")){
+if (COMMENT.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (COMMENT.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("n").Equals("").Equals("&n")){
+if (comment.getValue().Equals("/*") || comment.getValue().Equals("<n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment[0].getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") <0 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @") && comment.getValue().LowerCaseEquals("&n * @")){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @")){
+if (comment.indexOf("/* @")!= -1 || comment.indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getString().indexOf("/* @")!= -1 || comment.getString().indexOf("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") = -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1){
+if (Comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().get().Length() > 0){
+if (comment.GetValue().Equals("/* @") || comment.GetValue().Equals("&n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= 1){
+if ( comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") ){
+if (comment.find("/* @")!= -1 || comment.find("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")? -1) : -1){
+if (comment.getValue() == -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.value.indexOf("/* @")!= -1 || comment.value.indexOf("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().get().Equals("/* @") || comment.getValue().get().Equals("n * @")){
+if (comment.getValue().Equals("/*") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("<n * @") >= -1){
+if (comment.getValue().indexOf("/* @") &0 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (Comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @")!= -1 || comment == -1){
+if (comment && comment.getValue().indexOf("/* @")!= -1){
+if ( comment.getValue().indexOf( "/* @")!= -1 || comment.getValue().indexOf( "n * @")!= -1){
+if (comment.getValue().indexOf("/* @") &0 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().IsEmpty() || comment.getValue().IsEmpty()){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n").Equals("").Equals("n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.equals("/* @") || comment.equals("<n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().equals("/* @") || comment.getValue().equals("n * @")){
+if (comment.getValue().Length() > 0){
+if (comment.getValue().find("/* @")!= -1 || comment.getValue().find("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("&n * @") >= -1){
+if (comment.getValue().last()!= -1 || comment.getValue().last()!= -1){
+if (comment.getValue() == 0 || comment.getValue() == -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("<n * @") <= -1){
+if (comment.getValue().get().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue()!= -1 || comment.getValue()!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("<n * @") = -1){
+if (comment.getValue().indexOf("/* @") > 0 || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("&n * @")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("<n").Equals("").Equals("&n")){
+if (comment.getValue().get().Length()!= -1 || comment.getValue().get().Length()!= -1){
+if (strcmp(comment, "/* @")!= -1 || strcmp(comment, "&n * @")!= -1){
+if (comment.getValue().Length() >= 0 || comment.getValue().Length()!= -1){
+if ( comment.getValue().indexOf( "/* @")!= -1 || comment.getValue().indexOf( "<n * @")!= -1){
+if (comment.getValue().indexOf("/@")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().startsWith("&n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= 1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("&n * @")){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("&n * @") && comment.getValue().LowerCaseEquals("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") && comment.getValue().Equals("&n * @")){
+if (comment.getValue().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("<n * @")!= -1){
+comment = comment.getValue(); if (comment == -1){
+if (comment.get().indexOf("/* @")!= -1 || comment.get().indexOf("<n * @")!= -1){
+comment = comment.getValue(); if (comment){
+if (comment.getValue().get().indexOf("/* @")!= -1){
+if (comment.getValue().indexOf(" /* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("n").Equals("").Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() &0){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() = -1){
+if (comment.getValue().EqualsLiteral("/* @") || comment.getValue().EqualsLiteral("<n * @")){
+if (comment == -1){
+if (comment.getValue().len() > 0 || comment.getValue().len()!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") ){
+if (comment.getValue().startsWith("/* @") || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getName().indexOf("/* @")!= -1 || comment.getName().indexOf("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") &= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() <= 0){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().equals("/* @")){
+if (comment.getValue().equals("/*") || comment.getValue().equals("n * @")){
+if (comment.getValue().indexOf("/* At")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().endsWith("/* @") && comment.getValue().endsWith("&n * @")){
+if (comment.getValue().Equals("/*") || comment.getValue().Equals("n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("&n").Equals("").Equals("n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().find("/* @")!= -1){
+if (comment.getValue().length() > 0 || comment.getValue().length() > 0 || comment.getValue().length() > 0){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("<n * @")){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if (comment && comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("&n * @") = -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @") >= -1){
+if( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().equals("/* @") || comment.getValue().equals("<n * @") -1){
+if (comment.getValue()!= null || comment.getValue()!= null){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("<n").Equals("").Equals("n")){
+if (comment.getValue().indexOf("/* ")!= -1 || comment.getValue().indexOf("n ")!= -1){
+if (comment.getValue().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/*@") || comment.getValue().Equals("n * @")){
+if (comment.getValue().last()!= -1){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @") 0 || comment.getValue().indexOf("n * @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.get().indexOf("/* @")!= -1 || comment.get().indexOf("n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("&n").Equals("").Equals("&n")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("&n * @")){
+if (comment.getValue().indexOf("/* @") == -1){
+if (comment.getCode().indexOf("/* @")!= -1 || comment.getCode().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().startsWith("/*@") || comment.getValue().startsWith("<n * @")){
+if (comment.getValue().last().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("n * @") <= -1){
+if (comment.getValue().get().equals("/* @") || comment.getValue().get().equals("<n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("<n").Equals("").Equals("<n")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("n * @")){
+if (comment.getValue().Length()!= -1 || comment.getValue().Length()!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().endsWith("/* @") && comment.getValue().endsWith("<n * @")){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("<n * @") == -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().startsWith("/* @")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Find("/* @")!= -1 || comment.getValue().Find("&n * @")!= -1){
+if (comment.getValue().indexOf("/* * @")!= -1){
+if (comment.getValue().equals("/*@") || comment.getValue().equals("n * @")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("&n * @")!= -1){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("<n * @") <= -1){
+comment = comment.getValue(); if (comment.indexOf("/* @")!= -1 || comment.indexOf("&n * @")!= -1){
+if (comment.getValue().EqualsLiteral("/* @") || comment.getValue().EqualsLiteral("&n * @")){
+if (comment.getValue().indexOf("/*")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("n") || comment.getValue().Equals("&n")){
+if (comment.getValue().Equals("&n") || comment.getValue().Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getText().indexOf("/* @")!= -1 || comment.getText().indexOf("n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @") >= -1){
+if ( comment.getValue()!= -1 || comment.getValue()!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().startsWith("/* @") || comment.getValue().startsWith("<n * @")!= -1){
+if (comment.getValue().indexOf("/*@")!= -1){
+if (comment.getValue().indexOf('/')!= -1 || comment.getValue().indexOf('<n')!= -1){
+if (comment.getValue() == null || comment.getValue() == null || comment.getValue() == -1){
+if (comment.getValue()!= -1 || comment.getValue() == -1){
+if (comment.getValue().EqualsLiteral("/* @") || comment.getValue().EqualsLiteral("n * @")){
+if (comment.getValue().indexOf("&n")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("&n * @") <= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n").Equals("").Equals("&n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment!= -1){
+if (comment.getValue().endsWith("/* @")){
+if (comment.getValue().get().indexOf("/* @")!= -1 || comment.getValue().get().indexOf("n * @")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() <= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/*&n")!= -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() == -1){
+if (comment.getValue().get().Equals("/* @") || comment.getValue().get().Equals("<n * @")){
+if (comment.getValue().indexOf("/* @") >= 0 || comment.getValue().indexOf("<n * @") >= -1){
+if (Comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.find("/* @")!= -1){
+if (comment.getValue() == comment.getValue() || comment.getValue() == comment.getValue()){
+if (comment.getValue().endsWith("/* @") || comment.getValue().endsWith("&n * @")){
+if (comment.getValue().Equals("<n") || comment.getValue().Equals("<n")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("&n * @") && comment.getValue().Equals("&n")){
+if (comment.getValue().indexOf("/* ")!= -1){
+if (comment.getValue().Trim("/* @")!= -1 || comment.getValue().Trim("<n * @")!= -1){
+if (comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("<n * @")!= 1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().Length() > 0 || comment.getValue().Length() -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment == null){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/@")!= -1){
+if (comment.getValue().indexOf("/* @") >= -1 || comment.getValue().indexOf("<n * @") &= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("n").Equals("").Equals("<n")){
+if (comment.getValue().startsWith("/* @") || comment.getValue().endsWith("<n * @")){
+if (comment.getValue()!= -1 && comment.getValue()!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("&n")){
+comment = comment.getValue(); if (comment!= -1){
+if (comment.getValue().equals("/*@") || comment.getValue().equals("&n * @")){
+if (comment.getValue().get()!= -1 || comment.getValue().get()!= -1){
+if (comment!= null || comment.getValue().indexOf("/* @")!= -1){
+if (comment == null || comment.getValue().indexOf("/* @")!= -1){
+if (comment.getValue().Equals("/* At") || comment.getValue().Equals("n * @")){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("&n").Equals("").Equals("n")){
+if (comment.getValue().Length()!= 0 || comment.getValue().Length()!= 0){
+comment = comment.getValue(); if (comment.getValue().indexOf("/* @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){
+if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @") && comment.getValue().Equals("&n").Equals("").Equals("n")){
+if (comment.getValue() == null){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("<n * @")!= -1){
+if (comment.getValue().LowerCaseEquals("/* @") || comment.getValue().LowerCaseEquals("n * @") && comment.getValue().LowerCaseEquals("<n * @")){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() <0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* ")!= -1 || comment.getValue().indexOf("&n ")!= -1){
+if (comment.getValue()!= -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getString().indexOf("/* @")!= -1 || comment.getString().indexOf("<n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")!= -1){
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("n * @") == -1){
+if (comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() > 0 || comment.getValue().Length() &0 || comment.getValue().Length() 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() > 0 || comment.getValue().Length() 0 || comment.getValu{
+if (comment.getValue().indexOf("/* @") == -1 || comment.getValue().indexOf("&n * @")!= -1){
+if (comment.getValue().Equals("/* @") || comment.getValue().Equals("<n * @") && comment.getValue().Equals("&n").Equals("").Equals("<n")){
+if (comment.getValue()!= -1 || comment.getValue().indexOf("<n * @")!= -1){

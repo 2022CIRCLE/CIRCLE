@@ -1,0 +1,713 @@
+golden:
+return reportMatcher(Any.ANY).returnZero();
+inference:
+return anyMatcher(Any.ANY);
+return reportMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.ANY);
+return anyMatcher(Any.ANY).returnZero();
+return Any.ANY;
+return ReportMatcher(Any.ANY).returnZero();
+return Any.ANY.returnZero();
+return anyDouble;
+return anyDouble();
+return rv;
+return aAny.ANY;
+return reportMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.ANY).returnValue();
+return Any.ANY.returnZero();
+return retval;
+return anyDouble(Any.ANY);
+return reportMatcher(Any.ANY, 0);
+return (Any.ANY).returnZero();
+return reportMatcher(Any.ANY).return(null);
+return reportMatcher(Any.ANY).returnZero(0);
+return any(Any.ANY);
+return (any.ANY).returnZero();
+return reportMatcher(Any.aNY).returnZero();
+return reportMatcher(Any.ANY)!= 0;
+return ret;
+return reportMatcher(Any.NUM).returnZero();
+return any(Any.ANY).returnZero();
+return result;
+return reportMatcher(Any.ANY).return_Zero();
+return anyMatcher();
+return reportMatcher(Any.ANY).returnDouble();
+return reportMatcher(Any.aNY);
+return (Any.ANY)returnZero();
+return super.returnZero();
+return anyDouble.returnZero();
+return this;
+return (reportMatcher(Any.ANY));
+return reportMatcher(Any.null).returnZero();
+return anyDouble(any.ANY);
+return aAny.ANY.returnZero();
+return reportMatcher(Any.LONG).returnZero();
+return (any.ANY)returnZero();
+return reportMatcher(IAny.ANY).returnZero();
+return reportMatcher(Any.IA).returnZero();
+return 0;
+return reportMatcher(Any).returnZero();
+return reportMatcher( Any.ANY ).returnZero();
+return anyMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.ANON).returnZero();
+return reportMatcher(Any.ANY)!= null;
+return anything;
+return anyAny.ANY;
+return any.returnZero();
+return reportMatcher(Any.get()).returnZero();
+return (anyDouble)reportMatcher(Any.ANY);
+return reportMatcher(Any.ANY).return_zero();
+return Any.ANY.ReturnZero();
+return anyMatcher(any.ANY);
+return NS_OK;
+return aReportMatcher(Any.ANY);
+return res;
+return reportMatcher(ANY).returnZero();
+return reportMatcher(Any.CNY).returnZero();
+return reportMatcher(Any.ANY, anyDouble);
+return reportMatcher(Any.ANY).returnValue();
+return anyReportMatcher(Any.ANY);
+return reportMatcher(Any.NUMERIC).returnZero();
+return reportMatcher(any.ANY).returnZero();
+return Report(Any.ANY).returnZero();
+return reportMatcher(Any.NUM);
+return ANY.ANY;
+return (anyMatcher(Any.ANY).returnZero());
+return ReportMatcher(Any.ANY).returnZero();
+return Any.ANY.returnValue();
+return reportMatcher(Any.ASYNC).returnZero();
+return writeMatcher(Any.ANY).returnZero();
+return ReportMatcher(Any.ANY);
+return (any)returnZero();
+return aAny;
+return reportMatcher();
+return aReturnZero();
+return reportMatcher(any.aNY).returnZero();
+return anyZero();
+return anyMatch(Any.ANY);
+return reportMatcher(This.ANY).returnZero();
+return reportMatcher(Any.ANY).returnType();
+return matcher(Any.ANY).returnZero();
+return anyANY;
+return reportMatcher(Any.ANY) == 0;
+return reportMatcher( Any.ANY );
+return any;
+return reportMatcher(aAny.ANY).returnZero();
+return reportMatcher(Any.ANY).return(0, 0);
+return (anyMatcher(Any.ANY));
+returnAny.ANY;
+return reportMatcher(Any.ANY).ReturnZero();
+return reportMatcher(Any.ANY).get();
+return reportMatcher( ANY.ANY ).returnZero();
+return Any.aNY.returnZero();
+return *anyDouble;
+return reportMatcher(Any.ANY).returnZero(1);
+return(Any.ANY).returnZero();
+return reportMatcher(Any.N).returnZero();
+return anyANY.returnZero();
+return anymatcher(Any.ANY);
+return reportMatcher().returnZero();
+return reportMatcher(Any.NY).returnZero();
+return reportMatcher(Any.AA).returnZero();
+return reportMatcher(any.ANY);
+return *any;
+return reportMatcher(Any.ANY, &any);
+return reportMatcher(Any.ANY).return();
+return reportMatcher(Any.ANY).return('0');
+return reportMatcher(Any.ANY).ReturnZero();
+return reportMatcher(Any.ANY, null);
+return reportMatcher(any.aNY);
+return anyDouble(any);
+return reportMatcher(Any.ANY, &anyDouble);
+return any(Any.ANY).returnZero();
+return ruleMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.INY).returnZero();
+return aDouble;
+return any(any.ANY);
+return reportMatcher(Any.NewANY).returnZero();
+return (Any.ANY);
+return reportMatcher(XULANY).returnZero();
+return (any)reportMatcher(Any.ANY);
+return reportArena(Any.ANY).returnZero();
+return reportMatcher (Any.ANY).returnZero();
+return reportMatcher(Any.ANY).doubleValue();
+return = reportMatcher(Any.ANY).returnZero();
+return retval(Any.ANY);
+return nsresult rv;
+return anyAny;
+aResult = reportMatcher(Any.ANY); return aResult;
+return aAny.returnZero();
+return null;
+return reportMatcher(Any.).returnZero();
+return reportMatcher(Any.ANY).return(0);
+return Any.aNY;
+return mDouble.returnZero();
+returnanyMatcher(Any.ANY);
+return reportMatcher(Any.0).returnZero();
+return reportMatcher(Any.LONG);
+return reportZero(Any.ANY);
+return *Any.ANY;
+return reportMatcher(Any.aNY).returnZero();
+return!reportMatcher(Any.ANY);
+ret = reportMatcher(Any.ANY); return ret;
+return reportMatcher(Any.ANY, 1);
+return _reportMatcher(Any.ANY);
+return reportMatcher(Any);
+return anAny.ANY;
+return reportMatcher(Any.aNY).returnValue();
+return reportMatcher( ANY.ANY );
+return reportMatcher(Any.NUMERIC);
+return reportMatcher(Any.ANY).returnZero(this);
+return iterator(Any.ANY);
+return (any) reportMatcher(Any.ANY);
+return aValue;
+return reportMatcher(Any.DECIMAL);
+rv = reportMatcher(Any.ANY); return rv;
+return reportMatcher(AnyANY);
+return retVal;
+return 1;
+return anyDoubleMatcher(Any.ANY);
+return reportMatcher(Any.ISO-8859-1);
+return reportMatcher(Any.ANY).returnDouble();
+return reportMatcher(AnyANY).returnZero();
+return (Any.ANY) reportMatcher(Any.ANY);
+return Any.ANY();
+return reportMatcher(Any.ANY) && anyDouble;
+return reportMatcher(Any.ANY).returnZero ();
+return reportMatcher(Any.ANY, 0, 0);
+return reportMatcher(Any.ANY) == null;
+return reportMatcher(Any.1);
+return reportMatcher(Any.ANY).returnDigit();
+return reportMatcher(Any.ANY), anyDouble;
+return reportMatcher(Any.AN);
+return reportMatcher(Any.ANY).returnZero(any);
+return reportMatcher(Any.NY);
+return mDouble;
+return reportMatcher(Any.ANY).return(Zero);
+return (any.ANY);
+return reportMatcher(Any.ANY).return(Any.ANY);
+return reportMatcher(Any.ANY).return(Zero());
+return reportMatcher(Any.ANY).returnZero(s);
+return reportMatcher(Any.NI);
+return reportMatcher(Any.ANY, Any.ANY);
+return reportMatcher(Any.ANY).return_zero();
+return reportMatcher(Any.ANY).returnAlloc();
+return reportMatcher(Any.aNY).returnZero(0);
+return reportMatcher(Any.ANY).return(NS_OK);
+return nsReportMatcher::returnZero();
+return (anyDouble) reportMatcher(Any.ANY);
+return reportMatcher(Any.ANY), Any.ANY;
+return rval;
+return reportMatcher(Any.ANY, null).returnZero();
+return nsDouble::return(Any.ANY);
+return (reportMatcher(Any.ANY)).returnZero();
+return reportMatcher(Any.ANY)? any.returnZero() : null;
+if (Any.ANY == anyDouble)  return EIF_NO_VALUE;  return 0;
+rv = reportMatcher(Any.ANY).returnZero(); if (rv) return rv; return rv;
+return reportMatcher(Any.aNY)? retval : 0;
+return nsDouble::returnZero(Any.ANY);
+return reportMatcher(Any.ANY).return(NO_ZERO);
+return reportMatcher(Any.ANY)? z : any.returnZero();
+return reportMatcher(Any.ANY)? Zero() : Any.ANY;
+return (reportMatcher(Any.ANY).returnZero());
+return nsresult? rv : reportMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.ANY)? reportMatcher(Any.ANY) : null;
+return reportMatcher(Any.ANY).return(0, &any);
+if (!any) return 0; */ if (Any.size() > 0) return 0; return Any.aNY;
+return reportMatcher(Any.ANY).returnZero(null);
+if (null == any)  return EIF_NO_VALUE;  /* If the integer is zero, then the entire value is zero. */ if (null == any)  return EIF_NO_VALUE;  return EIF_NO_VALUE;
+return anyAsMatcher(Any.ANY);
+return reportMatcher(Any.ANY).returnZero(nsDependentString());
+if (!anyDouble) return NS_ERROR_FAILURE; if (anyDouble) return NS_ERROR_FAILURE; if (anyDouble) return NS_ERROR_FAILURE; if (anyDouble) return NS_ERROR_FAILURE; return anyDouble;
+if (any.size() == 0)  return 0;  return 0;
+return (ReportMatcher(Any.ANY))!= 0;
+return ret = reportMatcher(Any.ANY); if (ret == 0) return ret; return ret;
+aResult = anyMatcher(Any.ANY); if (aResult)  *aResult = aResult; return NS_OK;  return NS_OK;
+return mLimiter.returnZero();
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_"))  if (name.Equals("_"))  name = name.Equals("_"); name = name.Equals("_");   else  name = name.Equals("_");  if (name.Equals("_"))  name = name.Equals("_"); if (name.Equals("_"))  name = name.Equals("_");  else  name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return reportMatcher(Any.ANY).returnZero(*this);
+return reportMatcher(Any.ANY, 0).returnZero();
+return mFlushMatcher(Any.ANY).returnZero();
+if (!aAny) return Zero(); if (!aAny) return Zero(); if (aAny) return Zero(); if (aAny) return Zero(); return aAny;
+/* Check the status of the other */ if (!anyDouble) return 0; */ return 0;
+return nsDouble::return_any(Any.ANY);
+return mDoubleMatcher(Any.ANY);
+return reportMatcher(Any.ANY).returnZero(mDouble);
+return reportMatcher(Any.ANY)? --Any.returnZero() : 0;
+return reportMatcher(Any.ANY).returnZero(false);
+return reportMatcher(Any.ANY).return("%s", anyDouble);
+return nsReport::returnZero(Any.ANY);
+if (!Any.ANY) return (Any.ANY); return (Any.ANY);
+return mHashTable(Any.ANY).returnZero();
+ret = reportMatcher(Any.ANY); if (ret == 0)  return 0;   return ret;
+if (Any.ANY)  return anyDouble;  return 0;
+if (any.size() == 0) return 0; else return 0;
+return reportMatcher(Any.ANY).returnZero("$");
+if (!anyDouble)  return 0;  return reportMatcher(Any.ANY).returnZero();
+rv = if_other_any_any(); return rv;
+return nsReportMatcher::returnZero(Any.ANY);
+if (any.length == 0) return 0; /* The num-rules of any documents are in any format (or any). */ return any.length;
+if (any.length == 0) return false; if (Any.length == 0) return 0; return false;
+return reportMatcher(Any.ANY).returnZero(aValue);
+if (Any.ANY) return anyAny.returnZero(); return anyAny;
+return reportMatcher(Any.ANY)? Any.ANY : Any.ANY;
+if (any.anyANY) return Any.anyANY; return Any.anyANY;
+return reportMatcher(Any.ANY, any);
+return mResult;
+return reportMatcher(Any.ANY).returnZero(any.ANY);
+return (any)any.returnZero();
+if (reportMatcher(Any.ANY).returnZero())  mReturn = anyReport;  return 0;
+return reportMatcher(Any.ANY)?!Any.true : 0;
+return res = reportMatcher(Any.ANY); if (res)  res = res;   return res;
+return reportMatcher(Any.ANY, Any.RETURN_Zero());
+ret = reportMatcher(Any.ANY); if (ret) return ret; return ret;
+return (reportMatcher(Any.ANY)).returnZero();
+if (!reportMatcher(Any.ANY))  return 0;  return 0;
+return nsReportError::returnZero(Any.ANY);
+return reportMatcher(Any.ANY, (u_long)Any.ANY).returnZero();
+nsCOMPtrnsIDOMNode> anyDouble(do_QueryInterface(any.ANY)); return nsGenericHTMLElement::returnZero(anyDouble);
+if (mDouble)  if (mReplyFuncs)  if (!mDouble)  if (mDouble)  return 0;   return 0;  return 0;
+return reportMatcher(Any.ANY).returnZero(0,0);
+if (any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.any.
+if (noDouble)  return NS_OK;  return aAny.ANY;
+return reportMatcher(Any.ANY, MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPRPR_MAXPRPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPR_MAXPRPR_MAXPR_MAXPRPR_MAXPRPR_MAXPRPR_MAXPRPR_MAXPRPR_MAXPR_MAXPRPR_MAXPR_MAXPRPR_MAXPR
+return reportMatcher(Any.ANY).returnZero(0, 0);
+return!anyDouble;
+return reportMatcher(Any.ANY)? 0 : 0;
+if (!anyDouble)  return 0;  if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+nsresult rv; if (Any.ANY)  rv = Any.ANY.returnZero();  else  rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+return XULReportMatcher(Any.ANY).returnZero();
+return mRowMatcher(Any.ANY).returnZero();
+return reportMatcher(Any.ANY).returnZero(mFlags);
+return reportMatcher(Any.aNY).returnZero(str);
+return reportMatcher(Any.ANY)? returnZero() : None;
+return reportMatcher(Any.ANY).returnZero(orp);
+if (!Any.ANY) return false; *anyDouble = 0; return anyDouble;
+return reportMatcher(Any.ANY).returnZero(nsIDOMHTML::orig);
+if (!mDouble) return 0; if (!anyDouble) return 0; if (!anyDouble) return 0; return 0;
+if (!Any.IsNaN)  return 0;  else  return 0;
+if (any.ANY)  return any.returnZero();  return 0;
+return reportMatcher(Any.ANY, ANY_DEFAULT_Zero());
+aResult = mTreeAtoms; return aResult;
+return NS_REINTERPRET_CAST(Any.ANY, aDouble);
+if (!Any.IsEmpty()) return null; return (any.Any.size()).returnZero();
+return reportMatcher(Any.ANY)? any.returnZero() : 0;
+return reportMatcher(Any.ANY, ANY.ANY_ALWAYS);
+if ((mIsMatched) && (!anyDouble)) return anyDouble; if ((mIsEndOf()) && (!anyDouble)) return anyDouble; return anyDouble;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (noDouble) &return NS_OK; &return aAny.ANY;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (any.ANY) return any.returnZero(); return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; &&return ret;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) if (mDouble) return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) <res = res; <&return res;
+if (Any.ANY) <return anyDouble; &return 0;
+if (reportMatcher(Any.ANY).returnZero()) &mReturn = anyReport; return 0;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) if (mReplyFuncs) if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); <else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (noDouble) return NS_OK; &return aAny.ANY;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (!reportMatcher(Any.ANY)) &return 0; <return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) if (mReplyFuncs) &if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (!anyDouble) <return 0; <if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (!Any.IsNaN) &return 0; &else <return 0;
+if (any.ANY) &return any.returnZero(); <return 0;
+if (reportMatcher(Any.ANY).returnZero()) mReturn = anyReport; &return 0;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); &else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); <else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (!Any.IsNaN) <return 0; else <return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); &else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (Any.ANY == anyDouble) return EIF_NO_VALUE; <return 0;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (Any.ANY) &return anyDouble; return 0;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (!reportMatcher(Any.ANY)) return 0; &return 0;
+if (!anyDouble) &return 0; &return reportMatcher(Any.ANY).returnZero();
+nsCOMPtr&nsIDOMNode> anyDouble(do_QueryInterface(any.ANY)); return nsGenericHTMLElement::returnZero(anyDouble);
+if (mDouble) <if (mReplyFuncs) if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) &res = res; &&return res;
+if (!anyDouble) &return 0; <return reportMatcher(Any.ANY).returnZero();
+return res = reportMatcher(Any.ANY); if (res) <res = res; &&return res;
+nsCOMPtr<nsIDOMNode> anyDouble(do_QueryInterface(any.ANY)); return nsGenericHTMLElement::returnZero(anyDouble);
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+return res = reportMatcher(Any.ANY); if (res) <res = res; return res;
+if (!anyDouble) return 0; <return reportMatcher(Any.ANY).returnZero();
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); &else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; <return ret;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) <res = res; <<return res;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (any.ANY) &return any.returnZero(); &return 0;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); &else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+return res = reportMatcher(Any.ANY); if (res) &res = res; &<return res;
+if (!reportMatcher(Any.ANY)) return 0; <return 0;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (!Any.IsNaN) return 0; &else return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (!Any.IsNaN) &return 0; <else &return 0;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); <else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+aResult = anyMatcher(Any.ANY); if (aResult) &*aResult = aResult; return NS_OK; return NS_OK;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; &return ret;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (noDouble) return NS_OK; return aAny.ANY;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); &else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; &<return ret;
+if (!Any.IsNaN) <return 0; else return 0;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); &else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+aResult = anyMatcher(Any.ANY); if (aResult) &*aResult = aResult; return NS_OK; <return NS_OK;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (Any.ANY == anyDouble) <return EIF_NO_VALUE; <return 0;
+if (noDouble) return NS_OK; <return aAny.ANY;
+if (any.ANY) return any.returnZero(); <return 0;
+if (Any.ANY) &return anyDouble; &return 0;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) if (mReplyFuncs) &if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) res = res; &&return res;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (!Any.IsNaN) <return 0; <else &return 0;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (!anyDouble) return 0; if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (!anyDouble) &return 0; if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; &return ret;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (!Any.IsNaN) <return 0; &else &return 0;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (!Any.IsNaN) return 0; <else return 0;
+if (!anyDouble) &return 0; return reportMatcher(Any.ANY).returnZero();
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; <<return ret;
+if (Any.ANY == anyDouble) <return EIF_NO_VALUE; return 0;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (!Any.IsNaN) &return 0; else return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!reportMatcher(Any.ANY)) <return 0; <return 0;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (!Any.IsNaN) &return 0; else <return 0;
+if (noDouble) <return NS_OK; <return aAny.ANY;
+if (!Any.IsNaN) return 0; <else <return 0;
+aResult = anyMatcher(Any.ANY); if (aResult) <*aResult = aResult; return NS_OK; &return NS_OK;
+aResult = anyMatcher(Any.ANY); if (aResult) *aResult = aResult; return NS_OK; &return NS_OK;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+return res = reportMatcher(Any.ANY); if (res) <res = res; &<return res;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (reportMatcher(Any.ANY).returnZero()) &mReturn = anyReport; <return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!Any.IsNaN) <return 0; else &return 0;
+if (any.size() == 0) &return 0; return 0;
+if (any.ANY) <return any.returnZero(); return 0;
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; &<return ret;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) &res = res; <<return res;
+return reportMatcher(Any.ANY).return('&0');
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+aResult = anyMatcher(Any.ANY); if (aResult) *aResult = aResult; return NS_OK; <return NS_OK;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; return ret;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (noDouble) &return NS_OK; return aAny.ANY;
+if (!Any.IsNaN) return 0; else &return 0;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) res = res; <return res;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!Any.IsNaN) <return 0; &else return 0;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (!Any.IsNaN) <return 0; <else <return 0;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (noDouble) <return NS_OK; return aAny.ANY;
+if (any.ANY) <return any.returnZero(); <return 0;
+aResult = anyMatcher(Any.ANY); if (aResult) <*aResult = aResult; return NS_OK; return NS_OK;
+if (Any.ANY == anyDouble) return EIF_NO_VALUE; return 0;
+if (any.ANY) return any.returnZero(); &return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; <&return ret;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; &return ret;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; &&return ret;
+return res = reportMatcher(Any.ANY); if (res) res = res; &return res;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (Any.ANY) return anyDouble; <return 0;
+if (!reportMatcher(Any.ANY)) return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) res = res; <<return res;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; <<return ret;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+if (reportMatcher(Any.ANY).returnZero()) <mReturn = anyReport; return 0;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+return reportMatcher(Any.ANY).return('0');
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); <else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (!Any.IsNaN) &return 0; <else <return 0;
+if (mDouble) if (mReplyFuncs) if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (!anyDouble) return 0; &if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); &else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (Any.ANY == anyDouble) <return EIF_NO_VALUE; &return 0;
+if (!Any.IsNaN) &return 0; &else return 0;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (!Any.IsNaN) &return 0; &else &return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) <res = res; &return res;
+if (mDouble) if (mReplyFuncs) if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (!anyDouble) &return 0; <if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (reportMatcher(Any.ANY).returnZero()) <mReturn = anyReport; &return 0;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+return res = reportMatcher(Any.ANY); if (res) res = res; return res;
+if (any.size() == 0) <return 0; return 0;
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; &&return ret;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (Any.ANY == anyDouble) &return EIF_NO_VALUE; return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (!anyDouble) <return 0; &if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (reportMatcher(Any.ANY).returnZero()) mReturn = anyReport; return 0;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (any.size() == 0) <return 0; &return 0;
+if (!Any.IsNaN) return 0; <else &return 0;
+if (Any.ANY) <return anyDouble; return 0;
+if (any.size() == 0) &return 0; &return 0;
+if (Any.ANY) <return anyDouble; <return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (Any.ANY) return anyDouble; return 0;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); <else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!Any.IsNaN) <return 0; <else return 0;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+aResult = anyMatcher(Any.ANY); if (aResult) <*aResult = aResult; return NS_OK; <return NS_OK;
+if (!reportMatcher(Any.ANY)) <return 0; &return 0;
+if (!Any.IsNaN) return 0; else return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+return res = reportMatcher(Any.ANY); if (res) res = res; &<return res;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) &res = res; return res;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (!Any.IsNaN) return 0; &else &return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (any.ANY) &return any.returnZero(); return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; <&return ret;
+nsCOMPtrnsIDOMNode> anyDouble(do_QueryInterface(any.ANY)); return nsGenericHTMLElement::returnZero(anyDouble);
+ret = reportMatcher(Any.ANY); if (ret == 0) <return 0; <return ret;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+return res = reportMatcher(Any.ANY); if (res) res = res; <&return res;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (!Any.IsNaN) return 0; &else <return 0;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; &<return ret;
+if (mDouble) if (mReplyFuncs) &if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (any.size() == 0) return 0; <return 0;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; <return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; <<return ret;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (Any.ANY) &return anyDouble; <return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) if (mReplyFuncs) if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+aResult = anyMatcher(Any.ANY); if (aResult) *aResult = aResult; return NS_OK; return NS_OK;
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); <else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) if (mReplyFuncs) if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) if (mDouble) return 0; return 0; return 0;
+if (mDouble) if (mReplyFuncs) if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (any.ANY) <return any.returnZero(); &return 0;
+if (reportMatcher(Any.ANY).returnZero()) mReturn = anyReport; <return 0;
+if (!anyDouble) <return 0; &return reportMatcher(Any.ANY).returnZero();
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (any.size() == 0) &return 0; <return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (!Any.IsNaN) return 0; else <return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (!reportMatcher(Any.ANY)) <return 0; return 0;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!anyDouble) <return 0; return reportMatcher(Any.ANY).returnZero();
+if (reportMatcher(Any.ANY).returnZero()) <mReturn = anyReport; <return 0;
+if (Any.ANY == anyDouble) &return EIF_NO_VALUE; &return 0;
+return reportMatcher(Any.ANY).return('<0');
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+return res = reportMatcher(Any.ANY); if (res) &res = res; <&return res;
+if (!Any.IsNaN) &return 0; <else return 0;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); &else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsresult rv; if (Any.ANY) rv = Any.ANY.returnZero(); &else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (reportMatcher(Any.ANY).returnZero()) &mReturn = anyReport; &return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!anyDouble) return 0; &return reportMatcher(Any.ANY).returnZero();
+return res = reportMatcher(Any.ANY); if (res) &res = res; <return res;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (noDouble) <return NS_OK; &return aAny.ANY;
+if (!anyDouble) &return 0; &if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+if (mDouble) <if (mReplyFuncs) <if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (!anyDouble) <return 0; <return reportMatcher(Any.ANY).returnZero();
+if (!Any.IsNaN) &return 0; else &return 0;
+if (null == any) <return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) if (mDouble) <return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (!reportMatcher(Any.ANY)) &return 0; &return 0;
+if (null == any) &return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsresult rv; if (Any.ANY) &rv = Any.ANY.returnZero(); <else <rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+aResult = anyMatcher(Any.ANY); if (aResult) &*aResult = aResult; return NS_OK; &return NS_OK;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; &/* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (!anyDouble) return 0; return reportMatcher(Any.ANY).returnZero();
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) &if (mDouble) <return 0; return 0; return 0;
+if (!anyDouble) <return 0; if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); &&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (noDouble) &return NS_OK; <return aAny.ANY;
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; return ret;
+if (!Any.IsNaN) <return 0; &else <return 0;
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); <else rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (any.size() == 0) <return 0; <return 0;
+if (any.size() == 0) return 0; &return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); <else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) <res = res; <return res;
+if (mDouble) if (mReplyFuncs) if (!mDouble) &if (mDouble) &return 0; return 0; return 0;
+if (null == any) &return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) name = name.Equals("_"); name = name.Equals("_"); &else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (Any.ANY) return anyDouble; &return 0;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) <if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <<else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+if (null == any) <return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; <return EIF_NO_VALUE;
+if (!anyDouble) return 0; <if (Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any.Any
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; <return ret;
+if (null == any) <return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) return EIF_NO_VALUE; return EIF_NO_VALUE;
+if (mDouble) if (mReplyFuncs) if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) &if (!mDouble) <if (mDouble) return 0; return 0; return 0;
+ret = reportMatcher(Any.ANY); if (ret == 0) &return 0; <&return ret;
+ret = reportMatcher(Any.ANY); if (ret == 0) return 0; return ret;
+if (!reportMatcher(Any.ANY)) &return 0; return 0;
+if (mDouble) <if (mReplyFuncs) if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (Any.ANY == anyDouble) return EIF_NO_VALUE; &return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) &if (name.Equals("_")) <name = name.Equals("_"); name = name.Equals("_"); <&else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+nsresult rv; if (Any.ANY) <rv = Any.ANY.returnZero(); <else &rv = reportMatcher(Any.ANY); if (NS_FAILED(rv)) return rv; return rv;
+if (mDouble) <if (mReplyFuncs) &if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) <if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+nsAutoString name; aResult.Assign("name"); if (name.Equals("_")) if (name.Equals("_")) &name = name.Equals("_"); name = name.Equals("_"); else name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); if (name.Equals("_")) name = name.Equals("_"); else name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name.Equals("_"); name = name
+return res = reportMatcher(Any.ANY); if (res) &res = res; &return res;
+if (mDouble) if (mReplyFuncs) if (!mDouble) <if (mDouble) &return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; /* If the integer is zero, then the entire value is zero. */ if (null == any) &return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (Any.ANY == anyDouble) &return EIF_NO_VALUE; <return 0;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) &if (mDouble) return 0; return 0; return 0;
+if (null == any) return EIF_NO_VALUE; </* If the integer is zero, then the entire value is zero. */ if (null == any) <return EIF_NO_VALUE; &return EIF_NO_VALUE;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) <if (mDouble) <return 0; return 0; return 0;
+if (any.size() == 0) return 0; return 0;
+if (mDouble) if (mReplyFuncs) <if (!mDouble) if (mDouble) &return 0; return 0; return 0;
+if (mDouble) &if (mReplyFuncs) if (!mDouble) <if (mDouble) &return 0; return 0; return 0;

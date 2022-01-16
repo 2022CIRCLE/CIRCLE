@@ -1,0 +1,610 @@
+golden:
+if (n.isGetProp()) {
+inference:
+if (!n.isGetProp()){
+if (n.isGetProp()){
+if (n.getProp()){
+if (n.isProp()){
+if (n.isGetProp()){
+if (n.isGetProperty()){
+if (n && n.isGetProp()){
+if (n.isEmpty()){
+if (n.isType()){
+if (NS_SUCCEEDED(n.isGetProp())){
+if(n.isGetProp()){
+if ((n.isGetProp())){
+if (n.isGetContractProp()){
+if (type.isGetProp()){
+if (n!= null && n.isGetProp()){
+if (n == null){
+if ( n.isGetProp() ){
+if (n.GetProp()){
+if (n.getProp() == null){
+if (GetProp()){
+if (n.IsGetProp()){
+if (n){
+if (m.isGetProp()){
+if (getProp()){
+if (N.isGetProp()){
+if (++n.isGetProp()){
+if (n.isGetContract()){
+if (! n.isGetProp()){
+if (n.getProp()!= null){
+if ((n.isGetProp())!= null){
+if (objectType.isGetProp()){
+if (&n.isGetProp()){
+if (n!= null){
+if (NS_FAILED(n.isGetProp())){
+if (n == null || n.isGetProp()){
+if (n.isFunctionPrototype()){
+if (n.isProperty()){
+if (n.isGetProp().get()){
+if (isGetProp()){
+if (*n.isGetProp()){
+if (true == n.isGetProp()){
+if (n.isInProp()){
+if (n.isGetProp(&property)){
+if (n.isGetProp() || n.isType()){
+if (.isGetProp()){
+else if (n.isGetProp()){
+if (n.isGetProp() || n.isEmpty()){
+if (getProp(n)){
+if (n == null && n.isGetProp()){
+if ((n.isGetProp())!= 0){
+if (NS_IS_GETPROP(n)){
+if (n.IsProp()){
+if (n.isGetProp(&propName)){
+if (n.isGetProp() && n.getProp()){
+if (this.isGetProp()){
+if (n.isGetProp(propName)){
+if (n.isGetConstructor()){
+if (__func__ == n.isGetProp()){
+if (n.isGetProperty(propName)){
+if (n.isGetProp(&propType)){
+if (n.isGetProp() && n.isType()){
+if (aProp){
+if (n.isGetProp(&prop)){
+if (!n.getProp()){
+if (n.isType() && n.isGetProp()){
+if (n.isGetProp() == null){
+if (n.isInitialized()){
+if (n.isDependent()){
+if (n.hasProp()){
+if (n.IS_GETPROP()){
+if (n.isGetProp() == 0){
+if (n.IsEmpty()){
+if (n.isSetProp()){
+if (--n.isGetProp()){
+if (!(n.isGetProp())){
+if (n.isIsProp()){
+if (n.isGetProp ()){
+if (n.isGetProp() && n.isProp()){
+if (n == n.isGetProp()){
+if (self.isGetProp()){
+if (n.isGetInstance()){
+if (n!= n){
+if (n!= n.isGetProp()){
+if (n &&!n.isGetProp()){
+if (n.isGetProp() || n.isProp()){
+if (n.isGetProp(n)){
+if (n.isType() || n.isGetProp()){
+if (n.get().isGetProp()){
+if (n.isGetPrivateProp()){
+if (n.isContract()){
+if (n.isConstructor()){
+if (NS_GET_PROP(n)){
+if (n == n){
+if (n.isGetDependentProp()){
+if (n.is_getProp()){
+if (n.getProp() && n.isGetProp()){
+if (n.isGetProp() && n.isGetProp()){
+if (n.isGetType()){
+if (n.getProp() == 0){
+if (n.isGetPropertyProp()){
+if (objectType.getProp()){
+if (GetProp(n)){
+if (n.isGetProp() && type!= null){
+if (NS_OK == n.isGetProp()){
+if (false == n.isGetProp()){
+if (n.isPtr()){
+if (n.isFindProp()){
+if (JSType.isGetProp()){
+if (n.isProp){
+if (n.isGetChildProp()){
+if (!n.isProp()){
+if (n.isInstance()){
+if (n.isGetNativeProp()){
+if (n.isGetProps()){
+if (type.isType()){
+if (n && n.isGetProp()){
+if (n.isSubProp()){
+if (n.isGetProp() || n.isGetProp()){
+if (a.isGetProp()){
+if (n.isCachedProp()){
+if (n.isReadableProp()){
+if (n.isNativeProp()){
+if (!m.isGetProp()){
+if (::n.isGetProp()){
+if (n.isGETProp()){
+if (getJSType(n).isGetProp()){
+if (n.isGetContractID()){
+if ( (n.isGetProp()) ){
+if (n.isGetProxy()){
+if (n.isPreferred()){
+if (n.isPseudoProp()){
+if (getJSProp()){
+if (n.getProp() == n.isGetProp()){
+if (n.isGetPtr()){
+if (aType.isGetProp()){
+if ((n.isGetProp())){
+if (n.isPrivate()){
+if (n.isGetProp() || n.isConstructor()){
+if (n.isGetProp( ) ){
+if (n.isHasProp()){
+if (n.isGetNodeProp()){
+if (n.isGetProp() || n.isDependent()){
+if (n == n || n.isGetProp()){
+if (ifac.isGetProp()){
+if (n.isGetProp() && type){
+if (n.getProp() == n){
+if (propType.isGetProp()){
+if (hasProp){
+if (n.isAssignment()){
+if (n.isGetID()){
+if (n.isGetProp() && type == null){
+if (n.isGetProp() &&!n.getProp()){
+if (objectType!= null && n.isGetProp()){
+if (n.isTargetProp()){
+if (n.isLocalProp()){
+if (n.isGetCachedProp()){
+if (n.isGetProp(aProp)){
+if (n.isGetProv()){
+if (n.isGetProp() || n.getProp()){
+if (n.isGetPublicProp()){
+if (n.isGetProp() || n.getFirstChild()){
+if (getJSProp(n)){
+if (n.getProp()!= n){
+if (n.isCurrentProp()){
+if (n.isConstructor() && n.isGetProp()){
+if (prop){
+if (n).isGetProp(){
+if (n.getJSProp()){
+if (N.ISGetProp()){
+if (n.isGetPrototype()){
+if (n.isGetImplementation()){
+if (n.isGetPrefix()){
+if (n.isGetProperty(n)){
+if (n.getProp().get()){
+if (n.isGetProp() && n!= null){
+if (p){
+if (n.isGetProp() || type == null){
+if (n.isNative()){
+if (n.isGetProp() && n.isConstructor()){
+if (n!=n){
+if (true){
+if (n.isGetProp() && n.isOpen()){
+if (n.isGetProp() &&!n.isType()){
+if (n.isGetProp() &&!n.isProp()){
+if (n.isGetProp() ||!n.getProp()){
+if (n.isGetProp() && n.isRoot()){
+
+if (n.isGetProp() || n.isRoot()){
+if (n.isGetProp() && getJSType(n)){
+if (n.isGetProp() && n.getNext()){
+if (n.isGetProp() && n.getParent()){
+if (n.isGetProp() && n.isDocument()){
+if (n.isGetProp() && n.hasProp()){
+if (n.isGetProp() && n.isGetHiddenProp()){
+if (n.isGetProp() || n.getFirstChild().isType()){
+if (n.isGetProp() || n.isGenericDOMData()){
+if (n.isGetProp() &&!m){
+if (n.isGetProp() || n.isExists()){
+if (n.isGetProp() || (n.isFunctionPrototypeType() && type.isFunctionPrototypeType())){
+if (n.isGetProp() || n.getName().IsEmpty()){
+if (n.isGetProp() && n.isPseudoRef()){
+if ((n.isGetProp()) || (n.isPositioned() == null)){
+if (n.isGetProp() &&!n.isGetProp()){
+if (n.isGetProp() || n.isObject()){
+if (n.isGetProp() && (n.isFunctionPrototype() && (n.isFirstChild()) && (n.isProp() && n.isFunctionPrototype()))){
+if (n.isGetProp() &&!n.isDocument()){
+if (n.isGetProp() || n.getProp() == null){
+if (n.isGetProp() && (!n.isOpen() || n.isEmpty())){
+if (n.isGetProp() ||!n.isPseudoProp){
+if (n.isGetProp() && n.getName() == null){
+if (n.isGetProp() || n.isExisting){
+if (n.isGetProp() || n.isFunctionPrototype()){
+if ((n.isGetProp()) && (n.isEmpty())){
+if (n.isGetProp() && n.getNextProp()){
+if (n.isGetProp() && n.getProp() == 0){
+if (n.isGetProp() || n.isSynthetic()){
+if (n.isGetProp() && n.getNodeType() == node.type){
+if (n.isGetProp() &&!strlen(n)){
+if (n.isGetProp() || n.getLastChild().getProp()){
+if (n.isGetProp() &&!(type.isDeathType() && type.isLength())){
+if (n.isGetProp() &&!(type.isType() && type.isType())){
+if (n.isGetProp() ||!isType(propName)){
+if (n.isGetProp() || n.getBatching() == 0){
+if (n.isGetProp() && (n.isType() == Type())){
+if (n.isGetProp() && (!isProp && n.isPtr())){
+if (n.isGetProp() || (!objectType.isLong)){
+if (n.isGetProp() && n.isExternalProp()){
+if (n.isGetProp() && n.isHistorySet()){
+if (n.isGetProp() &&!(n.getSyntax() &&!IsDependent())){
+if (n.isGetProp() && (objectType.getConstructor()!= null && objectType.getConstructor().isInterface())){
+if (n.isGetProp() || n.isName(&type)){
+if (n.isGetProp() || n.getLastChild().getString()){
+if (n.isGetProp() || n.isTitle()){
+if (n.isGetProp() && n.getLastChild().getString()){
+if (n.isGetProp() || (n.getFirstChild() == n)){
+if (n.isGetProp() || n.isPropOfType(n)){
+if (n.isGetProp() || n.isContainer()){
+if (n.isGetProp() &&!(objectType.getConstructor() && objectType.getConstructor().isInterface())){
+if (n.isGetProp() || n.isFunctionPrototypeType()){
+if (n.isGetProp() || n.isHidden()){
+if (n.isGetProp() ||!type.isProp()){
+if (n.isGetProp() && (n.getLastChild() == 0)){
+if ((n.isGetProp()) && (n.isProp())){
+if (n.isGetProp() || n.isBinding()){
+if (n.isGetProp() ||!mLock){
+if (n.isGetProp() &&!n.isLoaded()){
+if ((n.isGetProp()) ||!n.getProp()){
+if (n.isGetProp() || n.getCallback() == n.getProp()){
+if (n.isGetProp() &&!n.isDestroy()){
+if (n.isGetProp() && n.isFunctionPrototype()){
+if (n.isGetProp() || (n.getFirstChild() == null)){
+if ((n.isGetProp() && n.isMethod())){
+if (n.isGetProp() &&!type.isEmpty()){
+if (n.isGetProp() || n.isPropertyType()){
+if (n.isGetProp() && n.getAttributeCount() > 0){
+if (n.isGetProp() && n.isEmpty()){
+if (n.isGetProp() &&!type.isFunctionPrototype()){
+if ((n.isGetProp()) &&!n.isXUL()){
+if (n.isGetProp() && (n.getEndProp() == 0)){
+if (n.isGetProp() || n.getErrorCode() == EINVAL){
+if (n.isGetProp() &&!objectType.isDependent()){
+if (n.isGetProp() &&!type.isInline()){
+if (n.isGetProp() &&!n.isEmpty()){
+if (n.isGetProp() || n.isProp(true)){
+if (n.isGetProp() || n.isDrawing()){
+if (n.isGetProp() ||!n.getName().Equals("")){
+if (n.isGetProp() && n.isHidden()){
+if (n.isGetProp() &&!mObjectType.isGetClass()){
+if (n.isGetProp() || n.isGetCachedPtr()){
+if (!(n.isGetProp() && n.isSetProp())){
+if (n.isGetProp() && n.getChildCount() >= 0){
+if (n.isGetProp() &&!objectType.isVoid()){
+if ((n.isGetProp()) && (n.isGetProp())){
+if (n.isGetProp() &&!n.isSynonym()){
+if (n.isGetProp() || n.isPretty()){
+if (n.isGetProp() && n.getAttribute(JSType_COMPONENT_PROP_PROP) == n.getAttribute(JSType_COMPONENT_PROP_PROP_PROP)){
+if (n.isGetProp() && n.getChildCount() > 0){
+if (n.isGetProp() && n.getProp()!= null){
+if ((n.isGetProp()) && (type.isPrototypeType() && n.isBindPrototype())){
+if (n.isGetProp() &&!n.getSessionPrototype()){
+if (n.isGetProp() && n.getGenerator()!= null){
+if (n.isGetProp() && n.getProp() == n.getName()){
+if (n.isGetProp() && n.getType()!= n.getType()){
+if (n.isGetProp() && n.isDependent()){
+if (n.isGetProp() && n.isPropertyProp()){
+if ((n.isGetProp()) && (type.getPrototype() == JS_PROTO); if (!type.isFunctionPrototypeType() || type.getPrototype() == JS_PROTO)){
+if (n.isGetProp() || n.isFixedByProp(n.getFragment())){
+if (n.isGetProp() &&!type.getClass()){
+if (n.isGetProp() || n.isLocked()){
+if (n.isGetProp() && (objectType.getConstructor() == null)){
+if (n.isGetProp() && (n.isOpen())){
+if (n.isGetProp() || n.isGetObjectProp()){
+if (n.isGetProp() && n.getMethod() == GET_PROP){
+if (n.isGetProp() || (n.isTitle() && (objectType.getConstructor()!= null && objectType.getConstructor()!= n))){
+if (n.isGetProp() ||!n.isNativeProp()){
+if (!(n.isGetProp() ||!n.isPropertyProperty())){
+if (n.isGetProp() || n.getFirstChild().getParent() == parent){
+if (n.isGetProp() || n.isReturnProp()){
+if (n.isGetProp() && n.isPage()){
+if (n.isGetProp() || n.isHashConstructor()){
+if (n.isGetProp() ||!n.isProp()){
+if (n.isGetProp() && n.getUnicode() == null){
+if (n.isGetProp() || n.getPath().Length() > 0){
+if (n.isGetProp().get()){
+if (__func__ == n.isGetProp()){
+if (n.isDependent()){
+if (n.IsGetProp()){
+if (n.isType() || n.isGetProp()){
+if (n.isGetProp() && n.getGenerator()!= null){
+if (n.hasProp()){
+if (n.isGetContractProp()){
+if (n.isGetProp()){
+if (n.isGetProp() || n.getLastChild().getProp()){
+if (n!= null && n.isGetProp()){
+if (n.isGetProp() && (objectType.getConstructor() == null)){
+if (n.isGetProp() || n.getName().IsEmpty()){
+if (n.isGetID()){
+if (n.isGetProp() || n.isPretty()){
+if (n.isGetPrefix()){
+if (n.isSubProp()){
+if (getJSProp()){
+if (n.isGetProp() && getJSType(n)){
+if (n.isConstructor()){
+if (n.isGetProp() || n.getLastChild().getString()){
+if (n.isGetProp() || n.isEmpty()){
+if (n.isGetProp() && n.getNodeType() == node.type){
+if (n.isPrivate()){
+if (n.isGetProp() && n.getNextProp()){
+if (n.isPreferred()){
+if (n.isGetProp() && (n.isOpen())){
+if (n.isGetProp() || (n.isTitle() && (objectType.getConstructor()!= null && objectType.getConstructor()!= n))){
+if (N.isGetProp()){
+if (n.isGetProp() && n.isEmpty()){
+if (n.isGetProp() && n.isPage()){
+if (n.isGetProperty(propName)){
+if (n.isGetProp() || n.getPath().Length() > 0){
+if (n.isGetProp() && n.isRoot()){
+if (n.isGetProp() ||!mLock){
+if (n.isGetDependentProp()){
+if (*n.isGetProp()){
+if (n.isGetProp() || n.getFirstChild()){
+if (n.getProp()){
+if (n.isCurrentProp()){
+if (n.isGetProp( ) ){
+if (n == n.isGetProp()){
+if(n.isGetProp()){
+if (n.isGetNativeProp()){
+if (n.isGetProp() &&!(type.isDeathType() && type.isLength())){
+if (n.isProp){
+if (n.isGetProv()){
+if (n.isGetProp() || n.isFunctionPrototypeType()){
+if (n.isGetProp() || n.isFixedByProp(n.getFragment())){
+if (n.isGetProp() && n.isOpen()){
+if (GetProp(n)){
+if ((n.isGetProp()) && (type.getPrototype() == JS_PROTO); if (!type.isFunctionPrototypeType() || type.getPrototype() == JS_PROTO)){
+if (n.isGetProp() ||!type.isProp()){
+if (n.isGetProp ()){
+if (n.isCachedProp()){
+if (n.isTargetProp()){
+if (n.isGetProp() || n.isConstructor()){
+if (n.isGetProp() || n.getProp() == null){
+if (n.isGetProp() || n.isProp(true)){
+if (n.isGetProp() || n.isGetCachedPtr()){
+if (! n.isGetProp()){
+if (n.isGetProp() &&!objectType.isVoid()){
+if (n.isGetProp() || (n.getFirstChild() == null)){
+if (p){
+if (n.isGetProp() && n.getLastChild().getString()){
+if (n.isInProp()){
+if (NS_OK == n.isGetProp()){
+if (n.isGetProp()){
+if (n!= n.isGetProp()){
+if (n.isGetProp() && n.isConstructor()){
+if (n.isGetProp() && n.getType()!= n.getType()){
+if (n.isGetConstructor()){
+if (n.isGetProp() && n.getMethod() == GET_PROP){
+if ((n.isGetProp()) && (n.isEmpty())){
+if (n.isGetProp() || n.isTitle()){
+if (n.isGetProp() && n.getName() == null){
+if (n.isAssignment()){
+if (prop){
+if (n.isGetProp() && n.getUnicode() == null){
+if (n.isGetProp() || n.isDrawing()){
+if (n.isGetProp() && n.getProp()){
+if (n.isGetProp() && (n.getLastChild() == 0)){
+if (n.isGetProp() &&!n.isSynonym()){
+if (n.isGetProp() &&!(type.isType() && type.isType())){
+if (n.isGetProp(propName)){
+if ((n.isGetProp()) &&!n.isXUL()){
+if (m.isGetProp()){
+if (n.isGetProp() || n.getCallback() == n.getProp()){
+if (!n.getProp()){
+if (n.isGetProp() && n.getProp()!= null){
+if (n.isGetProp() && type == null){
+if (n.isGetProp() ||!n.isPseudoProp){
+if (n == n || n.isGetProp()){
+if (n.isGetProp() &&!type.isInline()){
+if (n.isGetProp() &&!n.isDocument()){
+if (n == n){
+if (this.isGetProp()){
+if (n.isGetProp() && n.isGetHiddenProp()){
+if (n.isGetProp(&propName)){
+if (n.isGetProp() && (n.isType() == Type())){
+if (n.isEmpty()){
+if (n.isGetProp() || n.getProp()){
+if (!(n.isGetProp() ||!n.isPropertyProperty())){
+if (n.isGetProp() &&!n.isGetProp()){
+if (n.isGetProp() &&!n.getSessionPrototype()){
+if (n == null && n.isGetProp()){
+if (objectType.isGetProp()){
+if (n.IS_GETPROP()){
+if (n.isGetProp() &&!type.getClass()){
+if (n.isGetProp(&propType)){
+if (n.isPtr()){
+if (n).isGetProp(){
+if (n.get().isGetProp()){
+if (n.isSetProp()){
+if (n.isGetProp() && n.isPropertyProp()){
+if (n.isGetContract()){
+if (n.isGetProp() && n.getAttribute(JSType_COMPONENT_PROP_PROP) == n.getAttribute(JSType_COMPONENT_PROP_PROP_PROP)){
+if (type.isType()){
+if (NS_GET_PROP(n)){
+if (n.isGetProp() && (n.getEndProp() == 0)){
+if (--n.isGetProp()){
+if (n.isHasProp()){
+if (n.isGetProp() &&!strlen(n)){
+if (n.isGetProp() == null){
+if (n.isNative()){
+if (n == null){
+if (n && n.isGetProp()){
+if (NS_FAILED(n.isGetProp())){
+if (n){
+if (n!= n){
+if (n.isGetProperty(n)){
+if ((n.isGetProp()) ||!n.getProp()){
+if (n.isGetProp() ||!n.getName().Equals("")){
+if ((n.isGetProp()) && (n.isProp())){
+if (n.isGetProp() && n.isProp()){
+if (n.isContract()){
+if (.isGetProp()){
+if (n.isGetProperty()){
+if (++n.isGetProp()){
+if ((n.isGetProp() && n.isMethod())){
+if (n.isGetProp() && n.isGetProp()){
+if (n.isGetProp() && n.isExternalProp()){
+if (n.isGetProp() || n.getFirstChild().getParent() == parent){
+if (n.isGetProp() &&!n.isProp()){
+if (n.isGetProp() || n.isGenericDOMData()){
+if (objectType!= null && n.isGetProp()){
+if (n.isGetProp() && n!= null){
+if (n.isGetProp() || type == null){
+if (n.getProp() == 0){
+if (n.isFindProp()){
+if (n.isGetProp(&property)){
+if (aType.isGetProp()){
+if (N.ISGetProp()){
+if (self.isGetProp()){
+if (n.isGetInstance()){
+if (propType.isGetProp()){
+if (n.isGetProp() && n.isDocument()){
+if (false == n.isGetProp()){
+if (n.isGetProp() || n.isGetObjectProp()){
+if (n.isLocalProp()){
+if (objectType.getProp()){
+if (n.getProp().get()){
+if (n.isGetProps()){
+if (n!= null){
+if (n.isPseudoProp()){
+if (n.isGETProp()){
+if (getJSProp(n)){
+if (n.getProp() == n.isGetProp()){
+if (isGetProp()){
+if (n.isGetImplementation()){
+if (n.isGetProp() && n.getChildCount() > 0){
+if (!n.isGetProp()){
+if (n.isGetProp() && n.isType()){
+if (n.isGetProp() || (!objectType.isLong)){
+if (n.isGetProp() &&!type.isFunctionPrototype()){
+if (n.isGetProp() || n.isName(&type)){
+if (n.IsEmpty()){
+if (n.getProp() == n){
+if (n.isGetProp() &&!type.isEmpty()){
+if ((n.isGetProp())!= 0){
+if (n.isGetProp() &&!n.getProp()){
+if (type.isGetProp()){
+if (a.isGetProp()){
+if (n.isGetProp() || (n.isFunctionPrototypeType() && type.isFunctionPrototypeType())){
+if (n.isGetProp() &&!(objectType.getConstructor() && objectType.getConstructor().isInterface())){
+if (n.isInstance()){
+if (n == null || n.isGetProp()){
+if (n.isNativeProp()){
+if (n.isGetProxy()){
+if (n.isIsProp()){
+if (n.getProp() == null){
+if (n.isGetProp() || n.isLocked()){
+if (n.getProp()!= n){
+if (!m.isGetProp()){
+if (n.isGetProp() &&!mObjectType.isGetClass()){
+if (n.isGetProp() || n.isExisting){
+if (n.isGetProp() && (n.isFunctionPrototype() && (n.isFirstChild()) && (n.isProp() && n.isFunctionPrototype()))){
+if (GetProp()){
+if (n.isGetProp() || (n.getFirstChild() == n)){
+if (n.isGetChildProp()){
+if (n.isGetProp() &&!n.isType()){
+if (n.isConstructor() && n.isGetProp()){
+if (n.isFunctionPrototype()){
+if (n.GetProp()){
+if (n.isProperty()){
+if (n.isGetProp() &&!n.isEmpty()){
+if (n.isGetProp() && n.isHistorySet()){
+if (n.is_getProp()){
+if (JSType.isGetProp()){
+if (n.isGetProp() && n.getParent()){
+if (n.isGetPrivateProp()){
+if (n.isGetProp() &&!n.isDestroy()){
+if (n.isGetProp() || n.isGetProp()){
+if (n.isGetProp() && (objectType.getConstructor()!= null && objectType.getConstructor().isInterface())){
+if (n.isGetProp() && n.isHidden()){
+if (ifac.isGetProp()){
+if (NS_SUCCEEDED(n.isGetProp())){
+if (n.isGetProp(n)){
+if (n.isGetProp() || n.isPropOfType(n)){
+if (n.isGetProp() || n.isHashConstructor()){
+if (true){
+if ( (n.isGetProp()) ){
+if (!(n.isGetProp())){
+if (n.isGetProp() && n.getNext()){
+if (getJSType(n).isGetProp()){
+if ( n.isGetProp() ){
+if (n.isGetProp() || n.isType()){
+if (n.getProp()!= null){
+if (n.isGetProp() &&!m){
+if (n.isGetProp() && type!= null){
+if (n.isGetProp() &&!objectType.isDependent()){
+if (n.isGetPtr()){
+if (n.isGetProp() &&!n.isLoaded()){
+if (&n.isGetProp()){
+if (n.isGetProp() || n.isFunctionPrototype()){
+if (n.getJSProp()){
+if (n.isGetType()){
+if (n.isGetProp() && (!isProp && n.isPtr())){
+<if (n.isGetProp()){
+if (n.isProp()){
+if (n.isGetContractID()){
+if (n.isGetProp() && n.getProp() == n.getName()){
+if (n.isGetProp() || n.isSynthetic()){
+if (n.isType() && n.isGetProp()){
+if (n.isGetProp() && n.isPseudoRef()){
+if (n.isGetProp() || n.isReturnProp()){
+&if (n.isGetProp()){
+if (n.isGetProp() || n.isExists()){
+if (n.isGetProp() || n.getFirstChild().isType()){
+if (n.isGetPrototype()){
+if (n.isGetProp() || n.getErrorCode() == EINVAL){
+if (n.isGetProp() || n.getBatching() == 0){
+if (!n.isProp()){
+if (n.isGetProp() || n.isHidden()){
+if (n.isGetProp() ||!n.isProp()){
+if ((n.isGetProp()) && (type.isPrototypeType() && n.isBindPrototype())){
+if ((n.isGetProp())){
+if ((n.isGetProp())!= null){
+if (n.isGetNodeProp()){
+if (!(n.isGetProp() && n.isSetProp())){
+if (n.isGetPropertyProp()){
+if (n.getProp() && n.isGetProp()){
+if (n.isGetProp() == 0){
+if (n.isGetPublicProp()){
+if (n.isGetProp() && n.isDependent()){
+if ((n.isGetProp()) && (n.isGetProp())){
+if (true == n.isGetProp()){
+if (getProp(n)){
+if (n.isGetProp() && n.hasProp()){
+if (n.isReadableProp()){
+if (n.isGetProp(&prop)){
+if (n.isGetCachedProp()){
+if (n.isGetProp() && n.getProp() == 0){
+if ((n.isGetProp()) || (n.isPositioned() == null)){
+if (n &&!n.isGetProp()){
+if (n.IsProp()){
+if (n.isGetProp() && n.getAttributeCount() > 0){
+if (n.isGetProp() || n.isDependent()){
+if (n && n.isGetProp()){
+if (n.isGetProp() && (!n.isOpen() || n.isEmpty())){
+if (n.isGetProp() &&!(n.getSyntax() &&!IsDependent())){
+if (::n.isGetProp()){
+if (n.isGetProp() ||!isType(propName)){
+if (getProp()){
+if ((n.isGetProp())){
+if (n.isGetProp() && n.isFunctionPrototype()){
+if (n.isInitialized()){
+if (n.isGetProp() && n.getChildCount() >= 0){
+if (n.isGetProp() || n.isPropertyType()){
+if (n.isGetProp(aProp)){
+else if (n.isGetProp()){
+if (n.isGetProp() ||!n.isNativeProp()){
+if (n!=n){
+if (NS_IS_GETPROP(n)){
+if (n.isGetProp() ||!n.getProp()){
+if (aProp){
+if (hasProp){
+if (n.isType()){
+if (n.isGetProp() || n.isRoot()){
+if (n.isGetProp() || n.isObject()){
+if (n.isGetProp() || n.isBinding()){
+if (n.isGetProp() || n.isProp()){
+if (n.isGetProp() || n.isContainer()){
+if (n.isGetProp() && type){

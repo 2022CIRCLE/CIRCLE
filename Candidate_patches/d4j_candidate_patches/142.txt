@@ -1,0 +1,841 @@
+golden:
+switch (node.getType()) {
+inference:
+switch (node){
+switch (node.type){
+switch (node.getType()){
+switch (nodeType){
+switch (node.type){
+switch (type){
+switch(node.getType()){
+switch (slotType){
+switch ((node.getType())){
+if (node.getType()){
+switch(node){
+switch (node.getType()){
+switch (node.Type()){
+switch (node.getNodeType()){
+switch (node.GetType()){
+switch(node.type){
+switch (node.type()){
+switch (aType){
+switch (node.Type){
+switch ( node.getType() ){
+switch (node.Type()){
+switch (node.Type){
+switch (nodeType.get()){
+switch (node.getType(), type){
+switch (node.isType()){
+switch (node.getTYPE()){
+switch (name){
+switch(type){
+switch (node.getName()){
+switch (node, type){
+switch (nodetype){
+switch ((node).type){
+switch (NodeType(node)){
+switch (&node.getType()){
+switch (Node.getType()){
+switch (Type){
+switch (node.type()){
+if (node){
+switch (node.nodeType){
+switch (node_type){
+switch (node.getType().type){
+switch (node.nodeType){
+switch (node.getNativeType()){
+switch (!node.getType()){
+switch (node.getClass()){
+switch (node.class){
+switch (node.name){
+switch (node.type.get()){
+switch (node.getType(type)){
+switch (node.getJSType()){
+switch (node.toString()){
+switch (node.getCategory()){
+switch (result){
+switch (origNode.getType()){
+switch (itemType){
+switch (pType){
+switch (node);{
+switch (node.getSlotType()){
+switch (class){
+if (node.type){
+switch (node == null){
+switch (classType){
+switch (style){
+switch (definedName){
+switch (node.TYPE){
+switch (node[type]){
+switch (nodeName){
+switch (node.getType ()){
+switch (node.GetType()){
+switch (node).getType(){
+switch (node.getType() + 1){
+switch (node!= null){
+switch (node.class){
+switch (orgType){
+switch (node.aType){
+switch (node.mType){
+switch (nodePtr){
+switch (eType){
+switch (mType){
+switch (NodeType){
+switch (origin.getType()){
+switch ( node.getType( ) ){
+switch (origType){
+switch (treeType){
+switch (nodeType == JSType){
+switch (node.eType){
+switch (conn.type){
+switch (nodeClass.getType()){
+switch (--node.getType()){
+switch ((node.type)){
+switch (cType){
+switch (node.getType(*)){
+switch (node.getTagType()){
+switch (typ){
+switch (ulType){
+switch (node.getValue()){
+switch (node.attributes){
+switch (mNodeType){
+switch ( node.type ){
+switch (instType){
+switch ((node.type)){
+switch (slot.getType()){
+switch (node.getType()),{
+switch (cfgType){
+switch (node.nativeType){
+switch (nodeName.getType()){
+switch (value){
+switch (newType){
+switch (TYPE){
+switch (node.hasType()){
+switch (node.IsType()){
+switch (elementType){
+switch (sortType){
+switch ( type ){
+switch (token.getType()){
+switch (node::type){
+switch (node.id){
+switch (node.nativeType){
+switch (nodeType == null){
+switch (nodeList.getType()){
+switch (objectType){
+switch (NODE.getType()){
+switch (node.getString()){
+switch (*node){
+switch (node.Type().get()){
+switch (node instanceof Node){
+if (node.type()){
+switch (declaredNode.getType()){
+switch (node.getPropType()){
+switch (node.getType(void)){
+switch (node && type){
+switch (originType){
+switch (null){
+switch ( nodeType ){
+switch (null){
+switch (mNode.getType()){
+switch (node.getType()) :{
+switch (node[0].type){
+switch (node.getType());{
+switch (nodeClass){
+switch (node.NodeType()){
+if(node.getType()){
+switch (jtype){
+switch(node.type){
+switch (inType){
+switch (node.t_type){
+switch (nodeList.type){
+switch (flags){
+switch (node.isType()){
+switch (void) node.getType(){
+switch (this.type){
+switch (v){
+switch (node.getType() + type){
+switch (lnk){
+switch (node.getInstance()){
+switch (node.getObject()){
+switch (tType){
+switch (atomType){
+switch (style.getType()){
+switch (node ){
+switch (queryType){
+switch (&node.type){
+switch ( node.getType()){
+switch (name.getType()){
+switch (origNode.type){
+switch (slotType.get()){
+switch (nameType){
+switch (node.getObjectType()){
+switch (rv){
+switch (nodeId.getType()){
+switch (object){
+switch (node.getType()).get(){
+switch (NativeType(node)){
+switch ((node.type())){
+switch (ltype){
+switch (domType){
+switch (type.get()){
+switch (node.getContentType()){
+switch (clone){
+switch (id){
+switch (list){
+switch (fieldType){
+switch (self.type){
+switch (node.getSubType()){
+switch (*type){
+else if (node.getType()){
+switch (node.attributes.type){
+switch ( (node.getType())){
+switch (node.getType())  case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; JSType{
+switch (node.getType())  if (style.type!= JSType)  if (node.getType() == JSType)  preconditions.checkNotNull(style.type); break;{
+switch (node.getType())  case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_VALUE: case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_XUL: case Token.NO_NUMBER: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_YUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.{
+switch (node.getType())  JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, origType); break;{
+switch (node.getType())   else if (type && type == EIF_UNKNOWN)  JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() && node.getQualifiedName()){
+switch (node.getType())  /* * XXX */{
+switch (node.getType())  if (node.isDetached())  break;{
+switch (node.getType())  case Token.TOKEN_KEY: scope.inferSlotType(node.getString(), type); break; case Token.TOKEN_KEY: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() &&!definedName){
+switch (node.getType() && type){
+switch (node.getType()!= JSType.NAME){
+switch (node.getType())  case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  if (node.type == JSType.C_CALL)  JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName)  JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName)  JSType s = nameForName; if (s)  JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;   else  JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType())  if (node.getType() == null)  JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;  else  JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() && node.getType()){
+switch (node.getType())  if (node.type()!= Type)  return;{
+switch (node.getType())  if (!inferQualifiedName(node, type)){
+switch (node.getType())  case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType;{
+switch (node.getType())  if (node.getType() == DOM_CONTENT_TYPE)  preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  /* XXX */{
+switch (node.getType()!= nsNode::TYPE_NONE){
+switch (node.getType())  case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.{
+switch (node.getType())  case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;  break;{
+switch (node.getType())  /* * We have to get a value. */{
+switch (node.getType())  case Token.NOTYE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  if (!mInstantiated)  return;{
+switch (node.getType())  if (strcmp(&valid_node.id, "text"))  nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val)  JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;  else  JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  /* We should use the type */{
+switch (node.getType())  if (!origType) return;{
+switch (node.getType() && node.getAttributeCount() > 0){
+switch (node.getType())  if (!aType)  return;{
+switch (node.getType())  if (node.type == JSType)  scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType())  if (node.getType() == JSType){
+switch (node.getType()!= null){
+switch (node.getType())  /* Don't use JSType() in the same namespace. */{
+switch (node.getType())  /* * This is not valid on XXX. */{
+switch (node.getType() &&! JS_TOKEN){
+switch (node.getType())  case Token.IsFunction:{
+switch (node.getType() && node.getString()){
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getCategory()){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()!= JSType.NAME){
+switch (slot.getType()){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &/* * This is not valid on XXX. */{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (NODE.getType()){
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (nodeId.getType()){
+switch (orgType){
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.isDetached()) <break;{
+switch (node.getType()) &if (node.type == JSType) &scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (nodeName.getType()){
+switch (node.getType(*)){
+switch (node.id){
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType ()){
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.nodeType){
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node && type){
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (!aType) &return;{
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_VALUE: case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_XUL: case Token.NO_NUMBER: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_YUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.{
+if (node.getType()){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &break;{
+switch (mNodeType){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <&else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (!mInstantiated) return;{
+switch (node.getType()) else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (origin.getType()){
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.type.get()){
+switch (node.getType()!= nsNode::TYPE_NONE){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.mType){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.Type()){
+switch (node.getType()) case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &break;{
+switch (node!= null){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node){
+switch (node.getType()) <if (style.type!= JSType) if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.isDetached()) break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == DOM_CONTENT_TYPE) preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == DOM_CONTENT_TYPE) &preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type()!= Type) return;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch(node){
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; JSType{
+switch (node.getType()) JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, origType); break;{
+switch (node.getType()) <if (style.type!= JSType) <if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getName()){
+switch (node[0].type){
+switch (tType){
+switch (void) node.getType(){
+switch (node.getType()) &if (style.type!= JSType) if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == DOM_CONTENT_TYPE) &preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (style.type!= JSType) if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.getType() == JSType){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (style.type!= JSType) &if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) /* Don't use JSType() in the same namespace. */{
+switch (type){
+switch (node.getType()) <case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (nameType){
+switch (mType){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.Type().get()){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (!inferQualifiedName(node, type)){
+switch (node.getType() + 1){
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getJSType()){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (TYPE){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (style.type!= JSType) &if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (style.type!= JSType) if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <case Token.IsFunction:{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (classType){
+switch (NodeType(node)){
+switch (node.getType()) <case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (style.type!= JSType) <if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (inType){
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (style.type!= JSType) if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (ltype){
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node::type){
+switch (list){
+switch (node.getType()) if (node.type == JSType) scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &<else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+if (node){
+switch (node.getType() && node.getAttributeCount() > 0){
+switch (node.getType()) if (style.type!= JSType) <if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch ( (node.getType())){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node[type]){
+switch (node instanceof Node){
+switch (NativeType(node)){
+switch (node.getType()) <&else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (!origType) return;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (id){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (pType){
+switch (node.getType()){
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.type){
+switch (node.getType()) &/* We should use the type */{
+switch (origType){
+switch (node.getType()) <if (node.type == JSType) &scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType().type){
+else if (node.getType()){
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (!aType) &return;{
+switch(node.getType()){
+switch (node.getType()) &case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <break;{
+switch (Type){
+switch (node.class){
+switch (*type){
+switch (node.getType()) else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (Node.getType()){
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+if (node.type()){
+switch (node.getType()) case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (!aType) &return;{
+switch (node.getType()) &/* * We have to get a value. */{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.Type){
+switch (&node.getType()){
+switch ( type ){
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+<switch (node.getType()){
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; break;{
+switch (node.getType()) &if (!mInstantiated) <return;{
+switch (instType){
+switch (node.getString()){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (!mInstantiated) return;{
+switch (node.class){
+switch (definedName){
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getNodeType()){
+switch (node.getType()) &else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.isDetached()) break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch(node.type){
+switch (node.getType()) &case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.isType()){
+switch (nodeName){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (v){
+switch (node.getType()) &if (node.getType() == DOM_CONTENT_TYPE) &preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type()!= Type) &return;{
+switch (nodeList.getType()){
+switch (node.getType()) &if (style.type!= JSType) <if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (clone){
+switch (declaredNode.getType()){
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (nodetype){
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.TOKEN_KEY: scope.inferSlotType(node.getString(), type); break; case Token.TOKEN_KEY: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.toString()){
+switch (node.getType()) if (!aType) <return;{
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (style.type!= JSType) if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) case Token.IsFunction:{
+switch(node.type){
+switch (queryType){
+switch (node.getType()) &/* * XXX */{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (!inferQualifiedName(node, type)){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; JSType{
+switch (node.getType()) if (!origType) return;{
+switch (node.getType()!= null){
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (*node){
+switch (node.getType()) <if (node.isDetached()) <break;{
+switch (node.getType()) if (!mInstantiated) <return;{
+switch ((node.type)){
+switch (node.getType()) &if (node.getType() == DOM_CONTENT_TYPE) preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType(), type){
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (!mInstantiated) <return;{
+switch (nodeType == null){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.type()){
+switch (node.getType()) if (node.type()!= Type) &return;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) </* XXX */{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (origNode.getType()){
+switch (node.getType()) &case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; break;{
+switch (node.eType){
+switch (node.hasType()){
+switch (node.getType()) if (node.getType() == DOM_CONTENT_TYPE) <preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch ((node.type())){
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) /* * XXX */{
+switch (node ){
+switch (node.getType()) &if (node.type == JSType) <scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &/* XXX */{
+switch (eType){
+if(node.getType()){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (nodeType == JSType){
+switch (sortType){
+switch (rv){
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.type()!= Type) return;{
+switch (node.NodeType()){
+switch (node.getType()) &case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.{
+switch (node.getType()) case Token.NOTYE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (flags){
+switch (node.getType() &&! JS_TOKEN){
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_VALUE: case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_XUL: case Token.NO_NUMBER: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_YUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.{
+switch (node.getType()) &if (node.type()!= Type) <return;{
+switch (node.getType() &&!definedName){
+switch (node.GetType()){
+switch (token.getType()){
+switch ( nodeType ){
+switch (node.getType()){
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() && node.getQualifiedName()){
+switch (nodeClass.getType()){
+switch (node_type){
+switch (node.getSubType()){
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType(type)){
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (style){
+switch (node.getType()) if (node.getType() == JSType){
+switch (node.getType()) if (node.type()!= Type) <return;{
+switch (node.getType()) <if (node.getType() == DOM_CONTENT_TYPE) <preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) case Token.TOKEN_KEY: scope.inferSlotType(node.getString(), type); break; case Token.TOKEN_KEY: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) </* * We have to get a value. */{
+switch (node.attributes){
+switch (node.getType()) case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (!node.getType()){
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == DOM_CONTENT_TYPE) preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.aType){
+switch (node.type){
+switch(type){
+switch (typ){
+switch (node.getType()) <case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &<else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (style.type!= JSType) &if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_VALUE: case Token.NO_CLASS: scope.inferSlotType(node.getString(), type); break; case Token.NO_XUL: case Token.NO_NUMBER: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_YUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.NO_XUL: case Token.{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (treeType){
+switch ( node.type ){
+switch (node.getType(void)){
+switch (node.getType()) &if (style.type!= JSType) if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.t_type){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getContentType()){
+switch (node.getType()) &if (style.type!= JSType) &if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &&else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <<else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch ( node.getType( ) ){
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (result){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (style.type!= JSType) &if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType) scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() && node.getString()){
+switch (name.getType()){
+switch (node.getType()) &if (!mInstantiated) return;{
+switch (node.getType()) <<else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.isDetached()) &break;{
+switch (node.getType() && node.getType()){
+switch (node.TYPE){
+switch (node.getType()) &if (style.type!= JSType) <if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.Type){
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, origType); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (value){
+switch (node.getType()) case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; JSType{
+switch (node.getType()) <if (style.type!= JSType) <if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) <<else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (style.type!= JSType) if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (style.type!= JSType) &if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.type()!= Type) &return;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (fieldType){
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getPropType()){
+switch (node.getType()) &if (node.getType() == DOM_CONTENT_TYPE) <preconditions.checkNotNull(qualifiedName); JSType origType = node.getType(); origType = origType == DOM_CONTENT_TYPE; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (!aType) <return;{
+switch (origNode.type){
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) </* Don't use JSType() in the same namespace. */{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (!aType) return;{
+switch (node.getType()) if (style.type!= JSType) <if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (slotType.get()){
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getNativeType()){
+switch (node.name){
+switch (self.type){
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (style.type!= JSType) if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch ( node.getType()){
+switch (node.getType()) &/* Don't use JSType() in the same namespace. */{
+switch (node.getType()) &if (node.isDetached()) &break;{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (mNode.getType()){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (style.type!= JSType) &if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) &if (!mInstantiated) &return;{
+switch (node.getSlotType()){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch ((node).type){
+switch (node.getType()) &if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (null){
+switch (lnk){
+switch (nodeList.type){
+switch (cfgType){
+switch (node.getType()) &case Token.TOKEN_KEY: scope.inferSlotType(node.getString(), type); break; case Token.TOKEN_KEY: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (itemType){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.Type()){
+switch (name){
+switch (node.getType()) </* * XXX */{
+switch (node.getType()) if (style.type!= JSType) &if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getTYPE()){
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (node.getType() == JSType){
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (NodeType){
+switch (node.IsType()){
+switch (&node.type){
+switch (originType){
+switch (node.getObjectType()){
+switch (node.getType()) &if (node.isDetached()) <break;{
+switch (node.getType()) </* * This is not valid on XXX. */{
+switch (node.getType()) <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, origType); break;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (!aType) return;{
+switch (node.attributes.type){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.type == JSType) &scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() + type){
+switch (node.getType()) if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()){
+switch (node == null){
+switch (cType){
+&switch (node.getType()){
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &case Token.IsFunction:{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType() && type){
+switch (style.getType()){
+switch (node.getType()) /* * We have to get a value. */{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type()!= Type) <return;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node, type){
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <case Token.NOTYE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.isDetached()) break;{
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) <if (!mInstantiated) &return;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.type()){
+switch (node.getType()) <if (node.type == JSType) scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (conn.type){
+switch (node.nativeType){
+switch (node.getType()) &else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.GetType()){
+switch (node.getType()) <&else if (type && type == EIF_UNKNOWN) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (nodePtr){
+switch (node.getType()) &<else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (!aType) <return;{
+switch ((node.getType())){
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.isDetached()) &break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getInstance()){
+switch (node.getType()) if (!mInstantiated) &return;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type()!= Type) return;{
+switch (node.getClass()){
+switch ((node.type)){
+switch (node.getType()) if (style.type!= JSType) <if (node.getType() == JSType) &preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (node.type == JSType) <scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) </* We should use the type */{
+switch (nodeType.get()){
+switch (null){
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (style.type!= JSType) &if (node.getType() == JSType) <preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getValue()){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) /* * This is not valid on XXX. */{
+switch ( node.getType() ){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (elementType){
+switch (node.getType()) /* XXX */{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (aType){
+switch (node.getType()) <if (node.type == JSType.C_CALL) <JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) &JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+if (node.type){
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (ulType){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (--node.getType()){
+switch (class){
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (!aType) return;{
+switch (node.getTagType()){
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (objectType){
+switch (object){
+switch (node.getType()) <if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (!inferQualifiedName(node, type)){
+switch (node.getType()),{
+switch (node.getType()) &case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &case Token.NOTYE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (newType){
+switch (node.getType()) <if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (nodeType){
+switch (node.getObject()){
+switch (atomType){
+switch (node.nativeType){
+switch (node.getType()) &&else if (type && type == EIF_UNKNOWN) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (style.type!= JSType) <if (node.getType() == JSType) preconditions.checkNotNull(style.type); break;{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; <else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (jtype){
+switch (node.getType()) <if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) <JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) <JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) <nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node).getType(){
+switch (domType){
+switch (type.get()){
+switch (node.getType()) &&else if (type && type == EIF_UNKNOWN) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <case Token.NAME: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) <JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else <JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (this.type){
+switch (node.getType()) <if (!origType) return;{
+switch (node.getType()) <if (node.type == JSType) <scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) <if (strcmp(&valid_node.id, "text")) &nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) &JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &case Token.TYPE: scope.inferSlotType(node.getString(), type); break; case Token.GETPROP: String qualifiedName = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName); JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &break;{
+switch (node.getType()) &if (strcmp(&valid_node.id, "text")) nsAutoString val; void *valid = NS_STATIC_CAST(void*, node.id, val); if (!val) <JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; &else JSType origType = node.getJavaType(); JSType origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) /* We should use the type */{
+switch (slotType){
+switch (node.getType()) if (node.type == JSType.C_CALL) &JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) &JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.nodeType){
+switch (nodeClass){
+switch (node.isType()){
+switch (node.getType()) if (node.getType() == null) &JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) if (node.getType() == null) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else &JSType origType = node.getType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break;{
+switch (node.getType()) &if (node.type == JSType.C_CALL) JSType nameForName = (JSType.C_CALL) nsCRT::strdup(node.getName()); if (nameForName) JSType rv = node.getFullName(); if (NS_SUCCEEDED(rv) && nameForName) JSType s = nameForName; if (s) JSType origType = node.getJSType(); origType = origType == null? getNativeType(UNKNOWN_TYPE) : origType; scope.inferQualifiedSlot(node, qualifiedName, origType, type); break; else JSType origType = node.getType(); JSType origType = origType == null? getNativeType(UNKNOWN_{
+switch (node.getType()).get(){

@@ -1,0 +1,888 @@
+golden:
+if ((long) x == x) {
+inference:
+if (x == x){
+if ((long)x == x){
+if ((int) x == x){
+if ((long) x == x){
+if ((int)x == x){
+if (x == 0){
+if ((intptr_t) x == x){
+if ((intptr_t)x == x){
+if (x == '0'){
+if ((long)(long)x == x){
+if ((long) x == (int)x){
+if (X == x){
+if ((long) x == (long)x){
+if ((long) x == (long) x){
+if (x == -1){
+if ((long)x == (long)x){
+if ((short) x == x){
+if ((double) x == x){
+if (x == X){
+if (x  0 && prev == '-'){
+if ((long)(int)x == x){
+if ((ulong) x == x){
+if ((long) x == (int) x){
+if ((long)x == (int)x){
+if ((unsigned long) x == x){
+else if ((long) x == x){
+if ((u_long) x == x){
+if ((long) x == '0'){
+if (x == '-'){
+if ((size_t) x == x){
+if ((long) x == 0){
+if (x  0 && x == x){
+if((long)x == x){
+if ((intptr) x == x){
+if ((double)x == x){
+if ((long) x == value){
+if (*x == x){
+if (x == null){
+if ((length) x == x){
+if ((Long) x == x){
+if ((int32) x == x){
+if ((long)(x == x)){
+if ((long) x >= x){
+if ((int32_t) x == x){
+if (x >= x){
+if ((long) (long) x == x){
+if ((long)X == x){
+if ((long)(long) x == x){
+if ((unsigned char) x == x){
+if (x >= 0){
+if (x == (int)x){
+if ((ulong)x == x){
+if ((long) (int)x == x){
+if ((long) x = x){
+if ((size_t)x == x){
+if((long) x == x){
+if ((len) x == x){
+if ((long) x == X){
+if (x == (long) x){
+if (lx == x){
+if ((long)(int) x == x){
+if ((long)x >= x){
+if ((int32_t)x == x){
+if ((int)x == int){
+if ( (long) x == x){
+if (!(long) x == x){
+if (value == x){
+if ((long)((long)x == x)){
+if ((long) (long)x == x){
+if ((long) x == (u_long)x){
+if ((long)x  x){
+if ((long) (int) x == x){
+if ((int)(x == x)){
+if ((short)x == x){
+if ((long)x == 0){
+if ((long)x = x){
+if ((long) x == (u_long) x){
+if (x == (long)x){
+if (x ==''){
+if ((long)(u_long)x == x){
+if ((unsigned long)x == x){
+if ((long)&x == x){
+if ((long)lx == x){
+if (len == x){
+if (((intptr_t)x == x){
+if ((long) (x == x)){
+if ((long)*x == x){
+if (x >= 0 && x == x){
+else if (x == x){
+if ((long) x == n){
+if ((int) x == int){
+if ((long)x == value){
+if ((long)value == x){
+if ((long)((int)x == x)){
+else if ((long)x == x){
+if (x == value){
+if (((int)x == x){
+if ((int64_t) x == x){
+if (!x){
+if (x = 0 && x == x){
+if ((long) x  0){
+if ((long)((long)x) == x){
+if ((long)s == x){
+if (x == n){
+if ((float) x == x){
+if ((long) value == x){
+if (((int) x == x){
+if ((u_long)x == x){
+if(x == x){
+if ((char) x == x){
+if ((long)(unsigned long)x == x){
+if ((long) x == y){
+if ((long) ((long) x == x)){
+if (X == X){
+
+{if (x  0 || x == x){
+if ((long) x!= x){
+if ((Long)x == x){
+if ((intptr)x == x){
+if ((x == x)){
+if (x > 0 && x == x){
+if ((intmax) x == x){
+if ((long)x == '0'){
+if (x == '.'){
+if ((uintptr_t)x == x){
+if ((long)x == X){
+if ((intPtr) x == x){
+if ((uintptr_t) x == x){
+if (x = x){
+if ((long)n == x){
+if ((int) (x == x)){
+if (x > 0){
+if ((long)p == x){
+if ((long) == x){
+if ((off_t) x == x){
+if (n == x){
+if ((int32)x == x){
+if ((long)m == x){
+if ((int64_t)x == x){
+if ((long) x == &x){
+if ((long) x >= 0){
+if ((long)x == (u_long)x){
+if ((unsigned int) x == x){
+if ((long) x == (double)x){
+if (*(long)x == x){
+if ((long)(double)x == x){
+if (x == 0 && (long)x == x){
+if (((intptr_t) x == x){
+if (!(x == x)){
+if (x  0){
+if (x){
+if ((long)y == x){
+if ((long)val == x){
+if (x = 0){
+if ((long)x!= x){
+if (x >= 0 && (long)x == x){
+if ((unsigned char)x == x){
+if ((long)t == x){
+if ((long) x  x){
+if ((long) x == sizeof(x)){
+if (x >= 0 && (x == x)){
+if ((long) x){
+if (length == x){
+if ((long) x == l){
+while ((long) x == x){
+if (tmp == x){
+if ((long) x == x - 1){
+if ((intptr_t)(x == x)){
+if (x == x)  add(" ");{
+if ((long)x  0){
+if ((long) x == (unsigned long) x){
+if (prev == '-'){
+if ((long) x == (unsigned char) x){
+if ((long) x = 0){
+if ((long) x == (char *)x){
+if ((long) x == (unsigned long)x){
+if (x  0 && (long)x == x){
+if ((long) x == (u_int)x){
+if ((long) x == (int)(x)){
+if (x == 0 || x == 0){
+if ((long)x == x)  add(" ");{
+if (x == 0)  add(" ");{
+if (x = 0 && (x == x)){
+if (((int)x == x)  0){
+if ((long) x == (unsigned char)x){
+if ((long) x == x &&!prev){
+long value = (long) x; long mantissa = value;{
+if ((long) x == x)  add(" ");{
+if ((long)x == x)  value = (long)x;{
+if (x == 0 && x == 0){
+if ((x == x) && x  0){
+if (x == 0 && (long)x == 0){
+if ((long) x == x &&!x){
+if ((intptr_t)(x == x){
+if (x  0 && prev == '-')  add(" ");  else if (x  0 && (long)x == x){
+if ((long) x == x && ((long)x) == x){
+if (x == '0' && x == '0'){
+if ((long)(x == x) && (x  0) && (prev == '-'))  add(" ");{
+if (x  0 && prev == '-')  add(" ");  if ((long) x == x){
+if (x  0 && prev == '-')  add(" ");  else  add(" ");  if ((long) x == x){
+if (x == '0' && (long) x == '0'){
+if ((long) x == x && ((long) x == x)){
+if (x  0 && prev == '-')  add(" ");  else if (x == x){
+if (x  0 && prev == '-')  add(" ");  if (x == x){
+if ((long) x == x && x >= x){
+if (x  0 && prev == '-')  add(" ");  else{
+if ((long)(unsigned char)x == x){
+if (x  0 && prev == '-')  add(" ");  else if ((long) x == x){
+if (x == 0 && (x = 0 && prev == '-')){
+if ((long) x == x &&!x.length){
+if (x  0 && x  0 && prev == '-'){
+if (x  0 && prev == '-')  add(" ");  if (x  0 && prev == '-')  add(" ");  if ((long) x == x){
+if ((long) x == x &&!(((intptr_t)x)){
+if (x &0 && prev == '-') &add(" "); &else if (x <0 && (long)x == x){
+if (x ==''){
+if (x &= 0){
+else if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if ((intptr) x == x){
+if (x &0 && prev == '-') <add(" "); <else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long)x == '<0'){
+if (x 0 && prev == '-') &add(" "); else if (x 0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); &else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); &else <add(" "); if ((long) x == x){
+if (x <0 && prev == '-') add(" "); &else &add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); &else{
+if ((x == x) && x 0){
+if (x &0 && prev == '-') <add(" "); &else if (x 0 && (long)x == x){
+if (x &0 && prev == '-') add(" "); else if (x 0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &= 0 && x == x){
+if (x <0 && prev == '-') <add(" "); <else if ((long) x == x){
+if (x <0 && prev == '-') add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == l){
+if (x 0 && prev == '-') add(" "); <else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); <else if (x == x){
+if (x >= 0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); <else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x == x) add(" ");{
+if (x &0 && prev == '-') &add(" "); else &add(" "); if ((long) x == x){
+if (x <0 && x 0 && prev == '-'){
+if (x 0 && prev == '-') &add(" "); else if (x == x){
+if (x &0 && prev == '-') add(" "); else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); else &add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); else add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); <if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); <else{
+if (x 0 && prev == '-') &add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <else if (x &0 && (long)x == x){
+if ((long)val == x){
+if ((long)x &= x){
+if ((long)x == '0'){
+if (x &0 && prev == '-') &add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-'){
+if ((long) (x == x)){
+if (x <0 && prev == '-') &add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+<if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); else if ((long) x == x){
+if (((int)x == x){
+if (x &0 && prev == '-') add(" "); &else if (x 0 && (long)x == x){
+if ( (long) x == x){
+if (x <0 && prev == '-') &add(" "); <else{
+if (x &0 && prev == '-') <add(" "); <else if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); else{
+if (x <0 && prev == '-') &add(" "); &else add(" "); if ((long) x == x){
+&if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); <else{
+if ((intptr_t)x == x){
+if (x <0 && prev == '-') <add(" "); <else if (x <0 && (long)x == x){
+if (x >= 0){
+if (x 0 && prev == '-') add(" "); &else add(" "); if ((long) x == x){
+if ((long) x == (int) x){
+if (x <0 && prev == '-') <add(" "); else add(" "); if ((long) x == x){
+if((long) x == x){
+if (x 0 && prev == '-') <add(" "); &else <add(" "); if ((long) x == x){
+if ((long)((int)x == x)){
+if (x &0 && prev == '-') <add(" "); &else &add(" "); if ((long) x == x){
+if ((intptr_t)(x == x){
+if ((u_long)x == x){
+if (x <0 && prev == '-') add(" "); <else if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == x) add(" ");{
+if ((long)x x){
+if (x 0 && x <0 && prev == '-'){
+if (x &0 && prev == '-') add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); <if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); else{
+if (x <0 && prev == '-') add(" "); <else{
+if ((u_long) x == x){
+if (x &0 && prev == '-') add(" "); else if ((long) x == x){
+if ((long) (long) x == x){
+if (x 0 && prev == '-') <add(" "); <else <add(" "); if ((long) x == x){
+if ((long) (long)x == x){
+if (x &0 && prev == '-') add(" "); &else &add(" "); if ((long) x == x){
+if (x <= 0){
+if ((off_t) x == x){
+if (x 0 && prev == '-') add(" "); else &add(" "); if ((long) x == x){
+if ((long) x == n){
+if (x <0 && prev == '-') add(" "); <else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); &else if ((long) x == x){
+if (x == 0){
+if (x <0 && prev == '-') add(" "); &else if (x <0 && (long)x == x){
+if (x = x){
+if (x &0 && prev == '-') &add(" "); &else &add(" "); if ((long) x == x){
+if ((long) x == (u_long) x){
+if (x 0 && prev == '-') add(" "); else add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == y){
+if ((long) x == (unsigned char) x){
+if (x 0 && prev == '-') <add(" "); else if (x <0 && (long)x == x){
+if ((long)n == x){
+if ((long)x == (long)x){
+if ((float) x == x){
+if (x &0 && prev == '-'){
+if (x &0 && prev == '-') &add(" "); <if ((long) x == x){
+if (x &0 && prev == '-') add(" "); &if ((long) x == x){
+if ((long) x == x) <add(" ");{
+if (x <0 && prev == '-') <add(" "); &else <add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); else if (x == x){
+if (x &0 && prev == '-') add(" "); <else &add(" "); if ((long) x == x){
+if ((intptr_t)(x == x)){
+if (x >= 0 && (x == x)){
+if ((long)(x == x) && (x &0) && (prev == '-')) &add(" ");{
+if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); else <add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else{
+if (x == (long) x){
+if (x 0 && prev == '-') &add(" "); else &add(" "); if ((long) x == x){
+if ((long) x <0){
+if ((long)s == x){
+if (x &0 && prev == '-') &add(" "); else add(" "); if ((long) x == x){
+if ((long) x == x &&!x){
+if ((unsigned long) x == x){
+if (x == n){
+if ((long) x == (u_long)x){
+if ((long)x == x) &value = (long)x;{
+if (x == '&0' && (long) x == '<0'){
+if (x 0 && prev == '-') &add(" "); <else if (x == x){
+if (x &0 && prev == '-') <add(" "); &else if (x == x){
+if ((long)(int)x == x){
+if (x == 0) &add(" ");{
+if ((long) x &0){
+if (x == '.'){
+if ((long)(x == x) && (x <0) && (prev == '-')) &add(" ");{
+if (x == value){
+if ((long) x == (int)x){
+if ((long)x 0){
+if (x <0 && prev == '-') <add(" "); else if (x &0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); else if (x &0 && (long)x == x){
+if ((long) ((long) x == x)){
+if (x &0 && prev == '-') add(" "); &else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); &if (x == x){
+if ((int32_t) x == x){
+if (x <0 && prev == '-') &add(" "); &else if (x 0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); &if (x == x){
+if (x <0 && prev == '-') add(" "); <else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); &else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); else add(" "); if ((long) x == x){
+if ((int)x == int){
+if (x 0 && prev == '-') add(" "); else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); &else if (x <0 && (long)x == x){
+if (x <0 && prev == '-') <add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x >= x){
+if (x &0 && prev == '-') &add(" "); <else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); <else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); &if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long)x == '&0'){
+if (x &0 && prev == '-') <add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); <else &add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); <else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); &else add(" "); if ((long) x == x){
+if (x &0 && prev == '-'){
+if (*(long)x == x){
+if (x &0 && prev == '-') add(" "); <else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); <else if (x 0 && (long)x == x){
+if (x == '&0' && x == '0'){
+if (x &0 && prev == '-') <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &else if ((long) x == x){
+if (x &= x){
+if ((long)x == (u_long)x){
+if (x <0 && prev == '-') <add(" "); else if ((long) x == x){
+if (x == 0 && (x &= 0 && prev == '-')){
+if ((long)x == (int)x){
+if ((long) x == '0'){
+if (x 0 && prev == '-') <add(" "); <else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if ((x == x) && x &0){
+if (x 0 && prev == '-') &add(" "); &if ((long) x == x){
+if (x <0 && prev == '-') add(" "); else &add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); <if (x == x){
+if ((long)x == x) &add(" ");{
+if (x <0 && prev == '-') &add(" "); <else &add(" "); if ((long) x == x){
+if ((int) x == int){
+if (x <0 && prev == '-') &add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') <add(" "); if ((long) x == x){
+if (x 0 && x &0 && prev == '-'){
+if (x <0 && prev == '-') <add(" "); else if (x 0 && (long)x == x){
+if (x <0 && prev == '-'){
+if (((int)x == x) 0){
+if (x 0 && prev == '-') add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((intmax) x == x){
+if (x 0){
+if (x 0 && prev == '-') <add(" "); <else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((int)(x == x)){
+if (x == 0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); <else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') &add(" "); &else &add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); &else{
+if ((long) x == (int)(x)){
+if (x 0 && prev == '-') <add(" "); &else{
+if ((long)t == x){
+if ((long)x &0){
+if (x 0 && prev == '-') &add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((char) x == x){
+if ((long)&x == x){
+if (x &0 && prev == '-') add(" "); <else if ((long) x == x){
+if ((long) x == (u_int)x){
+if (x <0 && prev == '-') &add(" "); <if ((long) x == x){
+if (x 0 && x 0 && prev == '-'){
+if (x <0 && prev == '-') add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == (char *)x){
+if ((long) x == x && x >= x){
+if (x 0 && prev == '-') <add(" "); if (x == x){
+if (x <0 || x == x){
+if (x == '<0' && (long) x == '0'){
+if (lx == x){
+if (x == '<0'){
+if ((unsigned int) x == x){
+if (x 0 && prev == '-') <add(" "); &else if ((long) x == x){
+if ((long)x &x){
+if (x 0 && prev == '-') add(" "); <else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (X == X){
+if (x &0 && prev == '-') &add(" "); <else &add(" "); if ((long) x == x){
+if (x == 0) add(" ");{
+if (x 0 && x == x){
+if (x == 0 && x == 0){
+if ((long)x == value){
+if (x <0 && prev == '-') add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == X){
+if (x &0){
+if (x &0 && prev == '-') add(" "); else &add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &if (x == x){
+if ((long) x == (unsigned long)x){
+if (x &0 && prev == '-') add(" "); &else if (x == x){
+if (x == x){
+if (x &0 && prev == '-') &add(" "); <else if (x <0 && (long)x == x){
+if (x &0 && x 0 && prev == '-'){
+if ((long)((long)x) == x){
+if (x 0 && prev == '-') add(" "); if (x == x){
+if (x == '<0' && x == '&0'){
+if (x <0 && prev == '-') add(" "); else if (x == x){
+if (x &0 && prev == '-') add(" "); &else if ((long) x == x){
+if (x <0 && prev == '-') add(" "); <if (x == x){
+if (x 0 && prev == '-') <add(" "); &else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); &if ((long) x == x){
+if (x <0 && prev == '-') add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <= 0 && (x == x)){
+if (x 0 && prev == '-') add(" "); else{
+if (*x == x){
+if ((long) x 0){
+if (x == '&0' && x == '&0'){
+if (x 0 && prev == '-') add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); if (x == x){
+if (length == x){
+if (x 0 && prev == '-') <add(" "); else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); <if (x == x){
+if (x == 0 && (x = 0 && prev == '-')){
+if ((uintptr_t) x == x){
+if (x 0 && prev == '-') add(" "); <if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); <else &add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <if (x == x){
+if (x <0 && prev == '-') <add(" "); &else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') add(" "); else if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); else &add(" "); if ((long) x == x){
+if ((long)m == x){
+if ((long)x = x){
+if ((int32) x == x){
+if (x 0 && prev == '-') add(" "); &else if (x == x){
+if ((intptr_t) x == x){
+if (x <0 && prev == '-') <add(" "); else if (x <0 && (long)x == x){
+if ((long)x == x){
+if ((short)x == x){
+if (x &0 && prev == '-') add(" "); &else add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); else if ((long) x == x){
+if (len == x){
+if (x &0 && prev == '-') add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else if (x &0 && (long)x == x){
+if (x >= x){
+if ((long) x &= x){
+if (x 0 && prev == '-') add(" "); <else add(" "); if ((long) x == x){
+if (x <0 && prev == '-') add(" "); if (x == x){
+if ((long)x == x) value = (long)x;{
+if (x &0 && prev == '-') <add(" "); <else if (x == x){
+if (x 0 && prev == '-') add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x == x) <add(" ");{
+if (x &0 && prev == '-') add(" "); &else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); &if (x == x){
+if (x 0 && prev == '-') &add(" "); if ((long) x == x){
+if (x == '&0' && (long) x == '&0'){
+if ((long) x == &x){
+if (x &0 && prev == '-') <add(" "); if (x == x){
+if (x 0 && prev == '-') &add(" "); else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); <else <add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &else &add(" "); if ((long) x == x){
+if ((long) x!= x){
+if (x 0 && prev == '-') add(" "); &else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); else{
+if (x &0 && prev == '-') add(" "); else if (x <0 && (long)x == x){
+if (x == '0' && (long) x == '&0'){
+if (x 0 && prev == '-') add(" "); &else{
+if (x <0 && prev == '-') &add(" "); &if (x == x){
+if (x &0 && prev == '-') add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <if (x == x){
+if (x > 0 && x == x){
+if (x &0 && prev == '-') &add(" "); else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') &add(" "); &else if (x == x){
+if (x <0 && prev == '-') <add(" "); else{
+if (x &0 && x <0 && prev == '-'){
+if ((long) x == (unsigned long) x){
+if (x &0 && prev == '-') add(" "); <if ((long) x == x){
+if ((int64_t) x == x){
+if (x &0 && (long)x == x){
+if ((int)x == x){
+if (x = 0 && (x == x)){
+if (x = 0){
+if (((intptr_t) x == x){
+if (x <0 && prev == '-') &add(" "); else <add(" "); if ((long) x == x){
+if ((long) x == 0){
+if (x 0 && prev == '-') add(" "); <else if (x 0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); else if (x &0 && (long)x == x){
+if (!(long) x == x){
+if (x 0 && prev == '-') add(" "); <else &add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); <else if (x == x){
+if (x 0 && prev == '-') <add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') add(" "); <if ((long) x == x){
+if ((long) x == '&0'){
+if (x &0 && prev == '-') <add(" "); <else <add(" "); if ((long) x == x){
+if ((long)x >= x){
+if (x == '0' && x == '&0'){
+if ((x == x)){
+if ((long)x <= x){
+if (x <0 && prev == '-') &add(" "); else add(" "); if ((long) x == x){
+if ((long)x == x) <value = (long)x;{
+while ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else if (x 0 && (long)x == x){
+if ((int32_t)x == x){
+if ((long)(int) x == x){
+if (x 0 && prev == '-') add(" "); else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); else if (x 0 && (long)x == x){
+if (n == x){
+if (x &0 && prev == '-') <add(" "); <else if (x <0 && (long)x == x){
+if ((int) (x == x)){
+if (x <0 && prev == '-') <add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long)x == X){
+if (x &0 && prev == '-') add(" "); <else add(" "); if ((long) x == x){
+if (x <0 && prev == '-') add(" "); else add(" "); if ((long) x == x){
+if (x <0 && x == x){
+if (x == '<0' && (long) x == '<0'){
+if ((ulong) x == x){
+if (x <0 && prev == '-') &add(" "); <else if ((long) x == x){
+if (x 0 && prev == '-') add(" "); <else if (x &0 && (long)x == x){
+if ((intptr)x == x){
+if (x 0 && prev == '-') add(" "); &if ((long) x == x){
+if (x <0 && prev == '-') add(" "); <else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); &else if (x &0 && (long)x == x){
+if ((long) x &= 0){
+if (x <0 && prev == '-') add(" "); <else if (x 0 && (long)x == x){
+if ((long) x x){
+if (x <0 && prev == '-') <add(" "); <else{
+if (x <0 && (long)x == x){
+if (x){
+if ((long)p == x){
+if (x &0 && prev == '-') <add(" "); else <add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <else if ((long) x == x){
+if (x == '0'){
+if (x &0 && prev == '-') <add(" "); &if (x == x){
+if ((long) x == value){
+if (x <0 && prev == '-') add(" "); &else{
+if (x == '0' && x == '<0'){
+if (x <0 && prev == '-') &add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); <else add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <else if (x 0 && (long)x == x){
+if ((long) x == x && ((long)x) == x){
+else if ((long)x == x){
+if (x <0 && prev == '-') &add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); else if (x <0 && (long)x == x){
+if ((long)(x == x) && (x <0) && (prev == '-')) add(" ");{
+if (x 0 && prev == '-') &add(" "); else if ((long) x == x){
+if ((long)(x == x) && (x &0) && (prev == '-')) add(" ");{
+if ((long) x){
+if (x 0 && prev == '-') &add(" "); <else if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else{
+if (x <0 && prev == '-') &add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); else if (x <0 && (long)x == x){
+if (x <0 && prev == '-') &add(" "); <else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') <add(" "); else{
+if ((long)X == x){
+if (x 0 && prev == '-') &add(" "); <else <add(" "); if ((long) x == x){
+if ((size_t) x == x){
+if ((size_t)x == x){
+if (x &0 && prev == '-') &add(" "); &else if (x == x){
+if ((long) x == (double)x){
+if (x <0 && prev == '-') add(" "); &if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) (int)x == x){
+if (x 0 && prev == '-') <add(" "); &else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); if (x == x){
+if ((long) x = 0){
+if (x <0 && prev == '-') add(" "); &else <add(" "); if ((long) x == x){
+if ((length) x == x){
+if ((long)*x == x){
+if (x 0 && prev == '-') <add(" "); &if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); &else if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); else if (x <0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); &else add(" "); if ((long) x == x){
+if ((long) x == x - 1){
+if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == (long)x){
+if (x &0 && prev == '-') <add(" "); else if (x == x){
+if (x 0 && prev == '-') <add(" "); &else &add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &else if (x &0 && (long)x == x){
+if (x &0 && x == x){
+if (x <0 && prev == '-') add(" "); else if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &if (x == x){
+if (x == '<0' && x == '<0'){
+if (x 0 && prev == '-') add(" "); &else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') add(" "); &else{
+if (x <0 && prev == '-') &add(" "); else if ((long) x == x){
+if (prev == '-'){
+if (X == x){
+if (x &0 && prev == '-') add(" "); &else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); &else if (x &0 && (long)x == x){
+if ((int64_t)x == x){
+if (x <0 && prev == '-') add(" "); <else if (x == x){
+if (x <0 && prev == '-') add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x == sizeof(x)){
+if (x &0 && prev == '-') &add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x == -1){
+if ((long)value == x){
+if (x <0 && prev == '-') &add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &else if (x 0 && (long)x == x){
+if ((intPtr) x == x){
+if (x <0 && prev == '-') &add(" "); else if (x == x){
+if ((unsigned long)x == x){
+if (x <0 && x <0 && prev == '-'){
+if (x == x) &add(" ");{
+if (x &0 && prev == '-') add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x == X){
+if (x 0 && prev == '-') add(" "); <else{
+if (x == 0 && (long)x == 0){
+if (x &0 && prev == '-') <add(" "); <if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); &else add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else if (x 0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if ((Long)x == x){
+else if (x == x){
+if ((Long) x == x){
+if (value == x){
+if (x <= 0 && x == x){
+if (x 0 && prev == '-') <add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); <if (x == x){
+if ((long)x <0){
+if (x &0 && prev == '-') &add(" "); <else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else &add(" "); if ((long) x == x){
+if (x &0 || x == x){
+if (x &0 && prev == '-') <add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (((intptr_t)x == x){
+if (x &0 && prev == '-') &add(" "); <else{
+if ((long) x <= 0){
+if (x == '&0' && (long) x == '0'){
+if (x 0 && prev == '-') &add(" "); if (x == x){
+if ((long)((long)x == x)){
+if (x == (int)x){
+if (x 0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x == '<0' && (long) x == '&0'){
+if (x == '&0' && x == '<0'){
+if (x <0 && prev == '-') add(" "); &else if (x == x){
+if ((long)(x == x) && (x 0) && (prev == '-')) <add(" ");{
+if (x >= 0 && x == x){
+if (tmp == x){
+if (x <0 && prev == '-') <add(" "); <if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); else{
+if (x <0 && prev == '-') add(" "); <else if (x &0 && (long)x == x){
+if ((long)(unsigned long)x == x){
+if (x &0 && prev == '-') &add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x == 0 || x == 0){
+if ((long)(x == x)){
+if (x &0 && prev == '-') add(" "); else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x == '&0'){
+if (x &0 && x &0 && prev == '-'){
+if (x <0 && prev == '-') <add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if(x == x){
+if ((long) x <= x){
+if (x 0 && prev == '-') &add(" "); <else{
+if ((long) x == x &&!prev){
+if ((long) x == x &&!(((intptr_t)x)){
+if (x == '-'){
+if (x &0 && prev == '-') <add(" "); &else{
+if (x <0 && prev == '-') <add(" "); <else if (x == x){
+if (x <0 && prev == '-') &add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &= 0 && (x == x)){
+if (x 0 && prev == '-') <add(" "); &else if (x == x){
+if ((long)x <x){
+if (x &0 && prev == '-') <add(" "); &else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((unsigned char) x == x){
+if (x &0 && prev == '-') &add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); else add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); else if (x == x){
+if (x 0 && prev == '-') add(" "); <else if (x == x){
+if (x &0 && prev == '-') <add(" "); <if (x == x){
+if ((long)(u_long)x == x){
+if (x == (long)x){
+if (x &0 && prev == '-') add(" "); else if (x == x){
+if (x 0 && prev == '-') &add(" "); <else if (x &0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); &else if (x == x){
+if (x <0 && prev == '-') add(" "); &else if (x 0 && (long)x == x){
+if (x 0 && prev == '-') &add(" "); else if (x &0 && (long)x == x){
+if ((long) x >= 0){
+if (x &0 && prev == '-') &add(" "); <else if (x == x){
+if ((ulong)x == x){
+if ((long) value == x){
+if (x == '<0' && x == '0'){
+if (x 0 && prev == '-'){
+if (x 0 && prev == '-'){
+if (x 0 && prev == '-') add(" "); else if (x 0 && (long)x == x){
+if ((long)x == x) <add(" ");{
+if (x <0 && prev == '-') add(" "); else if (x <0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); <else &add(" "); if ((long) x == x){
+if ((long)(double)x == x){
+if (x <0 && prev == '-') &add(" "); <else if (x <0 && (long)x == x){
+if ((long)(long)x == x){
+if (x <0 && prev == '-') add(" "); &if (x == x){
+if ((int32)x == x){
+if (x <0 && prev == '-') add(" "); else{
+if (x == 0 && (x <= 0 && prev == '-')){
+if (x <0 && prev == '-') <add(" "); else &add(" "); if ((long) x == x){
+if ((long)(long) x == x){
+if (!(x == x)){
+if ((long) x == x &&!x.length){
+if (x == null){
+if (x 0 || x == x){
+if (x <= x){
+if (x &0 && prev == '-') <add(" "); else if ((long) x == x){
+if (((int)x == x) <0){
+if (x <0 && prev == '-') add(" "); &if ((long) x == x){
+if ((long) == x){
+if (x &0 && prev == '-') <add(" "); <else &add(" "); if ((long) x == x){
+if ((long) x = x){
+if ((long)x == x) add(" ");{
+if (x &0 && prev == '-') add(" "); <else{
+if (x 0 && prev == '-') <add(" "); <else if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); &else if ((long) x == x){
+if (x &0 && prev == '-') <add(" "); &else add(" "); if ((long) x == x){
+if ((long) x == (unsigned char)x){
+if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <else &add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); else{
+if (x <0 && prev == '-') &add(" "); <else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); else <add(" "); if ((long) x == x){
+if ((unsigned char)x == x){
+if ((long)(x == x) && (x 0) && (prev == '-')) &add(" ");{
+if (x <0 && prev == '-') &add(" "); &else if (x <0 && (long)x == x){
+if (x <0 && prev == '-') add(" "); &else if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if ((double) x == x){
+if (x <0 && prev == '-') &add(" "); <else if (x 0 && (long)x == x){
+if (x 0 && prev == '-') <add(" "); else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); else if (x == x){
+if (x <0 && prev == '-') <add(" "); &if ((long) x == x){
+if (x <0 && prev == '-') add(" "); else <add(" "); if ((long) x == x){
+if ((long) (int) x == x){
+if (x &0 && prev == '-') add(" "); if (x == x){
+if ((int) x == x){
+if (x <0 && prev == '-') add(" "); else if (x 0 && (long)x == x){
+if (x <0 && prev == '-') &add(" "); else if (x 0 && (long)x == x){
+if ((short) x == x){
+if (x <0 && prev == '-') <add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') &add(" "); <else add(" "); if ((long) x == x){
+if ((long)(x == x) && (x &0) && (prev == '-')) <add(" ");{
+if (x 0 && prev == '-') &add(" "); &else add(" "); if ((long) x == x){
+if ((long)lx == x){
+if (x 0 && prev == '-') <add(" "); <else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); <else <add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); <else if (x == x){
+if (x <0 && prev == '-') &add(" "); else if (x &0 && (long)x == x){
+if (x &0 && prev == '-') add(" "); <else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); else <add(" "); if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long) x &x){
+if (x == '0' && (long) x == '0'){
+if (x 0 && prev == '-') &add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long)x == 0){
+if (x <0 && prev == '-') <add(" "); if (x == x){
+if ((long) x == x && ((long) x == x)){
+if (x 0 && prev == '-') <add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x == 0) <add(" ");{
+if ((len) x == x){
+if (x <0 && prev == '-') &add(" "); if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); else &add(" "); if ((long) x == x){
+if (x <0){
+if (x <0 && prev == '-') add(" "); if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); &else if (x 0 && (long)x == x){
+if (x &0 && prev == '-') add(" "); &if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else if (x == x){
+if (x = 0 && x == x){
+if (((int) x == x){
+if (x <0 && prev == '-') &add(" "); &if ((long) x == x){
+if ((long) x <x){
+if (!x){
+if (x <0 && prev == '-') <add(" "); <else if (x &0 && (long)x == x){
+if (x == '0' && x == '0'){
+if (x &0 && prev == '-') &add(" "); else if (x <0 && (long)x == x){
+if (x <0 && prev == '-') <add(" "); <else add(" "); if ((long) x == x){
+if ((long)(x == x) && (x 0) && (prev == '-')) add(" ");{
+if ((long) x == '<0'){
+if ((double)x == x){
+if (x <0 && prev == '-') <add(" "); &if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if ((long)y == x){
+if ((long)(unsigned char)x == x){
+if (x 0 && prev == '-') &add(" "); &else if (x <0 && (long)x == x){
+if (x &0 && prev == '-') &add(" "); &else <add(" "); if ((long) x == x){
+if (((int)x == x) &0){
+if (x 0 && prev == '-') add(" "); <if (x 0 && prev == '-') add(" "); if ((long) x == x){
+if (x 0 && prev == '-') add(" "); <if (x == x){
+if (x &0 && prev == '-') <add(" "); <else if (x 0 && (long)x == x){
+if ((long) x == (long) x){
+if (x 0 && prev == '-') add(" "); <else if ((long) x == x){
+if (x <0 && prev == '-') &add(" "); &else if (x &0 && (long)x == x){
+if ((long)(x == x) && (x <0) && (prev == '-')) <add(" ");{
+if (x 0 && prev == '-') &add(" "); if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x > 0){
+if ((x == x) && x <0){
+if ((uintptr_t)x == x){
+if ((long)x!= x){
+if (x == '0' && (long) x == '<0'){
+if (x <0 && prev == '-') add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); <if (x == x){
+if (x <0 && prev == '-') add(" "); &else if (x &0 && (long)x == x){
+if (x <0 && x &0 && prev == '-'){
+if (x &0 && prev == '-') add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') add(" "); &if (x == x){
+if (x 0 && prev == '-') add(" "); <if (x <0 && prev == '-') add(" "); if ((long) x == x){
+if (x &0 && prev == '-') &add(" "); <if (x &0 && prev == '-') add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else &add(" "); if ((long) x == x){
+if (x <0 && prev == '-') <add(" "); &else if ((long) x == x){
+if (x 0 && prev == '-') <add(" "); else if (x == x){
+if((long)x == x){
+if ((long) x == x) &add(" ");{

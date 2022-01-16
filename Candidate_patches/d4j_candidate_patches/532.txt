@@ -1,0 +1,280 @@
+golden:
+return 0.5 * (1.0 + Erf.erf((x - mean) /
+inference:
+return (0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (2.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((int) /
+return 0.5 * (0.5 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf(x - mean) /
+return 0.5 * (1.0 - Erf.erf((x - mean) /
+return 1.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (0.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((double)(x - mean) /
+result = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 / (1.0 + Erf.erf((x - mean) /
+return (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((double)x - mean) /
+return 0.5 * (1.0 + Erf.erf((long)(x - mean) /
+return 0.5 * 1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((int)x - mean) /
+return 0.5 * ((double)1.0 + Erf.erf((x - mean) /
+return Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((long)x - mean) /
+return 0.4 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-mem) /
+return 0.5 * (1.0 + Err.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((*x - mean) /
+return 0.5 * (1.0 + Erf.erf((u - mean) /
+return (0.5 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + (Erf.erf((x - mean) /
+return 0.5 * ((1.0 + Erf.erf((x - mean) /
+return 0.5 * ((long)1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.5 + Erf.erf((x - mean) /
+return 0.5 * (2.5 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((u_long) /
+return 0.5 * (1.0) + Erf.erf((x - mean) /
+return 0.5 * x + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((X - mean) /
+return 0.9 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * 0.5 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + err((x - mean) /
+return 0.5 * (1.0 + Erf.erf(((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((float)(x - mean) /
+return 0.5 * ((1.0 + Erf.erf((x - mean)) /
+return (0.5) * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (0.5 - Erf.erf((x - mean) /
+return (0.5 * 1.0 + Erf.erf((x - mean) /
+return(0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.eof((x - mean) /
+return 0.55 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - m) /
+return 0.5 * (1.0 + Erf.erf((intptr_t) /
+return 0.5 * ((x - mean) /
+return 0.5 * (-1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-memory) /
+return 0.5 * (2.0 - Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((y - mean) /
+return 0.5 * (4.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf(x - mean) /
+return (0.5 * Erf.erf((x - mean) /
+return 2 * (1.0 + Erf.erf((x - mean) /
+return 0.6 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-me) /
+return 0, 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Math.erf((x - mean) /
+ret = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + errno /
+return 0.5 * (1.0 + Err.erf((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((u_int32_t) /
+return 0.5 * (0.5 + Erf.erf((x - mean)) /
+r = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((long) /
+return 0.5 * ((float)1.0 + Erf.erf((x - mean) /
+return 0.8 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((double) /
+return 2.5 * (1.0 + Erf.erf((x - mean) /
+return 0.3 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.1 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((int) /
+rv = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf(((x - mean) /
+return 0.5 * (0.5 + Erf.erf(x - mean) /
+return 0.5 * (1.0 + Err.erf((double)(x - mean) /
+return 0.5 * 0.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((*x) /
+return 0.5 * (1.0 + Erf.erf(x) /
+return 0.50 * (1.0 + Erf.erf((x - mean) /
+return 2.0 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (0.4 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf(((long)x - mean) /
+return 0.5 * (1.0 + Erf.erf ((x - mean) /
+return 0.5 * (x - mean) /
+return 0.5 * (1.0 + Erf.erf((double - mean) /
+return 0.5 * (2.0 + Erf.erf((x - mean)) /
+return 0.5 * (1.0 + Err.erf((double)x - mean) /
+return 0.5 * (1.0 + Erf.erf((m - mean) /
+return 0.5 * (1.0 + Erf.erf((float)x - mean) /
+return 0.5 * (0.8 + Erf.erf((x - mean) /
+return 0.5 * (0.5 + Err.erf((x - mean) /
+res = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((long)(x - mean) /
+return 0.5 * (1.0 + Erf.erf(((double)x - mean) /
+return 0.5 * (1.0 + x - mean /
+return 0.5 * (1.0 + Erf.erf(*(x - mean)) /
+return 10.0 * (1.0 + Erf.erf((x - mean) /
+return (0.5*(1.0 + Erf.erf((x - mean) /
+return (0.5 - Erf.erf((x - mean) /
+return 0.45 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x + mean) /
+return 0.25 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((int - mean) /
+return 0.5 * (1.0 + Erf.erf((x-mean) /
+return 0.5 * (1.0 + Erf_erf((x - mean) /
+return result * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((c - mean) /
+return 0.5 * (1 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((long)x - mean) /
+return 0.5 * (1.0 + erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((/*x - mean) /
+x = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((x-mem) /
+return 0.5 * Erf.erf((x - mean) /
+return 0.5 * (1.4 + Erf.erf((x - mean) /
+return 5 * (1.0 + Erf.erf((x - mean) /
+return 128 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((int)x - mean) /
+return 0.5 * 1 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((p - mean) /
+return 0.5 * (x + Erf.erf((x - mean) /
+err = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((lx - mean) /
+return 0.5 * (1.0 + Erf.erf((x-m) /
+return 0.5 * (1.0 + Erf.erf2((x - mean) /
+return 0.5 * (1.0 + Erf.erf((i - mean) /
+return 0.5 * (1.0 + Erf.erf((x-meth) /
+return 0.5 - (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x) /
+return 0.5 * (1.0 + Erf.erf((1 - mean) /
+return 0.95 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (float)(1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean)/
+return 0.5 * (1.0 + Erf.erf((x - mean) /*
+error = 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((intptr) /
+return 50 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((double) x - mean) /
+return 15.0 * (1.0 + Erf.erf((x - mean) /
+return 1 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((short) /
+return 0.5*(2.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((size_t) /
+return (0.5 * (1.0 + Erf.erf((x - mean)) /
+return 0.5 * (0.5 + Erf.erf((x-mem) /
+return 0.5 * (0.5 + Erf.erf(((x - mean) /
+return 0.5 * (x - mean /
+return 0.5 * (1.0 + Erf.erf(((x-mem) /
+return 0.5 * (1.0 + Erf.erf((y) /
+return 0.5 * (0.5 + Erf.erf((double)(x - mean) /
+return 0.5 * (1.0 + Err.erf((*x - mean) /
+return 0.5 * (1.0 + Err.erf((u - mean) /
+return 0.5 * (1.0 + Erf.erf((u_int8_t) /
+return 0.5 * (1.0 + Erf.erf((double) (x - mean) /
+return 0.5 * (0.5 + Erf.erf((int) /
+return 0.5 * 1.0 + Erf.erf(((x - mean) /
+return 0.5 * (((x - mean) /
+return 0.5*(1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean))/
+return 0.5 * (1.0 + Err.erf((u_long) /
+return 0.5 * (1.0 + Err.erf(((x - mean)) /
+return 0.5 * (1 - Erf.erf((x - mean) /
+return 0.5 * (1.0 + err /
+return 0.5 * (1.0 + Erf.erf((x - mem) /
+return 0.5 * (1.0 + Erf.erf((min(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((x - mean) //
+return 0.5 * (0.5 + Erf.erf(((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((u_int) /
+return 0.5 * (1.0 + Erf.erf((x - v) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / /
+return 0.5 * (0.5 + Erf.erf((x - mean)/
+return 0.5 * (1.0 + Erf.erf((x - mean));
+return 0.5 * (1.0 + Erf.erf((x - mean) / /*
+return 0.5 * (1.0 + Err.erf(((x - mean) /
+return 0.5 * ((2.0 + Erf.erf((x - mean)) /
+return 0.5 * ((0.5 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Err.erf((intptr_t) /
+return 0.5 * (1.0 + Err.erf((u_int32_t) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / *
+return 0.5 * (1.0 + Erf(0) /
+return 0.5 * x /
+return 0.5 * ((0.5 + Erf.erf((x - mean)) /
+return 0.5 * (1.0 + Erf.erf(((x-me) /
+return 0.5 * (1.0 - Erf.erf((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((u_quad_t) /
+return 0.5 * (1.0 + 0.5 /
+return 0.5 * x - mean /
+return 0.5 * (1.0 + Erf.erf((u_int16_t) /
+return 0.5 * (1.0 + Erf.erf((uintmax_t) /
+return 0.5 * (1.0 + Erf.erf((x - mean) + 1 /
+return 0.5 * ((int)1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((uintptr_t)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-math.min) /
+return 0.5 * (1.0 + Erf.erf((*(int)(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((m-x - mean) /
+return 0.5 * (1.0 + Erf.erf(((u-int32)(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((c - x) /
+return 0.5 * (1.0 + Erf.erf((sin_device_x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-2.0) /
+return 0.5 * (1.0 + Erf.erf((int)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((maxDivision + 0.5) /
+return 0.5 * (1.0 + Erf.erf(((int)(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((u_int32_t)(x - mean) /
+return 0.5 * (1.0 + Erf.erf(((x - m)) /
+return 0.5 * (((double)1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf(((x-*) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / (long)
+return 0.5 * (((unsigned float)(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((intptr_t)(x - mean) /
+return 0.5 * (((float)x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / y) /
+return 0.5 * (((u_long)1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - aMath.base) /
+return 0.5 * (0.5 + Erf.erf((x-=0) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / (double) x) /
+return 0.5 * (1.0 + Erf.erf((x - x_mem) /
+return 0.5 * (1.0 + Erf.erf((x-M) /
+return 0.5 * (0.5 + Erf.erf((x-M) /
+return 0.5 * ((u_long)1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((max_cmp) /
+return 0.5 * (0.5 + Erf.erf(((m_long) - mean) /
+return 0.5 * (1.0 + Erf.erf((uint32_t)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((x--bound) /
+return 0.5 * (1.0 + Erf.erf((x--memory) /
+return 0.5 * ((int)(1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((u_int)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((maxMask) /
+return 0.5 * ((double) Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((mx - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) /* x -= 0x000000) /* x -= 0x00000000*/
+return 0.5 * (1.0 + Erf.erf(((int)x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - x) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / /* x - mean */
+return 0.5 * (1.0 + Erf.erf((x - u) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / ((double)(x))))) + (0.5 + Erf.erf((x - m) /
+return 0.5 * (1.0 + Erf.erf((u_int8_t)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((c) /
+return 0.5 * (1.0 + Erf.erf(((x - mean) / x - 0.5) /
+return 0.5 * (1.0 + Erf.erf((x - s, mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / /*(Math.sqrt(2.0) / p)*/
+return 0.5 * (1.0 + Erf.erf((x- mean) /
+return 0.5 * (1.0 + Erf.erf((max(x - mean)) /
+return 0.5 * (1.0 + Erf.erf((m-matrix) /
+return 0.5 * (1.0 + Erf.erf(((intptr_t)(x - mean)) /
+return 0.5 * (((dmax)(1.0 + Erf.erf((x - mean)) /
+return 0.5 * (1.0 + Erf.erf((u_int32_t*)(x - mean) /
+return 0.5 * (1.0 + Erf.erf(((*x - mean) /
+return 0.5 * ((max = 0) /
+return 0.5 * (1.0 + Erf.erf((y + d) /
+return 0.5 * (0.5 + Erf.erf((int)(x - mean) /
+return 0.5 * (1.0 + Erf.erf(((sqrt(x)-mean)) /
+return 0.5 * (1.0 + Erf.erf((*(x-mem)) /
+return 0.5 * (1.0 + Erf.erf((u_int8_t*)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - a) /
+return 0.5 * (((int) Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x-*mem) /
+return 0.5 * (1.0 + Erf.erf((m_x - mean) /
+return 0.5 * (1.0 + Erf.erf((c*2 + X)) /
+return 0.5 * (1.0 + Erf.erf((*y) /
+return 0.5 * (1.0 + Erf.erf((X-mem) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / x - x - x)
+return 0.5 * (1.0 + Erf.erf(((cs-mem) /
+return 0.5 * (1.0 + Erf.erf(((int) x - mean) /
+return 0.5 * (1.0 + Erf.erf((short)(x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) / (mini)
+return 0.5 * (1.0 + Erf.erf((y + 1.0) /
+return 0.5 * (0.5 + Erf.erf((u_long) /
+&return 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) /
+<return 0.5 * (1.0 + Erf.erf((x - mean) /
+return 0.5 * (1.0 + Erf.erf((x - mean) /

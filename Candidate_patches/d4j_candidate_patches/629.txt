@@ -1,0 +1,469 @@
+golden:
+if (n != null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {
+inference:
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null)  NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) && n.getType() == Token.GETPROP){
+if (n!= null)  NodeUtil.isVarOrSimpleAssignLhs(n, assign);{
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP ){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if(n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()!= Token.GETPROP){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && type == Token.GETPROP ){
+if (n == null){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign))  if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n) && n.getType() == Token.GETPROP){
+else if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n.getType() == Token.GETPROP){
+if ((n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP ){
+if (n!= null && IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= node && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP){
+if (n!= null){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assignment) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()!= Token.GETPROP ){
+if ( n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.Type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (n!= null &&!NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && n.type == Token.GETPROP){
+if (n!= null)  NodeUtil.isVarOrSimpleAssignLhs(n, assign); if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && type == Token.GETPROP){
+if (n!= null && NodeUtil.isAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign), n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n!= Token.GETPROP){
+if (n!= null && NodeUtil.isSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP) ){
+if ((n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType())){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp){
+if (n!= null && n.getType() == Token.GETPROP ){
+else if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType(), assign)){
+if (n!= null && n.getType() == Token.GETPROP && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP) ){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.STRING ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TYPE ){
+if (n!= null)  NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP;{
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && node.getType() == Token.GETPROP){
+if (n!= null)  NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETTYPE ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.Type() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP ){
+if (n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP){
+if (n!=null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && n.type == Token.GETPROP ){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) && n.getType() == Token.GETPROP){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProp){
+if (n!= null && isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetType()){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(&n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP ){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == TokenProp){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign)) && n.getType() == Token.GETPROP){
+if (n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign == Token.GETPROP ){
+if (n!= null && NodeUtil.isSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP ){
+if (!n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && node.getType() == Token.GETPROP ){
+if ((n == null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && SimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n == null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetPROP){
+if (n!= null)  if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && *n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if (n!= n){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= n || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETProp){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType(), assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()==Token.GETPROP){
+if ( NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) &&!n.getType()){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TYPE_PROP){
+if ( n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && *n.getType() == Token.GETPROP){
+if (!n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= n && n.getType() == Token.GETPROP){
+if (n!= null && n.getType()!= Token.GETPROP){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (n){
+if (n!= null && n.type == Token.GETPROP){
+if (n == n){
+if ( n!= null && n.getType() == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (n!= null && n.type == Token.GETPROP){
+if (n!= null && n.type() == Token.GETPROP){
+if (n!= null && n.type() == Token.GETPROP){
+if ((n!= null) && n.getType() == Token.GETPROP){
+if (n!= null || n.getType() == Token.GETPROP){
+if (n!= null && *n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.STRING)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP))) && (n.getType() == Token.GETPROP)) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TOKEN){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP && n.type() == Token.PROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign!= Token.None && assign.type()!= Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.STRING)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.STRING ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.STRING)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP && (n.getType() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.NOT_COMPLETE ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP) && n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProperty() ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP && (n.type() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getPropertyPropertyProperty ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getPropertyProperty ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n == 0 && assign && n!= null)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProp && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetType() && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.NAME_PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP)))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.type == Token.STRING ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.TOKEN_CLASS_PROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (*(n = n.getFirstChild())!= null)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GET_PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP || (n.type == Token.TOP)) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetSimpleAssignProp){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.PRIVATE) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.PL )){
+if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP && (n.getType() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP))) && (n.getType() == Token.GETPROP)) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.STRING)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && node.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.STRING)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n!= Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP){
+if ((n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)) && n.getType() == Token.GETPROP){
+if (n!= null && IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETProp){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProp && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && type == Token.GETPROP){
+if (n!= null){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.PRIVATE) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || n.getType() == Token.PL )){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n == Token.GETPROP){
+if ( n!= null && n.getType() == Token.GETPROP ){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n == Token.GETPROP ){
+if ( n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.type == Token.STRING ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.NOT_COMPLETE ){
+if (n!= null && n.getType() == Token.PROP){
+if (n!= node && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!=null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) &&!n.getType()){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if ((n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if ( n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP))){
+if (n!= null && SimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProperty() ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP || n.getType() == Token.GETPROP)))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetSimpleAssignProp){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP && (n.type() == Token.GETPROP))){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getPropertyPropertyProperty ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null) &if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.NAME_PROP){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && n.getType() == Token.GETPROP ){
+if ((n!= null) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()==Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP) && n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null) NodeUtil.isVarOrSimpleAssignLhs(n, assign);{
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.TOKEN_CLASS_PROP ){
+if (n == n){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)) <if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)) &if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null) if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TOKEN){
+if (n!= null && n.getType() == Token.GETPROP && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP || (n.type == Token.TOP)) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type == Token.GETPROP) ){
+if (n!= null) <NodeUtil.isVarOrSimpleAssignLhs(n, assign);{
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign.type == Token.GETPROP ){
+if (n!= null) &NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP;{
+if(n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null) &NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null) &NodeUtil.isVarOrSimpleAssignLhs(n, assign);{
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && *n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n == null){
+if (n){
+if (n!= n){
+else if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null) NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP;{
+if (n!= null && n.type() == Token.GETPROP){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetProp){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= n || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+<if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && n.type == Token.GETPROP ){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetPROP){
+if (n!= null) <NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) ){
+if (n!= null){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP ){
+if ( NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp && n.getType() == Token.GETPROP){
+if (n!= null && n.type == Token.GETPROP){
+if (n!= null) <NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetType()){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType(), assign) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getPropertyProperty ){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && node.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.STRING ){
+if (n!= null || n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null) <NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP;{
+if (n!= null && n.getType()!= Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (*(n = n.getFirstChild())!= null)){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.getProp && n.getType() == Token.GETPROP){
+if (n!= null) &NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()!= Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && *n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null) &NodeUtil.isVarOrSimpleAssignLhs(n, assign); if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType(), assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type() == Token.GETPROP){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+else if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && assign!= Token.null && assign.type()!= Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign), n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP && n.type() == Token.PROP) ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) || n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (!n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(&n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null && NodeUtil.isAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TYPE ){
+if (!n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n == 0 && assign && n!= null)){
+if (n!= null) NodeUtil.isVarOrSimpleAssignLhs(n, assign); if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType()) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if ((n == null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GetType() && n.getType() == Token.GETPROP){
+if (n == null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+&if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && (n.getType() == Token.STRING)){
+if (n!= null && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP) ){
+if (n!= null) <if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP && n.getType() == Token.GET_PROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == TokenProp){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && *n.getType() == Token.GETPROP){
+if (n!= null &&!NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null) NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.STRING){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)) if (n.getType() == Token.GETPROP){
+if (n && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
+if (n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GET_PROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n.getType())){
+if (n!= null && nodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assignment) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if (n!= n && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null) NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.Type() == Token.GETPROP ){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.TYPE_PROP){
+if (n!= null) <NodeUtil.isVarOrSimpleAssignLhs(n, assign); if (n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && assign.type == Token.GETPROP ){
+if (n!= null && n.type() == Token.GETPROP){
+if (n!= null && n.getType() == Token.GETPROP ){
+if (NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssign(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.Type() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.GetType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.type == Token.GETPROP){
+if ((n!= null) && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.type() == Token.GETPROP)){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.STRING ){
+if (n!= null && (NodeUtil.isVarOrSimpleAssignLhs(n, assign)) && n.getType() == Token.GETPROP){
+if (n!= n && n.getType() == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType()!= Token.GETPROP ){
+if (n!= null && NodeUtil.IsVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null || NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
+if (n!= null && n.type == Token.GETPROP){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && (n.getType() == Token.GETPROP || (n.getType() == Token.GETPROP))){
+if (n == null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ){
+if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETTYPE ){

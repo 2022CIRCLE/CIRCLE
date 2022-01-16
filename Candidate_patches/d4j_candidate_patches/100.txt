@@ -1,0 +1,245 @@
+golden:
+: withSettings();  return mockSettings.serializable()
+inference:
+return mockSettings.serializable();
+return mockSettings;
+return mockSettings.serializable()
+: withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings;
+: withSettings(false); return mockSettings(false);
+return withSettings();
+
+: withSettings(true); return mockSettings(false);
+: mockSettings(); return mockSettings.serializable();
+: withSettings(true); return mockSettings(true);
+: withSettings(false); return mockSettings(false);
+withSettings(); return mockSettings.serializable();
+return withSettings().serializable();
+return withSettings().serializable()
+: withSettings(null); return mockSettings(null);
+withSettings(); return mockSettings;
+: withSettings(false); return mockSettings(true);
+: withSettings(); return mockSettings();
+: withSettings(void); return mockSettings(void);
+: withSettings(); return mockSettings().serializable();
+: withSettings (); return mockSettings.serializable ();
+: withSettings( ); return mockSettings.serializable( );
+return mockSettings.serializable()
+: withSettings(); return mockSettings.serializable(false);
+: withSettings; return mockSettings;
+: withSettings(void); return mockSettings.serializable(void);
+MockSettings::WithSettings(); return mockSettings::serializable()
+return mockSettings();
+: withSettings(true); return mockSettings.serializable(false);
+: withSettings(false); return mockSettings.serializable()
+: withSettings();  return mockSettings.serializable();
+MockSettings withSettings(); return mockSettings.serializable();
+: withSettings();
+: withSettings(); return mockSettings.serializable(false)
+MockSettings::withSettings(); return mockSettings::serializable()
+: return mockSettings.serializable();
+: withSettings(true); return mockSettings.serializable()
+: mockSettings; return mockSettings.serializable();
+: withSettings(mockSettings); return mockSettings(mockSettings);
+: withSettings(); return mockSettings.serializable(true);
+: withSettings(true); return mockSettings(false);
+MockSettings : withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable()
+: mockSettings(); return mockSettings;
+: withSettings(); return mockSettings::serializable()
+: withSettings( ); return mockSettings( );
+: *withSettings(); return mockSettings.serializable();
+return mockSettings.serializable();
+: withSettings(null); return mockSettings.serializable(null);
+: withSettings(); return mockSettings.serializable()
+: withSettings(1); return mockSettings.serializable()
+return mockSettings.serializable().get();
+: withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable().get();
+: withSettings(null); return mockSettings(null);
+: withSettings(false); return mockSettings;
+MockSettings::withSettings(); return mockSettings.serializable();
+MockSettings::WithSettings(); return mockSettings.serializable();
+: withSettings(), mockSettings; return mockSettings;
+: mockSettings; return mockSettings;
+: withSettings(false); return mockSettings(false)
+: withSettings( ); return mockSettings( ).serializable( )
+: withSettings().extraInterfaces(); return mockSettings.serializable()
+else : withSettings(); return mockSettings.serializable();
+: withSettings (); return mockSettings ();
+: withSettings(false); return mockSettings(false);
+else : withSettings(); return mockSettings.serializable()
+: withSettings(), mockSettings; return mockSettings.serializable()
+: return mockSettings;
+: withSettings(true)); return mockSettings(false);
+: withSettings(void)); return mockSettings.serializable(void)
+: withSettings(), mockSettings.serializable(); return mockSettings;
+: withSettings; return mockSettings.serializable();
+: withSettings(true); return mockSettings;
+: withSettings(aResult); return mockSettings.serializable(aResult);
+: withSettings(); return mockSettings.get();
+: withSettings(false); return mockSettings(false)
+: withSettings(); return mockSettings.serializable().get()
+: withSettings(); return mockSettings.get()
+withSettings(false); return mockSettings.serializable(false);
+: withSettings(); return mockSettings.serializable(true)
+: mockSettings(); return mockSettings.serializable()
+int withSettings(); return mockSettings.serializable()
+: withSettings(); return mockSettings.serializable(mockSettings);
+return MockSettings.serializable()
+: *withSettings(); return mockSettings.serializable()
+MockSettings withSettings(); return mockSettings.serializable()
+: withSettings(); return mockSettings
+#endif return mockSettings.serializable()
+return mockSettings = withSettings();
+: withSettings(false); return mockSettings.serializable();
+withSettings(); return mockSettings.serializable()
+: withSettings(), mockSettings; return mockSettings.serializable();
+(void) withSettings(); return mockSettings.serializable();
+: withSettings(mockSettings); return mockSettings(mockSettings)
+: withSettings(0); return mockSettings.serializable()
+: withSettings().get(); return mockSettings.serializable().get()
+return mockSettings().serializable();
+MockSettings::WithSettings(); return mockSettings.serializable()
+: withSettings(true); return mockSettings(true)
+: withSettings(true)); return mockSettings(true);
+MockSettings::withSettings(); return mockSettings.serializable()
+MockSettings(); return mockSettings.serializable();
+: withSettings(void); return mockSettings.serializable(void)
+withSettings(); return mockSettings.serializable()
+return MockSettings.serializable();
+: withSettings( ) ; return mockSettings.serializable( )
+: withSettings(void)); return mockSettings(void)
+: withSettings(0); return mockSettings(0);
+: withSettings(); return mockSettings()
+return mockSettings.serializable().get()
+return mockSettings.serializable().first();
+: withSettings(false); return mockSettings.serializable()
+withSettings(false); return mockSettings(false);
+: withSettings(true); return mockSettings.serializable();
+: inSettings(); return mockSettings.serializable()
+return mockSettings::serializable()
+: withSettings(this); return mockSettings.serializable(this);
+return mockSettings().serializable()
+: withSettings() ; return mockSettings.serializable()
+: withSettings( ); return mockSettings( ).serializable( );
+: withSettings(""); return mockSettings.serializable("");
+: withSettings(); return mockSettings.serializable().first();
+withSettings(); return mockSettings().serializable();
+: mockSettings(); return mockSettings();
+: withSettings(true); return mockSettings(false)
+return mockSettings
+: withSettings(false)); return mockSettings(true);
+: getter_AddRefs(withSettings)); return mockSettings;
+withSettings(); return mockSettings.serializable(false);
+mockSettings = withSettings(); return mockSettings.serializable();
+: withSettings(*this); return mockSettings.serializable(*this);
+: withSettings(aResult); return mockSettings(aResult);
+: withSettings(); return mockSettings.serializable(0);
+: withSettings()
+: withSettings(0); return mockSettings(0).serializable()
+: withSettings(0); return mockSettings.serializable(0);
+: withSettings(); return mockSettings.Serializable();
+: withSettings();  return mockSettings.serializable()
+int withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings().serializable()
+: withSettings(false); return mockSettings(true)
+: withSettings().get(); return mockSettings.serializable()
+: withSettings(false); return mockSettings;
+: withSettings();  return mockSettings;
+else return mockSettings.serializable();
+: withSettings(); return mockSettings().serializable()
+: withSettings(false)); return mockSettings.serializable()
+: mockSettings(); return mockSettings().serializable();
+: mockSettings; return mockSettings.serializable()
+: withSettings(0); return mockSettings(1);
+: withSettings(); return mockSettings.free();
+- withSettings(); return mockSettings.serializable();
+MockSettings(); return mockSettings;
+else : return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable(false);
+return mockSettings.serializable() ;
+return mockSettings.serializable(); : withSettings();
+withSettings(true); return mockSettings.serializable()
+withSettings(false); return mockSettings.serializable()
+: &withSettings(); return mockSettings.serializable();
+: withSettings (); return mockSettings ().serializable ();
+: withSettings); return mockSettings;
+: withSettings( ) ; return mockSettings.serializable( );
+: (void) withSettings(); return mockSettings.serializable()
+withSettings(true); return mockSettings(true);
+return mockSettings.serializable()!= null;
+MockSettings mockSettings; return mockSettings.serializable();
+: withSettings(false)); return mockSettings(false);
+return mockSettings = withSettings(); return mockSettings.serializable();
+MockSettings : withSettings(); return mockSettings.serializable()
+return mockSettings.serializable(), mockSettings;
+: withSettings(dummy); return mockSettings.serializable(dummy)
+withSettings(); return mockSettings.serializable(true);
+: withSettings( ); return mockSettings.serializable( )
+withSettings(); return mockSettings.serializable(false)
+return mockSettings.get();
+: withSettings(null); return mockSettings.serializable()
+: withSettings( ) ); return mockSettings.serializable( );
+: withSettings(true); return mockSettings.serializable(true);
+: withSettings(); return mockSettings.serializable(mockSettings)
+: MockSettings(); return mockSettings.serializable();
+return mockSettings()
+: withSettings(false); return mockSettings.serializable();
+: withSettings(false)); return mockSettings(false)
+: withSettings(false); return mockSettings.serializable(false);
+: withSettings(&mockSettings); return mockSettings.serializable(&mockSettings);
+: withSettings(false); return mockSettings.serializable(false);
+: withSettings(NS_LITERAL_STRING("save_as")); return mockSettings.serializable(NS_LITERAL_STRING("save_as"));
+: withSettings(true); return mockSettings.serializable(true);
+: withSettings(NS_SECURITY_CAST(PRUint32*, mockSettings))); return mockSettings.serializable(NS_SECURITY_CAST(PRUint32*, mockSettings))
+: withSettings(); return mockSettings.serializable().csa();
+: withSettings(); return mockSettings.assert()
+: withSettings(null); return mockSettings.serializable(null);
+: withSettings().withExtraInterfaces(); return mockSettings.serializable().withExtraInterfaces();
+: withSettings(true); return mockSettings.serializable(false);
+: withSettings(&mockSettings); return mockSettings(&mockSettings);
+: withSettings().prev(); return mockSettings.serializable().prev()
+: withSettings(returnTypeGenericMetadata.rawExtraInterfaces()); return mockSettings.serializable(returnTypeGenericMetadata.rawExtraInterfaces());
+: withSettings(); return mockSettings.serializable().toLowerCase()
+: withSettings(aCaseInsensitive); return mockSettings.serializable(aCaseInsensitive);
+: withSettings(true); return mockSettings.serializable(true)
+: withSettings(aIsSingleton)); return mockSettings.serializable(aIsSingleton)
+: withSettings(true)); return mockSettings.serializable(false);
+: withSettings(epSettings); return mockSettings.serializable(epSettings)
+: withSettings(false); return mockSettings.serializable(false)
+: withSettings(strlen(mockSettings))); return mockSettings.serializable(strlen(mockSettings))
+: withSettings(eHTMLTag_ns)); return mockSettings.serializable(eHTMLTag_ns);
+: withSettings(strlen(strlen(mockSettings))); return mockSettings.serializable(strlen(mockSettings));
+: withSettings(eStyleSheetImpl); return mockSettings(eStyleSheetImpl)
+: withSettings(eHTMLTag); return mockSettings.serializable(eHTMLTag);
+: withSettings(aReturnTypeGenericMetadata); return mockSettings(aReturnTypeGenericMetadata.rawExtraInterfaces(aReturnTypeGenericMetadata));
+: withSettings( 0 ); return mockSettings( 0 );
+: withSettings(aValue); return mockSettings.serializable(aValue);
+: withSettings(aRawExtraInterfaces); return mockSettings.serializable(aRawExtraInterfaces);
+: withSettings(); return mockSettings.serializable().decrypt()
+: withSettings().extraInterfaces(returnTypeGenericMetadata.rawExtraInterfaces())? withSettings().extraInterfaces(returnTypeGenericMetadata.rawExtraInterfaces()) : withSettings(); return mockSettings.serializable().defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
+: withSettings(); return mockSettings.serializable().symbol();
+: withSettings(); return mockSettings.serializable().mDeepContext().mObserver().defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
+: withSettings().extraInterfaces(returnTypeGenericMetadata.rawExtraInterfaces()); return mockSettings.serializable().defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
+: withSettings().extraInterfaces(); return mockSettings.serializable().defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
+: withSettings(strlen(withSettings)); return mockSettings(strlen(strlen(strlen(strlen(mockSettings)) - 1), strlen(mockSettings));
+: withSettings(&mockSettings); return mockSettings(&mockSettings)
+: withSettings(returnTypeGenericMetadata); return mockSettings.serializable(returnTypeGenericMetadata);
+: withSettings(mockSettings); return mockSettings(mockSettings.serializable())
+return mockSettings.serializable();
+: withSettings(); &return mockSettings;
+: withSettings(); &return mockSettings.serializable()
+<: withSettings(); return mockSettings.serializable();
+<: withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings;
+&: withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable()
+: withSettings(); &return mockSettings.serializable();
+: withSettings(); <return mockSettings.serializable()
+: withSettings(); <return mockSettings;
+: withSettings(); return mockSettings;
+&: withSettings(); return mockSettings.serializable();
+: withSettings(); <return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable();
+: withSettings(); return mockSettings.serializable();

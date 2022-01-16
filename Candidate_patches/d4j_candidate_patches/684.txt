@@ -1,0 +1,795 @@
+golden:
+}
+inference:
+
+return true;
+} return false;
+break;
+#endif
+}else  return true;
+}else return false;
+}else
+return false;
+*/
+}else  break;
+}else if (str == null)  return true;
+;
+}else return true;
+}else break;
+}else if (str == null)  return false;
+break; default: break;
+}else if (str.length())  return true;
+}else if (str == null)  return true;
+}else if (str == null) return false;
+}else if (str.length() == 0) return true;
+if (str == null)  return true;
+}else  return true;
+case 3:
+}else if (str == "true") return true;
+}else  return 0;
+}else if (str == null) return true;
+}else if (str == "true")  return true;
+if (str == "true")  return true;
+if (str.length() == 0) return true;
+}else if (str.length() > 1)  return true;
+case 2:
+}else if (str == null)  return false;
+if (str == "true") return true;
+if (str.length() == 0)  return true;
+#else return false; #endif
+}else if (str.length())
+break; case 3:
+break; default:
+case 4:
+if (str.length() > 0)  return true;
+}else  return -1;
+return 0;
+if (str == null) return true;
+#else return true; #endif
+}else if (str.length() > 0) return true;
+if (str.length() > 0) return true;
+if (str == null) return false;
+}else if (ch == "true")  return true;
+return true;  if (str == null)  return false;
+case 1:
+,
+}else if (str == null)
+}else if (str.length() > 0)  return true;
+}else  char ch0 = str.charAt(0);
+case 'true': return true;
+}else if (str.length() > 1) return true;
+return 1;
+}else  #endif
+}else if (str.length()) return true;
+return true;
+break; case 2:
+continue;
+}else  return true;
+}else  if (str == null)  return true;
+}else if (str.length() == 1) return true;
+break; default: return false;
+}else  return 1;
+}else  result = false;
+}else  return false;  break;
+}else if (str == 'true') return true;
+}else result = false;
+}else if (str.length() > 2)  return true;
+/* XXX */
+if (!str) return false;
+}else if (str.length())  break;
+}else if (!str.length())  return true;
+}else  return false;
+}else if (str.length()  1) return true;
+if (str == 'true')  return true;
+return true;  break;
+switch (str.length())  case 2:
+}else if (!str.length()) return true;
+}else return 0;
+if (str == null)  return false;
+}else if (str)  return true;
+#endif return true;
+}else  if (str == "true") return true;
+break; case 4:
+if (str == 'true') return true;
+return -1;
+case 3: return true;
+}else return true;
+}else if (str.length() == 0)
+}else */
+switch (str.length())
+case 'false': return true;
+break; case 1:
+splx(s);
+return true;
+#ifdef DEBUG
+}else  switch (str.length())  case 2:
+#else
+case 0:
+int i;
+}else if (str!= null)  return true;
+case 'true':
+}else return -1;
+return true;  if (str == null)  return false;
+return false;
+}else if (!str.length())  return false;
+}else if (str == null)  break;
+@endif
+/*
+:
+case 5:
+out:
+default:
+pass
+
+}else if (str == null) <return true;
+<&else &return true;
+&else return true;
+}else &return false;
+<else if (str == null) &return true;
+}else if (str == null) <return true;
+<else <return true;
+&:
+&#endif
+}else if (str == null) &return false;
+<else if (str!= null) &return true;
+return true; if (str == null) return false;
+&else <return false;
+<<else &return false;
+&else if (str.length()) <return true;
+&&else &return true;
+<else &return true;
+&else #endif
+&<else
+&&else if (str == null) &return true;
+}else if (str.length() &1) return true;
+}else if (str.length()) <return true;
+&<else return false;
+if (str == 'true') &return true;
+}else if (str!= null) &return true;
+&else &switch (str.length()) &case 2:
+}else if (str.length() > 2) &return true;
+}else switch (str.length()) case 2:
+&else <#endif
+return true; <if (str == null) &return false;
+&else <char ch0 = str.charAt(0);
+&else if (str == null) return true;
+<else <return false;
+if (str == null) <return false;
+<else if (!str.length()) return false;
+<else char ch0 = str.charAt(0);
+break; default:
+}else if (str.length()) <break;
+&else &return -1;
+&else if (str == null) <return false;
+&else char ch0 = str.charAt(0);
+&&else &return true;
+&<else &return true;
+}else if (ch == "true") <return true;
+}else if (!str.length()) &return true;
+<<else if (str == null) <return true;
+return true; &if (str == null) &return false;
+&else if (str.length())
+<else if (str == null) <return false;
+<if (str == "true") &return true;
+<return false;
+&else &return false;
+<else switch (str.length()) &case 2:
+&if (str == null) <return true;
+}else if (str == null) return false;
+<else &return true;
+}else if (str!= null) <return true;
+<else &return 0;
+}else if (str.length() > 2) <return true;
+&else if (str.length() == 0)
+&else if (ch == "true") return true;
+<else if (str) <return true;
+&else &if (str == null) &return true;
+}else if (str == null) &break;
+}else return false;
+break;
+&else if (str.length() > 2) <return true;
+<else <return -1;
+}else #endif
+&else &return true;
+&else &result = false;
+&else if (str == null) return false;
+<if (str.length() > 0) return true;
+}else return -1;
+<<else &break;
+}else <return 0;
+&else return false;
+&else &return false;
+<if (str == null) <return true;
+<else if (str.length()) &return true;
+&else if (str!= null) <return true;
+<#endif
+return true; <if (str == null) return false;
+<else &return false;
+&else if (str == null) &return false;
+<else if (str.length()) break;
+<else <break;
+&return true;
+<else if (str.length()) <return true;
+return true; if (str == null) <return false;
+&else if (str == null) break;
+<else switch (str.length()) case 2:
+}else <return true;
+}else &return -1;
+<<else &return true;
+&else break;
+<else result = false;
+&else <result = false;
+<else if (str.length() <1) return true;
+}else <if (str == "true") return true;
+}else return -1;
+&if (str == null) return false;
+&else if (str.length() &1) return true;
+<if (str == null) return false;
+<<else <break;
+}else if (str.length()) return true;
+}else <break;
+<&else <return true;
+<else return false;
+<else #endif
+}else if (str == "true") &return true;
+&&else return true;
+<else if (str.length()) return true;
+return true; if (str == null) <return false;
+<&else <break;
+}else if (str == null) <return true;
+}else if (str.length()) <return true;
+&*/
+<else &return true;
+&&else return false;
+<<else <return true;
+if (str.length() == 0) &return true;
+&else <return true;
+&if (str.length() == 0) &return true;
+&else if (str == null) &return true;
+&<else return true;
+&else if (ch == "true") &return true;
+<else if (str.length()) <break;
+<<else return true;
+<else if (!str.length()) &return true;
+<else if (str == null) &return true;
+<if (str == null) &return true;
+<<else <return false;
+&else if (str == null) return false;
+return true; <if (str == null) return false;
+<else
+}else return 0;
+&else return -1;
+}else &if (str == null) return true;
+if (str.length() > 0) <return true;
+<&else if (str == null) <return true;
+<else if (str == null) <return false;
+<else */
+&else <switch (str.length()) <case 2:
+<else if (str == "true") &return true;
+&else return -1;
+<return true;
+&&else <return false;
+&else if (str.length()) return true;
+}else if (str == 'true') return true;
+<else if (ch == "true") <return true;
+if (str == "true") <return true;
+break;
+<*/
+}else <return false;
+<&else return true;
+;
+&if (str == null) return true;
+}else <switch (str.length()) case 2:
+if (str.length() == 0) return true;
+<else &return false;
+<if (str == "true") <return true;
+<else return false; &break;
+}else &return false; <break;
+}else if (str) return true;
+&<else <break;
+<&else &return false;
+}else if (str.length() > 0) <return true;
+&<else <return false;
+}else <if (str == null) <return true;
+&<else <return true;
+if (str.length() == 0) <return true;
+<else if (str == null) return false;
+&&else return true;
+if (str.length() == 0) return true;
+}else if (str == null) &return true;
+&else if (str.length() > 0) <return true;
+<&else return false;
+<else <#endif
+}else if (str.length() == 0)
+}else <result = false;
+return true; &if (str == null) return false;
+}else if (str.length() <1) return true;
+}else if (str.length() 1) return true;
+<else if (str!= null) return true;
+<else return -1;
+return 1;
+&else &return false; &break;
+<<else <return true;
+}else &if (str == "true") return true;
+<else &return false;
+&else switch (str.length()) <case 2:
+}else if (str == null) <return false;
+&else &switch (str.length()) <case 2:
+<else if (str == null) &return true;
+<else if (str.length() &1) return true;
+}else if (str == "true") return true;
+<else if (str == 'true') return true;
+}else return true;
+&else if (str == null) return false;
+return true; &if (str == null) <return false;
+}else &result = false;
+<else &return false; break;
+&else <return 1;
+&else if (str.length()) <break;
+}else
+<else if (str.length() 1) return true;
+&<else return true;
+}else return true;
+&;
+if (str == null) return true;
+}else &return true;
+<else if (!str.length()) <return false;
+}else <switch (str.length()) <case 2:
+<else if (str == "true") <return true;
+}else <break;
+return false;
+&else if (str.length() > 0) return true;
+return true; &if (str == null) return false;
+&else if (str == null) return true;
+&else if (str.length() > 1) return true;
+<else <if (str == null) <return true;
+&else if (str.length() > 1) <return true;
+break; default: return false;
+&else if (str == null) &return false;
+&else if (str == null) return true;
+&else <return false;
+&if (str == null) &return true;
+}else if (!str.length()) return true;
+<if (str == null) return true;
+<else return false; break;
+&else <return true;
+}else if (str == null) &return true;
+&else if (str == null) <break;
+}else return false; &break;
+}else if (ch == "true") &return true;
+<else if (str == null) &return false;
+<&else if (str == null) &return true;
+<&else return false;
+<else switch (str.length()) <case 2:
+<else result = false;
+<else if (str == null) &break;
+&else return false; <break;
+&else if (str == null) &break;
+case 3:
+}else if (str == null) return false;
+<else <if (str == null) return true;
+&else if (str.length() > 1) &return true;
+&else &return false;
+&else <return false;
+&else if (str.length()) <return true;
+<else if (str.length() > 2) return true;
+<else if (str == null) break;
+}else
+&else if (str.length() > 2) &return true;
+}else &switch (str.length()) case 2:
+<:
+&else if (str == null) return false;
+return true; &break;
+&<else if (str == null) &return true;
+&&else &return false;
+&else <return true;
+}else if (str) &return true;
+}else if (str == null) return true;
+<else <switch (str.length()) &case 2:
+&if (str == null) &return true;
+}else if (str == "true") <return true;
+}else if (str!= null) return true;
+return true; &if (str == null) <return false;
+<&else <return true;
+&if (str.length() == 0) return true;
+&if (str.length() == 0) <return true;
+&*/
+if (str.length() > 0) return true;
+<if (str == "true") return true;
+}else if (str == null) return false;
+<else if (str.length() > 1) <return true;
+}else char ch0 = str.charAt(0);
+<else if (str == "true") return true;
+}else &return 0;
+<else &return false; <break;
+}else if (str == null) &return false;
+<if (str == null) &return true;
+if (str.length() == 0) <return true;
+}else <return false;
+if (str == null) <return true;
+<<else &return false;
+<else if (ch == "true") return true;
+}else &return false;
+<else <return false;
+&else &if (str == "true") return true;
+}else <switch (str.length()) &case 2:
+&else <break;
+}else &#endif
+<else if (str == null) return true;
+<&else &return false;
+&else if (str.length()) &return true;
+&else if (str == "true") return true;
+<&else return true;
+&else if (str == null) &return true;
+}else if (!str.length()) return true;
+&<else &break;
+&else if (str == null) &return false;
+&<else return false;
+&&else <break;
+<<else return true;
+<else return true;
+<else return 0;
+&else &return true;
+}else result = false;
+<else &return false; &break;
+if (str == "true") &return true;
+}else <return -1;
+&else if (str == null) <return true;
+}else &char ch0 = str.charAt(0);
+if (str == "true") &return true;
+&else return false;
+return true; <if (str == null) <return false;
+&else if (!str.length()) return true;
+return true; <if (str == null) &return false;
+return true;
+&if (str == null) return false;
+<else <result = false;
+}else if (str == null) <return true;
+<if (str.length() == 0) <return true;
+<else if (str.length())
+return true; if (str == null) return false;
+if (str == null) &return true;
+return true; if (str == null) &return false;
+}else <return false;
+if (str.length() > 0) return true;
+&else result = false;
+&else if (str) &return true;
+:
+}else &return true;
+}else result = false;
+&&else <return false;
+&else &switch (str.length()) case 2:
+}else if (str == null) &return true;
+&&else <return true;
+&else if (str == null) <return true;
+&<else &return true;
+<else &break;
+<if (str == null) return true;
+<else if (str == null) return false;
+<else return true;
+&&else if (str == null) <return true;
+}else if (str == null) <return false;
+&else if (str) <return true;
+<else <switch (str.length()) case 2:
+<else <return 0;
+&else if (str == null)
+<&else break;
+switch (str.length()) <case 2:
+&else <return -1;
+&else <switch (str.length()) case 2:
+&else &return true;
+&&else if (str == null) return true;
+<if (str == null) &return false;
+&else return 0;
+return true; <if (str == null) <return false;
+&else if (str.length() <1) return true;
+&else return false; &break;
+<else &switch (str.length()) case 2:
+}else &return false;
+return true; <break;
+}else &break;
+<else &result = false;
+}else if (str.length() > 0) return true;
+<else <return false; break;
+<&else if (str == null) return true;
+&if (str == "true") <return true;
+&else return false; break;
+<if (str == "true") return true;
+}else if (str.length() > 0) return true;
+&else if (!str.length()) <return true;
+}else if (str.length() > 0) &return true;
+}else <return true;
+&return true;
+<else if (str.length() > 1) return true;
+return true;
+&else if (!str.length()) return false;
+&else if (str.length() > 1) return true;
+<return false;
+<else if (str.length()) &return true;
+<if (str == "true") &return true;
+<&else
+<,
+<else if (!str.length()) return true;
+if (str.length() == 0) &return true;
+<else <if (str == "true") return true;
+&else &#endif
+&if (str.length() > 0) return true;
+&if (str == "true") &return true;
+&,
+<else if (str == null) &return true;
+}else if (str == "true") <return true;
+<else return false;
+}else return true;
+&else &return 0;
+&<else &return false;
+<else if (str.length() > 2) <return true;
+<<else return false;
+&else return 1;
+if (str == "true") return true;
+&else return true;
+<else if (str == null) &return false;
+}else if (str == null) &return false;
+&else if (str == null) return true;
+&else if (!str.length()) &return true;
+&else <return false; &break;
+<else if (str == null) <break;
+&else return true;
+&if (str == "true") <return true;
+&else if (str == null) <return true;
+<<else <return false;
+<else if (str == null) <return true;
+}else if (!str.length()) return false;
+&else
+<else if (str == null) return true;
+<else if (str == null) <return true;
+if (str == 'true') return true;
+}else if (str == null) return true;
+<else if (str == null) &return false;
+<else &if (str == null) return true;
+<else <return false; &break;
+<else <if (str == null) &return true;
+&return false;
+<&else &break;
+<;
+&<else <return true;
+<else if (str.length() == 1) return true;
+if (str == null) return false;
+<else &switch (str.length()) &case 2:
+}else return false; <break;
+<else if (str.length() > 2) &return true;
+}else if (str == null) return true;
+<else if (str.length() == 0) return true;
+if (str == null) &return true;
+,
+}else &if (str == null) &return true;
+<else if (ch == "true") &return true;
+<else &char ch0 = str.charAt(0);
+return 0;
+<&else &return true;
+<else <return 1;
+}else if (str == "true") return true;
+&else if (str == null) <return false;
+<else if (str == null) return true;
+&else if (str.length() == 1) return true;
+&else <return true;
+}else return false; break;
+&else result = false;
+<else <return true;
+&else &return false; <break;
+}else if (str.length()) return true;
+}else if (!str.length()) <return true;
+&break;
+<else <switch (str.length()) <case 2:
+<else &if (str == "true") return true;
+<else if (!str.length()) return true;
+}else return 1;
+}else if (!str.length()) &return false;
+&if (str == null) <return true;
+if (str == null) return true;
+}else <return true;
+&else if (str!= null) &return true;
+&else if (!str.length()) &return false;
+*/
+<else &#endif
+&else <break;
+}else &return true;
+}else &return 1;
+<<else &return true;
+&&else return false;
+return false;
+}else if (str.length()) break;
+&else if (str.length() 1) return true;
+&else switch (str.length()) &case 2:
+}else if (str == null) <return false;
+<&else <return false;
+}else break;
+<else <return false;
+<else <return true;
+<<else
+*/
+&else if (str == "true") &return true;
+<else if (str.length() > 0) &return true;
+<else if (str == null) return true;
+}else &return false; &break;
+}else <if (str == null) return true;
+}else <#endif
+<else if (str) &return true;
+&if (str == "true") return true;
+&else return true;
+&else if (str.length() == 0) return true;
+&else &if (str == null) return true;
+&else if (str) return true;
+&else switch (str.length()) case 2:
+<else break;
+&if (str == null) &return false;
+&&else &break;
+&else &return true;
+}else if (str.length())
+<else if (str.length()) <return true;
+}else if (str.length() > 1) <return true;
+<if (str.length() == 0) &return true;
+&else if (str.length()) break;
+if (str == "true") return true;
+<else &break;
+}else <return false; break;
+<else if (str.length() > 0) return true;
+}else if (str.length() > 1) return true;
+&else <return false; break;
+&else return true;
+}else <return false; <break;
+}else */
+&<else break;
+if (str == null) &return false;
+return true; &if (str == null) &return false;
+&<else if (str == null) return true;
+&else if (ch == "true") <return true;
+&else if (str == null) &return false;
+<else
+&<else &return false;
+<else return true;
+<else &if (str == null) &return true;
+&else <switch (str.length()) &case 2:
+&else if (str == 'true') return true;
+&&else break;
+&else <return false; <break;
+<else if (!str.length()) &return false;
+<else if (str == null) <return false;
+&else if (str == null) &return true;
+<else return false;
+<if (str == null) <return false;
+}else if (str.length() > 1) return true;
+&else &break;
+<else break;
+&<else if (str == null) <return true;
+}else <return false; &break;
+<else &if (str == null) <return true;
+&else if (str.length()) return true;
+&else &return false; break;
+}else return false;
+<else if (str == null) <return false;
+&else if (str == null) <return true;
+&else if (str == null) &return true;
+}else if (str == null)
+&if (str == "true") &return true;
+}else if (str.length() > 2) return true;
+<if (str == "true") <return true;
+&else if (str.length() > 2) return true;
+<return true;
+}else if (!str.length()) <return false;
+&return false;
+&else &break;
+<else if (str) return true;
+if (str == 'true') <return true;
+&else break;
+&else if (str == null) <return false;
+&<else <return false;
+<else if (str.length() > 1) &return true;
+<<else if (str == null) return true;
+&else <return 0;
+<else if (str == null) <return true;
+}else if (str.length() == 0) return true;
+}else return false;
+<*/
+<else <return true;
+<else &switch (str.length()) <case 2:
+<else if (str!= null) <return true;
+}else if (ch == "true") return true;
+<if (str == null) <return true;
+&else if (str == "true") <return true;
+}else if (str == null) &return false;
+&else if (str == null) <return false;
+}else if (str == null) <return false;
+if (str == null) return false;
+}else &return true;
+}else break;
+<else <return false; <break;
+<if (str.length() == 0) return true;
+}else if (str.length() > 1) &return true;
+&else &if (str == null) <return true;
+}else if (str) <return true;
+}else if (str == null) return true;
+<else return 1;
+}else &break;
+}else &switch (str.length()) <case 2:
+}else if (str.length()) &return true;
+<else return 0;
+}else &if (str == null) <return true;
+}else switch (str.length()) &case 2:
+}else <return 1;
+&if (str == null) <return false;
+<else if (str == null) <return true;
+}else switch (str.length()) <case 2:
+<else if (str.length()) return true;
+<else &return -1;
+if (str.length() > 0) &return true;
+<&else <return false;
+<else if (str == null) return false;
+&else if (!str.length()) return true;
+}else if (str == "true") &return true;
+}else return true;
+&else <if (str == null) &return true;
+#endif
+}else if (str.length() > 0) &return true;
+<else &return true;
+<else return true;
+<if (str == null) return false;
+<else &return 1;
+&else if (str.length() > 0) &return true;
+<else if (str == null) return false;
+}else <if (str == null) &return true;
+&&else
+<else if (str == null)
+<else if (str.length()) &break;
+&else &return 1;
+}else if (str == null) <break;
+&else return false;
+}else &switch (str.length()) &case 2:
+}else return 0;
+<else if (str.length() == 0)
+return true; if (str == null) &return false;
+}else <char ch0 = str.charAt(0);
+}else if (str == null) &return true;
+<else <char ch0 = str.charAt(0);
+&else if (str.length()) &return true;
+return true; break;
+return true;
+&if (str == "true") return true;
+<else if (str.length() > 0) <return true;
+}else if (str.length()) &return true;
+<else return -1;
+<else return false; <break;
+}else if (str.length() > 0) <return true;
+}else if (str.length()) &break;
+}else &return false; break;
+if (str == "true") <return true;
+switch (str.length()) case 2:
+<<else if (str == null) &return true;
+switch (str.length()) &case 2:
+<<else break;
+<else if (!str.length()) <return true;
+<else if (str == null) &return false;
+&else */
+}else if (str == null) break;
+if (str == null) <return true;
+&else <if (str == null) return true;
+&&else <return true;
+&else <if (str == null) <return true;
+&&else &return false;
+&else &char ch0 = str.charAt(0);
+}else if (str.length() == 1) return true;
+<<else return false;
+<else return true;
+<else <break;
+&else <if (str == "true") return true;
+}else if (str == null) return false;
+&else if (str.length()) &break;
+}else <return true;
+&else return 0;
+}else return true;
+&else
+&else if (!str.length()) <return false;
+#endif
+&else if (str!= null) return true;
+<break;
+<else if (str.length() > 1) return true;
+&if (str == null) return true;

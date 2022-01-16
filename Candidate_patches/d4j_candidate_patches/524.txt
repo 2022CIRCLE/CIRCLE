@@ -1,0 +1,541 @@
+golden:
+default: return false; } }
+inference:
+
+default: return false;
+return false;
+return true;
+default: return true;
+default:  return false;
+break;
+return false;
+default: return false;
+default: break;
+default: return true;
+default: return false;
+case Token.false:
+case Token.LE: case Token.GE:
+default:
+return true; return false;
+default: return false; return true;
+case Token.NOT:
+return isBooleanResultHelper;
+default: return false; break;
+default: return (false);
+else  return false;
+return true;
+return true;
+return true;  return false;
+default: result = false;
+return true; default: return false;
+#endif return false;
+return isBooleanResultHelper(n);
+default: return false; return false;
+else return false;
+#endif
+default: return true; return false;
+case Token.NOT: return true;
+default: return (false);
+default: return false;  ;
+case Token.true:
+case Token.true: case Token.false:
+default: return false; ;
+return false;
+case Token.IN:
+default: default: return false;
+return (false);
+default:  return true;
+default: return true;
+default: return false;  return false;
+default: return false;
+default: return 0;
+return (true);
+case Token.RETURN:
+case Token.LE:
+return false; ;
+default : return false;
+default: return true;
+return false;  return false;
+default: return false;  break;
+return (false);
+return result;
+return true;
+case Token.IN: case Token.INSTANCEOF:
+return true; break;
+default: return true;  return false;
+case Token.T:
+else
+case Token.false: return false;
+case Token.END:
+case Token.NE:
+default:   return false;
+default: return false; #endif
+else  default: return false;
+default: result = false; return result;
+default: return false; return 0;
+case Token.NOT: return false;
+break; default: return false;
+default: return false;  return true;
+default: ret = false;
+return (true);
+case Token.DEBUG:
+default: return isBooleanResultHelper;
+case Token.LE: case Token.GE: return true;
+case Token.NOT: return true; break;
+case Token.IN: case Token.NOT:
+case Token.false: break;
+case Token.RETURN: return false;
+default: return false; return false;
+case Token.true: return false;
+return isBoolean;
+default: return false;  #endif
+;
+case Token.NOT: return true; default: return false;
+case Token.IN: case Token.NOT: return true;
+return case Token.true: case Token.false:
+return isBooleanResultHelper (n);
+case Token.NOT: return true; return false;
+case Token.NOT: default: return false;
+case Token.IN: case Token.INVALID:
+case Token.false: default: return false;
+return case Token.false;
+case Token.T: return false;
+return false;  return false;
+default: return false;  else
+else  return false;  return false;
+case Token.false: return true;
+default: case Token.NOT: return true;
+case Token.LE: case Token.GE: return false;
+case Token.NOT:  return false;
+case Token.RETURN: default: return false;
+case Token.NOT:  return true;
+case Token.true: case Token.false:
+default: return false; return true;  return false;
+case Token.SHEQ: case Token.SHNE:
+case Token.SW: case Token.SHNE:
+case Token.ERROR: return false;
+case Token.false: return false; break;
+case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token.PAGE: case Token
+case Token.RETURN: case Token.NOT:
+case Token.T: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.TI:
+case Token.true: case Token.false: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.N: case Token.E: case Token.N: case Token.C: case Token.L: case Token.H: case Token.N: case Token.C: case Token.S: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token.L: case Token
+case Token.TYPE: case Token.TO:
+case Token.T: case Token.L: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.RETURN: case Token.RETURN: case Token.NOT:
+case Token.W: case Token.D: case Token.G: case Token.L: case Token.W: case Token.L: case Token.X: case Token.Y: case Token.L: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token
+case Token.TI: case Token.SET: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token
+case Token.L: case Token.L: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.false: case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.ID: case Token.NOT:
+case Token.REPORT: case Token.BINDING: case Token.DEBUG: case Token.BINDING: case Token.BINDING: case Token.REPORT: case Token.BINDING: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BLDG: case Token.BL
+case Token.NOT: return true;  return false;
+case Token.READABLE: return false;
+case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.Boolean:
+case Token.SWEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE:
+case Token.I: case Token.O: return false;
+case Token.LI: case Token.L: case Token.LE: case Token.GE:
+case Token.true: case Token.false: case Token.EQ: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; case Token.IN: case Token.INSTANCEOF: return true;
+case Token.LE: case Token.GE: case Token.ON:
+case Token.E: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token
+case Token.WHEEL: case Token.LP: case Token.LT: case Token.GT: case Token.LE: case Token.GE:
+case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token.TI: case Token
+case Token.T: case Token.W: case Token.C: case Token.T: case Token.D: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.X: case Token.Y: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token
+case Token.I: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token.H: case Token
+case Token.IN: case Token.INSTANCEOF: case Token.NOT: return true; return false;
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE:  return false;
+case Token.Microsoft: if (n.nextType == Token.Microsoft)  case Token.P: case Token.R: case Token.P: case Token.P: case Token.R: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.
+case Token.REPORT_OBSERVER: case Token.REPORT_FORWARD_ENTRY: if (!(n.isResult() && n.isEmpty()))  return false;
+case Token.true: case Token.false: case Token.EQ: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; default: return false;
+case Token.T: return true; default: return false;
+case Token.false: if (n.getType() == n.PL_CTOR)  default: return false;   return false;
+case Token.W: case Token.HT: case Token.LE: case Token.GE:
+case Token.Pool: case Token.Empty: case Token.true: case Token.false: case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; case Token.NOT:
+case Token.END: case Token.DEBUG: case Token.X: case Token.X: case Token.B: case Token.X: case Token.Y: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case Token.B: case
+case Token.DEBUG: printf("Error: isBooleanResultHelper()n"); return false;
+case Token.IS:
+case Token.IN: case Token.IN: return false;
+case Token.true: return true;
+case Token.PARAMETERS:
+case Token.ERR: case Token.BYTE: case Token.TABLE:
+case Token.NOT: case Token.NOT: case Token.NOT: case Token.NOT: return true;
+case Token.IN: case Token.INVALID: return false;
+case Token.NOT: case Token.NOT: return true;
+case Token.H: case Token.H: case Token.H: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token
+case Token.C: case Token.B: case Token.C: case Token.B: case Token.C: case Token.B: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token.C: case Token
+case Token.L: case Token.L: case Token.T: case Token.X: case Token.Y: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE:   return true;
+case Token.H: if (n.type!= eHTMLParserState.HTML_CDATA_SUPPORTED)  return false;
+case Token.true: case Token.FE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE:
+case Token.NOT: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.NOT: return true;
+case Token.T:   case Token.LIB:  case Token.LIB:  case Token.LIB:  case Token.LIB:  case Token.T:  case Token.LIB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token.IB:  case Token
+return true; case Token.BYTES: case Token.BYTES: case Token.TIME: case Token.PAGE: case Token.DATE: case Token.SHORT: case Token.PAGE: case Token.DATE: case Token.C: case Token.SHORT: case Token.SHORT: case Token.SHORT: case Token.X: case Token.X: case Token.Y: case Token.X: case Token.X: case Token.X: case Token.X: case Token.X: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case
+case Token.L: case Token.X: case Token.Y: case Token.L: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.X: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.Y: case Token.X: case Token.Y: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S)  default: return false;    else  return false;
+
+default: return false; else
+else &return false;
+default: return true;
+&else <return false;
+default: return false; #endif
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; &<return false;
+default: return true; <return false;
+return false; &;
+<else &default: return false;
+else <default: return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &<<else return false;
+&else &default: return false;
+<else <return false;
+<else return false; <return false;
+default: return false; &else
+case Token.true: return false;
+case Token.NOT: return true; <return false;
+case Token.Microsoft: if (n.nextType == Token.Microsoft) &case Token.P: case Token.R: case Token.P: case Token.P: case Token.R: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.
+case Token.REPORT_OBSERVER: case Token.REPORT_FORWARD_ENTRY: if (!(n.isResult() && n.isEmpty())) <return false;
+case Token.T: <case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &&case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+else return false; <return false;
+case Token.DEBUG: printf("Error: isBooleanResultHelper()&n"); return false;
+<return false;
+&else &return false;
+case Token.T: <&case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: <return false;
+case Token.NOT: return true; &return false;
+else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <&&else return false;
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; &return false;
+return case Token.false;
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+&else return false;
+&else &return false;
+&else &return false; return false;
+default: return false; <<;
+<else &return false;
+default: return false; <else
+case Token.T: <&case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.IN: case Token.NOT: return true;
+case Token.NOT: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.NOT: return true;
+return false; &return false;
+<else return false; return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <&&else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &&&else return false;
+default: return false; &break;
+default: return (false);
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; return false;
+default: &return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &&<else return false;
+&else return false; &return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <<<else return false;
+case Token.T: <&case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.NOT: return false;
+case Token.NOT:
+case Token.T: <&case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return true; &return false;
+return false; <return false;
+default: return true; &return false;
+case Token.T: &case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; <&return false;
+default: return true; return false;
+case Token.RETURN: return false;
+case Token.T: &<case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return false; return false;
+<else
+return false; &return false;
+case Token.RETURN: default: return false;
+return true; &return false;
+return (true);
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: <&return true;
+break;
+else &return false; &return false;
+else <return false;
+;
+case Token.T: &<case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &<case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; <return false;
+return false; ;
+case Token.L: case Token.L: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.Microsoft: if (n.nextType == Token.Microsoft) case Token.P: case Token.R: case Token.P: case Token.P: case Token.R: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &<&else return false;
+case Token.T: &&case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return false; &return false;
+case Token.IN: case Token.INSTANCEOF: case Token.NOT: return true; return false;
+case Token.T: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: <<return false;
+default: return false; return true; &return false;
+case Token.true: case Token.false: case Token.EQ: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; default: return false;
+case Token.false: return true;
+<else &return false; return false;
+<else &return false;
+case Token.T: return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; else return false;
+case Token.H: if (n.type!= eHTMLParserState.HTML_CDATA_SUPPORTED) <return false;
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: &return false;
+case Token.T: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+else
+default: return false; return false;
+case Token.true: case Token.false: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+default: return false; <return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <&<else return false;
+&else &return false; &return false;
+case Token.Microsoft: if (n.nextType == Token.Microsoft) <case Token.P: case Token.R: case Token.P: case Token.P: case Token.R: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.P: case Token.
+&;
+return false;
+else &return false; return false;
+return isBooleanResultHelper(n);
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <<&else return false;
+default: return false; ;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &<else return false;
+break; default: return false;
+case Token.T: <case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; &&return false;
+return false; <;
+&else <return false;
+default: return false;
+return true; <return false;
+return result;
+default: return false; &#endif
+case Token.T: &<case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return isBoolean;
+return isBooleanResultHelper;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <&else return false;
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &<<else return false;
+return true;
+<else default: return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <&else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <<else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &<else return false;
+case Token.true: return true;
+default: &&return false;
+default: return false; return false;
+default: <return false;
+case Token.T: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <&<else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <else return false;
+case Token.NOT: return true; return false;
+case Token.NOT: &return false;
+case Token.T: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.T: <&case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &&<else return false;
+default: return false; <return false;
+default: ret = false;
+<else <default: return false;
+case Token.T: &case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: <&case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &else return false;
+case Token.T: return true; default: return false;
+case Token.T: <<case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return false; ;
+default: return false; &return false;
+else <return false;
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: &<return true;
+<else <return false;
+default: result = false;
+case Token.ERROR: return false;
+default: return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &<<else return false;
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; <<return false;
+return false;
+case Token.REPORT_OBSERVER: case Token.REPORT_FORWARD_ENTRY: if (!(n.isResult() && n.isEmpty())) return false;
+default: return false; <;
+case Token.T: <case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return true; <return false;
+default: result = false; return result;
+case Token.T: case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &&else return false;
+case Token.T: <<case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: &return true;
+default: return false; return true;
+default: return false; &;
+default: case Token.NOT: return true;
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; &<return false;
+default: return false; break;
+default: <return true;
+&else return false;
+default: return false; <return true;
+return true; default: return false;
+<else <return false; return false;
+default: return false; return true; return false;
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: &&return true;
+default: &return true;
+else &return false; <return false;
+case Token.T: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: <<return true;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &&&else return false;
+case Token.IN: case Token.IN: return false;
+case Token.T: <<case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+#endif return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &&&else return false;
+case Token.T: case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+&else &return false; <return false;
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; return false;
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; <<return false;
+case Token.T: case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+&else <return false; &return false;
+case Token.T: <case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return isBooleanResultHelper (n);
+return false;
+case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return false;
+else &return false;
+case Token.READABLE: return false;
+case Token.H: if (n.type!= eHTMLParserState.HTML_CDATA_SUPPORTED) return false;
+case Token.T: case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return true;
+else return false; return false;
+case Token.T: &&case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+<return false;
+case Token.true: case Token.false: case Token.EQ: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; case Token.IN: case Token.INSTANCEOF: return true;
+case Token.T: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; else return false;
+case Token.T: &<case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return (false);
+default: default: return false;
+<else <return false; &return false;
+else <return false; return false;
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; &return false;
+default: return true;
+<else return false;
+<else &return false; &return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <else return false;
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; <&return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &&<else return false;
+return true; return false;
+case Token.T: <&case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+&else <default: return false;
+default: return false;
+case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.Boolean:
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; <<&else return false;
+&else <return false; return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &<&else return false;
+&return false;
+case Token.T: &case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+<;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &else return false;
+case Token.T: case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; <return false;
+<else <return false; <return false;
+case Token.Pool: case Token.Empty: case Token.true: case Token.false: case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.LT: case Token.GT: case Token.LE: case Token.GE: return true; case Token.NOT:
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <<else return false;
+&else default: return false;
+case Token.DEBUG: printf("Error: isBooleanResultHelper()n"); return false;
+case Token.T: <&case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return false; <return true;
+case Token.NOT: &return true;
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; &<return false;
+case Token.T: &<case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: <case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.EQ: case Token.NE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: <return true;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; else return false;
+case Token.T: <&case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return true;
+case Token.T: &&case Token.LIB: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return false;
+case Token.T: &<case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return false; &return true;
+default: return false; &return false;
+case Token.H: if (n.type!= eHTMLParserState.HTML_CDATA_SUPPORTED) &return false;
+return false; return false;
+default: return false; &&;
+case Token.T: case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+<else return false; &return false;
+else default: return false;
+case Token.T: case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return true; return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <<<else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &<&else return false;
+default: return false; <&;
+case Token.T: &case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default:
+default: &<return false;
+&else return false; return false;
+default: return false; <;
+case Token.T: <<case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return false; return 0;
+case Token.NOT: return true;
+case Token.false: if (n.getType() == n.PL_CTOR) &default: return false; &&return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <<<else return false;
+case Token.NOT: <return true;
+default: <&return false;
+<else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; &&else return false;
+case Token.IN: case Token.INVALID: return false;
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; return false;
+default: return false; &;
+else return false;
+default: return false; &<;
+default: return false; &return true;
+case Token.T: &<case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return false; return true;
+&else <return false; <return false;
+case Token.T: <case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+&return false;
+case Token.T: &&case Token.LIB: &case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.DEBUG: printf("Error: isBooleanResultHelper()<n"); return false;
+case Token.T: &&case Token.LIB: case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; <&return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <else return false;
+default: return false; #endif
+else <return false; <return false;
+case Token.T: case Token.L: case Token.GT: case Token.LE: case Token.GE: return true;
+case Token.NOT: <return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) <default: return false; <&else return false;
+case Token.T: &case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+<else &return false; <return false;
+default: return false; return true; <return false;
+default: return isBooleanResultHelper;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <<&else return false;
+&else return false; <return false;
+else &default: return false;
+default: return false; break;
+return (false);
+#endif
+case Token.T: <<case Token.LIB: case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &&case Token.LIB: <case Token.LIB: &case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: &<case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: <<case Token.LIB: <case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return false; <return false;
+default: return false; <break;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <&&else return false;
+default: return true;
+case Token.T: <<case Token.LIB: <case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: default: return false;
+case Token.T: &&case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.T: <<case Token.LIB: &case Token.LIB: <case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+case Token.false: if (n.getType() == n.PL_CTOR) default: return false; &&return false;
+case Token.T: &&case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+return true;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) &default: return false; &&else return false;
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; <return false;
+default: break;
+return true;
+case Token.false: return false;
+default: return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &else return false;
+case Token.T: <<case Token.LIB: &case Token.LIB: case Token.LIB: case Token.LIB: case Token.T: case Token.LIB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token.IB: case Token
+default: return (false);
+case Token.NOT: default: return false;
+default: return 0;
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; <<return false;
+default: return false; return false;
+default : return false;
+case Token.false: case Token.SE: case Token.SHEQ: case Token.SHNE: case Token.LT: case Token.GT: case Token.LE: case Token.GE: case Token.ID: case Token.NOT:
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <<else return false;
+case Token.I: case Token.O: return false;
+return false; <return false;
+else return false; &return false;
+return false; return false;
+return (true);
+case Token.false: if (n.getType() == n.PL_CTOR) <default: return false; &return false;
+&else
+case Token.LE: case Token.GE:
+else <return false; &return false;
+default: return false;
+default: return false; <#endif
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; <&<else return false;
+case Token.S: if (n.getType() == nsBoolean: && n.getType() == Token.S: if (n.getType() == Token.S) default: return false; &<else return false;
+case Token.REPORT_OBSERVER: case Token.REPORT_FORWARD_ENTRY: if (!(n.isResult() && n.isEmpty())) &return false;

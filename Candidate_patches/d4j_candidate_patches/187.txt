@@ -1,0 +1,396 @@
+golden:
+return false;
+inference:
+return false;
+return false;
+return true;
+return (false);
+return (false);
+return isNumber;
+
+return true;
+return false;  return true;
+return true;
+return 0;
+return false;  return false;
+return (false);
+return true;
+return 1;
+return (error);
+return false;
+return(false);
+return hasExp;
+return false; break;
+return result;
+return false; return true;
+return -1;
+return false;
+return (-1);
+goto out;
+return ret;
+return(false);
+return (true);
+return false; return false;
+return (0);
+break;
+return (false);
+return (true);
+return rv;
+goto done;
+return false; return 0;
+return false;  return 0;
+return (true);
+return retval;
+return isDigit;
+return;
+return false;  else return false;
+ret = false;
+return false; goto out;
+goto fail;
+return NS_OK;
+return true;  return false;
+return flags;
+return error;
+goto ret;
+#endif return false;
+return false; #endif
+return isEmpty;
+result = false;
+goto bad;
+return str;
+return false; goto done;
+return (failed);
+return (1);
+return false;  return 1;
+return(false);
+return ( false );
+return PZ_FALSE;
+return false; return 1;
+return (error == 0);
+return false;  return true;
+return (NS_OK);
+return EIF_FALSE;
+return (int) false;
+return false; */
+return false; return true;
+return return false;
+return (null);
+return, false;
+return RETURN_FALSE;
+else return false;
+return false;  return -1;
+return status;
+return isDependent;
+return hasExp == false;
+return value;
+return TAILQ_FALSE;
+return false; goto ret;
+return
+return hasExp == 0;
+return isLength;
+return false;  break;
+return true;  return true;
+return (isNumber);
+return (verbose);
+return EINVAL;
+return (ret);
+return isError;
+return false; goto fail;
+return (true);
+return false; return true;
+return (fail);
+goto loser;
+goto cleanup;
+return true; return false;
+return false; else return false;
+return IS_FALSE;
+result = false; return result;
+return len;
+return false;  else return true;
+return (false) false;
+return = false;
+return (char) false;
+returnfalse;
+return false; return isNumber;
+returnCode(false);
+return code;
+else  return false;
+return this;
+return isDefault;
+return!isNumber;
+return bool;
+return isValid;
+return type;
+return (int)false;
+return true; break;
+error = false; goto out;
+return (error = false);
+return EIF_TRUE;
+return hasExp == false;
+return false; return -1;
+returnTrue;
+continue;
+return false;  return hasExp;
+returnFalse;
+return isNull;
+return false;  return result;
+error = false;
+return false; #endif return false;
+return isNumber:
+return READ_FALSE;
+return false; continue;
+return-1;
+return hasExp = false;
+return(-1);
+retval = false;
+goto error;
+return false;  #endif
+return isUnknown;
+return isNew;
+return false;  return true;
+return false;;
+return (result);
+return isFlags;
+return (rv);
+return false;  return (-1);
+result = false; break;
+return false; return (false);
+return (i == sz);
+return (!isNumber);
+return (error) false;
+return 2;
+error = false; return error;
+return (str) false;
+return false; return (false);
+return false;*/
+return (FE_FALSE);
+return (ret == 0);
+return false; return hasExp;
+return(1);
+return true;  else return false;
+return (EIF_FALSE);
+return false; goto bad;
+return false;  else
+return false;  return (error);
+return isReal;
+return false; goto cleanup;
+return false; /*
+return false; #endif return true;
+return isFinal;
+return hasExp == true;
+return (error = 0);
+return true;  return 0;
+return hasExp!= 0;
+return (1  str.length);
+return false;  return (0);
+return false;  return str;
+return false;  goto out;
+return (str!= '0');
+return isDummy;
+return false;  /* no ptr */ return (STATIC_CAST(const char *, str.get()));
+return false;  return (false);
+return false;  return (*((chars[i]  '0' || chars[i] > '9')) && ((chars[i]  'a' || chars[i] > 'f')) && ((chars[i]  'a' || chars[i]  'F')) && ((chars[i]  'a' || chars[i] > 'A')) && ((chars[i]  'A' || chars[i] > 'F')) && ((chars[i]  'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2'))  if ((chars[i] > '3
+return false;  return (str == '0')? 1 : 0;
+return false;  if (type == TYPE_BUSY) return false;
+return false;  if (!str) return false;
+return false;  return isEnd;
+
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (str == '<0')? 1 : 0;
+return true; else return false;
+return true; return true;
+return false; &return str;
+return false; return false;
+return false; &return (str == '&0')? 1 : 0;
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+<return true;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <break;
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; if (!str) return false;
+return false; <return true;
+return false; &return (error);
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return 1;
+return true; <return false;
+&return false;
+return false; return true;
+return false; &goto out;
+return false; <return (str == '0')? 1 : 0;
+&return false;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (0);
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return (1 &str.length);
+return false; <return true;
+return false; <#endif
+return false; <else return true;
+return true; &else return false;
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return true;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; else
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <else
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return true; &return 0;
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; break;
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false;
+return false; /* no ptr */ return (STATIC_CAST(const char *, str.get()));
+return false; &return false;
+return false; &return (-1);
+return false; goto out;
+<return true;
+return false; &#endif
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &break;
+return true; <else return false;
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+<return false;
+return false; </* no ptr */ return (STATIC_CAST(const char *, str.get()));
+return false; &return 0;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &if (type == TYPE_BUSY) return false;
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &else return false;
+return false; &else return true;
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+else &return false;
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (0);
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+&&return false;
+return false; <if (!str) return false;
+return false; &return (str == '0')? 1 : 0;
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return -1;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return -1;
+return false; <return (-1);
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (false);
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; break;
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (str == '&0')? 1 : 0;
+else <return false;
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return true;
+return false; return (-1);
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; else return true;
+return true; <return 0;
+return false; return 1;
+&<return false;
+return false; <return result;
+return false; &return hasExp;
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <else return false;
+return true;
+return true; return false;
+return false; return result;
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return true;
+&return true;
+return false; return false;
+return false; <return isEnd;
+return false; <return (false);
+return false; &return (str == '<0')? 1 : 0;
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return (1 str.length);
+return false; &else
+return false; <return 0;
+return false; &return true;
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return true; &return true;
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (str == '0')? 1 : 0;
+return true; &return false;
+<<return false;
+return false; return str;
+return true; <return true;
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return true;
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return 1;
+return false; <return false;
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return isEnd;
+return true; return 0;
+<return false;
+return false; return 0;
+return false; <goto out;
+else return false;
+return false; <return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return hasExp;
+return false; return isEnd;
+return false; &return result;
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return true;
+return false; <return (str == '<0')? 1 : 0;
+return false; <return (str == '&0')? 1 : 0;
+return false; #endif
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &/* no ptr */ return (STATIC_CAST(const char *, str.get()));
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (0);
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return hasExp;
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; else return false;
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <if (type == TYPE_BUSY) return false;
+return false; &return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+<&return false;
+return false; &return (false);
+return false; &return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; if (type == TYPE_BUSY) return false;
+return false; &return -1;
+&return true;
+return (1 <str.length);
+return false; <return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; <return str;
+return false; <return (error);
+return false; &if (!str) return false;
+return false; return (*((chars[i] &'0' || chars[i] > '9')) && ((chars[i] <'a' || chars[i] > 'f')) && ((chars[i] 'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (error);
+return false; &return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false;
+return false; &return true;
+return false; return (*((chars[i] '0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] <'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] 'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return (*((chars[i] <'0' || chars[i] > '9')) && ((chars[i] &'a' || chars[i] > 'f')) && ((chars[i] &'a' || chars[i] 'F')) && ((chars[i] 'a' || chars[i] > 'A')) && ((chars[i] 'A' || chars[i] > 'F')) && ((chars[i] 'F') || (chars[i] > 'E')) && ((chars[i] > '2') || (chars[i] > '2')) && (chars[i] > '2')) if ((chars[i] > '3
+return false; return true;

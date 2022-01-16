@@ -1,0 +1,522 @@
+golden:
+return true;
+inference:
+return true;
+return true;
+return (true);
+return result;
+
+return false;
+return EIF_TRUE;
+return false;
+return true;
+result = true;
+return value;
+return 1;
+return isImmutableValue(value);
+return rv;
+return value.getValue();
+return;
+return true;
+return (true);
+return value.getLastChild();
+return 0;
+return retval;
+break;
+return (true);
+return locals.apply(value);
+return (true);
+return true; break;
+return(true);
+ret = true;
+return ret;
+return isEmpty;
+return value.getFirstChild();
+result = true; return result;
+return res;
+return isValid;
+return value.isEmpty();
+return values.isEmpty();
+return = true;
+return (value.getLastChild());
+return (IS_TRUE);
+goto done;
+return!value;
+return -1;
+return NS_OK;
+return!value.isEmpty();
+result = true; break;
+return value.getType();
+return (value.getLastChild() == 0);
+return false;
+return type;
+return isImmutableValue(value), locals;
+return, true;
+return (EIF_TRUE);
+return EINVAL;
+return val;
+return isTrue;
+return status;
+return false;
+return bool;
+return (result);
+goto out;
+return.true;
+return!isImmutableValue(value);
+else  return true;
+return (value);
+goto fail;
+retval = true;
+return EVAL_TRUE;
+ret = true; return ret;
+return *value;
+return REPORT_TRUE;
+return PZ_TRUE;
+return isValue;
+return (false);
+return retVal;
+return (false);
+return isImmutableValue;
+return value.isImmutableValue();
+return value.getErrorCode();
+return (value == null);
+return value.getFirstChild().getNext();
+return value.getNext();
+return value.getType() == Token.ASSIGN;
+return value.getTrue();
+return isInitialized;
+return null;
+return value.getTrueValue();
+return (error);
+return isLocal;
+goto bad;
+returntrue;
+return exists;
+return (value.getType() == Token.ASSIGN);
+return value.isValid();
+goto ret;
+return (false);
+return value == null;
+return (value!= null);
+return (-1);
+return evaluatesToLocalValue(value, locals);
+goto cleanup;
+return EIF_SUCCESS;
+return PR_SUCCESS;
+return (isImmutableValue(value));
+return PR_True;
+error = true;
+return EIF_FALSE;
+return value.isImmutable;
+return isEmpty();
+return value.IsEmpty();
+return ok;
+return (value.getLastChild() == null);
+return valid;
+rv = true;
+return values.true;
+return null;
+return(true);
+return (strdup(value));
+return value.getLength();
+return (ret);
+return ASSERT_SUCCESS;
+return(true);
+return error;
+return (value.isEmpty());
+return values;
+return (rv);
+res = true;
+return evaluated;
+return (value.getFirstChild());
+return (getter_AddRefs(value));
+return compare(value.getLastChild(), locals);
+return true; #endif
+ret = true; break;
+return (value.getLastChild()  0);
+return Compare(value.getLastChild(), locals);
+return value.isImmutableValue;
+return value.getName();
+return!isImmutableValue;
+return values[0];
+return-1;
+return (1);
+res = true; return res;
+return (value.getFirstChild()!= null);
+return
+return (value.getFirstChild() == 0);
+return isToStringMethod(value);
+return!value.isImmutableValue();
+return (boolean)true;
+return bool(value);
+rv = true; return rv;
+return value.getUniqueValue();
+retval = true; return retval;
+return (ret == true);
+return isImmutableValue(value), locals);
+return isImmutable;
+return isImmutableValue(value, locals);
+return (value.getFirstChild()!= 0);
+return isAlias;
+return callHasLocalResult(value);
+return isImmutableValue(value, true);
+return (value.getLastChild() >= 0);
+return isImmutableValue(value) || locals;
+return true;  else  return true;
+return isImmutableValue(value, true);
+return (value.getLastChild()!= value);
+return value.getLastChild() == 0;
+return value.getLastChild()!= 0;
+return value.getLocals();
+return isImmutableValue();
+return value.getCaseInsensitive();
+return (value.getLength() > 0);
+return IsImmutableValue(value);
+return (result == true);
+return values.contains(value);
+return value.getAssignment();
+return (value.getLastChild() - 1);
+return case Token.THIS:
+return isImmutableValue( value );
+return true;  else  return false;
+return isToStringProp(value);
+return (value.getLastChild() == null);
+return!isImmutable;
+return (value.getLastChild() > 0);
+return value.isImmutable();
+return isImmutableValue(value, 0);
+return (isImmutableValue(value), locals);
+return (value.getErrorCode() == 0);
+return!value.isImmutable;
+return (value.getValue());
+return value.getLastChild() - 1;
+return isImmutableValue(value, 1);
+return value.getErrorCode() == 0;
+return isToLocalValue;
+return case Token.THIS: return locals.apply(value);
+return value.getLocals() == 0;
+return isImmutableValue(value.getLastChild());
+return!isImmutableValue(value.getLastChild()) && (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals));
+return isToLocalValue(value.getLastChild(), locals);
+return (value.getType()!= '0');
+return (convType == TOKEN_UNKNOWN);
+return (saved);
+return isImmutableValue(value) || locals.apply(value); case Token.END: case Token.RIGHT: case Token.RW: case Token.RW: case Token.SW: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RW: case Token.RW: case Token.RIGHT: case Token.SW: case Token.SW: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.RIGHT: case Token.
+return (EmptyLocalEnumerate(value, value.getLastChild()));
+return isLocal || value.getPath() == value.getLastChild();
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP))  return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals);  else  return true;
+return isImmutableValue(value) || locals.apply(value); case Token.FIRST: return evaluatesToLocalValue(value.getLastChild(), locals); case Token.THIS: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluates
+return!isInstantiated;
+return (value.getLastChild() == value.getFirstChild());
+return value.getLength() - 1;
+return case Token.THIS: return locals.apply(value); case Token.NAME: return isImmutableValue(value) || locals.apply(value);
+return (evaluatesToLocalValue(value.getLastChild(), locals));
+return case Token.ELEMENT_OBSERVER: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals);
+return (value.getType() == Token.NAME)? true : false;
+return (value.getLastChild()) || (value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() >= 0)  if (value.getBooleanProp(Node.INCRDECR_PROP))
+return true; case Token.LEATHER: case Token.LEATHER: return evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals);
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0)  if (!isImmutableValue(value))  return false;   return true;
+return case Token.ASSIGN: return!evaluatesToLocalValue(value.getLastChild(), locals, value.getLastChild());
+return isImmutableValue(value) || locals.apply(value);
+return true;  case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP))  return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals);  else  return true;  case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return isImmutableValue(value.getLastChild(), value.getLastChild());
+return (value.getLength() >= 1);
+return value.getBooleanProp(Node.INCRDECR_PROP);
+return true;  else  return (true);
+return true;  return isUnique.class.isNative();
+return isToStringMethod(value, locals);
+return!(value.getBooleanProp(Node.INCRDECR_PROP) || value.getFirstChild().getNext()) || value.getValue().getBooleanProp(Node.INCRDECR_PROP));
+return isImmutableValue(value.getLastChild(), value.getLastChild()) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), value.getLastChild(), locals));
+return true; case Token.CALL: return evaluatesToLocalValue(value.getLastChild(), locals);
+return case Token.THIS: case Token.NAME: return isImmutableValue(value) || locals.apply(value);
+return isImmutableValue(value.getLastChild(), value.getLastChild()) || (value.getValue() == 0);
+return value.getFlatValue();
+return (EIF_SUCCESS);
+return value.getEmpty();
+return (result == true);
+return (EvalHasLocalResult(value) || isToStringMethodProp(value.getLastChild(), value));
+return true; case Token.PRUint32: return 0;
+return evaluateToLocalValue(value, locals);
+return isImmutableValue(value.getLastChild(), locals);
+return true; case Token.INC: case Token.DEC: if (value.getBooleanProp(Node.INCRDECR_PROP))  return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals)); case Token.TOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLas
+return (retval == true);
+return (value.getLastChild())? true : false;
+return (value.getLastChild()) || (value.getLastChild()  ((PRInt32)value.getLastChild())? 0 : 0, 0);
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null)  return false;  else  return false;
+return (EvalCaseToLocalString(value.getLastChild()));
+return case Token.THIS: case Token.THIS: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals)); case Token.HOOK: return evaluatesToLocalValu
+return isImmutableValue(value) || locals.apply(value); case Token.ELEMENT: case Token.ELEMENT_LEFT: case Token.ELEMENT_LEFT: case Token.ELEMENT_LEFT: case Token.ELEMENT_LEFT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT_RIGHT: case Token.ELEMENT
+return value.getSynthesizedValue();
+return isReal;
+return (value.getType() == 0);
+return isToStringProp(value.getFirstChild());
+return (isImmutableValue(value) || locals) == 1;
+return (EvaluateObject(value));
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; <&return true;
+return true; <else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; return true;
+return true; <else <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; &else &return false;
+return true; else &return (true);
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <return isUnique.class.isNative();
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; &return true;
+return true; &else <return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; <<return true;
+return true; return isUnique.class.isNative();
+return true; else &return false;
+return true; else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; <return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <else &return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; &&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; <&return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true;
+return true; <else <return false;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; &else &return false;
+&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; &return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; else <return (true);
+return (value.getLastChild()) || (value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() >= 0) <if (value.getBooleanProp(Node.INCRDECR_PROP))
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; &<return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; &<return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <else <return (true);
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; else &return false;
+return (value.getLastChild() <0);
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; <else <return false;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild()) || (value.getLastChild() ((PRInt32)value.getLastChild())? 0 : 0, 0);
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; <<return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild()) || (value.getLastChild() &((PRInt32)value.getLastChild())? 0 : 0, 0);
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; <return true;
+return true; case Token.INC: case Token.DEC: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals)); case Token.TOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLas
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+<return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; &else <return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; <<return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; <&return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; <&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; &&return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; <else <return false;
+return (value.getType()!= '&0');
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; <return true;
+else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; &return true;
+return true; &else &return (true);
+return true; else return (true);
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; else return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; <return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else <return (true);
+&else return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; <else &return false;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; else <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; <<return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; <<return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; <<return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; &return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <else &return (true);
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; else <return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; &&return true;
+return (value.getType()!= '<0');
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; &&return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; <else return false;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild()) || (value.getLastChild() <((PRInt32)value.getLastChild())? 0 : 0, 0);
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; &&return true;
+&return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; &<return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; return true;
+return true; else return false;
+return true; case Token.INC: case Token.DEC: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals)); case Token.TOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLas
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true;
+return true; &else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; &&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; &&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; <<return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; &else &return false;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+<else &return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; &return true;
+return true; &return isUnique.class.isNative();
+<else return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; else &return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; &<return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; <else &return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; <<return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else return (true);
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; <&return true;
+return true; <else return false;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild() 0);
+return true; <else return (true);
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; &<return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; &return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; else <return false;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true;
+return true; case Token.INC: case Token.DEC: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); case Token.HOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals)); case Token.TOOK: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLas
+return (value.getLastChild()) || (value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() >= 0) &if (value.getBooleanProp(Node.INCRDECR_PROP))
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; <&return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; &else <return false;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+&else <return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) return false; <&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; &<return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; else return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) &return false; return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; <else &return false;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; <else return false;
+return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild() &0);
+else <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; <else <return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; &<return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; &return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; &else return false;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; &else return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; <&return true;
+return true; else return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+else &return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else return false;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (value.getLastChild()) || (value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() && value.getLastChild() >= 0) if (value.getBooleanProp(Node.INCRDECR_PROP))
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+<return true;
+return true; &else &return false;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; &return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) &return false; else return false;
+return true; <else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) &return false; return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; &else <return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; <&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) return false; &<return true;
+<else <return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; &&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; return true;
+return true; <else <return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; else <return false;
+return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; <else return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) return false; &<return true;
+return true; &else &return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; else &return true;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) if (!isImmutableValue(value)) <return false; &&return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) &if (!isImmutableValue(value)) <return false; return true;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) &return false; <<return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true;
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) return false; &else return false;
+return true; case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; else return true;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else <return true;
+return true; <case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &else <return true;
+return true; else <return false;
+return true; case Token.NO_TYPE: if (value.getBooleanProp(Node.INCRDECR_PROP)) &return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); <else &return true;
+return true; else <return true;
+&else &return true;
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) <return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else <return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return true; &case Token.DEBUG: if (value.getBooleanProp(Node.INCRDECR_PROP)) return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals); &else &return true; case Token.AND: case Token.OR: return evaluatesToLocalValue(value.getFirstChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValue(value.getLastChild(), locals) && evaluatesToLocalValu
+return case Token.ALPHA: if (!value.isEmpty() && value.getParent()!= null) <return false; else &return false;
+return (isImmutableValue(value) || (locals.apply(value) && evaluatesToLocalValue(value.getLastChild(), locals))); case Token.DEBUG: if (value.getFlushState()!= 0) <if (!isImmutableValue(value)) <return false; <return true;
+return (value.getType()!= '0');

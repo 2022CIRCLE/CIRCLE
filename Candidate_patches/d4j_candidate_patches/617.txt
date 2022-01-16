@@ -1,0 +1,1127 @@
+golden:
+return result;
+inference:
+return NS_OK;
+return (result);
+return result;
+return null;
+
+return rv;
+return stream.getRemainingJSDocLine();
+return res;
+return &result;
+return(result);
+return JS_TRUE;
+return false;
+return 0;
+return ret;
+return JS_FALSE;
+return null;
+return JS_OK;
+return aResult;
+return true;
+return NS_ERROR_FAILURE;
+return result == null;
+return string.getRemainingJSDocLine();
+return *result;
+return stream;
+return String(result);
+result = stream.getRemainingJSDocLine(); return result;
+return data;
+return stream.remainingJSDocLine;
+return result.get();
+return mDocLine;
+return stream.GetRemainingJSDocLine();
+return aRemainingJSDocLine;
+return result == 0;
+return this;
+return result = stream.getRemainingJSDocLine();
+return retval;
+return string;
+return result; return NS_OK;
+return JS_SUCCESS;
+return getRemainingJSDocLine();
+return (*result);
+return result ATTRIBUTE_UNUSED;
+return std::result;
+return!result;
+return JSDocLine(result);
+return stream.getRemainingJSDocLine();
+return rs;
+return NS_REINTERPRET_CAST(char*, result);
+return NS_ERROR_NULL_POINTER;
+return stringRemainingJSDocLine;
+return stream.GetRemainingJSDocLine();
+return PRUint32(result);
+return mRemainingJSDocLine;
+return NS_SUCCEEDED(result);
+return code;
+return js_result;
+return String.valueOf(result);
+return len;
+return stream.remainingJSDocLine;
+#endif return result;
+return;
+return str;
+return result = null;
+return val;
+return result? result : null;
+return result || result;
+return result;  return NS_OK;
+return (0);
+return -1;
+return, result;
+return s;
+return (stream.getRemainingJSDocLine());
+*result = result; return NS_OK;
+return "";
+return strdup(result);
+return NS_ERROR_OUT_OF_MEMORY;
+return result.cstr_oneuse();
+return NS_ERROR_NOT_IMPLEMENTED;
+return '0';
+return JSDocLine;
+return result? 0 : result;
+return (null);
+return PL_strdup(result);
+return Result;
+return (void) result;
+return NS_CONST_CAST(char*, result);
+return false;
+return result == null;
+return xstrdup(result);
+return 1;
+return (!result);
+return new JSDocLine();
+return NS_ERROR_ILLEGAL_VALUE;
+return GetRemainingJSDocLine();
+return jsnull;
+return result? null : result;
+return (null!= result);
+return nsCString::result;
+return JS_ERROR_FAILURE;
+return result.clone();
+return result;  return result;
+return nsXPIDLCString::result;
+#endif return stream.getRemainingJSDocLine();
+return r;
+return JSDocLine::result;
+return RemainingJSDocLine(result);
+return String();
+return NS_STATIC_CAST(char*, result);
+return mResult;
+return (false);
+return JSResult;
+return NS_REINTERPRET_CAST(String, result);
+return result || stream.getRemainingJSDocLine();
+return rc;
+return nsJSDocLine::result;
+return (NS_OK);
+return result? result : result;
+rv = result; return rv;
+return result; return 0;
+return (rv);
+return JSDocLine.getRemainingJSDocLine();
+return NS_ERROR_NOT_INITIALIZED;
+return StringRemainingJSDocLine(result);
+return result; #endif
+return true;
+return JSDocLine.get();
+return result!= null;
+return &(result);
+return result!= null;
+return stream.remainingJSDocLine();
+return (string);
+return nsDependentCString(result);
+return result || result == null;
+return result? NS_OK : null;
+return getRemainingJSDocLine(result);
+return status;
+return value;
+return result; return null;
+#endif return NS_OK;
+res = result; return res;
+return (int)(result);
+NS_RELEASE(result); return result;
+return true;
+break;
+return result && stream.getRemainingJSDocLine();
+ret = result; return ret;
+return NS_STATIC_CAST(String*, result);
+return new JSDocLine;
+return NS_CONTENT_ATTR_HAS_VALUE;
+return NS_ERROR_UNEXPECTED;
+return char* result;
+return JSDocLine.GetRemainingJSDocLine();
+return result.cstr();
+return nsAutoString::result;
+result = stream.getRemainingJSDocLine();
+return result? result : 0;
+return jsval;
+return jstrdup(result);
+return nsDocLine::result;
+return jsDocLine;
+return nsString::result;
+return const char* result;
+return new JSDocLine(result);
+return result;  return 0;
+return (RemainingJSDocLine);
+return NS_REINTERPRET_CAST(char *, result);
+return JSDocLine();
+return NS_ERROR_INVALID_ARG;
+return (strlen(result));
+return result? 0 : 0;
+return result!= 0;
+return JS_ERROR_NULL_POINTER;
+return result? null : result;
+return result? NS_OK : NS_OK;
+return getRemainingJSDocLine(&result);
+return stream.getRemainingJSDocument();
+NS_IF_RELEASE(result); return result;
+if (result) return result; return NS_OK;
+return NS_STATIC_CAST(String, result);
+return (const char*)result;
+return (result)? result : result;
+return JSDocLineResult;
+return result; /* XXX */
+NS_ADDREF(result); return result;
+*result = stream; return result;
+return (RemainingJSDocLine)result;
+return result? result : NS_OK;
+return nsCRT::free(result);
+return result? NS_OK : result;
+return result == NS_OK;
+*result = NS_OK; return result;
+return NS_STATIC_CAST(String&, result);
+*result = NS_OK; return NS_OK;
+if (result)  return result;
+return stream.getRemainingJSDocLine(result);
+return nsCRT::strdup(result);
+return nsGenericHTMLElement::GetRemainingJSDocLine(result);
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream))  if (result!= NS_OK) return; NS_ADDREF(result);  if (result == NS_OK)  return;  return result;
+if (!stream.hasRule)  return NS_ERROR_FAILURE;  if (result)  return NS_ERROR_FAILURE;  return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult)  NS_RELEASE(aResult); return NS_OK;   return NS_OK;
+NS_PRECONDITION((null!= aResult) && (null!= aResult)) return NS_ERROR_FAILURE; return NS_OK;
+if (isDocument) return 0; return 0;
+if ((result = stream.getRemainingJSDocLine()))  return result;  else  char* result = stream.getRemainingJSDocLine(); return result;
+char *db = stream.getRemainingJSDocLine(); if (db)  char *db = stream.getRemainingJSDocLine(); return retval;  else  if (db)  char *db = stream.getRemainingJSDocLine();   return retval;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject))  jsDocObject = null;  JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+JSDocLine result = stream.getRemainingJSDocLine(); return result;
+return result.replaceChar('0', '0');
+/* * Do nothing. */ if (stream.isFile())  if ((!file) || (stream.isDirectory()))  nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+return stream.RemainingJSDocLine;
+return (int) & result;
+return JSDocLine.create(&result);
+JSDocLine* result = stream.getRemainingJSDocLine(); if (result) return result; return result;
+if (!stream.isDtor())  if (!result)  return NS_ERROR_FAILURE;  return result;
+if (strcmp(strlen(stream.getRemainingJSDocLine) - 1 > 1)) return stream.getRemainingJSDocLine(strlen(stream.getRemainingJSDocLine) - 1); if (strcmp(strlen(stream.getRemainingJSDocLine) - 1 > 1)) return stream.getRemainingJSDocLine(strlen(stream.getRemainingJSDocLine) - 1); else return stream.getRemainingJSDocLine(strlen(stream.getRemainingJSDocLine) - 1);
+return mCurrentDocLine;
+return (void)("getRemainingJSDocLine");
+if (!stream.isDocument) return null; if (! stream.isRemaining()) return null; if (! stream.isRemaining()) return null; return stream.getRemainingJSDocLine();
+return result; /* XXX - A few lines in a char */ return NS_OK;
+return (*)(void *)(void *)result;
+if (result == null)  return NS_ERROR_FAILURE;  NS_ADDREF(result); if (result)  NS_ADDREF(result);  return result;
+if (null!= stream)  stream.close();  else  char *string; /* XXX */ char char *prefix; if (null == stream)  char* s;  if (null!= stream.flags)  s = stream.flags; s = stream.flags;  if (null!= stream.flags)  stream.flags |= JS_FILE_TO_URI; s = stream.flags;  if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags))  stream.flags |= JS_FILE_TO_URI;  return result;  if ((null!= stream.flags)
+if (!null)  char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3];  else  char *cbuf[4]; char *cbuf[6];  return cbuf;
+return JS_RETURN_OK;
+if (!aFrame)  return NS_ERROR_NULL_POINTER;   return NS_OK;
+char* snprintf(stderr, sizeof(snprintf)); return snprintf;
+return result.toLowerCase();
+nsresult rv = NS_OK; return NS_OK;
+return JSDocLineToSupports(result);
+return result.strip();
+return result == null? null : null;
+if (result)  *result = stream.getRemainingJSDocLine(); return result;  return NS_OK;
+return (*(null!= stream))? result : result;
+char *tmp; if (stream)  char *tmp = stream.char_name;  return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op))  nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret;  if (result == NS_OK)  if (result == NS_ERROR_FAILURE)  ret = NS_ERROR_FAILURE;    return ret;
+if (!stream) return NS_ERROR_NULL_POINTER; else return stream.getRemainingJSDocLine();
+/* * XXX */ return result;
+char* result = stream.GetAsciiData(); if (!result) return NS_ERROR_FAILURE; char* jsdnsidnsidnsIIDnsIDocument* doc = stream.GetAsciiData(); if (!doc) return NS_ERROR_FAILURE; return JSDOMDocument::GetRemainingJSDocLine(&result);
+if (stream.getRemainingJSDocLine())  char* result = stream.getRemainingJSDocLine(); if (!result)  mParent = this;  return result;
+/* return 0;*/ return result;
+if (!result) return NS_ERROR_OUT_OF_MEMORY;
+return result; /* * The result for a JavaScript docline isn't an oss. */ if (!isRemaining) return 0; return 0;
+return nsCString::iterator result;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; &<return NS_OK;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.isDtor()) if (!result) &return NS_ERROR_FAILURE; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; &return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if ((result = stream.getRemainingJSDocLine())) return result; else <char* result = stream.getRemainingJSDocLine(); return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; <&return NS_OK;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; &return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (null!= stream) stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; return result;
+if (null!= stream) stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+return result; return 0;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; <return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+if (null!= stream) &stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if (!aFrame) return NS_ERROR_NULL_POINTER; &<return NS_OK;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if ((result = stream.getRemainingJSDocLine())) <return result; <else <char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if (null!= stream) <stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!stream.isDtor()) if (!result) <return NS_ERROR_FAILURE; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!stream.isDtor()) if (!result) <return NS_ERROR_FAILURE; <return result;
+if (null!= stream) stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; &return result;
+&return result;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+if ((result = stream.getRemainingJSDocLine())) return result; else char* result = stream.getRemainingJSDocLine(); return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; &else char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; return cbuf;
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+if (null!= stream) <stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; &&return NS_OK;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; &return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (result) &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; &return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; &return result;
+if (result) &*result = stream.getRemainingJSDocLine(); return result; <return NS_OK;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *tmp; if (stream) &char *tmp = stream.char_name; return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; <&return NS_OK;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; &return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; &return result;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+return result.replaceChar('&0', '&0');
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; <<return NS_OK;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; <return result;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; &return result;
+<return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) jsDocObject = null; <JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; <return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; &return result;
+return result; return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; <else &char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.isDtor()) &if (!result) <return NS_ERROR_FAILURE; return result;
+if ((result = stream.getRemainingJSDocLine())) &return result; else char* result = stream.getRemainingJSDocLine(); return result;
+return '<0';
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; <&return NS_OK;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; <return result;
+if ((result = stream.getRemainingJSDocLine())) &return result; &else &char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+return '&0';
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; &return result;
+if (!stream.isDtor()) <if (!result) return NS_ERROR_FAILURE; &return result;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; <return result;
+if (!stream.isDtor()) &if (!result) <return NS_ERROR_FAILURE; &return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; else <char* result = stream.getRemainingJSDocLine(); return result;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!aFrame) return NS_ERROR_NULL_POINTER; return NS_OK;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+&return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aFrame) &return NS_ERROR_NULL_POINTER; &&return NS_OK;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; &return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) &stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) &stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) &stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aFrame) &return NS_ERROR_NULL_POINTER; <return NS_OK;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; return result;
+return result; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; else &char* result = stream.getRemainingJSDocLine(); return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; <return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; &return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; return result;
+if (null!= stream) &stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) &stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; return NS_OK;
+if (null!= stream) &stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; <return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; &return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; <return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aFrame) return NS_ERROR_NULL_POINTER; <&return NS_OK;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; <return result;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; <<return NS_OK;
+return result.replaceChar('0', '0');
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if ((result = stream.getRemainingJSDocLine())) &return result; &else char* result = stream.getRemainingJSDocLine(); return result;
+if (!aFrame) &return NS_ERROR_NULL_POINTER; <&return NS_OK;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.isDtor()) if (!result) return NS_ERROR_FAILURE; return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; return NS_OK;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) <stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; return NS_OK;
+if ((result = stream.getRemainingJSDocLine())) return result; &else &char* result = stream.getRemainingJSDocLine(); return result;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+if (null!= stream) <stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; <return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; <return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) <jsDocObject = null; <JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+if (null!= stream) &stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+return result.replaceChar('<0', '0');
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; return result;
+if (null!= stream) <stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result) <*result = stream.getRemainingJSDocLine(); return result; <return NS_OK;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; &return result;
+if (!aFrame) &return NS_ERROR_NULL_POINTER; return NS_OK;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; <return result;
+if (result) return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; return result;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; &return result;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.isDtor()) <if (!result) &return NS_ERROR_FAILURE; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; <return result;
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+char *tmp; if (stream) <char *tmp = stream.char_name; return result;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+return result;
+if (null!= stream) &stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (null!= stream) <stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+if (null!= stream) <stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; &return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; &return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) &stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+return result; return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; <<return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result) *result = stream.getRemainingJSDocLine(); return result; <return NS_OK;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; <return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *tmp; if (stream) char *tmp = stream.char_name; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; <return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; &return result;
+if (null!= stream) &stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+return result.replaceChar('0', '<0');
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; <return result;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!stream.isDtor()) <if (!result) <return NS_ERROR_FAILURE; &return result;
+if (!stream.isDtor()) <if (!result) return NS_ERROR_FAILURE; <return result;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) &jsDocObject = null; &JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if ((result = stream.getRemainingJSDocLine())) &return result; <else char* result = stream.getRemainingJSDocLine(); return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; return result;
+if (result) &*result = stream.getRemainingJSDocLine(); return result; return NS_OK;
+if (null!= stream) &stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) <jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (null!= stream) &stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if ((result = stream.getRemainingJSDocLine())) &return result; <else <char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; &return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) &stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+if ((result = stream.getRemainingJSDocLine())) <return result; <else char* result = stream.getRemainingJSDocLine(); return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+if (result) &*result = stream.getRemainingJSDocLine(); return result; &return NS_OK;
+return result.replaceChar('&0', '<0');
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; &return result;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; <return result;
+if (null!= stream) &stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; <return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; <return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; &return result;
+if (null!= stream) &stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+if (null!= stream) stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; &return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!stream.isDtor()) if (!result) &return NS_ERROR_FAILURE; return result;
+return result; &return 0;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.isDtor()) &if (!result) return NS_ERROR_FAILURE; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; <&return NS_OK;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; return result;
+if (null!= stream) &stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; &&return NS_OK;
+char *tmp; if (stream) <char *tmp = stream.char_name; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; return cbuf;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *tmp; if (stream) &char *tmp = stream.char_name; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; <return result;
+<return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; <return NS_OK;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; &<return NS_OK;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if ((result = stream.getRemainingJSDocLine())) return result; <else &char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; &return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; <return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; <return result;
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; <return NS_OK;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; &<return NS_OK;
+if (null!= stream) stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+return result; <return 0;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!aFrame) &return NS_ERROR_NULL_POINTER; &return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; return result;
+if (!stream.isDtor()) <if (!result) &return NS_ERROR_FAILURE; &return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; &return result;
+if ((result = stream.getRemainingJSDocLine())) return result; &else char* result = stream.getRemainingJSDocLine(); return result;
+char *tmp; if (stream) <char *tmp = stream.char_name; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; &return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; <return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; &return result;
+if ((result = stream.getRemainingJSDocLine())) return result; else &char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; &else <char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.isDtor()) &if (!result) &return NS_ERROR_FAILURE; &return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!stream.isDtor()) &if (!result) return NS_ERROR_FAILURE; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; return result;
+return result.replaceChar('0', '&0');
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; return result;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+if (null!= stream) <stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (null!= stream) &stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; <return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; &<return NS_OK;
+if (null!= stream) <stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.isDtor()) &if (!result) &return NS_ERROR_FAILURE; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; <return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; &return result;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.hasRule) <return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; <return result;
+if (null!= stream) &stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aFrame) return NS_ERROR_NULL_POINTER; <return NS_OK;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) jsDocObject = null; &JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; return cbuf;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; &return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) &return; &return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if ((result = stream.getRemainingJSDocLine())) &return result; else <char* result = stream.getRemainingJSDocLine(); return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) <stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; &return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; <if (result) <return NS_ERROR_FAILURE; return result;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; <return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; return cbuf;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.isDtor()) <if (!result) return NS_ERROR_FAILURE; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+if (null!= stream) <stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+return result; &return NS_OK;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; <return result;
+if (!stream.isDtor()) &if (!result) &return NS_ERROR_FAILURE; <return result;
+return '0';
+if ((result = stream.getRemainingJSDocLine())) return result; &else <char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; &&return NS_OK;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; &return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (result) *result = stream.getRemainingJSDocLine(); return result; return NS_OK;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+char *tmp; if (stream) char *tmp = stream.char_name; return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) &stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; &return result;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; &return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) <stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) &stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.isDtor()) <if (!result) <return NS_ERROR_FAILURE; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+char *tmp; if (stream) char *tmp = stream.char_name; &return result;
+if ((result = stream.getRemainingJSDocLine())) &return result; &else <char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; &&return NS_OK;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; &return result;
+if (null!= stream) <stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; return result;
+if ((result = stream.getRemainingJSDocLine())) <return result; &else &char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; &return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) return NS_ERROR_FAILURE; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) &jsDocObject = null; <JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+if (null!= stream) <stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; return cbuf;
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+if (null!= stream) stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) return; <return result;
+if (!aFrame) &return NS_ERROR_NULL_POINTER; <<return NS_OK;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+<if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+return result.replaceChar('<0', '&0');
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; &return result;
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; &return result;
+if (null!= stream) &stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if ((result = stream.getRemainingJSDocLine())) <return result; else char* result = stream.getRemainingJSDocLine(); return result;
+if (!stream.isDtor()) if (!result) return NS_ERROR_FAILURE; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; return result;
+if (null!= stream) stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+if (result == null) return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if (null!= stream) stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; return result;
+if (null!= stream) <stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; &if (result) <return NS_ERROR_FAILURE; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+if (null!= stream) <stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; &return NS_OK;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+return result; <return NS_OK;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; <return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) <NS_RELEASE(aResult); return NS_OK; &return NS_OK;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+if (!aFrame) return NS_ERROR_NULL_POINTER; &&return NS_OK;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) &stream.close(); else &char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.isDtor()) <if (!result) <return NS_ERROR_FAILURE; <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+<if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; if (result) &return NS_ERROR_FAILURE; <return result;
+if (null!= stream) stream.close(); else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!stream.isDtor()) if (!result) &return NS_ERROR_FAILURE; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; <return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; &return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) &if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+if (null!= stream) &stream.close(); <else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) <jsDocObject = null; &JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (null!= stream) <stream.close(); &else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; else if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (null!= stream) stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; <return result;
+if (null!= stream) <stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) return NS_ERROR_FAILURE; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) return; return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; <return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; <return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) return; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if ((result = stream.getRemainingJSDocLine())) &return result; else &char* result = stream.getRemainingJSDocLine(); return result;
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; <return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else <char *cbuf[4]; char *cbuf[6]; <return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) &if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) <return; &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+return result;
+if (null!= stream) &stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (!stream.isDtor()) &if (!result) return NS_ERROR_FAILURE; &return result;
+if (!aFrame) &return NS_ERROR_NULL_POINTER; &<return NS_OK;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); &return result;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; <return result;
+if (null!= stream) <stream.close(); <else char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; return result;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else <if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+&if (stream.getRemainingJSDocLine()) char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; &return result;
+char *tmp; if (stream) &char *tmp = stream.char_name; &return result;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) NS_RELEASE(aResult); return NS_OK; return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); return result;
+if ((result = stream.getRemainingJSDocLine())) return result; <else char* result = stream.getRemainingJSDocLine(); return result;
+if (!aFrame) return NS_ERROR_NULL_POINTER; <<return NS_OK;
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; return cbuf;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aFrame) return NS_ERROR_NULL_POINTER; &return NS_OK;
+if (result) <*result = stream.getRemainingJSDocLine(); return result; return NS_OK;
+if (null!= stream) <stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) <return; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+&if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; &if (result) &return NS_ERROR_FAILURE; return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); <return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if ((result = stream.getRemainingJSDocLine())) &return result; <else &char* result = stream.getRemainingJSDocLine(); return result;
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; <return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.hasRule) return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; return result;
+if (result == null) &return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else char *cbuf[4]; char *cbuf[6]; <return cbuf;
+return result.replaceChar('<0', '<0');
+&if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) <mParent = this; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) <char *db = stream.getRemainingJSDocLine(); return retval; &else <if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) &NS_ADDREF(result); <return result;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; <<return NS_OK;
+if (stream.getRemainingJSDocLine()) <char* result = stream.getRemainingJSDocLine(); if (!result) mParent = this; <return result;
+if ((result = stream.getRemainingJSDocLine())) return result; <else <char* result = stream.getRemainingJSDocLine(); return result;
+if (result == null) &return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+if (!stream.hasRule) &return NS_ERROR_FAILURE; <if (result) &return NS_ERROR_FAILURE; return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); return result;
+if (result == null) return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!aFrame) <return NS_ERROR_NULL_POINTER; <return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); <if (result == NS_OK) <return; <return result;
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; <else &char *cbuf[4]; char *cbuf[6]; <return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) &if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) <if (result!= NS_OK) return; NS_ADDREF(result); if (result == NS_OK) &return; return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("&n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!stream.isDtor()) &if (!result) <return NS_ERROR_FAILURE; <return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (result) <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; &else &if (db) &char *db = stream.getRemainingJSDocLine(); return retval;
+NS_PRECONDITION(aResult, "bad result"); if (aResult) &NS_RELEASE(aResult); return NS_OK; &return NS_OK;
+/* * Do nothing. */ if (stream.isFile()) <if ((!file) || (stream.isDirectory())) <nsJSCommandLine* hdr; hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; &if (result == NS_OK) <if (result == NS_ERROR_FAILURE) <ret = NS_ERROR_FAILURE; return ret;
+JSObject* jsDocObject; if ((null!= jsDocObject) && (null!= jsDocObject)) &jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; jsDocObject.GetIsInline(); JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null; JSObject* jsDocObject = null;
+if (result == null) <return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); &return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; &else if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+/* * Do nothing. */ if (stream.isFile()) if ((!file) || (stream.isDirectory())) &nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+if (null!= stream) <stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) &char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; &return cbuf;
+<if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+if (!stream.isDtor()) <if (!result) &return NS_ERROR_FAILURE; <return result;
+/* * Do nothing. */ if (stream.isFile()) &if ((!file) || (stream.isDirectory())) nsJSCommandLine* hdr; hdr.append("<n"); hdr.append("<n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.append("n"); hdr.
+char *db = stream.getRemainingJSDocLine(); if (db) &char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!null) <char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; &else <char *cbuf[4]; char *cbuf[6]; return cbuf;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) &nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (stream.getRemainingJSDocLine()) &char* result = stream.getRemainingJSDocLine(); if (!result) &mParent = this; &return result;
+if (!stream.isDtor()) if (!result) return NS_ERROR_FAILURE; <return result;
+if (!stream.hasRule) return NS_ERROR_FAILURE; <if (result) return NS_ERROR_FAILURE; return result;
+if (null!= stream) stream.close(); &else char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) ret = NS_ERROR_FAILURE; return ret;
+if (result == null) return NS_ERROR_FAILURE; &NS_ADDREF(result); if (result) &NS_ADDREF(result); &return result;
+if (!aResult) return null; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (!aResult) return NS_ERROR_NULL_POINTER; if (aResult.op == NS_STATIC_CAST(nsJSSubject, aResult.op)) <nsSupports* ret = NS_STATIC_CAST(nsISupports*, aResult.op, &ret); if (NS_FAILED(ret)) return ret; return ret; <if (result == NS_OK) <if (result == NS_ERROR_FAILURE) &ret = NS_ERROR_FAILURE; return ret;
+return result; &return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) NS_ADDREF(result); return result;
+if (result) *result = stream.getRemainingJSDocLine(); return result; &return NS_OK;
+if (result) <*result = stream.getRemainingJSDocLine(); return result; &return NS_OK;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; &return result;
+NS_ASSERTION(!(result!= NS_ERROR_OUT_OF_MEMORY) &&!((result!= NS_ERROR_OUT_OF_MEMORY) && stream)) if (result!= NS_OK) return; NS_ADDREF(result); &if (result == NS_OK) &return; <return result;
+char *db = stream.getRemainingJSDocLine(); if (db) char *db = stream.getRemainingJSDocLine(); return retval; <else &if (db) <char *db = stream.getRemainingJSDocLine(); return retval;
+if (!stream.hasRule) <return NS_ERROR_FAILURE; if (result) <return NS_ERROR_FAILURE; return result;
+if (!stream.isDtor()) if (!result) <return NS_ERROR_FAILURE; return result;
+return result.replaceChar('&0', '0');
+if (null!= stream) stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) <char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (!null) char cbuf[0]; char *cbuf[1]; char *cbuf[2]; char *cbuf[3]; else &char *cbuf[4]; char *cbuf[6]; &return cbuf;
+if (null!= stream) &stream.close(); <else <char *string; /* XXX */ char char *prefix; if (null == stream) &char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (null!= stream) &stream.close(); &else &char *string; /* XXX */ char char *prefix; if (null == stream) char* s; if (null!= stream.flags) s = stream.flags; s = stream.flags; if (null!= stream.flags) stream.flags |= JS_FILE_TO_URI; s = stream.flags; if ((null == stream.flags) && ((null!= stream.flags)) && (null!= stream.flags)) stream.flags |= JS_FILE_TO_URI; return result; if ((null!= stream.flags)
+if (result == null) <return NS_ERROR_FAILURE; <NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;
+if (result == null) &return NS_ERROR_FAILURE; NS_ADDREF(result); if (result) <NS_ADDREF(result); <return result;

@@ -1,0 +1,554 @@
+golden:
+for (Var s : def.depends) {
+inference:
+for (Node s : def.depends){
+for (Var s : def){
+for (Var s : def.variables){
+for (PRUint32 s : def.depends){
+for (Var s : def.depends){
+for (v : def.depends){
+for (Var s : def.iterator){
+for (Var s : def.depends){
+for(Var s : def.depends){
+for (Var s : def.items){
+for (Var s : def.mVars){
+for (Var s : def.flags){
+for (Var s : def.list){
+for (Var s : def.attributes){
+for (Var s : def.data){
+for (Var s : def.values){
+for (Var s : def.options){
+for (Var s : def.arguments){
+for (Var s : def.getVars()){
+for (Var s : def = def.depends){
+while (Var s : def.depends){
+for (Var s : def.isEmpty()){
+for (Var s : def.args){
+for (Iterator s : def.depends){
+for (Var s: def.variables){
+for (Var s : def.count){
+for (Var n : def.depends){
+for (Var s : def.scope){
+for (Var s : def.deps){
+for (Var s = def.depends){
+for (Var s, def.depends){
+for (Var s : def.first){
+for (Var s : def.type){
+for (Var s : def.vectors){
+for (Var s : def.eVars){
+for (Var s; def.depends){
+for (Var s : def.name){
+for (var s : def.depends){
+for (Var aVar : def.depends){
+for (Var s : def.size()){
+for (v s : def.depends){
+for (Node : def.depends){
+for (Var s : def.this){
+for (Var s : def.findVars){
+for (Var s: def){
+for (Var s : def.size){
+for (Var s : def.isVars){
+for (Var s : depends){
+for (Var s : def.firstVar){
+for (Var s : state.getIn().reachingDef){
+for (CurrentVar s : def.depends){
+for (Var s : def.variants){
+for (Var s: def.depends){
+for (Var s : def.keys){
+for (int s : def.depends){
+for (Var s : (Var) def.depends){
+for (ConstVar s : def.depends){
+for (Var r : def.depends){
+for (Var s : def.stats){
+for (Var s : def.length){
+for (Var s : def.features){
+for (Var v : def.depends){
+for (Var s : def.vars){
+for (Var s : def);{
+for (Var s: def.depends){
+for (Var s : def.value){
+for (Var s : def.nodeCount){
+for (Var s : def.mVariants){
+for (Var s : def.functions){
+for (Value s : def.depends){
+for ((Var s : def.depends)){
+for (Var s: def.iterator){
+for (Var def : def.depends){
+for (Var s : def.data.depends){
+for (Var s : def.defs){
+for (Tar s : def.depends){
+for (Var s : def.mVar){
+for (Var c : def.depends){
+for (Var s : defs){
+for (Var s : def.isDependent()){
+for (Var s : def.opts){
+for (Node::Var s : def.depends){
+for (PRInt32 s : def.depends){
+for (Margin s : def.depends){
+for (Var s : def.depends, void){
+for (Var s : defs.depends){
+for (Var s : def.iterator()){
+for (DependentVar s : def.depends){
+for (Var s : def.ptr){
+for (Node s: def.depends){
+for (Var s : def.iterator.depends){
+for (Var s : (Var)def.depends){
+for (Var s : def.eVariants){
+for (Var s : def.findVar(name)){
+for (void) def.depends{
+for (Var s : def.variables){
+for (Var s : dev.depends){
+for (Var s : def.v){
+for (Ptr s : def.depends){
+for (Var s : def::depends){
+for (Var s : def.indices){
+for (Var s : def.names){
+for (Var s : def.reachingDef){
+for (Var s : def.objs){
+for (Var s : def.pointer){
+for (Var s : def.range){
+for (Var s : def.preconditions){
+for (Var s : def.nodeType){
+for (Var s : def.base.depends){
+for (Var s : def.its){
+for (Var s : def.cvs){
+for (Var s: def.items){
+for (Var s : def.refs){
+for (Var s : def.firstChild){
+for (Var s : def.nodes){
+for (Var s : def.get()){
+for (Var s : def.isValid()){
+for (Var s : def.checkArgument()){
+for (Var s=def.depends){
+for (Var s : def.Vars){
+for (;;){
+for (Var s : def.fields){
+for (Var s : def.matches){
+for (Var s : def.state.depends){
+for (Var s : def.references){
+for (Var s : def.index){
+for (Var s : def.name.depends){
+for (Var s : def.params){
+for (Var s : def.variable){
+for (Var s : def.ids){
+for (Var s : def.next){
+for (Var s : def.eVar){
+for (Var s : def.resources){
+for (Var s : def.depends);{
+for (Var s : def.begin){
+for (Var s: def.mVars){
+For (Var s : def.depends){
+for (Var s : def.isVar){
+for (Var s){
+for (Var s : def.remainingVars){
+for (Var s : def.nodeList){
+for (Var s : def.checkArguments){
+for (Var s : def.dependents){
+for (Var s : def.getVar()){
+for (Var s : def.dups){
+for (Var s : def.vector){
+for (Var s : def.cfg){
+for (Var s : def.remaining){
+for (Var s : jsScope.depends){
+for (Var s : def.setVars){
+for (Var s : def.theVar){
+for (Var s : def.updateVars){
+for (Var s : def.theVars){
+for (Var s : def.ns){
+for (Var s : def.update){
+for (Var s : def.compare){
+for (Var s : def.depends == 0){
+for (Var s : def.pattern){
+for (Var s : def.predicateVars){
+for (Var s : def.depends - 1);{
+for (Var s : def.Dependent()){
+for (Var s : def.nodeInfo){
+for (Var s : def.initVars){
+for (Var s : def.eVariables){
+for (Var s : def.desc){
+for (Var s : def = def){
+for (Var s : def.rv){
+for (Var s : def.findVars()){
+for (Var s : def.isVariants){
+for (void) def.depends;{
+for (Var s : def.depends - 1){
+for (Var s : def.getVar(name)){
+for (void){
+for (Var s : def.nodeVars){
+for (Var s : def.result){
+for (Var s : def.isVariable){
+for (Var s : def.depends.s){
+for (Var s : def.items.depends){
+for (Var s : def.nodeInfos){
+for (Var s : def.canonicalize){
+for (Var s : def.variables.depends){
+for (Var s : def.isScope){
+for (Var s : def.getDependent()){
+for (Var s : def.nodeTypes){
+for (Var s : def.isValid){
+for (Var s : def.isVariables){
+for (Var s : def.iterator.next){
+for (Var s : def.depends - 1 ){
+for (Var s : def.depends, n){
+for (Var s : def.isEmpty){
+for (Var s : def.mDependent()){
+for (Var s : def.advanced){
+for (Var s : def.mDependent){
+for (Var s : def.theDependent()){
+for (Var s : def.doing){
+for (Var s : def.nsDependent()){
+for (Var s : def.cmp){
+for (Var s : def.checks){
+for (Var s : def.depends && (s.scope!= jsScope)){
+for (Var s : def.depends, PRBool aVariable){
+for (Var s : def.isDuplicate){
+for (Var s : def.elements){
+for (Var s : def.repeatedDirty){
+for (Var s : def.stack.depends){
+for (Var s : def.name.mArena){
+for (Var s : def.firstDependent()){
+for (Var s : def.op){
+for (Var s : def.depends &&!s.isNative){
+for (Var s : def.states){
+for (Var s : def.depends, n = 0; s : n){
+for (Var s : def.value.depends){
+for (Var s : def.deprecatedVars){
+for (Var s : def.rev.depends){
+for (Var s : def.mvp){
+for (Var s : def.theDependentVars){
+for (Var s : def.dvd.depends){
+for (Var s : def.cpr){
+for (Var s : def.eItems){
+for (Var s : def.evdbs){
+for (Var s : def.getDependentVars()){
+for (Var s : def.none){
+for (Var s : def.reachableVars){
+for (Var s : def.pointers){
+for (Var s : def.vma){
+for (Var s : def.depends, IgDescType : -1){
+for (Var s : def.depends, n : n.next){
+for (Var s : def.cs){
+for (Var s : def.findDependent()){
+for (Var s : def.setCurrentVars){
+for (Var s : def.repeats){
+for (Var s : def.isAliased){
+for (Var s : def.andDef.depends){
+for (Var s : def.nodeArgs){
+for (Var s : def.isScope()){
+for (Var s : def.descs){
+for (Var s : def.points){
+for (Var s : def.supp){
+for (Var s : def.depends && s.scope!= jsScope){
+for (Var s : def.ev.depends){
+for (Var s : def.ps){
+for (Var s : def.cds){
+for (Var s : def.node){
+for (Var s : def.checkedAttributes){
+for (Var s : def.getPromise('depends')){
+for (Var s : def.depends, jsScope : def.refCaseOuter){
+for (Var s : def.simpleDependencies){
+for (Var s : def.getDependentDef()){
+for (Var s : def.initialized){
+for (Var s : def.mDirty){
+for (Var s : def.checkVars){
+for (Var s : def.acvs.depends){
+for (Var s : def.depends &&!isNumberof(def)){
+for (Var s : def.s.depends){
+for (Var s : def.find(JSFactory)){
+for (Var s : def.mId){
+for (Var s : def.depends, jsScope* : jsScope){
+for (Var s : def.dv_type){
+for (Var s : def.depends - 1); if (s.scope!= jsScope){
+for (Var s : def.decls){
+for (Var s : def.duplicateVars){
+for (Var s : def.savedVars){
+for (Var s : def.depends, n = 0){
+for (Var s : def.find(&s)){
+for (Var s : def.pClusters){
+for (Var s : def.s, int s.depth){
+for (Var s : def.isExpanded){
+for (Var s : def.instance){
+for (Var s : def.type.depends){
+for (Var s : def.nDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependentDependen{
+for (Var s : def.pcs){
+for (Var s : def.cstrdup()){
+for (Var s : def.nsRefCount){
+for (Var s : def.definitions){
+for (Var s : def.mDependencies){
+for (Var s : def.same){
+for (Var s : def.getFields()){
+for (Var s : def.isConst){
+for (Var s : def.asScope){
+for (Var s : def.items){
+for (Var s : def.options){
+for (Var s : def.getDependentDef()){
+for (CurrentVar s : def.depends){
+for (Var s : def.nsRefCount){
+for (Var s : def.nsDependent()){
+for (Var s : def.get()){
+For (Var s : def.depends){
+for (PRUint32 s : def.depends){
+for (Var s : def.ptr){
+for (Var s : def.cpr){
+for(Var s : def.depends){
+for (Var s : def.nodeTypes){
+for (Var s : def.iterator){
+for (Var s : def.isScope){
+for (Var s : def.getVars()){
+for (Var s : dev.depends){
+for (Var s : def.s, int s.depth){
+for (Var s : def.preconditions){
+for (Var s : def.refs){
+for (Var s : def.items.depends){
+for (Var s : def.isValid()){
+for (Var s : defs){
+for (Var s : def.remainingVars){
+for (Var s : (Var)def.depends){
+for (Var s : def.theDependent()){
+for (Var s : def.initialized){
+for (Var s : def.mDependencies){
+for (Var s : def.dups){
+for (Var s : def.mDependent){
+for (Var s : def.vars){
+for (Var s : def.eVariants){
+for (Var s: def.variables){
+for (Var s : def.flags){
+for (Var s : def.type.depends){
+for (Var s : def.node){
+for (Var s : def.variables){
+for (Var s : (Var) def.depends){
+for (Var s : def.cs){
+while (Var s : def.depends){
+for (Var s : def.objs){
+for (Var s : def.nodeInfos){
+for (Var s : def.findDependent()){
+for (Var s : def.nodeInfo){
+for (Var s : def.isVar){
+for (Var s : def.isAliased){
+for (Var n : def.depends){
+for (Var s : def.checkArgument()){
+for (Var s : def.iterator.next){
+for (Node s: def.depends){
+for (Var s : def.range){
+for (Var aVar : def.depends){
+for (Var s : def.features){
+for (Var s : def.mvp){
+for (Var s : def.pointers){
+for (Var s : depends){
+for (Var s : def.eVar){
+for (Var s : defs.depends){
+for (Var s : def.find(&s)){
+for (Var s : def.vector){
+for (Var s : def.params){
+for (Var s: def.mVars){
+for (Var s : def.isEmpty){
+for (Var s : def.checks){
+for (Var s : def.rv){
+for (Var s : def.variable){
+for (ConstVar s : def.depends){
+for (Var s : def.deps){
+for (Var s : def.eVars){
+for (Var s : def.findVars){
+for (Var s : def.decls){
+for (Var s : def.compare){
+for (Var s : def::depends){
+for (Var s : def.pClusters){
+for (Var s : def.vectors){
+for (Var s : def.rev.depends){
+for (Var s : def.attributes){
+for (Var s : def.references){
+for (void) def.depends{
+for (Var s : def.mVars){
+for (Var s : def.list){
+for (Var s : def.theVars){
+for (Var s){
+for (Var s : def.nodes){
+for (Var s : def.stack.depends){
+for (Var s : def.andDef.depends){
+for (Var s : def.op){
+for (Var s : def.findVars()){
+for (Var s : def.result){
+for (Var s : def.theVar){
+for (Var s : def.descs){
+for (Var s : state.getIn().reachingDef){
+for (Var s : def.type){
+for (Var s : def.deprecatedVars){
+for (Var v : def.depends){
+for (Var s : def.state.depends){
+for (Var s : def.eVariables){
+for (Var s : def.variants){
+for (Var s : def.depends, PRBool aVariable){
+for (Var s : def.functions){
+for (Var s : def.isVariable){
+for (PRInt32 s : def.depends){
+for (Var s : def.theDependentVars){
+for (Var s: def.depends){
+for (Var s : def.checkArguments){
+for (Var s: def.iterator){
+for (Var s : def.isScope()){
+for (Var s : def.acvs.depends){
+for (Var s : def.data){
+for (Var s : def.ps){
+for (Var s : def.nodeArgs){
+for (Var s : def.findVar(name)){
+for (Value s : def.depends){
+for (Var s : def.next){
+for (Var s : def.firstVar){
+for (Var s : def.cstrdup()){
+for (DependentVar s : def.depends){
+for (Var s : def.points){
+for (Var s : def.evdbs){
+for (Var s : def.iterator()){
+for (Var s : def.isVariables){
+for (Var s : def.reachableVars){
+for (Var s : jsScope.depends){
+for (Var s : def.length){
+for (Var s : def.value){
+for (Var s : def.eItems){
+for (Var s : def.keys){
+for (Var s : def.name.mArena){
+for (Var s : def.mDependent()){
+for (Var s : def.isDependent()){
+for (Var s : def.depends, n){
+for (Var s : def.duplicateVars){
+for (Node::Var s : def.depends){
+for (Var s : def.states){
+for (Var s : def.setVars){
+for (Var s : def.variables.depends){
+for (Var s : def.mVariants){
+for (Var s : def.its){
+for (Var s : def.mVar){
+for (int s : def.depends){
+for (Var s : def.depends.s){
+for (Var s : def.isExpanded){
+for (Var s : def.isDuplicate){
+for (v : def.depends){
+for (Node : def.depends){
+for (Var s : def.fields){
+for (Var s : def.update){
+for (Var s : def.isVariants){
+for (Var s : def.name.depends){
+for (Var s : def.depends && (s.scope!= jsScope)){
+for (Var s : def.index){
+for (Var s : def.cvs){
+for (Var s : def.depends && s.scope!= jsScope){
+for (Var s : def.canonicalize){
+for (var s : def.depends){
+for (Var s : def.data.depends){
+for (Var s : def.dv_type){
+for (Var s : def.desc){
+for (Var s: def.depends){
+for (Var s : def.scope){
+for (Var s : def.nodeCount){
+for (Var s : def.same){
+for (Var s : def.cmp){
+for (Var s : def.setCurrentVars){
+for (Var s : def.indices){
+for (v s : def.depends){
+for (Var s : def.this){
+for (Var s : def.arguments){
+for (Var s : def.getVar()){
+for (Var s : def.depends, void){
+for (Var s, def.depends){
+for (Var s=def.depends){
+for (Var s : def.getDependent()){
+for (Var s : def.none){
+for (Var s : def.depends, IgDescType : -1){
+for (Var s : def.pattern){
+for (Var s : def.depends){
+for (Var s : def.checkedAttributes){
+for (Var s : def.simpleDependencies){
+for (Var s : def.depends - 1 ){
+for (Var s : def.count){
+for (Var s : def.depends - 1); if (s.scope!= jsScope){
+for (Var s : def.depends &&!isNumberof(def)){
+for (Var s : def.asScope){
+for (Var s : def.args){
+for (Var s : def.repeats){
+for (Var s : def.isValid){
+for (Var s : def.getPromise('depends')){
+for (Var s : def.values){
+for (Var s; def.depends){
+for (Var s : def.isEmpty()){
+for (Var s : def.updateVars){
+for (Var s : def.supp){
+for (Var s : def.depends, jsScope : def.refCaseOuter){
+for (Var s : def.vma){
+for (Var s : def.getFields()){
+for (Var s : def.depends - 1){
+for (Var s : def.initVars){
+for (Var s : def.ev.depends){
+for (Var s : def.dependents){
+for (Var s : def.stats){
+for (Var s : def){
+for (Var s : def.size){
+for (Var s : def.depends, n : n.next){
+for (Var s : def.Vars){
+for (Var s : def.cds){
+for (Var s : def.getDependentVars()){
+for (Var s : def.Dependent()){
+for (Var s : def.pointer){
+for (Var s : def.defs){
+for (Var s : def.nodeList){
+for (Var s : def.ids){
+for (Var def : def.depends){
+for (void){
+for (Var s : def.reachingDef){
+for (;;){
+for (Var s : def.instance){
+for (Var s : def.begin){
+for (Var s : def.v){
+for (Var s : def.nodeType){
+for ((Var s : def.depends)){
+for (Var s : def.matches){
+for (Var s : def.depends &&!s.isNative){
+for (Var s : def.name){
+for (Var r : def.depends){
+for (Var s: def.items){
+for (Var s : def.dvd.depends){
+for (Var s : def.nodeVars){
+for (Var s : def.value.depends){
+for (Var s : def.ns){
+for (Iterator s : def.depends){
+for (Var c : def.depends){
+for (Var s: def){
+for (Var s : def.mId){
+for (Var s : def.repeatedDirty){
+for (Var s : def.doing){
+for (Var s : def.size()){
+for (Var s : def.elements){
+for (Var s : def.cfg){
+for (Var s : def.isConst){
+for (Var s = def.depends){
+for (Var s : def.depends){
+for (Var s : def.depends == 0){
+for (Var s : def.firstDependent()){
+for (Var s : def.advanced){
+for (Var s : def.resources){
+for (Var s : def.opts){
+for (Var s : def.definitions){
+for (Var s : def.names){
+for (Var s : def = def){
+for (Var s : def.variables){
+for (Var s : def.find(JSFactory)){
+for (Var s : def.depends, n = 0){
+for (Var s : def.remaining){
+for (Var s : def.depends, jsScope* : jsScope){
+for (Var s : def.pcs){
+for (Var s : def.base.depends){
+for (Var s : def.first){
+for (Var s : def.predicateVars){
+for (Var s : def.isVars){
+for (Var s : def.firstChild){
+for (Node s : def.depends){
+for (Ptr s : def.depends){
+for (Margin s : def.depends){
+for (Var s : def.s.depends){
+for (Var s : def = def.depends){
+for (Tar s : def.depends){
+for (Var s : def.getVar(name)){
+for (Var s : def.checkVars){
+for (Var s : def.mDirty){
+for (Var s : def.depends, n = 0; s : n){
+for (Var s : def.iterator.depends){
+for (Var s : def.savedVars){

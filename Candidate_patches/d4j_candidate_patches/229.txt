@@ -1,0 +1,440 @@
+golden:
+escapeJavaStyleString(writer, str, escapeSingleQuotes);
+inference:
+escapeJavaStyleString(writer, str);
+escapeJavaStyleString(writer, str.get(), escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, 0);
+escapeJavaStyleString(writer, &str, escapeSingleQuotes);
+escapeJavaStyleString(writer, s, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, false);
+escapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, *str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, true);
+escapeJavaStyleString(writer, str, escapeSingleQuotes)
+escapeJavaStyleString(writer, data, escapeSingleQuotes);
+escapeJavaStyleString(writer, string.get(), escapeSingleQuotes);
+escapeJavaStyleString(writer, char, escapeSingleQuotes);
+escapeJavaStyleString(writer, buf, escapeSingleQuotes);
+escapeJavaStyleString(writer, text, escapeSingleQuotes);
+escapeJavaStyleString(writer, "");
+escapeJavaStyleString(writer, "", str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, 0);
+escapeJavaStyleString(writer, source, escapeSingleQuotes);
+escapeJavaStyleString(writer, null, escapeSingleQuotes);
+escapeJavaStyleString(writer.get(), str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, string, escapeSingleQuotes);
+escapeJavaStyleString(writer, len, escapeSingleQuotes);
+escapeJavaStyleString(writer, value, escapeSingleQuotes);
+escapeJavaStyleString (writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeType, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, value, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes);
+escapeJavaStyleString(writer, str, escapeString);
+escapeJavaStyleString(str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, null);
+escapeJavaStyleString(writer, unicode, escapeSingleQuotes);
+escapeJavaStyleString(writer, key, escapeSingleQuotes);
+return escapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str)
+escapeJavaStyleString(writer, str, escapeQuotes)
+escapeJavaStyleString(writer, newStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, value);
+escapeJavaStyleString(writer, name, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, false);
+escapeJavaStyleString(writer, str, escapePtr);
+escapeJavaStyleString(writer, str, "");
+escapeJavaStyleString(writer, null, escapeSingleQuotes);
+escapeJavaStyleString(writer, uni, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, "", escapeSingleQuotes);
+escapeJavaStyleString(writer, writer, str, escapeSingleQuotes);
+EscapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeChars);
+escapeJavaStyleString(writer, path, escapeSingleQuotes);
+escapeJavaStyleString(writer, "", escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeType);
+escapeJavaStyleString(writer, result, escapeSingleQuotes);
+escapeJavaStyleString(writer, string, escapeSingleQuotes);
+escapeJavaStyleString(writer, string);
+escapeJavaStyleString(writer, inStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, aStr, escapeSingleQuotes);
+escapeJavaStyleString(writer,str,escapeSingleQuotes);
+escapeJavaStyleString(writer, str, ioe);
+escapeJavaStyleString(writer, (char *) str, escapeSingleQuotes);
+escapeJavaStyleString(writer, type, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, format, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, string);
+escapeJavaStyleString(writer, charset, escapeSingleQuotes);
+escapeJavaStyleString(writer, ioe, escapeSingleQuotes);
+escapeJavaStyleString(writer, this, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, str.Length());
+escapeJavaStyleString(writer, line, escapeSingleQuotes);
+escapeJavaStyleString(writer, type, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, source, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuote);
+escapeJavaStyleString(writer, str, EscapeSingleQuotes);
+escapeJavaStyleString(writer, "%s", str, escapeSingleQuotes);
+escapeJavaStyleString(writer, buffer, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes.get());
+escapeJavaStyleString(writer, str, escapeShortQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuote);
+escapeJavaStyleString(writer, (char*) str, escapeSingleQuotes);
+escapeJavaStyleString(writer, nu, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, null);
+escapeJavaStyleString(writer, str, (char *) escapeSingleQuotes);
+escapeJavaStyleString(writer, rawStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, url, escapeSingleQuotes);
+escapeJavaStyleString(writer, str.length(), escapeSingleQuotes);
+escapeJavaStyleString();
+escapeJavaStyleString(writer, str, charset, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, null);
+escapeJavaStyleString(writer, String(str), escapeSingleQuotes);
+escapeJavaStyleString(writer, content, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, encoding, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, ioe);
+escapedJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, length, escapeSingleQuotes);
+escapeJavaStyleString(writer, sr, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, str.get());
+escapeJavaStyleString(writer, str, 0);
+escapeJavaStyleString(writer, string, escapeSingleQuotes)
+escapeJavaStyleString(writer, str, escapeCharSet);
+escapeJavaStyleString(writer, str, url, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, null, escapeSingleQuotes);
+escapeJavaStyleString(writer, unicodeStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, string, escapeSingleQuotes, 0);
+escapeJavaStyleString(writer, str, &escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeValues);
+escapeJavaStyleString(writer, str, escapeStr);
+escapeJavaStyleString(writer, u, escapeSingleQuotes);
+escapeJavaStyleString(writer, str.length() * 2, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes.get());
+escapeJavaStyleString(writer, sStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, src, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, (int) escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeFileQuotes);
+escapeJavaStyleString(writer, str, u, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, flags);
+escapeJavaStyleString(writer, str, escapeCharset);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, value);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, 1);
+escapeJavaStyleString(writer, (int) str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, s);
+escapeJavaStyleString(writer, str, escapeTypes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes - 1);
+escapeJavaStyleString(writer, str, escapedQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, false);
+escapeJavaStyleString(writer, str, escapeSingles);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, string);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeType);
+escapeJavaStyleString(writer, str, null, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, len, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes == 0);
+escapeJavaStyleString(writer, str, escapeCode);
+escapeJavaStyleString(writer, str, escapeCode, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeEscapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapedSingleQuotes);
+escapeJavaStyleString(writer, str, str);
+escapeJavaStyleString(writer, str, boolean escapeSingleQuotes);
+escapeJavaStyleString(writer, str, (char*) escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, p);
+escapeJavaStyleString(writer, str, escapeCaseSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSequenceQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, -1);
+escapeJavaStyleString(writer, str, escapeLength);
+escapeJavaStyleString(writer, str, flags, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, "%s", escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, buffer);
+escapeJavaStyleString(writer, str, escapeCharsets);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, void)
+escapeJavaStyleString(writer, str, escapeSlots);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, null);
+escapeJavaStyleString(writer, str, escapeSingleQuotes + 1);
+escapeJavaStyleString(writer, str, escapeStrings);
+escapeJavaStyleString(writer, str, escapeList);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, "");
+escapeJavaStyleString(writer, str, u);
+escapeJavaStyleString( writer, str, escapeSingleQuotes );
+escapeJavaStyleString(writer, str, null);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, encoding);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, false);
+escapeJavaStyleString(writer, str, escapeMessages);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, true);
+escapeJavaStyleString(writer, str, escapeFuncs);
+escapeJavaStyleString(writer);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, rv);
+escapeJavaStyleString(writer, str, escapeStartQuotes);
+escapeJavaStyleString(writer, str, &escapedSingleQuotes);
+escapeJavaStyleString(writer, str, escapeNodeQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, 0)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, len);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, charset);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char*);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aType);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, s);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, dummy);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, ret);
+escapeJavaStyleString(writer, str, escapeSingleQuotes == -1)
+escapeString(writer, str);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, IOException);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, indent);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, url);
+escapeJavaStyleString(writer, str, boolean escapeSingleQuotes)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char*)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, fp);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeString);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeCharset);
+break;
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &writer);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &s);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &line);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aStr);
+free(writer, str);
+
+escape(writer, str);
+escape();
+escapeJavaStyleString(writer, str, uap, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeSymbols);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, false);
+escapeJavaStyleString(writer, str, escapeJavaChars);
+escapeJavaStyleString(writer, """, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, e_escapedSingleQuotes);
+escapeJavaStyleString(writer, "*", escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, charsetStr);
+escapeJavaStyleString(writer, str, aInlinePtr, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, char_buf, escapeSingleQuotes);
+escapeJavaStyleString(writer, char(str), escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, true);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &str);
+escapeJavaStyleString(writer, str, XUL_ENUMERATE_QUERY_REFERENCES);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeStringLength);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, true, false, true);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, std::td_flush());
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char* str);
+escapeJavaStyleString(writer, string, escapeQuotes, &ioe);
+escapeJavaStyleString(writer, fs, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, u_int32_t seq, u_int32_t seqLength);
+escapeJavaStyleString(writer, str, escapeQuotes, escapeJavaStyleMask);
+escapeJavaStyleString(writer, "unknown", "unknown", "unknown", escapeSingleQuotes);
+escapeJavaStyleString(writer, str, ui_string, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, charsetPtr);
+escapeJavaStyleString(writer, str, escapeQuotes, uint16_t size);
+escapeJavaStyleString(writer, str, escapeCharSupports);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, cls);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aRange);
+escapeJavaStyleString(writer, string, escapeSingleQuotes, p);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, PRInt32(buf));
+escapeJavaStyleString(writer, str, aEscapeSingleQuotes);
+escapeJavaStyleString(writer, string, escapeSingleQuotes, false);
+escapeJavaStyleString(writer, str, escapeQuotes, &reader);
+escapeJavaStyleString(writer, str, objs, escapeSingleQuotes);
+escapeJavaStyleString(writer, charstr, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, alias)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, fprintf(stderr), "EscapeJava StyleString (%d)", fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprintf(stderr), fprint
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int __unused);
+escapeJavaStyleString(writer, str, escapeJavaStyleString(str));
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeFileName);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, uapSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapedJSObject);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapedType);
+escapeJavaStyleString(writer, str, char* chars);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aReadableString);
+escapeJavaStyleString(writer, uid, escapeSingleQuotes);
+escapeJavaStyleString(writer, "", string, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int isReal)
+escapeJavaStyleString(writer, ",", escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &isEnabled);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeSyntax);
+escapeJavaStyleString(writer, str, escapeQuotes, &rv);
+escapeJavaStyleString(writer, str, escapeQuotes, char* aChar, int aIntType);
+escapeJavaStyleString(writer, str, XP_MAC);
+escapeJavaStyleString(writer, str, escapeQuotes, &eofPool);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, uint32_t *buf);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char* aStr);
+escapeJavaStyleString(writer, str, escapeQuotes, escapeBadString);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, encodingAsInteger);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeSingleRefs);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, ioe);
+escapeJavaStyleString(writer, str, nsEscape::escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, kIStyledContentSink);
+escapeJavaStyleString(writer, str, escapeQuotes, void)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeJavaStyle());
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aListStyle);
+escapeJavaStyleString(writer, str, escapeQuotes, true, false);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, mHashKey);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeQuotes, escapeJavaSinglePrompts);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, kNC_StyleCnt);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, '0');
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeLength);
+escapeJavaStyleString(writer, str, escapeJavaSingleQuotes, escapeQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &isStarted);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeIsCommand, escapeIsDebug());
+escapeJavaStyleString(writer, str, escapeJavaStyleString("", &str));
+escapeJavaStyleString(writer, tmp, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeCode);
+escapeJavaStyleString(writer, str, pStr);
+escapeJavaStyleString(writer, u, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeRawLength);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapePtr);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, fstr_oneuse());
+escapeJavaStyleString(writer, string, escapeSingleQuotes, jstrlen("uint32"));
+escapeJavaStyleString(writer, str, escapeQuotes, escapeIterator());
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aValue);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n)  if (!(str.len()  1) &&!(str.len()  n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, hdrStr, escapeSingleQuotes);
+escapeJavaStyleString(writer, string, escapeSingleQuotes, aStr);
+escapeJavaStyleString(writer, str, char_buf);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRealRe
+escapeJavaStyleString(writer, str, escapeSingleQuotes, trueString);
+escapeJavaStyleString(writer, str, escapedJSString);
+escapeJavaStyleString(writer, ptr, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeJavaCString());
+escapeJavaStyleString(writer, str, boolean escapeSingleQuotes, false);
+escapeJavaStyleString(writer, str, escapedQuotes, true);
+escapeJavaStyleString(writer, str, escapeQuotes, sizeof(writer), char *data);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapedSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &strlen);
+escapeJavaStyleString(writer, str, escapeCharset, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, es;
+escapeJavaStyleString(writer, str, eof, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, eCaseOut);
+escapeJavaStyleString(writer, _String, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeQuotes, char *arg);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char* aSource, char* aLength);
+escapeJavaStyleString(writer, str, XULSynchronousByteCode);
+escapeJavaStyleString(writer, str, &c);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, char *error, char *type, int errorSyntax);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, null);
+escapeJavaStyleString(writer, str, escapeQuotes, false, true);
+escapeJavaStyleString(writer, """);
+escapeJavaStyleString(writer, str, escapeQuotes, IOException);
+escapeJavaStyleString(writer, str, boolean escapeSingleQuotes, int ioe);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, aLength);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, escapeStringParser);
+escapeJavaStyleString(writer, str, escapeJavaQuotes, "");
+escapeJavaStyleString(writer, "(");
+escapeJavaStyleString(writer, str, escapeSingleQuotes, sizeof(inner));
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement)  if (ascii)  if ((ascii.xflags & 0x8000)!= 0)  escapeJavaStyleString(writer, writer, str, escapeSingleQuotes);  else  avgState = &avgState;   else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, '0');
+&escapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() <1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() &1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() 1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() &1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, """, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() <1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, "&"", str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+<escapeJavaStyleString(writer, str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() <1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() 1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() 1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() &1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() 1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() 1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() <1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() <1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() &1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeQuotes)
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() &1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() <1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() 1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, "<"");
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, '<0');
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() 1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() <1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, "&"");
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() <1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() &1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) &if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() 1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() &1) &&!(str.len() &n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, '&0');
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, "<"", str, escapeSingleQuotes);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) &if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() <1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) &if (!(str.len() &1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) <if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); &else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) if (ascii) if ((ascii.xflags & 0x8000)!= 0) &escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) if (!(str.len() &1) &&!(str.len() n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) <if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, """);
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) &if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); <else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, &deferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDeferredDisferredDeferredReferredDeferredDisferredDeferredDeferredDeferredStatement) <if (ascii) if ((ascii.xflags & 0x8000)!= 0) <escapeJavaStyleString(writer, writer, str, escapeSingleQuotes); else avgState = &avgState; else escapeJavaStyleStr
+escapeJavaStyleString(writer, str, escapeSingleQuotes, int n) <if (!(str.len() 1) &&!(str.len() <n)) return null; if (n) return 0; escapeJavaStyleString(writer, str, escapeSingleQuotes, n);

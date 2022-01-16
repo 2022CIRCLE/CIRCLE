@@ -1,0 +1,523 @@
+golden:
+return best(current, previous, isMinim);
+inference:
+return best(current, previous, isMinim);
+return best(current, previous, &isMinim);
+return best(current, prev, isMinim);
+return best(current, previous);
+return best(current, previous, isMinim, 0);
+return best(current, previous, 0);
+return best(current, previous, hasMinim);
+return best(current, previous, isMinim, null);
+return best(current, current, isMinim);
+return best(current, previous, x, isMinim);
+return best(current, previous, isMinim+1);
+return best(current, previous, (int)isMinim);
+return best (current, previous, isMinim);
+return best(current, previous, IsMinim);
+return best(current, previous, v);
+return best(current, previous, true);
+return best(current, previous, isMinim, false);
+return best(current, previous, 0, isMinim);
+return best(current, previous, isMinim, true);
+return best(current, previous,!isMinim);
+return best(current, previous, isMinim) - 1;
+return best(current, previous, *isMinim);
+return best(current, previous, x);
+return best(current, previous, false);
+return best(current, previous, current);
+return best(current, previous, null);
+return best(current, previous, isMinim, max);
+return best(current, last, isMinim);
+return best(current, previous, isMinim, 1);
+return best(current, previous, max);
+return best(current, previous, current, isMinim);
+return best(current, previous, u);
+return best(current);
+return best(current, previous, isMinim, &current);
+return best(current, previous, isMinim, v);
+return best(current, previous, isMinim, checker);
+return best(current, &prev, isMinim);
+return best(current, previous, isMinim + 1);
+return best(current, previous, v, isMinim);
+return best(current, isMinim);
+return best(current, previous, isMinim.get());
+return best(current, previous, target, isMinim);
+return best(current, previous, iter);
+return best(current, previous, fx);
+return best(prev, isMinim);
+
+return best(current, previous, isMinim, null);
+return best(current, previous, isMinim, -1);
+return best(current, previous, current.isMinim);
+return best(current, previous, null, isMinim);
+return best(current, previous, u, isMinim);
+return best(current, recent, isMinim);
+return best(current, v, isMinim);
+return (best(current, previous, isMinim));
+return best(current, previous, isMinim, flags);
+return best(current, previous, isMinim, this);
+return best(current, previous, -1, isMinim);
+return best(current, null, isMinim);
+return best(current, previous, isMinim, prev);
+return best(currentPair, previousPair, isMinim);
+return best(current, parent, isMinim);
+return best(current, previous, min);
+return best(current, other, isMinim);
+return best(current, previous, a, isMinim);
+return best(current, previous, fx, isMinim);
+return best(current, previous, a);
+return best(current, previous, _isMinim);
+return best(current, previous, m);
+return best(current, previous, isMinim, x);
+return best(currentPair, previous, isMinim);
+return best(current, previous, prev, isMinim);
+result = best(current, previous, isMinim); return result;
+return best(current, previous, i, isMinim);
+return best(current, preceding, isMinim);
+return best(current, previous, 1);
+return best(current, previous, p);
+return best(current, previous, val);
+return best(current, previous, mid);
+return best(current, currentPair, isMinim);
+return best(current, &current, isMinim);
+return best(current, previous, isMinim - 1);
+return best(current, &isMinim);
+return best(current, previous, true, isMinim);
+return best(current, previous, type);
+return best(current, current.prev, isMinim);
+return best(current, previous, isMinim, isMax);
+return best(current, previous, p, isMinim);
+return best(current, previous, prev);
+return best(current, previous, isMax);
+return best(current, previous, isMinim == 0);
+return best(x, current, previous, isMinim);
+return best(current, previous, isMinim-1);
+return best(current, previous, isMinim, false);
+return best(current, before, isMinim);
+return best(current, previous, status);
+else return best(current, previous, isMinim);
+return best(current, previous, isMinim, iter);
+return best(current, previous, sizeof(current));
+return best(current, previous, mi);
+return best(current, previous, isMinim, p);
+return best(current, previous, d);
+return best(current, previous, isMinim, isMinim);
+return best(current.current, previous.isMinim);
+return best(current, previous, wasMinim);
+return best(current, previous, true);
+return best(current, previous, isMinim, a);
+return best(current, previous, false, isMinim);
+return best(current, previous, isMinim, context);
+return best(current, hasMinim, isMinim);
+return best(isMinim, current, previous);
+return best(current, previous.get(), isMinim);
+return best(current, current.previous, isMinim);
+return best(current, previous, getMin());
+return best(current, previous, max, isMinim);
+return best(current, previous, value);
+return best(current, previous, isMinimal);
+return best(current, previous, len);
+return best(current, previous, b);
+return best(current, previous, null);
+return best(current, previous, (long)isMinim);
+return best(current, previous, null, isMinim);
+return best(current, previous, false);
+return best(current, previous, -1);
+return best(current, previous, isMinim)
+return best(current, previous, getMax(), isMinim);
+return best(current, previous, isMinim, mid);
+return best(current, previous || isMinim);
+return best(current, previous, target);
+return best(current, previous, tmp, isMinim);
+return best(current, previous, isMinim, fx);
+return best(current, previous, isMinim, true);
+return best(current, previous, tmp);
+return best(current, previous, isMinim, type);
+return best(current, previous, n);
+return best(current, previous, isMinim, 0, 0);
+return best(current, previous, false);
+return best(current, previous, str);
+return best(current, previous, isMin);
+return best(current, hasMinim);
+return best(current, previous, gotMin);
+return best(current, previous, it);
+return best(current, previous, isValue);
+return best(current, previous, (int) isMinim);
+return best(current, previous, isMinim, size);
+return best(current, previous,  isMinim);
+return best(current, previous, x, y);
+return best(current, previous, align, isMinim);
+return best(current, previous, r);
+return best(current, previous, isMinim, len);
+return best(current, previous, isMinim, m);
+return best((int)current, previous, isMinim);
+return best(current, previous, checker, isMinim);
+return best(current, previous, X_Minim);
+return best(current, previous, 0, 0);
+return best(current, previous, context);
+return best(current, previous, isMinim) + 1;
+return best(current, precedence, isMinim);
+return best(current, previous) == null;
+result = best(current, previous, isMinim);
+return best(current, previous) == 0;
+return best(current, previous, isMinim, e);
+return best(current, previous, isMinim); */
+return best(current, previous, notMinim);
+return best(current, previous, ++isMinim);
+return best(current, previous == null, isMinim);
+return best(current, previous, s);
+return best(current, previous, targetType);
+return best(current, previous, id);
+return best(current, previous, isMinim, offset);
+return best(current, previous, areMinim);
+return best();
+return best(current, previous, isMinim) - current;
+return best(current, previous, c);
+return best(current, previous, i);
+return best(current, current);
+return best(current, previous, isMinim >= 0);
+return best(current, previous, t);
+return best(current, previous, flags);
+return best(current, previous, l);
+return best(current, previous, isMinim, isEnd);
+return best(current, previous, isMinim), isMinim;
+return best(current, previous, alpha);
+return best(current, previous, isMinim)  1;
+return best(current, previous, isMinim, u);
+return best(current, previous, isMinim, rv);
+return best(current, previous, isMinim, ret);
+return best(current, previous, isMinim, b);
+return best(current, previous, isMinim, tmp);
+return best(current, previous, isMinim, &state);
+return best(current, previous, isMinim, d);
+return best(current, previous, isMinim, &m);
+return best(current, previous, isMinim, fv);
+return best(current, previous, isMinim, hasMin);
+return best(current, previous, isMinim, res);
+return best(current, previous, isMinim)? best(current, previous, isMinim) : best(current, previous, isMinim) : best(current, previous, isMinim) : best(current, previous, isMinim)? best(current, previous, isMinim) : best(current, previous, isMinim));
+return best(current, previous, isMinim, isDummy);
+return best(current, previous, (u_long)isMinim);
+return best(current, previous, isMinim? fx : -fx);
+return best(current, previous, isMinim, isFlags);
+return best(current, previous, isMinim, isEnumerate);
+return best(current, previous, isMinim)? -1 : -1;
+return best(current, previous, isMinim, e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g. e.g
+return best(current, previous, rv);
+return best(current, previous, isMinim, hasLength);
+return best(current, previous, isMinim, isFacused);
+return best(current, previous, isMinim? fx : fx);
+return best(current, previous, isMinim, &sc.current, &sc.previous);
+return best(current, previous, isMinim, sizeof(current));
+return best(current, previous, cvs_max, cvs_max);
+return best(current, previous, nv);
+return best(current, previous, isMinim, isCurrent);
+return best(current, previous, isMinim, isProperty);
+return best(current, previous, isMinim, false);
+return best(current, previous, isMinim? isMinim : isMinim);
+return best(current, previous,  0);
+return best(current, previous, isMinim) + hasMax();
+return best(current, previous, os, isMinim);
+return best(current, previous, n, isMinim);
+return best(current, previous, isMinim, a; a = getStartValue()); return best(a, b);
+return best(current, previous, (unsigned long)isMinim);
+return best(current, previous, isMinim? isMinim : ((long)null);
+return best(current, previous, isMinim, isDropTo)
+return best(current, previous, isMinim, &max);
+return best(current, previous, isMinim, v, i, v, &i, v, &m);
+return best(current, previous, isMinim)? best(current, previous, 0) : best(current, previous, 1);
+return best(current, previous, isMinim? -fx : -fx);
+return best(current, previous, isMinim, &htol, p);
+return best(current, previous, isMinim)? best(current, previous, isMinim) : best(current, previous, isMinim));
+return best(current, previous, isMinim, true);
+return best(current, previous, isMinim? 0 : 0);
+return best(current, previous, (UnivariatePointValuePair **)isMinim);
+return best(current, previous, isMinim, isNonMinim);
+return best(current, previous, isMinim, isUnivariate);
+return best(current, previous, isMinim, &isMatches);
+return best(current, previous, isMinim, isPair);
+return best(current, previous, isMinim);  else  fx = computeObjectiveValue(x); if (!fx)  fx = -fx;  double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx)  fx = -fx;  double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current)  fx = -fx;  double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current  fx)  fw =
+return best(current, previous, isMinim, aDepth);
+return best(current, previous, isMinim, ntohl(a));
+return best(current, previous, isMinim, isTotal);
+return best(current, previous, isMinim, v, d);
+return best(current, previous, isMinim)? best(current, previous) : best(current, previous)? best(current, previous) : best(current), best(current, previous), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(current), best(
+return best(current, previous, isMinim, &v, v);
+return best(current, previous, /*isMinim*/);
+return best(current, previous, isMinim);  else return 0;
+return best(current, previous, isMinim? 0 : 0, 0);
+return best(current, previous, isMinim, isHaveAttributes);
+return best(current, previous, isMinim, isRight);
+return best(current, previous, ni);
+return best(current, previous, isMinim);  else  /* * Allocate in the target range. */  return best(current, previous, isMinim);
+return best(current, previous, isMinim)  0;
+return best(current, previous, isMinim, &iov);
+return best(current, previous, isMinim, &isCurrent);
+return best(current, previous, isMinim, isDeep);
+return best(current, previous, isMinim, isDomin);
+return best(current, previous, isMinim, isFlush);
+return best(current, previous, isMinim) * this;
+return best(current, previous, isMinim, &converter);
+return best(current, previous, isMinim, isDtor);
+return best(current, previous, ep);
+return best(current, previous, isMinim, isVal);
+return best(current, previous, isMinim, &inFlag);
+return best(current, previous, isMinim)? best(current, previous) : best(current, previous), best(isMinim) : best(current, previous), best(isMinim) );
+return best(current, previous, isMinim, &newValue);
+return best(current, previous, isMinim, (UnivariatePointValuePair**)&isMinim);
+return best(current, previous, isMinim) - XP_MAX;
+return best(current, previous, isMinim, ep);
+return best(current, previous, isMinim, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b);
+return best(current, previous, isMinim, cnt);
+return best(current, previous, isMinim, &alloc);
+return best(current, previous, isMinim);  else  double s = 0; double fx = computeObjectiveValue(x); if (!s)  fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim, isTop, isLeft);
+return best(current, previous, isMinim, &a.a.a.a.b.a.a.b.a.b.a.b.b.a.b.a.b.b.b.a.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.b.
+return best(current, previous, isMinim, getStartValue());
+return best(current, previous, isMinim)? best(current, previous) : best(current, previous), isMinim);
+return best(current, previous, isMinim, isEmpty);
+return best(current, previous, isMinim);  else  /* XXX - if we have a better pointer. */ if (pair == null)  for (pair = (pair = (pair = (pair == null)? pair : pair))  if (!m)  m = 0; break;    return best(current, previous, isMinim);
+return best(current, previous, isMinim, isDirty);
+return best(current, previous, isMinim, &b);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+<return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, 0);
+return best(current, previous, isMinim); <else &/* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else return 0;
+return best(current, previous, isMinim); &else </* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim&);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &/* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, &0);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else <double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim) <1;
+<return best(current, previous, isMinim);
+return best(current, previous, isMinim) <0;
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else &double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &/* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim) &0;
+return best(current, previous, isMinim); <else &double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, &isMinim<);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+&return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, &isMinim);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else </* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &/* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else </* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim<);
+return best(current, previous, isMinim); <else <double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, <isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else </* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, <0);
+return best(current, previous, isMinim); &else &/* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else <double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else return 0;
+return best(current, previous, isMinim) 1;
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else <double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else <double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else </* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else return 0;
+return best(current, previous, isMinim) 0;
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &/* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, <isMinim<);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else /* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else </* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else <double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, <isMinim&);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else </* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) <fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, &isMinim&);
+return best(current, previous, isMinim); <else /* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <double s = 0; double fx = computeObjectiveValue(x); if (!s) <fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* * Allocate in the target range. */ return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+&return best(current, previous, isMinim);
+return best(current, previous, isMinim); else /* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else double s = 0; double fx = computeObjectiveValue(x); if (!s) &fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) <fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else fx = computeObjectiveValue(x); if (!fx) fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else </* * Allocate in the target range. */ <return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else /* * Allocate in the target range. */ &return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); else &double s = 0; double fx = computeObjectiveValue(x); if (!s) fx = -fx; double d = 0; double e = 0; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx);
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) &fx = -fx; &double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) <fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else /* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim) &1;
+return best(current, previous, isMinim); <else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) &for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) &fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); else &fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); <else fx = computeObjectiveValue(x); if (!fx) fx = -fx; <double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else &/* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else &fx = computeObjectiveValue(x); if (!fx) &fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim); &else /* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); <else <fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double d = 0; double e = 0; double fx = computeObjectiveValue(x); if (!fx) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (!current) fx = -fx; double fv = fx; double fw = fx; UnivariatePointValuePair current = new UnivariatePointValuePair(x, isMinim? fx : -fx); if (current fx) fw =
+return best(current, previous, isMinim);
+return best(current, previous, isMinim); else </* XXX - if we have a better pointer. */ if (pair == null) for (pair = (pair = (pair = (pair == null)? pair : pair)) &if (!m) m = 0; break; return best(current, previous, isMinim);
+return best(current, previous, isMinim); &else </* XXX - if we have a better pointer. */ if (pair == null) <for (pair = (pair = (pair = (pair == null)? pair : pair)) <if (!m) m = 0; break; return best(current, previous, isMinim);

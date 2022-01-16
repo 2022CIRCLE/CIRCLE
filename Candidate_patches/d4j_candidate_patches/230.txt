@@ -1,0 +1,601 @@
+golden:
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException {
+inference:
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str){
+static inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote __unused) throws IOException{
+void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char* str, boolean escapeSingleQuote) throws IOException{
+static const void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str){
+static void escapeJavaStyleString (Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, Boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException{
+private inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char *str, boolean escapeSingleQuote) throws IOException{
+escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, PRBool escapeSingleQuote) throws IOException{
+static PRUnichar escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void) throws IOException{
+static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, PRUnichar str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ){
+static void escapeJavaStyleString(Writer out, PRInt32 str, boolean escapeSingleQuote) throws IOException{
+static static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String s, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, int str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int i) throws IOException{
+static void escapeJavaStyleString(Writer out, String src, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, char* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String text, boolean escapeSingleQuote) throws IOException{
+static String escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, void) throws IOException{
+static void escapeJavaStyleString(){
+static void escapeJavaStyleString(Writer out, void* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, bool escapeSingleQuote){
+virtual void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void EscapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote __unused) throws IOException{
+static void escapeJavaStyleString(Writer out, String source, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String string, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, const char* str, boolean escapeSingleQuote) throws IOException{
+static const static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int i, boolean escapeSingleQuote) throws IOException{
+private void escapeJavaStyleString(Writer out, String str) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+static void escapeJavaStyleString(Writer out, Str str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *p) throws IOException{
+static void EscapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, const boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, char *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags){
+private inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, void *str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String type, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, PRUint32 str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags) throws IOException{
+private static void escapeJavaStyleString (Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, PRUnichar* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) const{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, IOException{
+static void escapeJavaStyleString(Outer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeType) throws IOException{
+static void escapeJavaStyleString(Writer out, Integer str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote){
+private static void escapeJavaStyleString(Writer out, String str, int escapeSingleQuote) throws IOException{
+protected static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+static void escapeJavaStyleString(Writer out, String style, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str __unused, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, bool escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote){
+static boolean escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static int escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+private PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static PRUint32 escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, Const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, DWORD str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, false, boolean escapeSingleQuote) throws IOException{
+private void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+static inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *name) throws IOException{
+static void escapeJavaStyleString(Writer out, String name, boolean escapeSingleQuote) throws IOException{
+static bool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, STRING str, boolean escapeSingleQuote) throws IOException{
+static static void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, String i, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, PRUnichar str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, PRBool escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote) throws IOException{
+private static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+private static void escapeJavaStyleString(Writer out, PRInt32 str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Reader out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapePtr) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, Boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int type) throws IOException{
+static void escapeJavaStyleString(Writer out, const char *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, nsString str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String key, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String buf, boolean escapeSingleQuote) throws IOException{
+PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static Inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeFlags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void){
+static void escapeJavaStyleString(Writer out, String str, true, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeString){
+static void escapeJavaStyleString(Writer out, String size, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException;{
+private static void escapeJavaStyleString(Writer out, String s, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(){
+static void escapeJavaStyleString(Wrapper out, String str, boolean escapeSingleQuote) throws IOException{
+inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeString) throws IOException{
+private static void escapeJavaStyleString(Writer out, int str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString( Writeer out, String str, boolean escapeSingleQuote ) throws IOException{
+private void escapeJavaStyleString(Writer out, String str){
+static void escapeJavaStyleString(Writer out, PRUnichar *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String strSpec, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String code, boolean escapeSingleQuote) throws IOException{
+static unsigned void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String src, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, u_long str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String path, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, Object str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char * str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Node out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String content, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, IOException){
+static void escapeJavaStyleString(Writer out, String string) throws IOException{
+escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+private void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int i) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int flags) throws IOException{
+static void escapeJavaStyleString() throws IOException{
+static void escapeJavaStyleString(Writer out, char str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException;{
+static inline void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQ){
+private static void escapeJavaStyleString(Writer out, String str, void) throws IOException{
+static void escapeJavaStyleString(String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str);{
+static void escapeJavaStyleString(Writer out, String str, boolean escape){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, NotImplementedException{
+static void escapeJavaStyleString(Writer out, String str,{
+private void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aLength){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean flags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRUint32 aLength){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  int sz;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, const char* aString){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeString){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  if (!str) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  if (!out) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean ret){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, InvalidateException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFlags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, INET6{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, u_int32_t seq){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  /* XXX */{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aType){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aInt){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aFlags){
+private void escapeJavaStyleString(){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  if (str){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote)  if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, nsIURI* aURL){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aModType){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aSize){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRUint32 aFlags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean char *str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool pParent) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *getter_AddRefs(ch)) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* str, boolean escapeRefPool) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isClosed) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean resIsEmpty) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean amPrettyprint) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aString) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char ** aCharSetInfo) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean ret) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *className) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *errorMessage) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeDummy) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aSize, PRBool aLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeHandle) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isFrame()) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aDateTime, PRInt32 aDateTime, PRBool aDone, PRBool aSentryPoint) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int retval) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *path) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aDataSource){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean getExtensionState()) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorPtr) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeCharset) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **buffer) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isUnicode) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *trunc, char *end) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aModType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32* aBuffer) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean readOnly) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aPseudoTag) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean int i) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean nsAutoString & aArena) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *cp) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aString) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *aNodeInfo){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean saveSubstring) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean noWidth) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isTemporary) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean debug) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void * aValue) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool aIsEmpty) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean opOffset) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean fprintf) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int sz) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean errorTest) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aProp) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapePos) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *c) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean unsigned intseparator) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aCID) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean id) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aInt) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **result) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int len) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean retval) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **buf, char **buf, int *bp, char **fp, boolean isDeepDeath){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean checkLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeReflow) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean rhs) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapePseudoTag) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isDebugging) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean breakTime) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isInitialized) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* cst) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool areAlreadySigned) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* aPtr) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* data) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isNull) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean prefix) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aStartLineNumber) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean eRefStatus) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isLoading) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **arg) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* result) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean useHash) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorCode) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean amib) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeSingleContext) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool ctx) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean nsIURI* aURL, boolean isContent) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aSource) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aDateTime) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean decodeFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean debugging) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isFragment) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean verbose) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean aExtractFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool ret) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool hashed) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean aNotFound) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFlags) throws IOException{
+static void escapeJavaStyleString() throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int flags) throws IOException{
+static void escapeJavaStyleString(){
+static void escapeJavaStyleString(Writer out, STRING str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean amPrettyprint) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) if (!str) return;{
+escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapePtr) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool ret) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String s, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, Boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean errorTest) throws IOException{
+static void escapeJavaStyleString(Writer out, String src, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Outer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean eRefStatus) throws IOException{
+static void escapeJavaStyleString(Writer out, PRUnichar* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, Integer str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int type) throws IOException{
+private static void escapeJavaStyleString(Writer out, PRInt32 str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRUint32 aLength){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean opOffset) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isTemporary) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeReflow) throws IOException{
+private PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, InvalidateException{
+static inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **result) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *className) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean prefix) throws IOException{
+virtual void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeHandle) throws IOException{
+static void escapeJavaStyleString(Writer out, String str) throws IOException{
+private void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean int i) throws IOException{
+static void escapeJavaStyleString(Writer out, const char* str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString (Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorType) throws IOException{
+private static void escapeJavaStyleString(){
+private static void escapeJavaStyleString(Writer out, String str, void) throws IOException{
+static const static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Reader out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) if (out == null) return;{
+static boolean escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *path) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, u_int32_t seq){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, int i) throws IOException{
+static void escapeJavaStyleString(Writer out, String buf, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Node out, String str, boolean escapeSingleQuote) throws IOException{
+static const void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int i) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQ){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aModType){
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aDateTime) throws IOException{
+private inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, Const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeFlags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean breakTime) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) </* XXX */{
+static PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &if (str){
+static void escapeJavaStyleString(Writer out, String str, int escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, PRUnichar *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, bool escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isDebugging) throws IOException{
+static void escapeJavaStyleString(Writer out, String strSpec, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isClosed) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *name) throws IOException{
+void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, int str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* cst) throws IOException{
+private static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeString) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *cp) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isInitialized) throws IOException{
+static void escapeJavaStyleString( Writeer out, String str, boolean escapeSingleQuote ) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void * aValue) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeString){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFlags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote) throws IOException{
+static unsigned void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, const char *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **buffer) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isFragment) throws IOException{
+static void escapeJavaStyleString(Writer out, String source, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, IOException{
+static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, false, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean rhs) throws IOException{
+static void escapeJavaStyleString(Writer out, Str str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean decodeFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String type, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String key, boolean escapeSingleQuote) throws IOException{
+static PRUint32 escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+private void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aSize){
+static void escapeJavaStyleString(Writer out, PRUnichar str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isUnicode) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapePos) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <int sz;{
+private void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, PRBool escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException{
+static void escapeJavaStyleString(Writer out, String str, int i, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *trunc, char *end) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aModType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean nsAutoString & aArena) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isFrame()) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, INET6{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aProp) throws IOException{
+protected static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool ctx) throws IOException{
+private static void escapeJavaStyleString(Writer out, char str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, nsString str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int len) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *c) throws IOException{
+private static void escapeJavaStyleString(Writer out, char* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorCode) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean getExtensionState()) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &/* XXX */{
+static void escapeJavaStyleString(Writer out, String str, void) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aStartLineNumber) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *getter_AddRefs(ch)) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean amib) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool hashed) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean checkLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* str, boolean escapeRefPool) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeString){
+private static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool aIsEmpty) throws IOException{
+static void escapeJavaStyleString(Writer out, Object str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aResult) throws IOException{
+static void escapeJavaStyleString(Writer out, String style, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, IOException){
+static void escapeJavaStyleString(Writer out, char* str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRUint32 aFlags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean aNotFound) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aDateTime, PRInt32 aDateTime, PRBool aDone, PRBool aSentryPoint) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote __unused) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <if (str){
+static static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote ) throws IOException{
+static int escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aString) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean id) throws IOException{
+private inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <if (!str) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean fprintf) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aPseudoTag) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aResult){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) if (!out) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char ** aCharSetInfo) throws IOException{
+escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, void* str, boolean escapeSingleQuote) throws IOException{
+static String escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException{
+static void escapeJavaStyleString( Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char *str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* aPtr) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aSource) throws IOException{
+static void escapeJavaStyleString(Writer out, u_long str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, IOException{
+static void escapeJavaStyleString(Writer out, String i, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean ret){
+static void EscapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str __unused, boolean escapeSingleQuote) throws IOException{
+static Inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String text, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int errorPtr) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, PRBool escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote ){
+static void escapeJavaStyleString(Writer out, String name, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean noWidth) throws IOException{
+static void escapeJavaStyleString(String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aDataSource){
+static void escapeJavaStyleString(Writer out, void *str, boolean escapeSingleQuote) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, Boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int flags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean useHash) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean resIsEmpty) throws IOException{
+private static void escapeJavaStyleString(Writer out, PRUnichar str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aInt){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32& aQuote) throws IOException{
+private void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean retval) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int sz) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str){
+static bool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool pParent) throws IOException{
+static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aResult){
+static void escapeJavaStyleString(Writer out, String code, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean ret) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, true, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeDummy) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void* aInt) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean readOnly) throws IOException{
+static void escapeJavaStyleString(Writer out, String path, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) /* XXX */{
+static void escapeJavaStyleString(Writer out, String str, boolean escape){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isNull) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeCharset) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean verbose) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aLength){
+private static void escapeJavaStyleString(Writer out, String src, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <if (!out) return;{
+private static inline void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String size, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, DWORD str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str){
+static void escapeJavaStyleString(Writer out, String string, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* result) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &if (!out) return;{
+private void escapeJavaStyleString(){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aCID) throws IOException{
+static void escapeJavaStyleString(Writer out, int str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32* aBuffer) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) if (str){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **arg) throws IOException{
+private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote __unused) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool areAlreadySigned) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException, NotImplementedException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char *errorMessage) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean nsIURI* aURL, boolean isContent) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char **buf, char **buf, int *bp, char **fp, boolean isDeepDeath){
+private static void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean debug) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean unsigned intseparator) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, char* data) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean aExtractFunc) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aFlags){
+static static void escapeJavaStyleString(Writer out, String str) throws IOException{
+private static void escapeJavaStyleString(Writer out, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean saveSubstring) throws IOException{
+static void escapeJavaStyleString(Writer out, PRUint32 str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, char * str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, nsIURI* aURL){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeQuote){
+private void escapeJavaStyleString(Writer out, String str){
+inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Wrapper out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &int sz;{
+private static void escapeJavaStyleString(Writer out, String s, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean debugging) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aSize, PRBool aLength) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapePseudoTag) throws IOException{
+static void EscapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String string) throws IOException{
+static void escapeJavaStyleString(Writer out, String content, boolean escapeSingleQuote) throws IOException{
+static inline void escapeJavaStyleString(Writer out, String str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) int sz;{
+static void escapeJavaStyleString (Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, const char* aString){
+private static void escapeJavaStyleString(Writer out, String str, int escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRBool isLoading) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aString) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, bool escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, PRInt32 str, boolean escapeSingleQuote) throws IOException{
+static PRBool escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
+static void escapeJavaStyleString(Writer out, String str, const boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean char *str) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, PRInt32 aType){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) <if (out == null) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, int retval) throws IOException{
+private static void escapeJavaStyleString(Writer out, const String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeType) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean flags){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *p) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeSingleContext) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeFlags){
+static PRUnichar escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, void *aNodeInfo){
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static inline static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) &if (!str) return;{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote, boolean isQuote) throws IOException{
+static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) const{
+private static void escapeJavaStyleString(Writer out, char *str, boolean escapeSingleQuote) throws IOException{

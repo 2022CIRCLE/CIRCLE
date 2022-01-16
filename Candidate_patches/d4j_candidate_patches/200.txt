@@ -1,0 +1,393 @@
+golden:
+return appendTo == null ? null : appendTo.append(QUOTE);
+inference:
+return (appendTo == null? null : appendTo.append(QUOTE));
+return appendTo == null? appendTo : appendTo.append(QUOTE);
+return (appendTo == null)? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.get() : appendTo.get();
+return appendTo == 0? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo;
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo;
+return appendTo == null? null : appendTo.get();
+return appendTo == '0'? null : appendTo.append(QUOTE);
+
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.get() : appendTo.get();
+return appendTo == null? appendTo.append(QUOTE) : appendTo;
+return appendTo!= null? appendTo : appendTo.append(QUOTE);
+return appendTo == QUOTE? null : appendTo.append(QUOTE);
+return appendTo == QUOTE? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo;
+return appendTo == null? appendTo.get() : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo;
+return appendTo == null? appendTo : appendTo;
+return appendTo == null? null : appendTo.get();
+return (appendTo == null? null : appendTo.append(QUOTE));
+return result;
+return appendTo == null? null : appendTo.Append(QUOTE);
+return appendTo == null? 0 : appendTo.append(QUOTE);
+return ( appendTo == null? null : appendTo.append(QUOTE));
+return appendTo == nil? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return ret;
+return appendTo == 0? appendTo : appendTo.append(QUOTE);
+return (appendTo == null)? appendTo : appendTo.append(QUOTE);
+return appendTo == null? "" : appendTo.append(QUOTE);
+return (appendTo == null? null : appendTo).append(QUOTE);
+return appendTo == null? appendTo.get() : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return (char *) appendTo == null? null : appendTo.append(QUOTE);
+return (appendTo == null? null : appendTo);
+return appendTo == null? appendTo.get() : appendTo.get());
+return appendTo == null? appendTo.append(QUOTE) : appendTo;
+return appendTo == unsigned? null : appendTo.append(QUOTE);
+return appendTo == null? null: appendTo.append(QUOTE);
+break;
+else return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == c? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo == QUOTE? null : appendTo;
+ret = appendTo == null? null : appendTo.append(QUOTE);
+return appendTo? appendTo : appendTo.append(QUOTE);
+return ((appendTo == null)? null : appendTo.append(QUOTE));
+return(appendTo == null? null : appendTo.append(QUOTE));
+return appendTo == null? 0 : appendTo.append(QUOTE);
+return ret = appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == (char *)null? null : appendTo.append(QUOTE);
+return appendTo.append(QUOTE);
+return appendTo == (char *) null? null : appendTo.append(QUOTE);
+return (appendTo == null)? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.Append(QUOTE);
+return appendTo == appendTo? appendTo : appendTo.append(QUOTE);
+return (char) appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == appendTo? null : appendTo.append(QUOTE);
+return (appendTo == null)? null : appendTo.append(QUOTE);
+return result = appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == '0'? appendTo : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : 0;
+return appendTo == null;
+return appendTo == NUL? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo);
+return appendTo == null? null : appendTo.get());
+return appendTo == null? null : appendTo.toLowerCase();
+result = appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return (apendTo == null? null : appendTo.append(QUOTE));
+return appendTo==null? null : appendTo.append(QUOTE);
+return appendTo == null? c : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE).get();
+return appendTo == null? appendTo.get() : appendTo.get());
+return appendTo == null? null : appendTo;
+return appendTo == null? appendTo: appendTo.append(QUOTE);
+return (AppendTo == null? null : appendTo.append(QUOTE));
+return 0;
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(q);
+return appendTo == q? null : appendTo.append(QUOTE);
+return (appendTo == null)? null : appendTo;
+return appendTo!= null? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.assign(QUOTE);
+return appendTo == null? null : appendTo.append(q);
+return appendTo == null? "" : appendTo.append(QUOTE);
+return appendTo == node? null : appendTo.append(QUOTE);
+return appendTo == quad? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo;
+return appendTo == null? null : appendTo.get();
+return appendTo == '0'? null : appendTo.append('0');
+return appendTo == ""? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo.Append(QUOTE);
+return appendTo == null? null : appendTo.Append(QUOTE);
+return (AppendTo == null)? null : appendTo.append(QUOTE);
+return (appendTo == null? appendTo : appendTo.append(QUOTE));
+return appendTo == null? null.get() : appendTo.append(QUOTE);
+return appendTo == q? null : appendTo.append(q);
+return (compendTo == null)? null : appendTo.append(QUOTE);
+return appendTo == null? null : (void *) appendTo.append(QUOTE);
+return appendTo == (char*) null? null : appendTo.append(QUOTE);
+return AppendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo!= 0? appendTo : appendTo.append(QUOTE);
+return appendTo.appendTo == null? null : appendTo.append(QUOTE);
+return rv = appendTo == null? null : appendTo.append(QUOTE);
+return (char*) appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? len : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo == QUOTE;
+return appendTo == null? result : appendTo.append(QUOTE);
+return QUOTE;
+return appendTo == null? unsigned : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return (int) appendTo == null? null : appendTo.append(QUOTE);
+result = appendTo == null? null : appendTo.append(QUOTE); return result;
+return res;
+return rv;
+return appendTo == null? null : appendTo.get().append(QUOTE);
+return appendTo == null? appendTo.Append(QUOTE) : appendTo;
+return appendTo == null? null : appendTo.append('0');
+return appendTo!= null? null : appendTo.append(QUOTE);
+return appendTo == -1? null : appendTo.append(QUOTE);
+return appendTo == QUOTE? null : appendTo.append(QUOTE);
+return appendTo == nil? appendTo : appendTo.append(QUOTE);
+return const appendTo == null? null : appendTo.append(QUOTE);
+return (apendTo == null)? null : appendTo.append(QUOTE);
+return appendTo == null? NUL : appendTo.append(QUOTE);
+return AppendTo(appendTo, QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(c);
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.toUpperCase();
+return appendTo == null? null : appendTo.get());
+return (appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == QUOTE? appendTo : appendTo;
+return appendTo == QUOTE;
+return appendTo == QUOTE? null : appendTo.append(c);
+return appendTo == null? null : appendTo.append(null);
+return appendTo == appendTo;
+return appendTo == aQuoted? null : appendTo.append(QUOTE);
+return appendTo == null? [] : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo);
+return appendTo == null? null : appendTo.Append(QUOTE);
+return appendTo == null? null : appendTo);
+return appendTo == tmp? null : appendTo.append(QUOTE);
+return appendTo == nsAutoString? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE).get();
+return appendTo == null? null : appendTo.elementAt(QUOTE);
+return appendTo == null? null : appendTo.toLowerCase();
+return!appendTo;
+return appendTo == null? null : appendTo.append(QUOTE);
+return q;
+return appendTo == null? null : appendTo.Append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : 0;
+return appendTo == null? appendTo.Append(QUOTE) : appendTo;
+result = appendTo == null? null : appendTo.append(QUOTE); break;
+return appendTo == null? null : appendTo.append(Quote);
+return true;
+return appendTo == null;
+return appendTo == QUOTE? appendTo.get() : appendTo.get();
+return appendTo == null? appendTo.append(QUOTE) : appendTo;
+return appendTo == this;
+return appendTo == null? appendTo == null? appendTo : appendTo;
+return (0);
+return appendTo == null? null : appendTo.append(None);
+return appendTo == null? appendTo : appendTo.append(Quote);
+return appendTo == QUOTE? appendTo.get() : appendTo.get());
+return (appendTo == null)? appendTo.append(QUOTE) : appendTo;
+return AppendTo(appendTo);
+return ( appendTo == null? null : appendTo.append(QUOTE) );
+return appendTo == null? null : appendTo.append(QuotedQuote);
+return false;
+return appendTo == null? null : appendTo.append(null);
+res = appendTo == null? null : appendTo.append(QUOTE);
+goto out;
+return null;
+goto ret;
+return appendTo == null
+return v;
+return appendTo == null? null : appendTo.append(QName);
+rv = appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo == null? null : appendTo;
+return appendTo == null? appendTo == null? appendTo : appendTo;
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(q);
+return appendTo == null? &appendTo : appendTo.append(QUOTE);
+return appendTo == &null? null : appendTo.append(QUOTE);
+return appendTo == htole32(nsAutoString("s"))? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(null);
+return appendTo == null? null : appendTo.append(quote);
+return appendTo == null? appendTo == null? appendTo.append(QUOTE) : appendTo.append("");
+return appendTo == QUOTE? null : appendTo.append(QuotedQuote);
+return appendTo == null? appendTo.Append(QUOTE) : appendTo.Append(PREFIX);
+return appendTo == null? null : appendTo.append((unsigned long)QUOTE);
+return appendTo == null? : appendTo.append(QUOTE);
+return appendTo == null? appendTo.get() == null : appendTo.get() == null;
+return appendTo == null? null : appendTo.append((long)QUOTE);
+return appendTo == nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::nsCRT::ns
+return appendTo == null? null : appendTo.append(&QUOTE);
+return appendTo == aValue? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.toUpperCase() : appendTo.toUpperCase();
+return appendTo == null? null : appendTo.Append(Q_QUOTE);
+return appendTo == nsCRT::nsCRT::null? null : appendTo.append(QUOTE);
+return appendTo == eNode? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.toString().append(QUOTE);
+return appendTo == &mrl;
+return appendTo == null? appendTo.get() == QUOTE : appendTo.get();
+return appendTo == null? nsCRT::strdup("null ptr").get() : appendTo.append(QUOTE);
+return appendTo == null? ptr : appendTo.append(QUOTE);
+return appendTo == 0? appendTo.append(QUOTE) : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE) || appendTo == null? appendTo.append(" " : ptr, ptr);
+return appendTo == null? rdflags : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(null);
+return appendTo == null? appendTo.get() == null? appendTo.get() == QUOTE : appendTo.get() == QUOTE;
+return appendTo == q? appendTo : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(c, lastHold, pos.getIndex() - lastHold));
+return appendTo == null? null : appendTo.Append(QuotedQuote);
+return appendTo == qobj? appendTo.append(QUOTE) : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(c, lastHold, pos.getIndex() - lastHold) - appendTo.get());
+return appendTo == null? appendTo.toLowerCase() : appendTo.toLowerCase().append(QUOTE);
+return appendTo == null? ++ appendTo : appendTo.append(QUOTE);
+return appendTo == n? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE)? appendTo.toLowerCase() : appendTo.toLowerCase());
+return appendTo == null? appendTo.get() == QUOTE : appendTo.get() == QUOTE);
+return appendTo == null? appendTo.Append(QUOTE) : appendTo.Append(c);
+return appendTo == null? appendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo == null? num : appendTo.append(QUOTE);
+return appendTo == null? ntohl(ntohl(s), appendTo) : appendTo.append(QUOTE);
+return appendTo == null? QUOTE : appendTo.append(c);
+return appendTo == qnodes? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no)  const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no;  else  hse_no = hse_no; hse_no = hse_no;   else  hse_no = hse_no;  if (!hse_no)  hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == &q);
+return appendTo == QUOTE? appendTo.toString() : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((u_char)&(ptr));
+return appendTo == null? appendTo.Append(QUOTE) : appendTo.Append(QUOTE);
+return appendTo == null? appendTo.Append(QUOTE) : appendTo.Append(QUOTE);
+return appendTo == QUOTE? null : appendTo.append(c, lastHold, pos.getIndex() - lastHold)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) );  else
+return appendTo == null? : appendTo.append((void **)&QUOTE);
+return appendTo == null? null : appendTo.toCharArray().append(QUOTE);
+return (result) appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(ep);
+return appendTo == null? null : appendTo.append(QUEUED_QUOTE);
+return (!eifc)? appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(PRUint32(Quote(v)));
+return (ptr_t) appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append(c, lastHold, pos.getIndex() - lastHold) - appendTo.length() - appendTo.length());
+return appendTo == null? i = appendTo.size() : appendTo.append(QUOTE);
+return appendTo == nsCRT::strdup(nsCRT::strdup(str))? null : appendTo.append(QUOTE);
+return appendTo == null? appendTo.Append(QUOTE) : appendTo.Append(q);
+return appendTo == aQuotedString? null : appendTo.append(QUOTE);
+return appendTo == q_ns? null : appendTo.append(q_ns);
+return appendTo == null? null : appendTo.append(quadQuotedQuotedString);
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((unsigned char *) '0');
+return appendTo == eq_no? null : appendTo.append(QUOTE);
+return appendTo == QUOTE? appendTo == 0? null : appendTo.append(QUOTE);
+return appendTo == '0'? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == &n&? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == n&? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == QUOTE? null : appendTo.append(c, lastHold, pos.getIndex() - lastHold)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) ); else
+return appendTo == &n<? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '&0'? null : appendTo.append('0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == <n? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '&0'? appendTo : appendTo.append(QUOTE);
+return appendTo == '0'? null : appendTo.append('0');
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '<0'? appendTo : appendTo.append(QUOTE);
+return appendTo == null? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append('&0');
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+&return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == n<? appendTo : appendTo.append(QUOTE);
+return appendTo == null? null : appendTo.append('0');
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == <n<? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == &null? appendTo.append(QUOTE) : appendTo.append((u_char)&(ptr));
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == <null? appendTo.append(QUOTE) : appendTo.append((u_char)&(ptr));
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((unsigned char *) '&0');
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '0'? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == QUOTE? null : appendTo.append(c, lastHold, pos.getIndex() - lastHold)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) ); <else
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '<0'? null : appendTo.append('<0');
+return appendTo == '&0'? null : appendTo.append('&0');
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+<return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == &n? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '&0'? null : appendTo.append('<0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '&0'? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((unsigned char *) '<0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == &null? appendTo : appendTo.append(QUOTE);
+<return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '<0'? null : appendTo.append('0');
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == QUOTE? null : appendTo.append(c, lastHold, pos.getIndex() - lastHold)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE)? appendTo.append(QUOTE) : appendTo.append(QUOTE) ); &else
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == n? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((unsigned char *) '0');
+return appendTo == &null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+&return appendTo == null? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '<0'? null : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '0'? null : appendTo.append('<0');
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '<0'? null : appendTo.append('&0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == '0'? null : appendTo.append('&0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else &hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? null : appendTo.append('<0');
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == <null? null : appendTo.append(QUOTE);
+return appendTo == <null? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == null? appendTo.append(QUOTE) : appendTo.append((u_char)&(ptr));
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else &hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else <hse_no = hse_no; hse_no = hse_no; <else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; &else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == <n&? appendTo : appendTo.append(QUOTE);
+return appendTo == hse_no; if (hse_no) <const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else &hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) &const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; else <hse_no = hse_no; hse_no = hse_no; else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_
+return appendTo == hse_no; if (hse_no) const char *inline = hse_no; if (escapingOn && (inline == hse_no) && (outline == hse_no)) inline = (void*) hse_no; <else hse_no = hse_no; hse_no = hse_no; &else hse_no = hse_no; if (!hse_no) hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_no = hse_no; hse_

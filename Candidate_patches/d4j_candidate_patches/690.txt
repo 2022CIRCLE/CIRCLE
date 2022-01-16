@@ -1,0 +1,1298 @@
+golden:
+return (Math.abs(u) + Math.abs(v));
+inference:
+return (Math.abs(u) + v);
+return (Math.abs(u));
+return (math.abs(u) + math.abs(v));
+return (u + v);
+return (math.abs(u) + Math.abs(v));
+return u + v;
+return (Math.abs(u) + Math.abs(v));
+return ((Math.abs(u) + Math.abs(v)));
+return (Math.from(u) + Math.from(v));
+return 0;
+return u;
+return (Abs(u) + Abs(v));
+return (Math.as(u) + Math.as(v));
+return (math.abs(u) + v);
+return (Math.base(u) + Math.base(v));
+return (Math.s(u) + Math.s(v));
+return (Math.pow(u) + Math.pow(v));
+return Math.abs(u) + Math.abs(v);
+return Math.abs(u);
+return (Math.abs(u) + Math.abs(v) + 1);
+return (Math.max(u) + Math.max(v));
+return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u + v));
+return Math.abs(u) + v;
+return (Math.abs(v));
+return (p + v);
+return (math.abs(u) + math.abs(v));
+return (Math.abs(u) + MATH.abs(v));
+
+return Math.abs(u) + Math.abs(v) + 1;
+return (Math.realloc(u) + Math.realloc(v));
+return (Math.abs(u)) + Math.abs(v);
+return (Math.ceil(u) + Math.ceil(v));
+return (Math.abs(v) + Math.abs(u));
+return Math.abs(u) + Math.abs(v) - 1;
+return (Math.abs (u) + Math.abs (v));
+return ((int)Math.abs(u) + Math.abs(v));
+return ( Math.abs(u) + Math.abs(v));
+return (Math.abs(p) + Math.abs(v));
+return v;
+return ([Math.abs(u) + Math.abs(v)]);
+return (Math.abs(u), Math.abs(v));
+return (Math(u) + Math(v));
+return (Math.get(u) + Math.get(v));
+return p;
+return (Math.real(u) + Math.real(v));
+return ((u == 0) || (v == 0));
+return (Math.abs(u) | Math.abs(v));
+return Math.abs(u + v);
+return (Math.abs(u) + Math.abs(v) - 1);
+return (Math.abs(u) + MAX.abs(v));
+return (Math.zero(u) + Math.zero(v));
+return (Math.abs(u) + u);
+return (Math.sin(u) + Math.sin(v));
+return (macro.abs(u) + macro.abs(v));
+return (Math.abs(u) + Math.abs(v) + u);
+return (Math.abs(p) + Math.abs(p));
+return (Math.at(u) + Math.at(v));
+return (Math.min(u) + Math.max(v));
+return (Math.si(u) + Math.si(v));
+return (Math.alloc(u) + Math.alloc(v));
+return ((Math.abs(u)) + Math.abs(v));
+return (Math.abs(u) + 1);
+return (Math.ptr(u) + Math.ptr(v));
+return gcd(u, v);
+return ((long)Math.abs(u) + Math.abs(v));
+return (ma.abs(u) + m.abs(v));
+return (math.abs(u) + mat.abs(v));
+return (Math.l(u) + Math.l(v));
+return Math.abs(u) + Math.abs(v) + Math.abs(u);
+return (Math.append(u) + Math.append(v));
+return (Math.is(u) + Math.is(v));
+return Math.abs(u) + Math.abs(v) - u;
+return (Math.from_u(u) + Math.from_v(v));
+return (Math.sub(u) + Math.sub(v));
+return (Math.abs(u) + Matrix.abs(v));
+return (Math.fromInt(u) + Math.fromInt(v));
+return ((int) Math.abs(u) + Math.abs(v));
+return (Number.abs(u) + Number.abs(v));
+return (PRUint32(u) + PRUint32(v));
+return (0);
+return (MAX(u) + MAX(v));
+return (Integer.abs(u) + Integer.abs(v));
+return (Math.abs(u, v));
+return(Math.abs(u) + v);
+return (Math.add(u) + Math.add(v));
+result = Math.abs(u) + Math.abs(v); return result;
+return(Math.abs(u));
+return (Math.abs(&u) + Math.abs(&v));
+return result;
+return 1;
+return rv;
+return Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v));
+return MATH.abs(u) + MATH.abs(v);
+return (Math.abs(u) + (u + v));
+goto out;
+return (Math.next(u) + Math.next(v));
+return (Math.off(u) + Math.off(v));
+return (v);
+return gcd;
+return (Math.abs((u) + (v)));
+return (Math.abs(u) + mat.abs(v));
+return (math.abs(u));
+return (Math.abs(u) + Math.abs(v) + v);
+return (Math.abs((u) + Math.abs(v)));
+return (Math.abs(u) - Math.abs(v));
+return (Math.abs(u), v);
+return (Math.join(u) + Math.join(v));
+return(Math.abs(u) + Math.abs(v));
+return (Math(u) + Math.abs(v));
+return (Math.abs(u) + int(v));
+return (Abs(u) + abs(v));
+return (Math.abs(u) - v);
+return Math.abs(u) + Math.abs(v) + u;
+return (Math.abs(u) || Math.abs(v));
+return abs(u) + abs(v);
+return MAX(u, v);
+return Math.abs(u, v);
+u = Math.abs(u); return (u + v);
+return (Math.u(u) + Math.u(v));
+return (math.abs(u) + h.abs(v));
+return (Math.abs(u) + Math.abs(v) + 2);
+return (Math.abs(u) + (int)(v));
+return k;
+return Math.abs(u + Math.abs(v));
+return (Math.abs(u)+1);
+return ( Math.abs(u) + Math.abs(v) );
+return m;
+return (Math.abs(u)  v);
+return Math.abs (u) + Math.abs (v));
+return (abs(u) + abs(v));
+return (Math.abs(u) + Math.abs(v) - u);
+return (Math.abs(u) + sizeof(v));
+return p + v;
+return (Math.abs((int)u) + Math.abs(v));
+return -1;
+return ((math.abs(u) + Math.abs(v)));
+return (Math.abs(u) + Math.abs(u));
+return i;
+break;
+return ((u >= 0) || (v >= 0));
+return ((u) + (v));
+return Math.abs(v);
+ret = Math.abs(u) + Math.abs(v); return ret;
+return Math.abs(u) + Math.abs(v) / 2;
+return (Math.abs((u)) + Math.abs((v)));
+return (Math.abs(u) + (Math.abs(v)));
+return Math.abs(u) + Math.abs(v) + v;
+return (Math.abs(u)) + Math.abs(v));
+ret = Math.abs(u) + Math.abs(v); return (ret);
+return n;
+#endif return (Math.abs(u) + Math.abs(v));
+return ((u > 0) || (v > 0));
+return (Math.abs(u) + v + 1);
+return Math.abs(u) + Math.abs(v) + Math.abs(v);
+return (Math.get(u) + Math.get(v)));
+return -u;
+return Math.abs(u) + Math.abs(v) + 2;
+return (Math.abs(u) + (u - v));
+return (Math.abs((u)) + Math.abs(v));
+return (math.abs(u) + (math.abs(v)));
+return Math.abs(u) + Math.abs(v) + Math.abs(u));
+return ret;
+return (Math.abs(u) + ((int)v));
+s = Math.abs(u) + Math.abs(v); return (s);
+return (Math.abs(u) + Math.abs(v)+1);
+return (Math.abs(u) + (v - u));
+return (Math.abs((u + 1)) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v), 0);
+return Math.abs(u) + Math.abs(v) - v;
+return (Math.abs(u) + Math.abs(v), u);
+return (Math.abs(u) + Math.abs(v) + p);
+return(Math.abs(u) + Math.abs(v) + 1);
+return ((u == 0) && (v == 0));
+return ((math.abs(u) + (math.abs(v)));
+return (Math.abs(u) + Math.abs(v), v);
+return (Math.abs(u) + Math.abs(v) + h);
+result = (Math.abs(u) + Math.abs(v)); return result;
+return (Math.abs(u) + Math.abs(v) + 3);
+return (((u == 0) || (v == 0)) || (u == 0)));
+rv = Math.abs(u) + Math.abs(v); if (rv) return (rv); else return rv;
+return ((u > 0) || (v = 0)) || (u > 0));
+return (Math.abs(u) + (((unsigned long)v)));
+return (Math.abs(u) + (math.abs(v) + math.abs(v)));
+if (u == 0 || v == 0)  return (Math.abs(u) + Math.abs(v));  else  return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + Math.abs(p));
+return (math.abs(u) + m.abs(v));
+return (P(u) + ((v & 1)))  0? P(v & 1) : 0;  return (P(v)  1);
+return (Math.abs(u) + (Math.abs(v) + Math.abs(v)));
+return (((u == 0) || (v == 0))? Math.abs(u) + Math.abs(v) : (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + Math.abs(u));
+return ((u == 0) || (v == 0) || (u == 0) || (v == 0)))
+return u = 0; /* not possible for v */ return (u  v);
+return (Math.abs(u) + (u  p)? p + (v  p) : v);
+return ((*u + v).rsi);
+return (Math.abs(u) + (u & 1));
+if (v == 0)  return (Math.abs(u) + Math.abs(v));  else  return (Math.abs(u) + Math.abs(v));
+ret = (Math.abs(u) + Math.abs(v)); return ret;
+/* XXX should not be changed now */ if (u >= 0)  u = -u;  else  u = -u;  if (v > 0)  v = -v;  else  v = -v;    return (Math.abs(u) + Math.abs(v));
+/* * This might be an epoch * to get the right to the next line. */ u = -u; return (u = 0? u : u + v );
+return (__func__(u) + __func__(v));
+return ((u == 0) || (v == 0))? u + v;
+return (Math.abs(u) + (Math.abs(v) - 1));
+return ((u & 1) + (v & 1));
+return gcd(u,v);
+if (v == 0) return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+return _Math.abs(u) + _Math.abs(v));
+if (u == 0)  if (v == 0)  u = -u;  else  u = -u;  if (v > 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  else  v = -v;    return (Math.abs(u) + Math.abs(v));   if (u & 1)  u = -u;   return (u + Math.abs(v));   else  if (v > 0)  u = -u;  if (u > 0)  u = -u;  else  u = -u;   return (v + Math.abs(
+m = Math.abs(u) + Math.abs(v); return (m);
+/* * We have to ensure that we have enough space for this code, because * we do not * have to use it for our own * computations. */ return (Math.abs(u) + Math.abs(v));
+/* If 0 */ i = ((u == 0) || (v == 0))? u : -u; i = -v; return (u + v);
+s = Math.abs(u) + Math.abs(v); if (s == -u)  return -u;  s = (SIGNAL_TYPE) + s; return (s);
+m = Math.abs(u) + Math.abs(v); if (!m)  return;   return (m);
+return (Math.abs(u) + Math.abs(v) + (u >= 0)? u + (v  v) : v);
+if (v == 0)  u = -u;  else  u = -u;  return (Math.abs(u) + Math.abs(v));
+if (v >= 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  else  if (v > 0)  v = -v;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  else  if (v > 0)  v = -v;   if (v > 0)  v = -v;  if (v > 0)  v = -v;
+return (u >= 0 && v  v);
+if (u  0)  if (v > 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (u > 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  if (u > 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (v > 0)  v = -v
+return (Math.abs(u) + (math.abs(v) & 0xffff));
+return ((u == 0 || v == 0)? u + v : v);
+return ((u == 0) || (v == 0) || (v == 0)));
+return (Math.strdup(u) + Math.strdup(v));
+p = p + v; if (!(u == 0) || (v == 0)) return ((Math.abs(u) + ((V) v))); if (!(v == 0) || (v == 0)) return ((Math.abs(u) + (V))); if (v  0) return ((V) v); return ((V) v) + (V));
+return ((u + v)  u) || (v + v));
+return (Math.abs(u) + (u = 0)? v : 0);
+return _(Math.abs(u) + _(Math.abs(v)));
+return ((u >= 0) && (v  u)? Math.abs(u) + Math.abs(v) : Math.abs(v));
+return (Math.ptr_abs(u) + Math.ptr_abs(v));
+return (Math.abs(u) + Math.abs(v) + Math.abs(v) + Math.abs(u));
+return (Math.abs(u) + (macro & (v & (u))));
+return (Math.abs(u) + (v + 1));
+return (Math.abs(u) + Math.abs(v) - (u == 0) || (v == 0));
+return (Math.abs(u) + ((u + 1) + Math.abs(v)));
+return (Math.abs(u) + ((int)ma)(v));
+return (Math.abs(u) + (Math.abs(v) + v));
+u = Math.abs(u) + Math.abs(v); return (u + v);
+return ((*u) + ((v == 0)? u : 0))? u : 0;
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0))  u = -u;  return (u + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + Math.abs((u*2));
+/* XXX make sure that u is in a p-deprecated memory, * then we must return this. */ return (Math.abs(u) + Math.abs(v));
+if (u == 0) return u; else return (Math.abs(u) + Math.abs(v));  if (u == 0) return v; return 0;
+/* if (v!= 0)  u = -u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (u > 0)  u = -u;
+if (u  0) return 0; else return (Math.abs(u) + Math.abs(v));
+if (v >= 0)  if (u > 0)  u = -u;  else  u = -u;  if (v > 0)  v = -v;  else  v = -v;   return (Math.abs(u) + Math.abs(v));
+return (P((u) + P((v)));
+return (User.abs(u) + User.abs(v));
+return (((u == 0) || (v == 0))? (u + v):(v + v));
+return (((u > 0) && (v > 0)) || (v > 0));
+return (same((int)u) + (same)v);
+if (! v) return 0; return v;    if (! v) return 1; return 0;
+return (Math.abs(u) + Math.abs(v) + u  v)? -u : 0;
+return ((u == 0)? u + (v == 0) : (Math.abs(u) + (v  0)));
+if ((u == 0) || (v == 0)) return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+return ((u + v).math.abs(u));
+return (Math.sqrt(u) + Math.sqrt(v));
+return (Math.abs(u) + Math.abs(v) + u + v);
+return (_("math:%d") % u + _("math:%d") % v);
+return (_Math.abs(u) + _Math.abs(v));
+return ((u > 0)? Math.abs(u) : Math.abs(v));
+return ((u == 0) && (v == 0))? (u + v) : (v + v));
+return ((unsigned long)((u & 1) + (v & 0xff)) + ((v & 0xff)) + ((v & 0xff) + (v & 0xff)));
+if (m == null)  m = m + v; if (!m) return 0;   return (Math.abs(u) + m);
+return (Math.abs(u) + (v > 0? u : 0));
+return (Math.abs(u) + (u > 0? u : u) + (v  0? v : v));
+return (Math.abs(u) + Math.abs(v) + Math.abs(c));
+r = Math.abs(u) + Math.abs(v); return r;
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1))  0)? v : ((u & 1)) == 0? v : ((u & 1))  0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+return ((short)Math.abs(u) + (short)Math.abs(v));
+return (Math.sp(u) + Math.sp(v));
+if (u == 0) return u; else return (Math.abs(u) + Math.abs(v));
+return p + (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0)  return 0;  if (!(v == 0))  return 0;  return (Math.abs(u) + Math.abs(v));
+u = u;  if (u > 0)  u = -u;  if (v > 0)  v = -v;  if (v > 0)  v = -v;  else  v = -v;  return (Math.abs(u) + Math.abs(v));    return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (int)v);
+return (Math.abs(u) + (v == 0? v : 0);));
+return ((u == 0) || (v == 0))? ((u == 0)? u : -u) || (v == 0));
+return xmagic(xmagic(u) + xmagic(v));
+return ((u & 0xff)  0) | (v & 0xff));
+return ((u  0)? (u - 1) : (u + 1) : Math.abs(v));
+return (Math.abs(u) + (v == 0? u + v : v));
+return gcd(u + v);
+return ((u == 0)? Math.abs(u) + Math.abs(v) : 0);
+splx(s); return (Math.abs(u) + splx(v));
+return (Math.swap(u) + Math.swap(v));
+return macro;
+return (Math.abs(u) + (Math.abs(v) & 0xFFFF));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) &0)? v : ((u & 1)) == 0? v : ((u & 1)) 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (v >= 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<if (! v) return 0; return v; &<&if (! v) return 1; return 0;
+if (! v) return 0; return v; <if (! v) return 1; return 0;
+/* if (v!= 0) <u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+<u = u; if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) <u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) &u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; <return (P(v) 1);
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; &return (P(v) 1);
+if (u &0) if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; &return (P(v) <1);
+if (u == 0) <if (v == 0) u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) <u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; <&if (! v) return 1; return 0;
+<u = u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+&if (! v) return 0; return v; &&if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) u = -u; else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) &u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; return (P(v) <1);
+if (v >= 0) if (u > 0) &u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) &u = -u; <return (u + Math.abs(v));
+if (u <0) if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (m == null) &m = m + v; if (!m) return 0; <<return (Math.abs(u) + m);
+if (u 0) &if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) <u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) &u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+<if (! v) return 0; return v; <<&if (! v) return 1; return 0;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) u = -u; <return (u + Math.abs(v));
+/* if (v!= 0) u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+u = u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else <u = -u; &return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) <return -u; &s = (SIGNAL_TYPE) + s; return (s);
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&u = u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+&u = u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else &u = -u; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; return (P(v) 1);
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) <return; &<return (m);
+if (v >= 0) &if (u > 0) <u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; return (P(v) <1);
+p = p + v; if (!(u == 0) || (v == 0)) return ((Math.abs(u) + ((V) v))); if (!(v == 0) || (v == 0)) return ((Math.abs(u) + (V))); if (v 0) return ((V) v); return ((V) v) + (V));
+if (v >= 0) <u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) <u = -u; <else <u = -u; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) &u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) &u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; return (P(v) 1);
+if (v == 0) return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+u = u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) <u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (u 0) <if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) <u = -u; &else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u 0) if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); if (u == 0) return v; return 0;
+/* if (v!= 0) &u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) <if (u > 0) &u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) &u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) <0)? v : ((u & 1)) == 0? v : ((u & 1)) 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+&if (! v) return 0; return v; &&<if (! v) return 1; return 0;
+if (u <0) if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+m = Math.abs(u) + Math.abs(v); if (!m) <return; <&return (m);
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) <return; <return (m);
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) &0)? v : ((u & 1)) == 0? v : ((u & 1)) &0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+if (u <0) &if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) &u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) &u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+return (Math.abs(u) + Math.abs(v) + u &v)? -u : 0;
+if (m == null) m = m + v; if (!m) return 0; return (Math.abs(u) + m);
+if (v == 0) &u = -u; <else &u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else &u = -u; &return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u <0) if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) if (u > 0) u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&if (! v) return 0; return v; &<if (! v) return 1; return 0;
+<if (! v) return 0; return v; <if (! v) return 1; return 0;
+return ((u + v) u) || (v + v));
+if (v >= 0) &u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+&if (! v) return 0; return v; &<&if (! v) return 1; return 0;
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+&u = u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u &0) <if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; &else &u = -u; return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; if (! v) return 1; return 0;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; return (P(v) &1);
+if (v >= 0) <u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) &if (u > 0) u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) <u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u <0) &if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+return u &= 0; /* not possible for v */ return (u v);
+return ((u & 0xff) 0) | (v & 0xff));
+return u &= 0; /* not possible for v */ return (u &v);
+if (u == 0) if (v == 0) &u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (! v) return 0; return v; <&&if (! v) return 1; return 0;
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) <0)? v : ((u & 1)) == 0? v : ((u & 1)) &0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (u <0) &if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+&u = u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (Math.abs(u) + (macro & (v & (u))));
+/* if (v!= 0) &u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) <u = -u; &else u = -u; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) &u = -u; else <u = -u; <return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) <u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (Math.abs(u) + (macro & (v & &(u))));
+&if (! v) return 0; return v; <<&if (! v) return 1; return 0;
+return (u >= 0 && v v);
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) &u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+<if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); &if (u == 0) return v; return 0;
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; return (P(v) <1);
+if (m == null) &m = m + v; if (!m) return 0; &return (Math.abs(u) + m);
+u = u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) &u = -u; return (u + Math.abs(v));
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; return (P(v) 1);
+if (v == 0) <u = -u; else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return u <= 0; /* not possible for v */ return (u <v);
+if (v == 0) &u = -u; &else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) &u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* XXX should not be changed now */ if (u >= 0) u = -u; else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u &0) <if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (u 0) <if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else <u = -u; <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+return (u >= 0 && v &v);
+if (u <0) &if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) v);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+<u = u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) &u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (m == null) m = m + v; if (!m) return 0; &return (Math.abs(u) + m);
+if (u <0) <if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<u = u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (m == null) m = m + v; if (!m) return 0; &&return (Math.abs(u) + m);
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; &return (P(v) &1);
+&if (! v) return 0; return v; &<<if (! v) return 1; return 0;
+if (v >= 0) u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+p = p + v; if (!(u == 0) || (v == 0)) return ((Math.abs(u) + ((V) v))); if (!(v == 0) || (v == 0)) return ((Math.abs(u) + (V))); if (v &0) return ((V) v); return ((V) v) + (V));
+return (Math.abs(u) + (macro & <(v & &(u))));
+if (v == 0) &u = -u; else u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (Math.abs(u) + (u &= 0)? v : 0);
+u = u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u 0) if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<if (! v) return 0; return v; &<if (! v) return 1; return 0;
+&u = u; &if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+u = u; &if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u 0) &if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+m = Math.abs(u) + Math.abs(v); if (!m) <return; &&return (m);
+/* if (v!= 0) &u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) if (u > 0) <u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return ((u == 0)? u + (v == 0) : (Math.abs(u) + (v 0)));
+if (v >= 0) <if (u > 0) u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) &u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + (macro & &(v & <(u))));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) &u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) if (v == 0) u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) &u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* if (v!= 0) u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + u v)? -u : 0;
+if (u == 0) if (v == 0) <u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u == 0) if (v == 0) u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+&u = u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) &u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+s = Math.abs(u) + Math.abs(v); if (s == -u) <return -u; s = (SIGNAL_TYPE) + s; return (s);
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + (u >= 0)? u + (v <v) : v);
+if (v >= 0) &u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) <u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else &u = -u; <return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (m == null) <m = m + v; if (!m) return 0; <&return (Math.abs(u) + m);
+return ((u & 0xff) &0) | (v & 0xff));
+/* if (v!= 0) u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) <u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (m == null) &m = m + v; if (!m) return 0; &<return (Math.abs(u) + m);
+if (v == 0) <u = -u; &else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) return; &&return (m);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u > 0? u : u) + (v <0? v : v));
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; <return (P(v) &1);
+if (v == 0) &u = -u; else &u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+if (u &0) if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+return (Math.abs(u) + (macro & (v & <(u))));
+&if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); <if (u == 0) return v; return 0;
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) 0)? v : ((u & 1)) == 0? v : ((u & 1)) 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (u == 0) <if (v == 0) &u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) <u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) u = -u; &else <u = -u; return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; <<if (! v) return 1; return 0;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) &u = -u; else &u = -u; return (Math.abs(u) + Math.abs(v));
+<u = u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; <<if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; &return (P(v) &1);
+&u = u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &u = -u; else u = -u; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) &u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+s = Math.abs(u) + Math.abs(v); if (s == -u) &return -u; <s = (SIGNAL_TYPE) + s; return (s);
+if (v >= 0) <if (u > 0) u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&u = u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0) if (v == 0) <u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+<if (! v) return 0; return v; &<<if (! v) return 1; return 0;
+&if (! v) return 0; return v; <<<if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) u = -u; else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) &return -u; s = (SIGNAL_TYPE) + s; return (s);
+if (u &0) return 0; else return (Math.abs(u) + Math.abs(v));
+if (u <0) &if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) <u = -u; &else <u = -u; &return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; &&<if (! v) return 1; return 0;
+if (v == 0) <u = -u; <else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) <u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) <if (v == 0) &u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+u = u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+u = u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) return 0; else return (Math.abs(u) + Math.abs(v));
+<u = u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) <return; <<return (m);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) return -u; <s = (SIGNAL_TYPE) + s; return (s);
+if (v >= 0) &u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) &0)? v : ((u & 1)) == 0? v : ((u & 1)) <0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (u &0) if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) <u = -u; else u = -u; return (Math.abs(u) + Math.abs(v));
+if (u &0) if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u 0) if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+return u &= 0; /* not possible for v */ return (u <v);
+if (u &0) <if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u &0) if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) <u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u 0) &if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) <if (u > 0) <u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (u >= 0 && v <v);
+if (u == 0) if (v == 0) u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* if (v!= 0) <u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) <u = -u; else <u = -u; return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) <v);
+return (Math.abs(u) &v);
+p = p + v; if (!(u == 0) || (v == 0)) return ((Math.abs(u) + ((V) v))); if (!(v == 0) || (v == 0)) return ((Math.abs(u) + (V))); if (v <0) return ((V) v); return ((V) v) + (V));
+m = Math.abs(u) + Math.abs(v); if (!m) &return; <return (m);
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; &else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) return -u; s = (SIGNAL_TYPE) + s; return (s);
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+if (m == null) <m = m + v; if (!m) return 0; &<return (Math.abs(u) + m);
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) 0)? v : ((u & 1)) == 0? v : ((u & 1)) <0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (u 0) <if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) <u = -u; return (u + Math.abs(v));
+if (v == 0) return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) &u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+u = u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+return ((u & 0xff) <0) | (v & 0xff));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+return ((u > 0) || (v &= 0)) || (u > 0));
+return (Math.abs(u) + (u &p)? p + (v p) : v);
+if (u == 0) <if (v == 0) u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) &u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) u = -u; else u = -u; &return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<u = u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; &return (P(v) 1);
+if (u == 0) if (v == 0) <u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+u = u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* if (v!= 0) &u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &u = -u; &else <u = -u; &return (Math.abs(u) + Math.abs(v));
+&if (! v) return 0; return v; <if (! v) return 1; return 0;
+if (v == 0) <u = -u; <else u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) <u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (m == null) &m = m + v; if (!m) return 0; return (Math.abs(u) + m);
+m = Math.abs(u) + Math.abs(v); if (!m) &return; &return (m);
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) <u = -u; &return (u + Math.abs(v));
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) <0)? v : ((u & 1)) == 0? v : ((u & 1)) <0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+if (v >= 0) if (u > 0) &u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+<u = u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) <u = -u; <return (u + Math.abs(v));
+return (Math.abs(u) + (u &p)? p + (v <p) : v);
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+m = Math.abs(u) + Math.abs(v); if (!m) return; &return (m);
+if (u == 0) <if (v == 0) &u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u &0) &if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+&u = u; if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u = 0)? v : 0);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) <if (v == 0) u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; <else u = -u; <return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; &<if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) <if (u > 0) u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; &<<if (! v) return 1; return 0;
+if (! v) return 0; return v; &<&if (! v) return 1; return 0;
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+if (m == null) &m = m + v; if (!m) return 0; <&return (Math.abs(u) + m);
+if (v >= 0) &if (u > 0) u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return ((u == 0)? u + (v == 0) : (Math.abs(u) + (v <0)));
+<if (! v) return 0; return v; <<<if (! v) return 1; return 0;
+m = Math.abs(u) + Math.abs(v); if (!m) &return; <<return (m);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; <return (P(v) <1);
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return ((u &0)? (u - 1) : (u + 1) : Math.abs(v));
+if (u &0) <if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (m == null) <m = m + v; if (!m) return 0; &return (Math.abs(u) + m);
+/* if (v!= 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; &&if (! v) return 1; return 0;
+m = Math.abs(u) + Math.abs(v); if (!m) &return; return (m);
+if (u 0) &if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0) &if (v == 0) <u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) if (u > 0) &u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; <else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; <else <u = -u; return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) &if (v == 0) <u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u 0) <if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u 0) return 0; else return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* if (v!= 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) <u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) &u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (Math.abs(u) + (macro & &(v & (u))));
+&if (! v) return 0; return v; <&&if (! v) return 1; return 0;
+&u = u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u <0) if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+&return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+<u = u; if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) &if (u > 0) u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else &u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) <if (v == 0) <u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) <u = -u; &else &u = -u; <return (Math.abs(u) + Math.abs(v));
+return ((u >= 0) && (v &u)? Math.abs(u) + Math.abs(v) : Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; else &u = -u; &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+<u = u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return ((u > 0) || (v <= 0)) || (u > 0));
+if (v >= 0) u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+if (m == null) m = m + v; if (!m) return 0; <return (Math.abs(u) + m);
+if (u <0) if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u &0) <if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (macro & &(v & &(u))));
+return (Math.abs(u) + Math.abs(v) + (u >= 0)? u + (v &v) : v);
+<if (! v) return 0; return v; &&<if (! v) return 1; return 0;
+if (v >= 0) if (u > 0) &u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) &u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+&u = u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (u <0) if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) <if (u > 0) u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) &return; <&return (m);
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; <return (P(v) <1);
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) <u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&if (! v) return 0; return v; <&if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) <u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (m == null) &m = m + v; if (!m) return 0; &&return (Math.abs(u) + m);
+/* if (v!= 0) <u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+&u = u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) &if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; &else &u = -u; &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; <if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) <u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+m = Math.abs(u) + Math.abs(v); if (!m) &return; &<return (m);
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u == 0) <if (v == 0) <u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) <u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) &u = -u; &return (u + Math.abs(v));
+if (m == null) <m = m + v; if (!m) return 0; <<return (Math.abs(u) + m);
+&u = u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+<u = u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; <else u = -u; &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+m = Math.abs(u) + Math.abs(v); if (!m) return; &<return (m);
+if (v >= 0) &u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; <return (P(v) &1);
+if (u 0) &if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0) <if (v == 0) <u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + Math.abs(v) + u <v)? -u : 0;
+return (Math.abs(u) + (u &p)? p + (v &p) : v);
+&if (! v) return 0; return v; <&<if (! v) return 1; return 0;
+/* if (v!= 0) <u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) if (v == 0) <u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) u = -u; return (u + Math.abs(v));
+/* if (v!= 0) u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) <u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) <if (u > 0) <u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u 0) &if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (u &0) if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<u = u; &if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) &u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + (u <= 0)? v : 0);
+/* if (v!= 0) u = -u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+<u = u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+<u = u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) &u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) &if (v == 0) <u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) &u = -u; <else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&u = u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else <u = -u; &return (Math.abs(u) + Math.abs(v));
+return u <= 0; /* not possible for v */ return (u &v);
+if (v == 0) <u = -u; <else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v == 0) &u = -u; &else <u = -u; return (Math.abs(u) + Math.abs(v));
+if (u &0) if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) if (u > 0) u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u 0) if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) &u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u == 0) &if (v == 0) <u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) if (u > 0) <u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; <&<if (! v) return 1; return 0;
+if (u 0) &if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) &if (u > 0) &u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else <u = -u; return (Math.abs(u) + Math.abs(v));
+return u = 0; /* not possible for v */ return (u &v);
+if (u == 0) if (v == 0) u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) <if (v == 0) u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) &u = -u; &else &u = -u; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; else <u = -u; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; <else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return ((u <0)? (u - 1) : (u + 1) : Math.abs(v));
+if (v == 0) u = -u; <else &u = -u; return (Math.abs(u) + Math.abs(v));
+/* XXX :: return (Math.abs(u) + Math.abs(v)); */ if ((u == 0) || (v == 0)) u = -u; &return (u + Math.abs(v));
+if (! v) return 0; return v; <<&if (! v) return 1; return 0;
+/* * This might be an epoch * to get the right to the next line. */ u = -u; return (u = 0? u : u + v );
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; &return (P(v) <1);
+<return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) &u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) <u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; &if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) &u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) <u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + (u > 0? u : u) + (v &0? v : v));
+if (v >= 0) &if (u > 0) <u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); &else &return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; <else &u = -u; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) &u = -u; <else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; <else &u = -u; &return (Math.abs(u) + Math.abs(v));
+return ((u >= 0) && (v <u)? Math.abs(u) + Math.abs(v) : Math.abs(v));
+/* if (v!= 0) <u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+return u = 0; /* not possible for v */ return (u <v);
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <if (u > 0) &u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &u = -u; <else u = -u; <return (Math.abs(u) + Math.abs(v));
+&if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); &if (u == 0) return v; return 0;
+m = Math.abs(u) + Math.abs(v); if (!m) <return; &return (m);
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); <else &return (Math.abs(u) + Math.abs(v));
+if (u 0) <if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) u = -u; else &u = -u; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; <else <u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; <else &u = -u; <return (Math.abs(u) + Math.abs(v));
+return ((u + v) &u) || (v + v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+<if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); if (u == 0) return v; return 0;
+/* if (v!= 0) u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) <u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (! v) return 0; return v; &&&if (! v) return 1; return 0;
+if (v == 0) return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* if (v!= 0) <u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) u = -u; &if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* if (v!= 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) &u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u 0) if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+&if (! v) return 0; return v; &&&if (! v) return 1; return 0;
+/* if (v!= 0) <u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) u = -u; <else <u = -u; &return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) <u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (m == null) <m = m + v; if (!m) return 0; return (Math.abs(u) + m);
+/* * This might be an epoch * to get the right to the next line. */ u = -u; return (u <= 0? u : u + v );
+if (v == 0) u = -u; <else u = -u; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) if (u > 0) <u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) <u = -u; <else &u = -u; return (Math.abs(u) + Math.abs(v));
+<if (! v) return 0; return v; &&&if (! v) return 1; return 0;
+<u = u; if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) &u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return ((u 0)? (u - 1) : (u + 1) : Math.abs(v));
+&if (! v) return 0; return v; &if (! v) return 1; return 0;
+/* if (v!= 0) u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* XXX should not be changed now */ if (u >= 0) u = -u; else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; <return (P(v) 1);
+if (v >= 0) &u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) &u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+<u = u; if (u > 0) &u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); <if (u == 0) return v; return 0;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) return 0; <return (Math.abs(u) + Math.abs(v));
+if (u &0) <if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); &if (u == 0) return v; return 0;
+/* if (v!= 0) u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) <u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+<u = u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) &return -u; &s = (SIGNAL_TYPE) + s; return (s);
+if (u == 0) if (v == 0) &u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u 0) <if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) &u = -u; <else <u = -u; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; <return (P(v) &1);
+if (u == 0) &if (v == 0) &u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) &u = -u; <else <u = -u; &return (Math.abs(u) + Math.abs(v));
+&u = u; if (u > 0) &u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) &if (u > 0) u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; else &u = -u; return (Math.abs(u) + Math.abs(v));
+if (m == null) m = m + v; if (!m) return 0; <<return (Math.abs(u) + m);
+/* if (v!= 0) <u = -u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &if (u > 0) &u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else u = -u; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u 0) <if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+m = Math.abs(u) + Math.abs(v); if (!m) return; <return (m);
+if (v == 0) u = -u; &else u = -u; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; <if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<if (! v) return 0; return v; <&&if (! v) return 1; return 0;
+&u = u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<u = u; if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) <0? P(v & 1) : 0; <return (P(v) <1);
+if (u &0) <if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) <u = -u; else u = -u; <return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; &&if (! v) return 1; return 0;
+if (u == 0) if (v == 0) <u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (m == null) m = m + v; if (!m) return 0; <&return (Math.abs(u) + m);
+/* if (v!= 0) <u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) <if (v == 0) u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) if (v == 0) &u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; return (P(v) &1);
+if (v >= 0) if (u > 0) <u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) <u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u == 0) &if (v == 0) &u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+if (u &0) if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else <u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; <return (P(v) 1);
+if (v == 0) return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; &return (P(v) <1);
+if (v == 0) u = -u; <else &u = -u; &return (Math.abs(u) + Math.abs(v));
+if (u &0) &if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) &u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+if (u <0) if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u 0) &if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (m == null) m = m + v; if (!m) return 0; &<return (Math.abs(u) + m);
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u p)? p + (v &p) : v);
+if (v >= 0) u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u p)? p + (v p) : v);
+if (v >= 0) <if (u > 0) <u = -u; &else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+u = u; <if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+s = Math.abs(u) + Math.abs(v); if (s == -u) return -u; &s = (SIGNAL_TYPE) + s; return (s);
+if (v >= 0) <u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+m = Math.abs(u) + Math.abs(v); if (!m) <return; return (m);
+if (v == 0) <u = -u; &else &u = -u; &return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (macro & <(v & <(u))));
+s = Math.abs(u) + Math.abs(v); if (s == -u) <return -u; <s = (SIGNAL_TYPE) + s; return (s);
+/* if (v!= 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u == 0) if (v == 0) <u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) u = -u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+u = u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return u <= 0; /* not possible for v */ return (u v);
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* if (v!= 0) <u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) <if (v == 0) &u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u 0) <if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u &0) if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) &u = -u; if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) <u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) return 0; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; &else u = -u; <return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; else <u = -u; &return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u == 0) &if (v == 0) u = -u; <else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + (u <p)? p + (v &p) : v);
+if (u 0) <if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (u 0) if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (m == null) <m = m + v; if (!m) return 0; <return (Math.abs(u) + m);
+return (Math.abs(u) + (u > 0? u : u) + (v 0? v : v));
+return (((u & 1) + (v & 0xffffffff)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) == 0? v : ((u & 1)) 0)? v : ((u & 1)) == 0? v : ((u & 1)) &0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0? v : ((v & 1)) == 0?
+u = u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u <0) <if (v > 0) <u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+&if (! v) return 0; return v; if (! v) return 1; return 0;
+if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); if (u == 0) return v; return 0;
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) return 0; &return (Math.abs(u) + Math.abs(v));
+<u = u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u p)? p + (v <p) : v);
+if (v == 0) <u = -u; &else u = -u; <return (Math.abs(u) + Math.abs(v));
+if (u &0) <if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) &u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v >= 0) &if (u > 0) <u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+u = u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) u = -u; if (u > 0) &u = -u; if (v > 0) v = -v; if (u > 0) u = -u;
+return (Math.abs(u) + (macro & <(v & (u))));
+if (u == 0) &if (v == 0) u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u &0) &if (v > 0) <u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v >= 0) <if (u > 0) u = -u; else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u <0) &if (v > 0) &u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) &u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u &0) <if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); <else return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) &u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) <u = -u; if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+<u = u; &if (u > 0) &u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; &else <u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (m == null) <m = m + v; if (!m) return 0; &&return (Math.abs(u) + m);
+if (v == 0) &u = -u; <else u = -u; return (Math.abs(u) + Math.abs(v));
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+&if (! v) return 0; return v; <<if (! v) return 1; return 0;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+return ((u > 0) || (v = 0)) || (u > 0));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; &if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; if (! v) return 1; return 0;
+<if (! v) return 0; return v; &if (! v) return 1; return 0;
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) if (u > 0) u = -u; &else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; else u = -u; &return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; <&if (! v) return 1; return 0;
+if (u == 0) <if (v == 0) u = -u; <else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; &return (P(v) 1);
+if (v >= 0) if (u > 0) &u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; <if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) <u = -u; &if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) &return 0; <return (Math.abs(u) + Math.abs(v));
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); &else return (Math.abs(u) + Math.abs(v));
+return u = 0; /* not possible for v */ return (u v);
+if (v >= 0) &if (u > 0) <u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) if (u > 0) &u = -u; <else &u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) u = -u; &else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v >= 0) &if (u > 0) &u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (v == 0) <u = -u; &else <u = -u; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) u = -u; &if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (u <0) <if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) <u = -u; if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) if (v == 0) u = -u; else &u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) &u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); &else <return (Math.abs(u) + Math.abs(v));
+if (u 0) if (v > 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+if (m == null) &m = m + v; if (!m) return 0; <return (Math.abs(u) + m);
+if (v == 0) &return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); else return (Math.abs(u) + Math.abs(v));
+if (v == 0) <u = -u; <else u = -u; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; <if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; <if (!(v == 0)) <return 0; <return (Math.abs(u) + Math.abs(v));
+/* * This might be an epoch * to get the right to the next line. */ u = -u; return (u &= 0? u : u + v );
+if (u == 0) &if (v == 0) &u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u <0) &if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; &if (u > 0) &u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) return (Math.abs(u) + Math.abs(v)); <else <return (Math.abs(u) + Math.abs(v));
+return ((u == 0)? u + (v == 0) : (Math.abs(u) + (v &0)));
+m = Math.abs(u) + Math.abs(v); if (!m) return; <<return (m);
+if (v == 0) u = -u; else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (u <0) if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) u = -u; &if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+/* XXX should not be changed now */ if (u >= 0) <u = -u; &else &u = -u; &if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; &else u = -u; return (Math.abs(u) + Math.abs(v));
+if (v == 0) u = -u; else u = -u; <return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + Math.abs(v) + (u >= 0)? u + (v v) : v);
+if (u &0) &if (v > 0) u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+<u = u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+if (v == 0) &u = -u; &else u = -u; <return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; &if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) &return 0; return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; <<<if (! v) return 1; return 0;
+/* XXX should not be changed now */ if (u >= 0) u = -u; &else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) <u = -u; &if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+u = u; <if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+u = u; <if (u > 0) <u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return (Math.abs(u) + (u <p)? p + (v <p) : v);
+<if (u == 0) return u; else return (Math.abs(u) + Math.abs(v)); <if (u == 0) return v; return 0;
+if (v >= 0) if (u > 0) <u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) if (v == 0) &u = -u; &else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+return (Math.abs(u) + (u <p)? p + (v p) : v);
+return (P(u) + ((v & 1))) &0? P(v & 1) : 0; &return (P(v) &1);
+if (u == 0) if (v == 0) &u = -u; &else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u 0) if (v > 0) &u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+return (P(u) + ((v & 1))) 0? P(v & 1) : 0; return (P(v) &1);
+if (v == 0) <u = -u; <else <u = -u; &return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) u = -u; <else &u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) <u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (u 0) if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) <return 0; if (!(v == 0)) &return 0; &return (Math.abs(u) + Math.abs(v));
+if (u 0) &if (v > 0) u = -u; &if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+/* XXX should not be changed now */ if (u >= 0) <u = -u; else u = -u; <if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (u == 0) &if (v == 0) u = -u; <else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+if (! v) return 0; return v; &if (! v) return 1; return 0;
+m = Math.abs(u) + Math.abs(v); if (!m) &return; &&return (m);
+if (u <0) &if (v > 0) <u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; if (u > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v
+/* if (v!= 0) <u = -u; if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) <return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) &return 0; if (!(v == 0)) <return 0; return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; <if (u > 0) u = -u; &if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &u = -u; else <u = -u; &return (Math.abs(u) + Math.abs(v));
+u = u; <if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+/* * We don't * want to make it out. */ if (!(u == 0) || v == 0) return 0; if (!(v == 0)) <return 0; &return (Math.abs(u) + Math.abs(v));
+/* if (v!= 0) &u = -u; <if (u > 0) u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (v == 0) &u = -u; &else <u = -u; <return (Math.abs(u) + Math.abs(v));
+return ((u >= 0) && (v u)? Math.abs(u) + Math.abs(v) : Math.abs(v));
+if (v >= 0) <u = -u; &if (u > 0) &u = -u; <if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+/* if (v!= 0) <u = -u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (u > 0) u = -u;
+if (u == 0) if (v == 0) <u = -u; else u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+m = Math.abs(u) + Math.abs(v); if (!m) return; return (m);
+if (v >= 0) &if (u > 0) <u = -u; else <u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (v >= 0) &u = -u; <if (u > 0) u = -u; if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v; else if (v > 0) v = -v; if (u > 0) u = -u; if (v > 0) v = -v; else if (v > 0) v = -v; if (v > 0) v = -v; if (v > 0) v = -v;
+if (v >= 0) <if (u > 0) &u = -u; else u = -u; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v));
+if (! v) return 0; return v; <&<if (! v) return 1; return 0;
+if (u == 0 || v == 0) <return (Math.abs(u) + Math.abs(v)); else &return (Math.abs(u) + Math.abs(v));
+if (u == 0 || v == 0) &return (Math.abs(u) + Math.abs(v)); else <return (Math.abs(u) + Math.abs(v));
+m = Math.abs(u) + Math.abs(v); if (!m) return; <&return (m);
+if (v == 0) &u = -u; <else &u = -u; <return (Math.abs(u) + Math.abs(v));
+if (u == 0) <if (v == 0) u = -u; else <u = -u; if (v > 0) u = -u; if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); if (u & 1) u = -u; return (u + Math.abs(v)); else if (v > 0) u = -u; if (u > 0) u = -u; else u = -u; return (v + Math.abs(
+<u = u; <if (u > 0) u = -u; if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+u = u; &if (u > 0) <u = -u; <if (v > 0) v = -v; if (v > 0) v = -v; else v = -v; return (Math.abs(u) + Math.abs(v)); return (Math.abs(u) + Math.abs(v));
+return ((u + v) <u) || (v + v));

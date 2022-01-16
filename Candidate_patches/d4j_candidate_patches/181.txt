@@ -1,0 +1,1260 @@
+golden:
+return;
+inference:
+
+return 0;
+return (0);
+return false;
+return null;
+return -1;
+return result;
+return NS_OK;
+return (null);
+return true;
+return;
+return (-1);
+break;
+return(0);
+return 1;
+return true;
+return (removeValue);
+return ret;
+return (1);
+return rv;
+continue;
+return false;
+removeValue(index);
+return (index);
+return false;
+return value;
+return retval;
+goto out;
+return(null);
+return EINVAL;
+return RESTORE;
+goto cleanup;
+return (false);
+return(removeValue);
+return(-1);
+return true;
+goto done;
+return index;
+else  return;
+return (false);
+return res;
+return(1);
+removeValue(key);
+return ();
+return ;
+return (true);
+return key;
+return (index  0);
+return removeValue(index);
+goto removeValue;
+return (false);
+return (value);
+return null;
+return RemoveValue(index);
+return REPLACE_OK;
+return true;
+ret = 0;
+return (error);
+return RETURN;
+return [];
+return (NS_OK);
+return n;
+return REPLACE;
+goto delete;
+return len;
+free(key);
+return = 0;
+return null;
+return NO_VALUE;
+return (rv);
+return (;
+return RESTORE_VALUE;
+return (EINVAL);
+return (empty);
+goto ret;
+return RemoveValue(key);
+return(false);
+delete value;
+return oldValue;
+return(index);
+return rval;
+return = false;
+return-1;
+return(false);
+return ENOENT;
+return v;
+return count;
+deleteValue;
+return code;
+return:
+else return;
+exit(1);
+return DEFAULT_VALUE;
+return EPERM;
+delValue;
+goto loser;
+return i;
+return removeValue(key);
+return val;
+return inValue;
+return (None);
+#endif
+return *index;
+free(index);
+return this;
+goto remove;
+return DEBUG;
+return nu;
+int i;
+return data;
+return; return 0;
+return(value);
+result = 0;
+return 2;
+return - 1;
+else return 0;
+deleteValue(index);
+else  return 0;
+retval = 0;
+return REPLACE_VALUE;
+return1;
+delValue(key);
+return();
+return (ERROR);
+return (Empty);
+return MAX_VALUE;
+return; return (0);
+return (true);
+return EIF_REMOVE;
+deleteValue(key);
+return
+return IndexOf(index);
+result = removeValue(key);
+NS_RELEASE(index);
+delValue(index);
+return;  return 0;
+result = removeValue(index);
+return (c);
+return INVALID_VALUE;
+return (int);
+return RemoveValue();
+removeValue(index); return;
+getIndex(key);
+return EIF_RETURN;
+return TAILQ_FALSE;
+return (index = 0);
+return REPLACE_ERR;
+return getIndex();
+free(key); return 0;
+RemoveValue(key);
+return (remove);
+NS_RELEASE(key);
+free(key); return;
+return INVALID_ARG;
+return;  return (0);
+ret = -1;
+else  break;
+return getIndex(key);
+RemoveValue(index);
+else  int index; if (index  0)  removeValue(index);
+else  ret = removeValue(key); if (ret  0)  /* XXX */
+if (!isInHistoryFrame())  res = (res == 0)? 0 : 0;  else  if (getIsInHistory(&sc_inHistory))  if (getIsInHistory(&sc_inHistory))  res = res; break;   return res;
+if (key.slen  2)  return;  if (key.slen >= 2)  /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2)  /* * This is a temporary value in the buffer. */ if (key.slen >= 1)  /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1);    return (true);
+else  if (key.keyType = tmp)  if ((ePtr)key.keyType)  if (i == tmp.keyType)  tmp = (struct tmp *)mInts;  if (index == i)  if (index >= 0)  tmp = (struct tmp *)tmp;  else  if (index = i)  tmp = tmp.value; else  tmp = (struct tmp *)mInts;  else  tmp = (struct tmp *)mInts;   else  if (index >= i)  tmp = tmp.value;  else  if (index >= i)  tmp = tmp.value; else  tmp = tmp.value;     else  /*
+if (initialized &&!stackOffset)  int retval = 0; if (initialized && (initialized == 0))  retval = -1; break;
+if (key.key == null) return;
+/* * In the next value, we're removing the value of this index. */
+if (index >= 0)  ret = -1; return;
+return (*index);
+/* Get index. */ if (!key)  return 0;  return 0;
+if (idx = 0)  return -1;  if (idx > 0)  return -1;
+if (index  0)  return;  removeValue(index);
+else   nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv;  return rv;
+if (index  0)  /* RemoveValue() and return the value. */ if (isValue())  /* Remove value as a composite. */ return(-1);
+if (getIndex(key) > 0)  if (setValue(key, 0)  0)  if (getIndex(key) > 0)  delete value; return;   else  if (!getIndex(key))  return;   else  if (getIndex(key) > 0)  return;  else  if (getIndex(key)  0)  if (getIndex(key)  0)  if (getIndex(key) > 0)  if (getIndex(key) > 0)  if (getIndex(key) > 0)  return;    return;    else  if (getIndex(key) > 0)  if (getIndex(key) > 0)  if (getIndex(key)  0)  if (getInde
+if (!key.__freed) return -1;
+if (index >= index)  if (index  0)  return;   else  break;
+return (removeValue(index));
+return REmoveValue(key);
+return(eIsValue);
+return (null);
+else  if (!key.seen)  return;  if (index >= index)  /* Not allocate by a key to remove. */  if (index >= index)  if (index  0)  return;
+if (key == null) return;
+return REPLACE_CTOR;
+return (elt);
+
+if (index >= index) <if (index <0) <return; &else break;
+&else ret = removeValue(key); if (ret 0) &/* XXX */
+<else <if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (key.slen <2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else <if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else ret = removeValue(key); if (ret &0) &/* XXX */
+if (index >= index) if (index 0) <return; <else break;
+&else if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else &int index; if (index &0) &removeValue(index);
+<else &int index; if (index <0) <removeValue(index);
+else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index &0) return; <removeValue(index);
+<if (idx = 0) &return -1; if (idx > 0) return -1;
+else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<if (key.slen <2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (idx &= 0) return -1; <if (idx > 0) return -1;
+else &if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else &if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else <if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&<return;
+<else int index; if (index &0) &removeValue(index);
+<else if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else <if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (index 0) return; &removeValue(index);
+if (idx &= 0) <return -1; if (idx > 0) return -1;
+&if (index 0) <return; <removeValue(index);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<<return (0);
+if (idx &= 0) &return -1; &if (idx > 0) return -1;
+<if (index <0) <return; removeValue(index);
+<else <ret = removeValue(key); if (ret 0) &/* XXX */
+<else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+else <ret = removeValue(key); if (ret <0) &/* XXX */
+<return result;
+&/* Get index. */ if (!key) &return 0; <return 0;
+&else &ret = removeValue(key); if (ret 0) /* XXX */
+<if (key.slen <2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else &int index; if (index 0) &removeValue(index);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else &int index; if (index &0) removeValue(index);
+&else &if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&/* Get index. */ if (!key) return 0; return 0;
+<if (getIndex(key) > 0) &if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else &if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (getIndex(key) > 0) <if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index >= index) if (index <0) <return; <else break;
+if (getIndex(key) > 0) &if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (idx &= 0) &return -1; <if (idx > 0) return -1;
+<if (idx = 0) <return -1; &if (idx > 0) return -1;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (idx = 0) <return -1; <if (idx > 0) return -1;
+&else &if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index &0) &return; &removeValue(index);
+else &if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index &0) &/* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+<else <if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<else return;
+else <if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<return(-1);
+else &ret = removeValue(key); if (ret <0) &/* XXX */
+<else int index; if (index 0) &removeValue(index);
+if (idx <= 0) return -1; &if (idx > 0) return -1;
+if (getIndex(key) > 0) if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else ret = removeValue(key); if (ret &0) /* XXX */
+<return true;
+&if (index &0) <return; <removeValue(index);
+<if (key.slen <2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (key.slen <2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (key.slen 2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &int index; if (index <0) &removeValue(index);
+<else <int index; if (index &0) <removeValue(index);
+<if (key == null) return;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+return; return (0);
+&return(-1);
+<else <int index; if (index <0) removeValue(index);
+if (index <0) return; removeValue(index);
+if (index 0) return; &removeValue(index);
+<else if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else &int index; if (index <0) <removeValue(index);
+&return (index);
+else <ret = removeValue(key); if (ret &0) </* XXX */
+<if (getIndex(key) > 0) <if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (key.slen <2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+return (index = 0);
+if (index 0) </* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+&if (idx <= 0) &return -1; <if (idx > 0) return -1;
+&else &if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (getIndex(key) > 0) <if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (getIndex(key) > 0) &if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else &ret = removeValue(key); if (ret &0) </* XXX */
+else ret = removeValue(key); if (ret <0) /* XXX */
+else &if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (getIndex(key) > 0) &if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index <0) return; <removeValue(index);
+break;
+&if (idx <= 0) return -1; if (idx > 0) return -1;
+<else ret = removeValue(key); if (ret &0) &/* XXX */
+<if (getIndex(key) > 0) <if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else &if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&<return 0;
+&else <int index; if (index <0) removeValue(index);
+else <if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&else &return;
+else <return 0;
+else &ret = removeValue(key); if (ret <0) /* XXX */
+<if (idx &= 0) return -1; &if (idx > 0) return -1;
+<else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+else if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (getIndex(key) > 0) if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (getIndex(key) > 0) <if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else int index; if (index &0) removeValue(index);
+&if (idx &= 0) <return -1; <if (idx > 0) return -1;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else &if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<else &int index; if (index 0) <removeValue(index);
+<if (getIndex(key) > 0) &if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else &if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else break;
+<else ret = removeValue(key); if (ret 0) </* XXX */
+return (index <= 0);
+<if (key.slen &2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else return;
+else if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else &int index; if (index 0) <removeValue(index);
+return; &return 0;
+<else ret = removeValue(key); if (ret 0) &/* XXX */
+&else <ret = removeValue(key); if (ret 0) &/* XXX */
+&if (getIndex(key) > 0) &if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else &int index; if (index <0) removeValue(index);
+if (index 0) return; <removeValue(index);
+&if (index <0) &return; &removeValue(index);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else <if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (getIndex(key) > 0) &if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index >= index) <if (index <0) &return; else break;
+&if (index <0) return; &removeValue(index);
+<else int index; if (index 0) removeValue(index);
+&if (index &0) return; <removeValue(index);
+&else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&if (idx &= 0) return -1; if (idx > 0) return -1;
+&return (null);
+else if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= 0) ret = -1; return;
+<else &int index; if (index 0) removeValue(index);
+&if (key.slen 2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&return (-1);
+else <if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else <int index; if (index <0) &removeValue(index);
+&else <return;
+if (getIndex(key) > 0) if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else ret = removeValue(key); if (ret 0) </* XXX */
+&else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+&if (key.slen <2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+/* Get index. */ if (!key) &return 0; &return 0;
+return NS_OK;
+<else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (getIndex(key) > 0) <if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index &0) </* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+else <if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) if (index <0) return; else break;
+<if (key.slen 2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (index <0) return; removeValue(index);
+&if (getIndex(key) > 0) <if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else &if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) if (index &0) return; <else break;
+if (index &0) <return; &removeValue(index);
+<else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index >= index) &if (index 0) &return; &else break;
+<else &int index; if (index <0) removeValue(index);
+&if (index 0) &return; &removeValue(index);
+&if (idx &= 0) return -1; <if (idx > 0) return -1;
+return (index 0);
+<if (idx = 0) <return -1; if (idx > 0) return -1;
+&if (key.slen &2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&/* Get index. */ if (!key) return 0; <return 0;
+return;
+&if (index &0) &return; removeValue(index);
+&else <ret = removeValue(key); if (ret &0) /* XXX */
+&if (idx <= 0) <return -1; if (idx > 0) return -1;
+&else ret = removeValue(key); if (ret &0) &/* XXX */
+&else <int index; if (index &0) &removeValue(index);
+<else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (index >= index) &if (index <0) <return; else break;
+<<return;
+return (index &0);
+if (idx &= 0) &return -1; if (idx > 0) return -1;
+else &return;
+if (index >= index) <if (index <0) return; &else break;
+&if (getIndex(key) > 0) <if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+break;
+&else if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<else <if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else <ret = removeValue(key); if (ret <0) /* XXX */
+<else &if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (key.slen &2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) if (index <0) &return; <else break;
+<if (index <0) <return; &removeValue(index);
+else if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (index &0) return; removeValue(index);
+else <if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (getIndex(key) > 0) &if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<if (key.slen <2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else &int index; if (index 0) <removeValue(index);
+<else &if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (getIndex(key) > 0) if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else <if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<if (getIndex(key) > 0) if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else <if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else <if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (idx &= 0) &return -1; <if (idx > 0) return -1;
+&if (key.slen &2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else <if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (getIndex(key) > 0) <if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (index <0) <return; <removeValue(index);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&if (key.slen &2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) <if (index <0) <return; <else break;
+else <if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<return (index);
+&if (index &0) <return; removeValue(index);
+else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+</* Get index. */ if (!key) return 0; &return 0;
+return (0);
+else &ret = removeValue(key); if (ret 0) /* XXX */
+else <int index; if (index &0) removeValue(index);
+<else <int index; if (index &0) removeValue(index);
+&else if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (key.slen &2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &ret = removeValue(key); if (ret <0) &/* XXX */
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (getIndex(key) > 0) <if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else &if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (index &0) <return; &removeValue(index);
+<else <if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index 0) </* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+if (idx = 0) <return -1; <if (idx > 0) return -1;
+if (index >= index) <if (index 0) &return; else break;
+else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+if (index >= index) &if (index <0) &return; <else break;
+&if (getIndex(key) > 0) &if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<return NS_OK;
+else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<if (key.slen &2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (index &0) return; removeValue(index);
+if (idx = 0) &return -1; &if (idx > 0) return -1;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (key.slen <2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else &if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (getIndex(key) > 0) if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return(null);
+&if (key.slen <2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else <int index; if (index 0) <removeValue(index);
+/* Get index. */ if (!key) return 0; &return 0;
+else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (key.slen &2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) &if (index <0) <return; <else break;
+<if (index 0) return; removeValue(index);
+if (index <0) &/* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+<if (key.slen 2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (getIndex(key) > 0) if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (idx &= 0) <return -1; <if (idx > 0) return -1;
+&/* Get index. */ if (!key) &return 0; &return 0;
+<if (getIndex(key) > 0) <if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (key.slen <2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (index 0) <return; <removeValue(index);
+&else &if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (initialized &&!stackOffset) &int retval = 0; if (initialized && (initialized == 0)) &retval = -1; break;
+<if (getIndex(key) > 0) if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else &if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index <0) &return; &removeValue(index);
+&else return;
+&if (key.slen 2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (getIndex(key) > 0) &if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return(-1);
+if (index &0) &return; removeValue(index);
+if (getIndex(key) > 0) <if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<return (0);
+&if (key.slen 2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (idx = 0) <return -1; <if (idx > 0) return -1;
+<else &int index; if (index &0) removeValue(index);
+&else <ret = removeValue(key); if (ret <0) &/* XXX */
+<if (index <0) return; <removeValue(index);
+if (idx <= 0) <return -1; if (idx > 0) return -1;
+if (idx = 0) <return -1; &if (idx > 0) return -1;
+</* Get index. */ if (!key) &return 0; &return 0;
+<else if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) if (index 0) <return; &else break;
+if (key.slen <2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) if (index <0) return; &else break;
+<else return;
+&else &int index; if (index &0) <removeValue(index);
+&if (index <0) &return; <removeValue(index);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&if (key.slen &2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else <break;
+else return;
+&if (idx &= 0) <return -1; if (idx > 0) return -1;
+<else if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (key.slen <2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) &if (index <0) return; <else break;
+&return false;
+<else <int index; if (index <0) <removeValue(index);
+/* Get index. */ if (!key) return 0; <return 0;
+else <if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else &if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (getIndex(key) > 0) &if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index &0) /* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+&else <int index; if (index 0) removeValue(index);
+<else &if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (idx <= 0) <return -1; <if (idx > 0) return -1;
+if (index &0) /* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+<else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&return (0);
+&else <if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else <int index; if (index 0) removeValue(index);
+<else &ret = removeValue(key); if (ret 0) &/* XXX */
+if (index <0) /* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+&if (idx = 0) &return -1; &if (idx > 0) return -1;
+&if (idx <= 0) return -1; &if (idx > 0) return -1;
+<else int index; if (index <0) <removeValue(index);
+&else <if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (key.slen &2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+return; <return 0;
+else <ret = removeValue(key); if (ret &0) /* XXX */
+<if (idx &= 0) &return -1; if (idx > 0) return -1;
+<&return 0;
+if (index >= index) &if (index 0) return; else break;
+if (index <0) </* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+&if (getIndex(key) > 0) <if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+&else <if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index >= index) <if (index 0) return; &else break;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (getIndex(key) > 0) <if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return retval;
+&&return;
+if (index >= index) if (index &0) <return; else break;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+</* Get index. */ if (!key) <return 0; return 0;
+if (index &0) </* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index <0) &/* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+<else if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else &if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else <ret = removeValue(key); if (ret 0) &/* XXX */
+&else int index; if (index 0) removeValue(index);
+if (idx <= 0) <return -1; &if (idx > 0) return -1;
+&if (getIndex(key) > 0) if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+/* Get index. */ if (!key) return 0; return 0;
+&else <if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index >= index) <if (index 0) <return; else break;
+if (index >= index) <if (index <0) <return; else break;
+if (key.slen &2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else &int index; if (index 0) removeValue(index);
+&return 0;
+&else int index; if (index <0) &removeValue(index);
+if (idx &= 0) return -1; &if (idx > 0) return -1;
+if (idx <= 0) return -1; <if (idx > 0) return -1;
+if (key.slen &2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <ret = removeValue(key); if (ret <0) </* XXX */
+&if (getIndex(key) > 0) <if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return null;
+if (getIndex(key) > 0) &if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else <if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<else &if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (initialized &&!stackOffset) &int retval = 0; if (initialized && (initialized == 0)) <retval = -1; break;
+</* Get index. */ if (!key) &return 0; <return 0;
+<else &if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+return false;
+if (index >= index) &if (index 0) <return; else break;
+if (index >= index) &if (index 0) return; &else break;
+<if (index &0) return; &removeValue(index);
+<if (idx &= 0) <return -1; <if (idx > 0) return -1;
+return true;
+else &return 0;
+if (index 0) &return; &removeValue(index);
+&else &ret = removeValue(key); if (ret &0) &/* XXX */
+&else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<if (index 0) &return; removeValue(index);
+&break;
+&else &int index; if (index <0) <removeValue(index);
+&else &int index; if (index <0) &removeValue(index);
+&else &int index; if (index &0) removeValue(index);
+if (index >= index) &if (index <0) <return; &else break;
+else &ret = removeValue(key); if (ret &0) /* XXX */
+&if (getIndex(key) > 0) if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (getIndex(key) > 0) <if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (key.slen <2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else int index; if (index &0) &removeValue(index);
+if (index >= index) <if (index <0) return; <else break;
+<else <if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (idx <= 0) <return -1; <if (idx > 0) return -1;
+if (index >= index) <if (index &0) <return; &else break;
+<if (getIndex(key) > 0) if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else <break;
+else <if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index &0) </* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+<if (getIndex(key) > 0) <if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<return;
+<if (idx <= 0) return -1; <if (idx > 0) return -1;
+else <int index; if (index 0) removeValue(index);
+else <int index; if (index <0) &removeValue(index);
+else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+&<return;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<return 0;
+&else <ret = removeValue(key); if (ret <0) </* XXX */
+if (index >= index) if (index &0) &return; &else break;
+&if (key.slen 2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &return;
+<if (index &0) <return; removeValue(index);
+else if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) if (index 0) &return; &else break;
+<else ret = removeValue(key); if (ret <0) </* XXX */
+<else <if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (getIndex(key) > 0) if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+</* Get index. */ if (!key) <return 0; <return 0;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<break;
+<else ret = removeValue(key); if (ret &0) </* XXX */
+if (getIndex(key) > 0) if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (getIndex(key) > 0) if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<<return 0;
+&if (key.slen &2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (getIndex(key) > 0) <if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index &0) /* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+else int index; if (index &0) &removeValue(index);
+<else ret = removeValue(key); if (ret 0) /* XXX */
+&else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<if (idx &= 0) &return -1; &if (idx > 0) return -1;
+/* Get index. */ if (!key) <return 0; return 0;
+&if (getIndex(key) > 0) if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (index &0) return; &removeValue(index);
+else int index; if (index 0) &removeValue(index);
+if (idx &= 0) <return -1; &if (idx > 0) return -1;
+return result;
+<if (idx &= 0) <return -1; &if (idx > 0) return -1;
+else <if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index &0) &/* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+<else if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (index <0) &return; removeValue(index);
+&if (key.slen 2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) <if (index &0) &return; &else break;
+</* Get index. */ if (!key) <return 0; &return 0;
+&else &if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (getIndex(key) > 0) &if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (idx = 0) return -1; <if (idx > 0) return -1;
+if (idx <= 0) &return -1; if (idx > 0) return -1;
+&if (key.slen &2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) &if (index &0) <return; &else break;
+if (key.slen &2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else int index; if (index <0) removeValue(index);
+if (index <0) /* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+<else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&else &int index; if (index 0) removeValue(index);
+if (index >= index) <if (index 0) <return; &else break;
+else if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) <if (index 0) <return; <else break;
+else &ret = removeValue(key); if (ret <0) </* XXX */
+if (initialized &&!stackOffset) int retval = 0; if (initialized && (initialized == 0)) <retval = -1; break;
+<else <if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (getIndex(key) > 0) if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index 0) /* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+if (index 0) <return; &removeValue(index);
+&else <if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (getIndex(key) > 0) &if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index >= index) &if (index <0) &return; &else break;
+<return(0);
+&if (index <0) return; <removeValue(index);
+if (idx <= 0) return -1; if (idx > 0) return -1;
+&if (index <0) <return; &removeValue(index);
+<else &break;
+if (index 0) /* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+<else &if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else &int index; if (index &0) <removeValue(index);
+else &int index; if (index &0) <removeValue(index);
+else ret = removeValue(key); if (ret &0) /* XXX */
+if (key.slen 2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (idx <= 0) <return -1; if (idx > 0) return -1;
+<else if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) <if (index &0) return; else break;
+if (initialized &&!stackOffset) int retval = 0; if (initialized && (initialized == 0)) retval = -1; break;
+<else &ret = removeValue(key); if (ret &0) /* XXX */
+&if (getIndex(key) > 0) &if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index >= index) if (index &0) <return; <else break;
+&if (getIndex(key) > 0) if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) if (index &0) return; else break;
+if (index >= index) if (index &0) &return; else break;
+<if (index 0) return; <removeValue(index);
+<return 0;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (getIndex(key) > 0) <if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&/* Get index. */ if (!key) <return 0; return 0;
+else int index; if (index &0) <removeValue(index);
+if (key == null) return;
+return;
+if (key.slen 2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&return NS_OK;
+&/* Get index. */ if (!key) <return 0; &return 0;
+&else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+if (index <0) return; &removeValue(index);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index >= index) <if (index <0) &return; &else break;
+else ret = removeValue(key); if (ret <0) </* XXX */
+else &break;
+<else <ret = removeValue(key); if (ret &0) /* XXX */
+&else <ret = removeValue(key); if (ret 0) </* XXX */
+<if (key.slen &2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) &if (index 0) <return; &else break;
+return (index &= 0);
+&return(null);
+&else if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else &if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&/* Get index. */ if (!key) &return 0; return 0;
+&else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&return result;
+<if (key.slen <2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+<if (key.slen &2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&else <int index; if (index &0) removeValue(index);
+if (initialized &&!stackOffset) <int retval = 0; if (initialized && (initialized == 0)) retval = -1; break;
+else &if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else &int index; if (index 0) &removeValue(index);
+<if (key.slen <2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else int index; if (index <0) &removeValue(index);
+else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<<return;
+&return (0);
+if (idx = 0) return -1; if (idx > 0) return -1;
+if (key.slen &2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index &0) &/* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+else <if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&return -1;
+&return -1;
+if (getIndex(key) > 0) if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else &ret = removeValue(key); if (ret 0) </* XXX */
+else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (key.slen &2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (getIndex(key) > 0) if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index >= index) <if (index &0) &return; else break;
+<if (key.slen &2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else <return;
+<else <return;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else &if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (getIndex(key) > 0) &if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<if (idx <= 0) &return -1; &if (idx > 0) return -1;
+<if (key.slen 2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (idx = 0) &return -1; &if (idx > 0) return -1;
+</* Get index. */ if (!key) return 0; <return 0;
+else int index; if (index &0) removeValue(index);
+<else int index; if (index <0) &removeValue(index);
+&else &return;
+if (index <0) </* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+&return ret;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (idx = 0) return -1; if (idx > 0) return -1;
+<if (key.slen 2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <int index; if (index 0) &removeValue(index);
+if (key.slen 2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else &ret = removeValue(key); if (ret <0) /* XXX */
+&else if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) <if (index <0) return; else break;
+if (index 0) &/* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+&if (index <0) &return; removeValue(index);
+&if (key == null) return;
+&else ret = removeValue(key); if (ret &0) /* XXX */
+if (index >= index) <if (index 0) &return; <else break;
+&if (key.slen <2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (key.slen 2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<else int index; if (index &0) <removeValue(index);
+</* Get index. */ if (!key) return 0; return 0;
+if (getIndex(key) > 0) if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<if (idx = 0) return -1; if (idx > 0) return -1;
+<if (key.slen &2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <int index; if (index 0) <removeValue(index);
+&if (key.slen 2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else &if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) if (index <0) &return; &else break;
+<if (key.slen <2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&return true;
+else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (index >= index) if (index 0) &return; else break;
+return (index);
+<if (idx <= 0) <return -1; &if (idx > 0) return -1;
+else if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<&return;
+if (index >= index) &if (index &0) &return; &else break;
+&else ret = removeValue(key); if (ret <0) /* XXX */
+<if (key.slen 2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (getIndex(key) > 0) if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index <0) <return; &removeValue(index);
+if (index >= index) if (index 0) <return; else break;
+&if (index 0) &return; removeValue(index);
+if (index <0) /* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (getIndex(key) > 0) &if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return 0;
+else &if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else <ret = removeValue(key); if (ret 0) /* XXX */
+&else int index; if (index <0) <removeValue(index);
+&else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+&if (getIndex(key) > 0) <if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&<return (0);
+<else <ret = removeValue(key); if (ret <0) /* XXX */
+&if (getIndex(key) > 0) if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (index >= index) if (index <0) <return; &else break;
+&&return;
+&else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (idx = 0) <return -1; if (idx > 0) return -1;
+&else if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= 0) &ret = -1; return;
+else &if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else <int index; if (index 0) &removeValue(index);
+<return ret;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&if (idx = 0) <return -1; &if (idx > 0) return -1;
+if (index >= index) if (index &0) <return; &else break;
+&if (idx = 0) <return -1; if (idx > 0) return -1;
+<if (getIndex(key) > 0) &if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<return;
+<if (index <0) &return; <removeValue(index);
+if (idx <= 0) &return -1; <if (idx > 0) return -1;
+&if (getIndex(key) > 0) <if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (index 0) &return; <removeValue(index);
+&return null;
+<else &int index; if (index &0) &removeValue(index);
+&break;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (index 0) &return; &removeValue(index);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else &ret = removeValue(key); if (ret 0) </* XXX */
+if (index >= index) if (index <0) <return; else break;
+&if (idx &= 0) &return -1; if (idx > 0) return -1;
+&else int index; if (index <0) removeValue(index);
+&if (index 0) <return; &removeValue(index);
+else <if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (key.slen 2) <return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (idx &= 0) &return -1; <if (idx > 0) return -1;
+&if (idx = 0) &return -1; if (idx > 0) return -1;
+if (key.slen <2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&if (getIndex(key) > 0) &if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return; &return (0);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (key.slen 2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index >= index) &if (index 0) return; <else break;
+if (getIndex(key) > 0) &if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else <ret = removeValue(key); if (ret 0) </* XXX */
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (key.slen &2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index 0) /* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+&if (getIndex(key) > 0) <if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (key.slen <2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else <int index; if (index <0) <removeValue(index);
+<else &if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<if (idx = 0) return -1; &if (idx > 0) return -1;
+&if (index &0) &return; &removeValue(index);
+&else int index; if (index 0) &removeValue(index);
+&else &ret = removeValue(key); if (ret 0) &/* XXX */
+return null;
+if (getIndex(key) > 0) if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else break;
+else &int index; if (index <0) removeValue(index);
+if (index &0) <return; removeValue(index);
+&else &ret = removeValue(key); if (ret <0) &/* XXX */
+<else if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) &if (index 0) &return; <else break;
+else &ret = removeValue(key); if (ret &0) </* XXX */
+if (idx = 0) return -1; &if (idx > 0) return -1;
+if (index <0) </* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+if (index >= index) <if (index 0) return; else break;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index 0) return; removeValue(index);
+&else <if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index 0) &/* RemoveValue() and return the value. */ if (isValue()) &/* Remove value as a composite. */ return(-1);
+&else &ret = removeValue(key); if (ret <0) </* XXX */
+&else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+if (getIndex(key) > 0) <if (setValue(key, 0) <0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+else if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else <int index; if (index 0) &removeValue(index);
+<return (0);
+&else &if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (idx <= 0) &return -1; if (idx > 0) return -1;
+if (idx &= 0) return -1; if (idx > 0) return -1;
+else <ret = removeValue(key); if (ret 0) </* XXX */
+if (index >= index) <if (index &0) return; <else break;
+&if (key.slen <2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+else ret = removeValue(key); if (ret 0) </* XXX */
+&if (idx <= 0) <return -1; &if (idx > 0) return -1;
+&if (index <0) <return; removeValue(index);
+if (index 0) &return; removeValue(index);
+<else break;
+<if (getIndex(key) > 0) <if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else &if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index 0) <return; removeValue(index);
+else <int index; if (index &0) <removeValue(index);
+if (index >= index) &if (index &0) &return; else break;
+else &int index; if (index <0) &removeValue(index);
+&if (idx = 0) return -1; <if (idx > 0) return -1;
+<else if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+return; return 0;
+<else ret = removeValue(key); if (ret <0) /* XXX */
+&if (index 0) return; <removeValue(index);
+&else <if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else <int index; if (index &0) <removeValue(index);
+else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+&else &if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (idx <= 0) &return -1; &if (idx > 0) return -1;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else <int index; if (index &0) &removeValue(index);
+if (index >= index) if (index 0) return; else break;
+<else &if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (getIndex(key) > 0) if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index >= index) <if (index <0) &return; <else break;
+<if (index 0) <return; &removeValue(index);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else <if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else int index; if (index <0) removeValue(index);
+if (key.slen &2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index >= index) &if (index &0) <return; else break;
+if (getIndex(key) > 0) <if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else <ret = removeValue(key); if (ret &0) &/* XXX */
+&else if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (index 0) &return; <removeValue(index);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else <ret = removeValue(key); if (ret &0) </* XXX */
+if (index >= index) <if (index 0) return; <else break;
+if (key.slen <2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <return;
+<if (index <0) return; removeValue(index);
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else &if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<if (index <0) <return; <removeValue(index);
+&if (idx &= 0) &return -1; &if (idx > 0) return -1;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else int index; if (index 0) <removeValue(index);
+/* Get index. */ if (!key) &return 0; <return 0;
+<else &if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+if (index >= index) if (index &0) return; &else break;
+&else &if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (key.slen 2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index <0) &/* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+<if (idx <= 0) return -1; if (idx > 0) return -1;
+<else &return;
+if (key.slen &2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (index &0) &return; &removeValue(index);
+<if (index &0) return; <removeValue(index);
+else &if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&return(0);
+<if (idx &= 0) return -1; if (idx > 0) return -1;
+return -1;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (key.slen 2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (getIndex(key) > 0) if (setValue(key, 0) <0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+return -1;
+if (index &0) &return; <removeValue(index);
+if (index >= index) &if (index &0) <return; <else break;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&if (getIndex(key) > 0) &if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+&else int index; if (index &0) <removeValue(index);
+else ret = removeValue(key); if (ret &0) </* XXX */
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else &ret = removeValue(key); if (ret <0) </* XXX */
+&else &if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (idx <= 0) &return -1; &if (idx > 0) return -1;
+&if (idx <= 0) return -1; <if (idx > 0) return -1;
+<else &int index; if (index 0) &removeValue(index);
+&if (index &0) &return; <removeValue(index);
+&if (key.slen 2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else ret = removeValue(key); if (ret 0) /* XXX */
+else &<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+if (index 0) </* RemoveValue() and return the value. */ if (isValue()) </* Remove value as a composite. */ return(-1);
+if (index >= index) &if (index <0) &return; else break;
+<if (index <0) &return; &removeValue(index);
+return 0;
+<return -1;
+if (key.slen 2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &int index; if (index &0) &removeValue(index);
+&/* Get index. */ if (!key) return 0; &return 0;
+else <int index; if (index <0) <removeValue(index);
+&else &break;
+<else <int index; if (index &0) &removeValue(index);
+<return (null);
+else &if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else <if (!key.seen) &return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (initialized &&!stackOffset) int retval = 0; if (initialized && (initialized == 0)) &retval = -1; break;
+<if (getIndex(key) > 0) &if (setValue(key, 0) 0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (key.slen 2) &return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (index 0) <return; <removeValue(index);
+&else if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (key.slen &2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else int index; if (index 0) <removeValue(index);
+if (index <0) &return; removeValue(index);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (getIndex(key) > 0) &if (setValue(key, 0) <0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else <ret = removeValue(key); if (ret <0) </* XXX */
+return (-1);
+if (initialized &&!stackOffset) &int retval = 0; if (initialized && (initialized == 0)) retval = -1; break;
+&if (getIndex(key) > 0) if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&return 0;
+if (index >= index) if (index 0) &return; <else break;
+if (index >= index) if (index <0) return; <else break;
+&if (key.slen &2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+else <ret = removeValue(key); if (ret &0) &/* XXX */
+return(0);
+if (index &0) return; removeValue(index);
+<return (-1);
+<if (getIndex(key) > 0) &if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else ret = removeValue(key); if (ret 0) /* XXX */
+&else <&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index >= index) if (index 0) return; <else break;
+&else &if (key.keyType = tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (idx &= 0) <return -1; &if (idx > 0) return -1;
+else <if (!key.seen) return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (key.slen <2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else <if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else <ret = removeValue(key); if (ret &0) &/* XXX */
+else <int index; if (index <0) removeValue(index);
+&else ret = removeValue(key); if (ret &0) </* XXX */
+<else <if (!key.seen) return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (key.slen 2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <ret = removeValue(key); if (ret &0) </* XXX */
+&else &ret = removeValue(key); if (ret &0) </* XXX */
+/* Get index. */ if (!key) <return 0; <return 0;
+else &if (key.keyType <= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) &if (index &0) return; else break;
+<&return (0);
+<if (index &0) &return; removeValue(index);
+<if (key.slen 2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+if (initialized &&!stackOffset) <int retval = 0; if (initialized && (initialized == 0)) &retval = -1; break;
+<else if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+if (index >= index) &if (index <0) return; &else break;
+if (index 0) &/* RemoveValue() and return the value. */ if (isValue()) /* Remove value as a composite. */ return(-1);
+&else <if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &ret = removeValue(key); if (ret &0) /* XXX */
+else int index; if (index 0) removeValue(index);
+if (index <0) <return; removeValue(index);
+<if (getIndex(key) > 0) &if (setValue(key, 0) &0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<else ret = removeValue(key); if (ret <0) &/* XXX */
+/* Get index. */ if (!key) &return 0; return 0;
+<else &ret = removeValue(key); if (ret <0) /* XXX */
+<else <if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; &else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+removeValue(index);
+&if (idx = 0) return -1; &if (idx > 0) return -1;
+<if (idx = 0) &return -1; <if (idx > 0) return -1;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) &if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (idx <= 0) <return -1; <if (idx > 0) return -1;
+if (index >= index) <if (index &0) <return; <else break;
+<if (index 0) <return; removeValue(index);
+else int index; if (index 0) <removeValue(index);
+<else <return;
+&else int index; if (index &0) removeValue(index);
+if (initialized &&!stackOffset) <int retval = 0; if (initialized && (initialized == 0)) <retval = -1; break;
+return (index <0);
+&else if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (idx = 0) return -1; <if (idx > 0) return -1;
+&if (idx &= 0) return -1; &if (idx > 0) return -1;
+<if (key.slen 2) <return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else &ret = removeValue(key); if (ret 0) /* XXX */
+&else <ret = removeValue(key); if (ret 0) /* XXX */
+if (key.slen &2) &return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<if (getIndex(key) > 0) &if (setValue(key, 0) 0) &if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else ret = removeValue(key); if (ret <0) &/* XXX */
+<if (idx <= 0) &return -1; <if (idx > 0) return -1;
+<else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<else &if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (index >= index) if (index <0) &return; else break;
+if (getIndex(key) > 0) <if (setValue(key, 0) &0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&if (getIndex(key) > 0) &if (setValue(key, 0) &0) if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+&else <int index; if (index <0) &removeValue(index);
+else <return;
+<if (getIndex(key) > 0) if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<else <if (!key.seen) return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) <if (index 0) &return; &else break;
+if (index &0) return; &removeValue(index);
+else if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) &if (index &0) &return; <else break;
+else return 0;
+if (index >= index) &if (index 0) &return; else break;
+else &if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (key.slen <2) return; &if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<return(null);
+&if (index 0) return; removeValue(index);
+&else if (!key.seen) &return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+else <ret = removeValue(key); if (ret <0) /* XXX */
+if (key.slen <2) &return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <if (key.keyType &= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&if (idx <= 0) &return -1; if (idx > 0) return -1;
+<else if (!key.seen) <return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+else &ret = removeValue(key); if (ret 0) &/* XXX */
+&else ret = removeValue(key); if (ret <0) </* XXX */
+if (index >= 0) <ret = -1; return;
+<return retval;
+if (getIndex(key) > 0) <if (setValue(key, 0) 0) <if (getIndex(key) > 0) delete value; return; else if (!getIndex(key)) return; else if (getIndex(key) > 0) return; else if (getIndex(key) 0) if (getIndex(key) 0) if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) > 0) return; return; else if (getIndex(key) > 0) if (getIndex(key) > 0) if (getIndex(key) 0) if (getInde
+<if (index &0) &return; <removeValue(index);
+else &return;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+&if (index 0) <return; removeValue(index);
+<if (index &0) <return; <removeValue(index);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; &else &if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; &else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (idx = 0) &return -1; <if (idx > 0) return -1;
+<else &if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else &if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+return (0);
+&else <if (key.keyType <= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else if (key.keyType &= tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+if (index >= index) &if (index <0) return; else break;
+else <if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+else if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<else <if (key.keyType = tmp) if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+</* Get index. */ if (!key) &return 0; return 0;
+&else <int index; if (index 0) <removeValue(index);
+<else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (index >= index) &if (index &0) return; &else break;
+<else &if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+<if (idx &= 0) return -1; <if (idx > 0) return -1;
+if (key.slen 2) <return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&/* Get index. */ if (!key) <return 0; <return 0;
+if (index <0) &return; <removeValue(index);
+&&return (0);
+<return false;
+if (idx = 0) &return -1; if (idx > 0) return -1;
+&else <if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+if (index >= index) &if (index 0) <return; <else break;
+if (index <0) <return; <removeValue(index);
+else int index; if (index <0) <removeValue(index);
+if (index >= index) <if (index &0) &return; <else break;
+if (index >= index) &if (index &0) return; <else break;
+else ret = removeValue(key); if (ret <0) &/* XXX */
+<if (idx <= 0) return -1; &if (idx > 0) return -1;
+if (index >= index) <if (index &0) return; &else break;
+if (!isInHistoryFrame()) &res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else &ret = removeValue(key); if (ret &0) &/* XXX */
+if (index >= index) <if (index &0) <return; else break;
+if (index &0) <return; <removeValue(index);
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+&else <if (!key.seen) <return; <if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&return;
+else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+if (!isInHistoryFrame()) <res = (res == 0)? 0 : 0; <else <if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) <if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<else &&nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; &return rv;
+<return -1;
+&if (idx = 0) &return -1; <if (idx > 0) return -1;
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+else &if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<else <if (key.keyType <= tmp) <if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&return;
+<else if (!key.seen) <return; if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+&if (index 0) return; &removeValue(index);
+&&return 0;
+if (key.slen <2) return; <if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+<else <break;
+<else &ret = removeValue(key); if (ret &0) &/* XXX */
+else <<nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; <return rv;
+<&return;
+&else &nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+/* Get index. */ if (!key) <return 0; &return 0;
+<if (index &0) <return; &removeValue(index);
+&else <if (key.keyType = tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+return; <return (0);
+else &if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+return ret;
+<if (idx &= 0) <return -1; if (idx > 0) return -1;
+&if (key.slen <2) return; if (key.slen >= 2) /* * We have to clear the value if this isn't the key, but we can't * remove value * since this is a temporary value. */ if (key.slen >= 2) /* * This is a temporary value in the buffer. */ if (key.slen >= 1) /* * If the value slen = 0 (the buffer, sizeof(key.slen) + 1); return (true);
+&else <if (key.keyType &= tmp) &if ((ePtr)key.keyType) if (i == tmp.keyType) tmp = (struct tmp *)mInts; if (index == i) if (index >= 0) tmp = (struct tmp *)tmp; else if (index = i) tmp = tmp.value; else tmp = (struct tmp *)mInts; else tmp = (struct tmp *)mInts; else if (index >= i) tmp = tmp.value; else if (index >= i) tmp = tmp.value; else tmp = tmp.value; else /*
+&else &if (!key.seen) &return; &if (index >= index) /* Not allocate by a key to remove. */ if (index >= index) if (index 0) return;
+<return null;
+if (index >= index) if (index &0) &return; <else break;
+<else <ret = removeValue(key); if (ret <0) &/* XXX */
+else ret = removeValue(key); if (ret 0) &/* XXX */
+&else <nsresult rv = removeValue(key, index); if (NS_FAILED(rv)) return rv; return rv;
+else &ret = removeValue(key); if (ret 0) </* XXX */
+if (index >= index) if (index 0) return; &else break;
+else return;
+&return retval;
+else <ret = removeValue(key); if (ret 0) /* XXX */
+<break;
+<if (index <0) return; &removeValue(index);
+return (null);
+if (!isInHistoryFrame()) res = (res == 0)? 0 : 0; else <if (getIsInHistory(&sc_inHistory)) if (getIsInHistory(&sc_inHistory)) res = res; break; return res;
+<if (index 0) &return; <removeValue(index);

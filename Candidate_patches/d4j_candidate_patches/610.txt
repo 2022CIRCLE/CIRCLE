@@ -1,0 +1,36 @@
+golden:
+Preconditions.checkState(body.getNext() == null &&
+inference:
+
+Preconditions.checkState(body.getNext() == n);
+Preconditions.checkState(body.getNext() == null);
+Preconditions.checkState(body.getNext() == body.getNext());
+Preconditions.checkState(body.getNext() == null);
+Preconditions.checkState(body.getNext() == body);
+n = body.getNext();
+body = body.getNext();
+Preconditions.checkState(body.getNext());
+if (body.getNext() == null)
+preconditions.checkState(body.getNext() == null);
+Preconditions.checkState(body);
+NS_ASSERTION(body.getNext() == null, "bad param");
+NS_ASSERTION(body.getNext() == null, "bad condition");
+preconditions.checkState(body.getNext() == body.getNext());
+Preconditions.checkState(body.getNext() == body.isBlock());
+#endif
+n.isFunction();
+Preconditions.checkState(body.getNext() == null &&!body.isFunction());
+NS_ASSERTION(body.getNext() == null, "bad param"); NS_ASSERTION(body.getNext() == null, "bad param"); NS_ASSERTION(body.getNext() == null, "bad param");
+n.body.s = body;
+NS_ASSERTION(body.getNext() == null, "cannot find body");
+n.lastChild = body.getNext();
+NS_ASSERTION(body.getNext() == null, "bad condition"); NS_ASSERTION(body.isFunction(), "bad condition");
+n.getFirstChild() = body.getNext();
+n.isFunction(n); if (!n.isFunctionExpression)  n.isFunctionExpression = 1;
+
+Preconditions.checkState(body.getNext() == body.getNext());
+n.isFunction(n); if (!n.isFunctionExpression) &n.isFunctionExpression = 1;
+Preconditions.checkState(body.getNext() == n);
+if (body.getNext() == null)
+n.isFunction(n); if (!n.isFunctionExpression) <n.isFunctionExpression = 1;
+n.isFunction(n); if (!n.isFunctionExpression) n.isFunctionExpression = 1;

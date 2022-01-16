@@ -1,0 +1,385 @@
+golden:
+return var != null && var.getScope() == s && !blacklistedVars.contains(var);
+inference:
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return (var!= null) && (var.getScope() == s &&!blacklistedVars.contains(var));
+return (var!= null) && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && s.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s ||!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= n && var.getScope() == s &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s) &&!blacklistedVars.contains(var);
+
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var)));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var))
+return var!= null && var.getScope() == s &&!whitelistedVars.contains(var);
+return (var!= null) && (var.getScope() == s) &&!blacklistedVars.contains(var);
+return(var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope()!= s &&!blacklistedVars.contains(var);
+return var!= null && var.scope == s &&!blacklistedVars.contains(var);
+return var!= null || var.getScope() == s &&!blacklistedVars.contains(var);
+return Var!= null && Var.getScope() == s &&!blacklistedVars.contains(var);
+return (var!= null && (var.getScope() == s &&!blacklistedVars.contains(var)));
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s;
+return var == null && var.getScope() == s &&!blacklistedVars.contains(var);
+return &var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && Var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s) &&!blacklistedVars.contains(var);
+return var!= null && var == s &&!blacklistedVars.contains(var);
+return var!= null;
+return var!= null && s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s);
+return var!= null && (var.getScope() == s) &&!blacklistedVars.contains(var);
+return var!= null && var!= s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && *var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= 0 && var.getScope() == s &&!blacklistedVars.contains(var);
+return var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == n &&!blacklistedVars.contains(var);
+return var!= null && var.scope == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(s);
+return var!= null; && var.getScope() == s &&!blacklistedVars.contains(var);
+return v!= null && v.getScope() == s &&!blacklistedVars.contains(v);
+return var!= null && var.GetScope() == s &&!blacklistedVars.contains(var);
+return var.getScope() == s &&!blacklistedVars.contains(var.get());
+return var!= null &&  var.getScope() == s &&!blacklistedVars.contains(var);
+return (var)!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == 0 &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s &&!BlacklistedVars.contains(var));
+return var!= s && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!BlacklistedVars.contains(var);
+return &var!= null && &var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var))
+return const var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && s.getScope() == s &&!blacklistedVars.contains(var);
+return val!= null && val.getScope() == s &&!blacklistedVars.contains(val);
+return var!= null && s.getScope() == s &&!blacklistedVars.contains(s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(n));
+return (var)!= null && (var.getScope() == s &&!blacklistedVars.contains(var));
+return var == null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s && (!blacklistedVars.contains(var));
+return (var!= null && var.getScope() == s &&!whitelistedVars.contains(var));
+return *var!= null && *var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && s == 0 &&!blacklistedVars.contains(var);
+return var!= "" && var.getScope() == s &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s) && (!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!whitelistedVars.contains(var));
+return (*var)!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null &&!blacklistedVars.contains(var);
+return var!= node && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!lhs.contains(var);
+return var!= null && var.getScope() == s ||!blacklistedVars.contains(var);
+else return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!bluelistedVars.contains(var);
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && val.getScope() == s &&!blacklistedVars.contains(var);
+var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null, &var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null; return var.getScope() == s &&!blacklistedVars.contains(var);
+return var!=null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s
+return var!= null && var.getScope() == s && (!blacklistedVars.contains(var)));
+return var!= null && var.Scope == s &&!blacklistedVars.contains(var);
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var)));
+return ( var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.containsKey(var);
+return var!= null && var.GetScope() == s &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return s!= null && s.getScope() == s &&!blacklistedVars.contains(s);
+return var!= null && var.getScope() == s &&!s.contains(var);
+return var!= null &&!s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == i &&!blacklistedVars.contains(var);
+return s.getScope() == s &&!blacklistedVars.contains(s);
+return s!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && s.get() == s &&!blacklistedVars.contains(var);
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var))
+return var!= null && var.getVar() == s &&!blacklistedVars.contains(var);
+return (var!= null) && var.getScope() == s &&!blacklistedVars.contains(var));
+*/ return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getName() == s &&!blacklistedVars.contains(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains (var));
+return var!= null && var.getScope() == const s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.get(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var);)
+return var!= null && var.getScope() == s &&!blacklistedVars.equals(var);
+return var!= unsigned && var.getScope() == s &&!blacklistedVars.contains(var);
+return (var!= null) && (var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && val.getScope() == s &&!blacklistedVars.contains(val);
+return var!= null && var.getScope()!= s &&!blacklistedVars.contains(var));
+return var!= null && s!= 0 &&!blacklistedVars.contains(var);
+return *var!= null && *var.getScope() == s &&!blacklistedVars.contains(*var);
+return (var!= null); && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.isScope() &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.get(var));
+return var == n && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getValue() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!whitelistedVars.contains(var);
+return (var!= null && (var.getScope() == s &&!blacklistedVars.contains(var));
+return ( var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return a!= null && a.getScope() == s &&!blacklistedVars.contains(a);
+return var!= null && var.getScope() == s &&!blanklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(v));
+return var!= null && var.getScope() == s &&!_blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!BlacklistedVars.contains(var));
+result = var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= n && var.getScope() == s &&!blacklistedVars.contains(var));
+return (var!= null && var.getScope() == s && (!blacklistedVars.contains(var)));
+return(var!= null) && (var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s && !blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!bblacklistedVars.contains(var);
+return var.getScope() == s &&!blacklistedVars.contains(var.get()));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(&var);
+return var!= null && var.getScope() == s &&!variables.contains(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var)));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return false;
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var));
+return &var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var[0].getScope() == s &&!blacklistedVars.contains(var);
+return var!= null &&!whitelistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(n);
+return var!= null && var.getScope() == s ||!blacklistedVars.contains(var));
+return v!= null && v.getScope() == s &&!blacklistedVars.contains(v));
+return var == null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains( var );
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(v);
+return var!= null && var.getScope() == s &&!contains(var);
+return var!= null && var.getScope() == s &&!nodes.contains(var);
+return s!= null && var.getScope() == s &&!blacklistedVars.contains(s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var)
+error = var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s)
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(s));
+return var!= null && var.getScope()!= s &&!blacklistedVars.contains(var);
+return var!= null &&!blacklistedVars.contains(var));
+return val!= null && val.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.GetScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.Equals(var);
+return var!= null
+return s!= s &&!blacklistedVars.contains(s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(*var));
+return (var!= null) && (var.getScope() == s &&!blacklistedVars.contains(var))
+return var!= null && var.getScope() == s;
+return false;
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var)));
+return var!= null && var.getScope() == s &&!blacklistedVars[var]);
+return var!= null && var.getScope() == s &&!this.blacklistedVars.contains(var);
+return (var!= null);
+return (var!= null) && (var.getScope() == s &&!BlacklistedVars.contains(var));
+return var!= null && s.getScope() == s &&!blacklistedVars.contains(var));
+return var.getScope() == s;
+return var!= null && var.getScope() == s &&!blacklistedArray.contains(var);
+return var!= null &&!s.contains(var);
+return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var););
+return 0;
+return var!= null && var.getScope() == s &&!blacklistedVars.isEmpty();
+return var!= null;
+return var!= null && var!= s &&!blacklistedVars.contains(var));
+return var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && (var.getScope() == s &&!blacklistedVars.contains(var)))
+return var!= null && var.getScope() == s &&!blacklistedVars;
+return var!= null && var.getScope() == s &&!stats.contains(var);
+return ((var!= null && var.getScope() == s) &&!blacklistedVars.contains(var);
+return var!= null);
+return s.getScope() == s &&!blacklistedVars.contains(s.getScope());
+return true;
+return true;
+return var;
+return var!= null && (*var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((int)var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!privateVars.contains(var) &&!privateVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!mvp.pvr &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(null));
+return var!= null && var.getScope() == s &&!(vflags & VF_KERB);
+return var!= null && var.getScope() == s &&!nodeUtil.isExprAssign(node));
+return var!= null && var.getScope() == s &&!mStr.isEmpty() &&!mStr.isSupported() &&!mStr.isEmpty();
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!s &&!s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((const char *)var);
+return var!= null && var.getScope() == s &&!(m.eAssign || m.eAssign) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(n), var);
+return var!= null && var.getScope() == s &&!((nvr = var && (nvr && nvr.mVar!= 0)) &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!whitelistedVars.contains(s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var.get()));
+return var!= null && var.getScope() == s &&!BlacklistedVars.contains(var) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var.get());
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains((int)var);
+return (nodeUtil.isExprAssign(n))? var!= null && (nodeUtil.isScope(n) == s &&!blacklistedVars.contains(nodeUtil.isExprAssign(n)));
+return (n)!= null && n.getScope() == s &&!blacklistedVars.contains(n.var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((s)var);
+return var!= null && var.getScope() == s &&!m_contain();
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!cvsAssign.contains(n, &n);
+return var!= null && var.getScope() == s &&!none.isEmpty() &&!blacklistedVars.contains(var);
+return var!= null &&!lhs.isDuplicate() && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!invisibleVars.contains(var);
+return var!= null &&!((int)var.getScope() == s &&!blacklistedVars.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((n)var);
+return var!= null && var.getScope() == s &&!advance(ScopeAssignment.h_vname) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!niListeners.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((nsAString&)var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((void **)var);
+return var!= null && var.getScope() == s &&!mOldFlags.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!bblacklistedVars.contains((char*)(unsigned char*)var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!scanlistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!osVars.contains(osVars);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!s.get();
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(((unsigned char*) var).get()));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(n.get()));
+return var!= null && var.getScope() == s &&!BlacklistedVars.contains(var) &&!blacklistedVars.contains(var) &&!crcmp(crcmp(crcmp(s),crcmp(s)));
+return var!= null && var.getScope() == s &&!canonicalVars.contains(var);
+return var!= null && var.getScope() == s &&!((unsigned long) var).canBeRegistered());
+return var!= null &&!s.exists() &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!s.isSupported() &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!((char*)s) && ((int)s) &&!((int)s));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(n));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*s);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!(lhs.isVar() || lhs.isFlags() || lhs.isName()) &&!lhs.isName());
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!nodeUtil.isExprReturnSynonym(a));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!dst_tcp;
+return (s);
+return var!= null && var.getScope() == s &&!(u_char*)node.getAssign());
+return var!= null && var.getScope() == s &&!hasVar);
+return var!= null && var.getScope() == s &&!mVars.contains(var);
+return var!= null && var.getScope() == s &&!cnt++;
+return var!= null && var.getScope() == s &&!nsVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(n) &&!blacklistedVars.contains(n));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((void**) var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) || ((s.getType() == SVG_IN_INT16(var) && s.getType() == SVG_IN_INT16(s)) || (s.getType() == SVG_IN_INT16(s)) || (s.getType() == SVG_IN_INT16(s)) || (s.getType() == SVG_IN_INT16(s))) || (s.getType() == SVG_IN_INT16(s) || (s.getType() == SVG_IN_INT16(s)) || (s.getType() == SVG_IN_INT16(s) || (s.getType() == SVG_IN_INT16(s) || (s.getType() == SVG_IN_INT16(s)) || (s.get
+return var!= null && var.getScope() == s &&!has(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((vaddr_t)var);
+return var!= null && var.getScope() == s &&!cmd.blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!((void **)&blacklistedVars.contains(var)) &&!((void **)&var.getType() == NodeType) &&!((void **)&blacklistedVars.contains(var)));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!lhs.isDesc &&!lhs.isDetach(lhs));
+return var!= null && var.getScope() == s &&!vm_canEnumerate((unsigned int)var);
+return var!= null && var.getScope() == s &&!isAssignment(var);
+return var!= null && var.getScope() == s &&!(int)blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(((const char*)var);
+return ((var!= null && var.getScope() == s &&!blacklistedVars.contains(var)) &&!blacklistedVars.contains(var);
+return var!= null &&!s.isVariable() &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!((n!= 0) && (var == n && (s) == 0)))) return false;
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(node.id);
+return var!= null && var.getScope() == s &&!BlacklistedVars.contains(var) &&!(int)(var.isLength() &&!(s.getInt())) &&!(s.getInt())(var.getScope())) &&!(s.getScope() == s) &&!(s.getScope() == s &&!(s.getScope() == s) &&!(s.getInt())(var.getScope()));
+return ((var!= null) && var.getScope() == s) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!n.blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!nodeUtil.isExprAssign(nodeUtil);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains((u_long)var);
+return (n.nodeName == n.nodeName) && (n.nodeFlags & ACCESS);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!s);
+return var!= null && var.getScope() == s &&!nonBounds &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains((struct sched_type*) var);
+return var!= null &&!_blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!e.isValid();
+return var!= null && var.getScope() == s &&!*(blacklistedVars.contains(var)) &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!(n.type == SLIST_BUFFER || n.type == SLIST_RUNNING));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!contain(s);
+return var!= null &&!lhs.isEmpty() &&!lhs.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(a);
+return var!= null &&!var.isRecontainer() &&!var.isScope() &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!lhs.isSingleVar();
+return var!= null &&!var.getScope().Equals(s) &&!blacklistedVars.contains(var);
+return var!= null &&!variableVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains(n);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!blacklistedVars.contains((struct sockaddr *)sh, &sh.ivars);
+return var!= null && var.getScope() == s &&!*cmd.bLhs.contains(var));
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) ||!n_none;
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!lhs.isX() && var.isY() && var.getScope() == s &&!blacklistedVars.contains(var) &&!lhs.isX() && var.getScope() == s &&!lhs.isY() &&!blacklistedVars.contains(var);
+return var!= null &&!blacklistedVars.contains((long)var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+<return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && &var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s && !blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+&return var!= null && var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s && <!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s && &!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('&0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('<0') &&!(unsigned char *) s).equals('<0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.
+return var!= null && <var.getScope() == s &&!blacklistedVars.contains(var);
+return var!= null && var.getScope() == s &&!blacklistedVars.contains(var) &&!*(((unsigned char *) s).size()!= 0) &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('&0') &&!(unsigned char *) s).equals('0') &&!((unsigned char *) s).equals('0') &&!(unsigned char *) s.equals('0') &&!((unsigned char *) s.equals('0') &&!((unsigned char *) s.

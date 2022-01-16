@@ -1,0 +1,987 @@
+golden:
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) { registerMismatch(rightType, leftType, null); } else {
+inference:
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType()){
+else{
+
+if (leftType.isConstructor() || rightType.isEnumType()){
+if (!rightType.isConstructor()){
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor()){
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (!rightType){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if (!rightType.canAssignTo(leftType)){
+if ((leftType.isConstructor() || leftType.isEnumType()) || (rightType.isConstructor() || rightType.isEnumType())){
+if (!rightType.isEnumType()){
+if (leftType){
+if ((leftType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (!leftType.isConstructor()){
+if (leftType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (rightType){
+if ((leftType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if (!(leftType.isConstructor() || leftType.isEnumType())){
+if (!rightType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (rightType.isConstructor()){
+if (!leftType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() || leftType.isEnumType() || rightType.isEnumType()){
+if (rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType() || rightType.isEnumType())){
+if (leftType.isConstructor() && (rightType.isConstructor() && rightType.isEnumType())){
+if (leftType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (rightType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor() && rightType.isEnumType()){
+if(leftType.isConstructor() || leftType.isEnumType()){
+if (!rightType.canAssignTo(t, n, msg)){
+if (leftType.isConstructor())  registerMismatch(rightType, leftType, null);{
+if(leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (leftType == null){
+if ((leftType.isConstructor() || leftType.isEnumType()) || rightType.isEnumType()){
+if (rightType == null){
+if ((leftType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+else if (leftType.isConstructor() || leftType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()) &&!rightType.isConstructor()){
+if (leftType.isConstructor())  registerMismatch(rightType, leftType, null);  else{
+if(leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) == 0){
+if (leftType.isEnumType()){
+if (leftType.isConstructor() ||!rightType.isEnumType()){
+if (!rightType.canAssignTo(n)){
+if (!rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || rightType.isEnumType()) == 0){
+if ((leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType()))){
+if ((leftType.isConstructor()) || (rightType.isConstructor() || rightType.isEnumType())){
+if ((rightType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor())  if (rightType.isConstructor())  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() || leftType.isEnumType() && (rightType.isConstructor() || rightType.isEnumType())){
+if (!rightType && (leftType.isConstructor() || leftType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) || rightType.isConstructor() || rightType.isEnumType()){
+if (!leftType){
+if (!leftType.isConstructor() && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor())  registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() && rightType.isEnumType())  registerMismatch(rightType, leftType, null);{
+return false;{
+if (leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()){
+if ((leftType.isConstructor() ||!rightType.isEnumType())){
+if (!rightType.canAssignTo(t, n)){
+if (msg){
+if (!rightType || (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor())  registerMismatch(rightType, leftType, null);  else{
+if (!rightType.isConstructor() && (leftType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType()) || (rightType.isConstructor() || rightType.isEnumType())){
+if ((rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, n);  else{
+if (rightType.isEnumType()){
+if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor()) && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType()) && rightType.isConstructor() || rightType.isEnumType()){
+if (!rightType.isConstructor() &&!rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, n);  else{
+if (!rightType.isConstructor() ||!rightType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor() && leftType.isEnumType()){
+if (!rightType.isConstructor() && (leftType.isEnumType() || rightType.isEnumType())){
+else if (leftType.isConstructor()){
+if (leftType.isConstructor() || rightType.isEnumType() || rightType.isEnumType()){
+if (leftType.isConstructor() && rightType.isConstructor() && rightType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType() && rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || rightType.isEnumType()) &&!rightType.isConstructor()){
+if(leftType){
+if ((leftType.isConstructor()) && (rightType.isConstructor()))  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType))  registerMismatch(rightType, leftType, null);{
+if (leftType && (leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if(leftType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor() && rightType.isConstructor()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (leftType.isConstructor() || rightType.isEnumType())){
+if (rightType && (leftType.isConstructor() || leftType.isEnumType())){
+if(!rightType.isConstructor()){
+if(leftType.isConstructor()){
+if (leftType.isConstructor() && leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if (leftType == null){
+if (n){
+if ((leftType.isConstructor() || rightType.isEnumType()) == null){
+if (t == n){
+else if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType() || rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType())  if (rightType.isConstructor() || rightType.isEnumType()){
+if(leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() && rightType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, n);{
+if ((rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType() || rightType.isConstructor() || rightType.isEnumType()){
+if (leftType == n){
+if ((leftType.isType() || leftType.isEnumType()) && (rightType.isType() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType())  if (!rightType.isConstructor()){
+if (!leftType.isEnumType()){
+if (!(leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (!rightType.isConstructor){
+if (leftType!= null){
+if (!rightType.canAssign(leftType)){
+if (leftType.isConstructor() && leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if(!rightType){
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, 0);  else{
+if (rightType == n){
+if (t == null){
+if (rightType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if(rightType){
+if (*rightType){
+if (!rightType.canAssignTo(t, leftType)){
+else if (!rightType.isConstructor()){
+if (rightType!= null){
+else if ((leftType.isConstructor() || leftType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType())) == 0){
+registerMismatch(rightType, leftType, null);{
+if(!rightType.canAssignTo(leftType)){
+registerMismatch(rightType, leftType, null);  else{
+if (!rightType.canAssignTo(rightType)){
+return false;  else{
+if (leftType == null || rightType == null){
+if (*leftType){
+if (rightType == null){
+if (t){
+if (leftType == null){
+if (!leftType.isConstructor() && (leftType.isEnumType() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (!rightType.canAssignTo(t, n, msg, rightType, leftType)){
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if (!rightType.isConstructor() && (leftType.isEnumType()))  registerMismatch(rightType, leftType, 0);{
+if (leftType.isConstructor() || leftType.isEnumType())  if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, n);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, n);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse());  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, JS_FALSE);  else{
+if (leftType.isConstructor() || leftType.isEnumType())  if (rightType.isConstructor() || rightType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, &n);  else{
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, &null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, &leftType);  else{
+if (!mVariants ||!rightType.isConstructor() ||!rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, m);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, m);  else{
+if ((leftType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, n);{
+if (leftType.isConstructor())  if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, JSType_LEAK_INT);{
+if (!rightType.isEnumType() && (leftType.isConstructor() || leftType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, JS_ERROR_FAILURE);  else{
+if (leftType.isConstructor())  if (!rightType.isConstructor())  if (!rightType.isEnumType())  registerMismatch(rightType, leftType, null);  else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, JSTypeDataSource.disabled);  else{
+if (!mFlags && ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))){
+if (leftType.isConstructor() || leftType.isEnumType())  if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (!rightType.isEnumType() && (leftType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor())  if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);  else{
+if (!mIsInitialized || (leftType.isConstructor() || leftType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, &rightType);  else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, &n);{
+if (leftType.isConstructor() || leftType.isEnumType())  registerMismatch(rightType, leftType, JSType_EMPTY_ON);{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))  registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_FALSE); else{
+if ((leftType.isConstructor() || leftType.isEnumType() || rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+return false; else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, n); <else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_FALSE); &else{
+if (*rightType){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeDataSource.disabled); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (!rightType.isConstructor() && (leftType.isEnumType() || rightType.isEnumType())){
+else if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, m); else{
+if ((leftType.isConstructor() || leftType.isEnumType() || rightType.isEnumType())){
+if (leftType.isConstructor()) &if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); else{
+else if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_ERROR_FAILURE); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &rightType); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, n); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeDataSource.disabled); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (rightType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor()) && (rightType.isConstructor())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, 0);{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType);{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (!rightType.canAssignTo(t, n)){
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &rightType); &else{
+if (!rightType.canAssign(leftType)){
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeDataSource.disabled); else{
+if (!rightType.canAssignTo(t, n, msg)){
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (!rightType){
+if (leftType.isConstructor()) if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && rightType.isConstructor()){
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, n); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &leftType); else{
+if (!rightType.isEnumType() && (leftType.isConstructor() || rightType.isEnumType())){
+if(leftType.isConstructor()){
+if (!rightType.isConstructor){
+if (leftType.isConstructor()) if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); else{
+if (rightType.isConstructor() || leftType.isEnumType()){
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &n); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &rightType); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, n);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &rightType); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_FALSE); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isType() || leftType.isEnumType()) && (rightType.isType() || rightType.isEnumType())){
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, m); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (!rightType.isConstructor() && (leftType.isEnumType())) <registerMismatch(rightType, leftType, 0);{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (!rightType.isConstructor() &&!rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_FALSE); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (rightType && (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); else{
+if ((rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (!rightType.isEnumType()){
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType == null || rightType == null){
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()){
+if (rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (!leftType.isConstructor()){
+if (rightType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (rightType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_ERROR_FAILURE); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &rightType); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (!rightType.isConstructor() && (leftType.isEnumType())){
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &rightType); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (rightType.isConstructor()){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && rightType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, &null);{
+if ((leftType.isConstructor() || rightType.isEnumType()) == null){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() ||!rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, n); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor()) && (rightType.isConstructor() || rightType.isEnumType())){
+if (rightType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &leftType); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &rightType); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null);{
+<else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, n); &else{
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (t == n){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) == 0){
+if (leftType.isConstructor() || leftType.isEnumType() && rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeDataSource.disabled); else{
+if (leftType && (leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() ||!rightType.isEnumType()){
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (rightType == n){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() && rightType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (!(leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, m);{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &n);{
+if (leftType == n){
+if (!leftType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType() || rightType.isEnumType()){
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, JSType_EMPTY_ON);{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor()) || (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeDataSource.disabled); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, 0); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &rightType); &else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, n); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, &null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &n); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (!leftType.isConstructor() && (leftType.isEnumType() || rightType.isEnumType())){
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+else{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, 0); else{
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); else{
+if (!mIsInitialized || (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || rightType.isEnumType()) && rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, n); &else{
+if (leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_ERROR_FAILURE); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, n); else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (t == null){
+if(rightType){
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, n);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &n); else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, n); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, n); else{
+if (!rightType.isConstructor()){
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); &else{
+if(leftType.isConstructor() || leftType.isEnumType()){
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+else if (leftType.isConstructor()){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType() || rightType.isEnumType()){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && rightType.isConstructor() && rightType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, n); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, 0); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, m);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_FALSE); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() && rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, n); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, m); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (rightType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, n);{
+else if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, n);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &n); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, n); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, n); &else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, n);{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, JSType_EMPTY_ON);{
+if (!rightType.isConstructor() && (leftType.isEnumType())) registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() && leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isEnumType()){
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())){
+if (!rightType.canAssignTo(leftType)){
+if (!rightType.canAssignTo(n)){
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (rightType){
+if(!rightType.isConstructor()){
+if (leftType.isConstructor() && leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, n); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, m); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSType_LEAK_INT);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &leftType); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() && leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType()) == 0){
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (rightType!= null){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, n);{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (!leftType.isConstructor() && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, n); &else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); <else{
+if (msg){
+if (rightType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeDataSource.disabled); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, m);{
+registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, m); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType)) &registerMismatch(rightType, leftType, null);{
+if (!rightType.canAssignTo(rightType)){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, m); &else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+return false; <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType)) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() && leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_ERROR_FAILURE); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, JSType_EMPTY_ON);{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, n); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) || rightType.isEnumType()){
+if (!mVariants ||!rightType.isConstructor() ||!rightType.isEnumType()){
+if (rightType == null){
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, 0); else{
+if (leftType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeDataSource.disabled); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &n);{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+else if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (!rightType && (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeDataSource.disabled); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_FALSE); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (!rightType.isConstructor() || leftType.isEnumType()){
+if (leftType.isConstructor() && (rightType.isConstructor() && rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (rightType.isEnumType()){
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &n); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, n);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (!rightType || (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); <else{
+if (!leftType.isEnumType()){
+if (!leftType){
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, 0); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if(!rightType.canAssignTo(leftType)){
+registerMismatch(rightType, leftType, null); <else{
+else if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType()))){
+return false; &else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (!rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor() || leftType.isEnumType()) if (!rightType.isConstructor()){
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, n); else{
+&else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, n); else{
+if (leftType.isConstructor() || leftType.isEnumType() || rightType.isConstructor() || rightType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_ERROR_FAILURE); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, n); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, n); &else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (rightType == null){
+if (!mFlags && ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType()))){
+if ((leftType.isConstructor()) && (rightType.isConstructor())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && (rightType.isConstructor() || rightType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &rightType); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (!(leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (!rightType.canAssignTo(t, leftType)){
+if (rightType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (!(leftType.isConstructor() || leftType.isEnumType())){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JSTypeDataSource.disabled); else{
+if (!(leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType == null){
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null); &else{
+else if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, n); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType)) registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, n); else{
+if (leftType.isConstructor() && leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_ERROR_FAILURE); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &n); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, m); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType())) == 0){
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &n);{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType && (leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && leftType.isEnumType()){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &leftType); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, n); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, m); <else{
+if ((leftType.isConstructor() || rightType.isEnumType()) &&!rightType.isConstructor()){
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, 0); &else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, 0);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() && rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType() && (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType()) &if (!rightType.isConstructor()){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &n); &else{
+if (leftType.isConstructor()) &if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+else if (leftType.isConstructor() || leftType.isEnumType()){
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (*leftType){
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
+<else{
+if (!rightType.canAssignTo(t, n, msg, rightType, leftType)){
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, n);{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, 0); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSTypeTypeRect.cstr_oneuse()); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_ERROR_FAILURE); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType!= null){
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((rightType.isConstructor() || rightType.isEnumType())){
+if (rightType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_ERROR_FAILURE); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, &null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, n); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JSType_LEAK_INT);{
+if ((leftType.isConstructor() || leftType.isEnumType()) && rightType.isConstructor() || rightType.isEnumType()){
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() && rightType.isEnumType()){
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &n); &else{
+if (leftType.isConstructor() && rightType.isEnumType()) registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if(leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_ERROR_FAILURE); else{
+if (n){
+if (leftType.isConstructor()) &if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, n);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JS_FALSE); <else{
+if (!rightType.isConstructor() && (leftType.isEnumType())) &registerMismatch(rightType, leftType, 0);{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, n); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (rightType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) &if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if(leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if(leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, JS_FALSE); else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if (!rightType.isConstructor()){
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) registerMismatch(rightType, leftType, null); &else{
+else if (!rightType.isConstructor()){
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &leftType); else{
+if (leftType.isConstructor() || (rightType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, 0); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, &leftType); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())){
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor()) && (rightType.isConstructor())) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType, 0); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) <if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (!rightType.isEnumType() && (leftType.isConstructor() || leftType.isEnumType())){
+if (leftType.isConstructor() && rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, m); &else{
+if (leftType == null){
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if (!rightType.isConstructor() ||!rightType.isEnumType()){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if(leftType){
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &leftType); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, JS_FALSE); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &leftType); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType){
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, &leftType); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); else{
+if (leftType == null){
+if (leftType.isConstructor()) <if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() && leftType.isEnumType()) <registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) &if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) <registerMismatch(rightType, leftType);{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if (leftType.isEnumType()) &registerMismatch(rightType, leftType, null);{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || rightType.isEnumType()) registerMismatch(rightType, leftType, msg);{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) <if (!rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor()) <if (!rightType.isConstructor()) return false; if ((leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() && leftType.isEnumType()) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor() || leftType.isEnumType()) if (rightType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, null); else{
+if (leftType && (leftType.isConstructor() || leftType.isEnumType())) &registerMismatch(rightType, leftType, null);{
+if ((leftType.isConstructor() || leftType.isEnumType()) &&!rightType.isConstructor()){
+if (leftType.isConstructor() || rightType.isEnumType()) <registerMismatch(rightType, leftType, msg);{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+if (t){
+if (leftType.isConstructor()) <if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) || rightType.isConstructor() || rightType.isEnumType()){
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, 0);{
+if(!rightType){
+if (leftType.isConstructor() || leftType.isEnumType()) <if (rightType.isConstructor() || rightType.isEnumType()) &registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor()) &if (!rightType.isConstructor()) <if (!rightType.isEnumType()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType())) <registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) if (rightType.isConstructor()) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) &registerMismatch(rightType, leftType, n); else{
+if (leftType.isConstructor()) if (!rightType.isConstructor()) &if (!rightType.isEnumType()) &registerMismatch(rightType, leftType, null); else{
+if ((leftType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null);{
+&else{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) registerMismatch(rightType, leftType, null); <else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, JSType_LEAK_INT);{
+if (leftType.isConstructor()) <if (rightType.isConstructor()) &registerMismatch(rightType, leftType, null); &else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, null); <else{
+if (leftType.isConstructor() || leftType.isEnumType()) if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) registerMismatch(rightType, leftType, null); else{
+if (leftType.isConstructor()) &if ((rightType.isConstructor() || rightType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) &registerMismatch(rightType, leftType, null); &else{
+if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) <registerMismatch(rightType, leftType, &n); <else{

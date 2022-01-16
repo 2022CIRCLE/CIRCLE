@@ -1,0 +1,355 @@
+golden:
+sum += jacobian[i][pj] * residuals[i];
+inference:
+sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][j] * residuals[i];
+sum += jacobian[i][i] * residuals[i];
+sum += jacobian[i][pj] * i;
+sum = sum += jacobian[i][pj] * residuals[i];
+sum += diagR[i][pj] * residuals[i];
+sum += i[pj] * residuals[i];
+sum += pj * residuals[i];
+sum += jacobian[j][j] * residuals[j];
+sum += jacobian[i][residuals[i]];
+sum += jacobian[i][Pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i] + 1;
+sum += diag[i][pj] * residuals[i];
+sum += jacobian[j][pj] * residuals[j];
+sum += Jacobian[i][pj] * residuals[i];
+sum = jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj];
+sum += jacobian[i][PJ] * residuals[i];
+sum += jacobian[i][pj] * pj;
+sum += jacobian[i][pj] - residuals[i];
+sum += jacobian[i][0] * residuals[i];
+sum += jacobian[i][k] * residuals[i];
+sum += (jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][pj], residuals[i];
+sum += jacobian[i].pj * residuals[i];
+sum += jacobian[i][pj] + residuals[i];
+sum += jacobian[i][pj] * residual[i];
+sum += jacobian[j][j] * residuals[i];
+sum += pj[i] * residuals[i];
+sum2 += jacobian[i][pj] * residuals[i];
+sum.append(jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][pj] / residuals[i];
+sum += jacobian[i][u] * residuals[i];
+sum += jacobian[i][i] * pj;
+sum += jacobian[i][pj] * residuals[i], i;
+sum += jacobian[i][i];
+sum += jacobian[i][pj] * diagR[i];
+sum += jacobian[i][*pj] * residuals[i];
+sum += result[i][pj] * residuals[i];
+sum += jacobian[i][1] * residuals[i];
+sum += permutation[i][pj] * residuals[i];
+sum += (Jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][ pj] * residuals[i];
+sum += i[i] * residuals[i];
+sum += jacobian[i] [pj] * residuals[i];
+sum += int[i][pj] * residuals[i];
+sum += dacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[j];
+sum += jacobian[i][i] * residuals[i] - 1;
+sum++ += jacobian[i][pj] * residuals[i];
+sum += jacobian[j][pj] * residuals[i];
+sum.add(jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][pj] ** residuals[i];
+sum += i * residuals[i];
+sum[i] = jacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * i;
+sum += delta[i][pj] * residuals[i];
+sum += *residuals[i];
+sum += pj*residuals[i];
+sum += jacobian[k][pj] * residuals[i];
+sum += jacobian[i][jp] * residuals[i];
+sum += jacobian[i][n] * residuals[i];
+sum += jacobian[i][i] * residuals[i] + 1;
+sum += ji[i][pj] * residuals[i];
+sum += jacobian[i][npj] * residuals[i];
+sum += jacobian[pj] * residuals[i];
+sum += Jacobian[i][i] * residuals[i];
+sum += jacobian[j][i] * residuals[j];
+sum += tmp[i][pj] * residuals[i];
+sum += jacobian[i][lpj] * residuals[i];
+sum = sum + jacobian[i][pj] * residuals[i];
+sum += jacobian[i][s] * residuals[i];
+sum += sum[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]+1;
+sum += j0[i][pj] * residuals[i];
+sum += jacobian[i][pj] = residuals[i];
+sum += vacobian[i][pj] * residuals[i];
+sum += macobian[i][pj] * residuals[i];
+sum += d[i][pj] * residuals[i];
+sum += Jacobian[i][j] * residuals[i];
+sum += jacobian[i][pj] * * residuals[i];
+sum += jacobian[i][pj] * residues[i];
+sum += j[i][pj] * residuals[i];
+sum += jacobian[i][pj]  residuals[i];
+sum += jacobian[i][pj] % residuals[i];
+sum += jacobian[i][intpj] * residuals[i];
+sum += jacobian[i][bj] * residuals[i];
+sum += yacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * integers[i];
+sum += diagR[i][i] * residuals[i];
+sum += poly[i][pj] * residuals[i];
+sum += jacobian[i](pj) * residuals[i];
+sum += jacobian[i][pj] * residuals[i]-1;
+sum += jacobian[i][pj] * jacobian[i];
+sum += jacobian[i][pj] * residual;
+sum += jacobian[i][i] * residual[i];
+sum += jacobian[i][i] * diagR[i];
+sum += jac[i][pj] * residuals[i];
+sum += val[i][pj] * residuals[i];
+sum += residuals[i][i];
+sum += jacobian[i][j] * residuals[j];
+sum += diagP[i][pj] * residuals[i];
+sum += jacobian[i][y] * residuals[i];
+sum += jacobian[i][pj] * lmDir;
+sum += jacobian[i][pj] * residuals;
+sum += jacobian[i][&pj] * residuals[i];
+sum += jacobian[i][pj] = diagR[i];
+sum += refs[i][pj] * residuals[i];
+sum += jacobian[i][pj] * remainings[i];
+sum += jacobian[i][t] * residuals[i];
+sum1 += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][-pj] * residuals[i];
+sum += jacobian[i][tj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i], 0;
+sum += jacobian[i][ni] * residuals[i];
+sum += jacobian[i][int] * residuals[i];
+sum += js[i][pj] * residuals[i];
+sum += jjacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * len;
+sum += jacobian[i][pj] * d;
+sum += Jacobian[i][pj] * i;
+sum += jacobian[i][pj] * residuals[i]];
+sum += jacobian[i][i] - residuals[i];
+sum += jacobian[i][i] + residuals[i];
+sum += jacob[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]
+sum +=Jacobian[i][pj] * residuals[i];
+result += jacobian[i][pj] * residuals[i];
+sum += pj;
+sum += jacobian[i][pj] * residuals[i] + 2;
+sum += id[i][pj] * residuals[i];
+sum += i[j] * residuals[i];
+sum += jacobian[i] * residuals[i];
+sum += jacobian[i][pj] * result[i];
+sum -= jacobian[i][pj] * residuals[i];
+sum += i [pj] * residuals[i];
+sum += jacobian[i][si] * residuals[i];
+sum += jacobian[i][rpj] * residuals[i];
+sum += jacobian[i][pj].pj * residuals[i];
+sum += jacobian[i][i] * residuals[j];
+sum += vertex[i][pj] * residuals[i];
+sum += i[pj] * i;
+sum += jacobian[i], pj] * residuals[i];
+sum += jj[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i] ;
+sum += chunk[i][pj] * residuals[i];
+sum += jacobian[0][pj] * residuals[i];
+sum += current[i][pj] * residuals[i];
+sum+= jacobian[i][pj] * residuals[i];
+sum += jacobian[i][-1] * residuals[i];
+sum += jacobian[i][i], residuals[i];
+sum += jacobian[i][pj] *  residuals[i];
+sum += jacobian[i][pj] * residuals[i];*/
+sum += jacobian[i][%d] * residuals[i];
+sum[i][pj] = residuals[i];
+sum += pj + residuals[i];
+sum += jacobian[i][i] * residuals[i], i;
+sum += jacobian[i][pj] */ residuals[i];
+sum += jacobian[i][pj] * regressions[i];
+sum += jacobian[i][pj] * residuals[i]);
+sum += id[pj] * residuals[i];
+sum += jacobian[i][pj] * int[i];
+sum += jacobian[i][pj]
+sum += jacobian[i][pj] * residual(i);
+sum += i;
+sum += jacobian[i][pj] * rezids[i];
+sum += jacobian[i][pj] || residuals[i];
+sum += jacobian[i][pj] * residuals[i] * 2;
+sum += jacobian[i][pj] * val;
+sum += j * residuals[i];
+sum += jacobian[i][pj] * id;
+sum += jacobian[i][pj] * residuals[i]2;
+sum += len * residuals[i];
+sum += jacobian[i][i] * residuals[i][0];
+sum += jacobian[i][pj] * residuals[i]++;
+sum += jacobian[i][pj] * radians[i];
+sum += jacobian[i][pj] * j;
+sum += jacobian[i][pj] * pj[i];
+sum += jacobian[i][pj] * residuals[i+1];
+sum += jacobian[i][i]; sum += residuals[i];
+sum += jacobian[i][pj][i];
+sum += jacobian[i][pj] * residuals[i]; */
+sum += jacobian[i][pj] * residuals[i] * 1;
+sum += jacobian[i][pj] * residual[i] - 1;
+sum += jacobian[i][i] * residuals[i] = 0;
+sum += jacobian[i][pj] * tmp;
+sum += jacobian[i][pj] * residuals[i], delta;
+sum += Jacobian[i][pj] * residuals[i] + 1;
+sum += jacobian[i][pj] * s;
+sum += jacobian[i][i] * residuals[i], pj;
+sum += jacobian[i][i] * residuals[i]; #endif
+sum += jacobian[i][pj] * residuals[i] + delta;
+sum += jacobian[i][pj] * residuals[i].pj;
+sum += jacobian[i][pj] * residuals[i]; /* XXX */
+sum += jacobian[i][pj] * residuals[i];  else  sum += jacobian[i][pj] * residuals[i];
+sum += diag.value_matrix[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i] + pj + pj + pj;
+sum += jacobian[i][i] * residuals[i];  else  sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i], residuals[i];
+sum += jacobian[i][pj] * residuals[i] - previous[i];
+sum += pj + j * residuals[i];
+sum += jacobian[i][pj] * residuals[i], pj;
+sum += jacobian[i][pj] * residuals[i] / 2;
+sum += jacobian[i][pj] * residuals[i], splp[i];
+sum += jacobian[i][pj] * residuals[i];  else  sum = qt.nativePair(current);
+sum += pj % pj;
+sum += jacobian[i][pj] * residuals[i] + jpy;
+sum += pjDynamic(jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][pj] * x;
+sum += xyld(jacobian[i][pj]) * residuals[i];
+sum += jacobian[i][pj] * residuals[i], bRows[i];
+sum += pjd[i] * residuals[i];
+sum += diag.j_Pid[i][pj] * residuals[i];
+sum += jaddr(j) * residuals[i];
+sum += jdr.ji[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i] + 2 * i;
+sum += jacobian[i][pj] * residuals[i], h = h;
+sum += jacobian[i][pj] * residuals[i] - 1;
+sum += residuals[i][pj] * residuals[i];
+sum += id;
+sum += npy2_t[i][pj] * residuals[i];
+sum += diagR(j);
+sum += jacobian[i][pj] * residuals[i], i, i;
+sum += aJapacobian[i][pj] * residuals[i];
+sum += id(int)[pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i], sxP(sxP(sxP(sxP(sxP(sxP(sxP(sxP(sxP))))););
+sum += jacobian[i][pj] * residuals[i] + '0';
+sum += njacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i] + hsr;
+sum += jacobian[i][pj] * residuals[i]? 0 : 0;
+sum += jacobian[i][pj] * residuals[i] - 2;
+sum += jzero(*rj) * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; if (!sum)  lmDir = 0;
+sum += jacobian[i][pj] * residuals[i] + sizeof(residuals);
+sum += q[i][pj] * residuals[i];
+sum += jacobian[i][i] * lmDir;
+sum += pjPtr  i;
+sum += rsiduals[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; if (residuals[i] && i  0) sum += jacobian[i][pj] * residuals[i];
+sum += nSyntax(jacobian[i][pj] * residuals[i]);
+sum += pj.id.pj * residuals[i];
+sum += rdp.japacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i] + k;
+sum += jacobian[i][pj] * residuals[i], d;
+sum += nsDependentCString(jacobian[i][pj] * residuals[i]);
+sum += pjp[i] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]? sum : sum;
+sum += jacobian[i][pj] * splx(residuals[i]);
+sum += jaddr(jacobian[i][pj] * residuals[i]);
+sum += jacobian[i][pj] * residuals[i] + np;
+sum += pjDs.sjd_to_jcobian(j)[i] * residuals[i];
+sum += pj % residuals[i];
+sum += jacobian[i][pj] * residuals[i], rm;
+sum += jacobian[i][pj] * rsiduals[i];
+sum += d_i[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i] + h;
+sum += pjs[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i], rd;
+sum += r_jacobian[i][pj] * residuals[i];
+sum += iD[pj] * residuals[i];
+sum += i; if (!m)  /* XXX a */ i = residuals[i]; /* XXX a */  else  /* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i] + pj;
+sum += jacobian[i][pj] * s.rsi;
+sum += jacobian[i][pj] * residuals[i]; /* sum += i; */
+sum += n2_yields[i][pj] * residuals[i];
+sum += pjs[i] * residuals[i];
+sum += j*sin(j)[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i], sd;
+sum += qsi2*jacobian[i][pj] * residuals[i];
+sum += pjP = aDirP; sum += pjP * residuals[i];
+sum += jacobian[i][pj] * residuals[i], newLines[i];
+sum += jacobian[i][pj] * residuals[i]; /* * XXX */
+sum += pjD.pj * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; <else &sum = qt.nativePair(current);
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ else </* * We have zero-level entry length */
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ else /* * We have zero-level entry length */
+sum += jacobian[i][i] * residuals[i]; &else &sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ &else /* * We have zero-level entry length */
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ <else /* * We have zero-level entry length */
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ &else &/* * We have zero-level entry length */
+sum += pjPtr <i;
+sum += jacobian[i][pj] * <residuals[i];
+sum += jacobian[i][pj] * residuals[i] + '&0';
+sum += jacobian[i][pj] * residuals[i]; if (residuals[i] && i <0) sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; <else sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; if (residuals[i] && i &0) sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; if (residuals[i] && i 0) sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i]; <else <sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; &else <sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; &else &sum = qt.nativePair(current);
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ &else /* * We have zero-level entry length */
+sum += jacobian[i][i] * residuals[i]; <else sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i] + '<0';
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ &else </* * We have zero-level entry length */
+sum += jacobian[i][pj] residuals[i];
+sum += jacobian[i][pj] * &residuals[i];
+sum += jacobian[i][pj] * residuals[i]; &else &sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i];
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ &else </* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; else <sum = qt.nativePair(current);
+sum += jacobian[i][pj] * residuals[i]; else &sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ else /* * We have zero-level entry length */
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ <else &/* * We have zero-level entry length */
+sum += pjPtr &i;
+sum += jacobian[i][i] * residuals[i]; else &sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ &else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; &else sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ else /* * We have zero-level entry length */
+sum += jacobian[i][pj] = residuals[i];
+sum += pjPtr i;
+sum += jacobian[i][pj] * residuals[i]; else <sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] &= residuals[i];
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ <else </* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; <else sum = qt.nativePair(current);
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ <else /* * We have zero-level entry length */
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ &else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] <residuals[i];
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ else </* * We have zero-level entry length */
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ <else </* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; <else &sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ <else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; if (!sum) lmDir = 0;
+sum += jacobian[i][pj] * residuals[i]; else &sum = qt.nativePair(current);
+sum += jacobian[i][pj] * residuals[i]; <else <sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; <else <sum = qt.nativePair(current);
+sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ &else </* * We have zero-level entry length */
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ &else /* * We have zero-level entry length */
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ <else </* * We have zero-level entry length */
+sum += jacobian[i][pj] * residual[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ <else /* * We have zero-level entry length */
+sum += Jacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i]; else <sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; if (!sum) &lmDir = 0;
+sum += jacobian[i][pj] * residuals[i]; if (!sum) <lmDir = 0;
+sum += jacobian[i][pj] * residuals[i]; else sum = qt.nativePair(current);
+sum += jacobian[i][pj] * residuals[i]; &else sum = qt.nativePair(current);
+sum += jacobian[i][pj] <= residuals[i];
+sum += jacobian[i][i] * residuals[i]; &else <sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] * residuals[i]; &else <sum = qt.nativePair(current);
+sum += jacobian[i][i] * residuals[i]; <else &sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) &/* XXX a */ i = residuals[i]; /* XXX a */ else </* * We have zero-level entry length */
+sum += jacobian[i][i] * residuals[i]; &else sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][i] * residuals[i]; else sum += jacobian[i][pj] * residuals[i];
+sum += jacobian[i][pj] &residuals[i];
+sum += jacobian[i][pj] * residuals[i] + '0';
+sum += i; if (!m) /* XXX a */ i = residuals[i]; /* XXX a */ <else &/* * We have zero-level entry length */
+sum += jacobian[i][pj] * residuals[i]; else sum += jacobian[i][pj] * residuals[i];
+sum += i; if (!m) </* XXX a */ i = residuals[i]; /* XXX a */ else &/* * We have zero-level entry length */
