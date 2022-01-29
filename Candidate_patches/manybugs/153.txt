@@ -1,0 +1,852 @@
+golden:
+<extra_id_0>
+inference:
+
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = 0;
+value = -1;
+value = obj->diff->n;
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = Z_STRVAL_P(member);
+if (value == -1)
+if (value)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), 0);
+E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, ("Unknown property (%s)", Z_STRVAL_P(member)));
+tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+if (!value)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+if (value == -1) value = Z_STRVAL_P(member);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), NULL);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+php_err_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), value);
+if (value == -1) value = obj->diff->n;
+Z_SET_REFCOUNT(retval);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+value = NULL;
+if (value == -1) error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  error("Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) return php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, _("Unknown property (%s)"), Z_STRVAL_P(member));
+if (value == -1)  value = obj->diff->n;
+if (value == -1)  value = Z_STRVAL_P(member);
+value = value;
+if (value == -1)  fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+html_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+if (value == 0) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property(%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, _("Unknown property (%s)", Z_STRVAL_P(member)));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, ("Unknown property (%s)", Z_STRVAL_P(member)));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", key);
+return value;
+value = value == -1;
+if (value == -1) break;
+if (value == -1) E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+obj = (php_interval_obj *)zend_objects_get_address(object TSRMLS_CC);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", member);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property", Z_STRVAL_P(member));
+value = &tmp_member;
+else  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", NULL);
+obj = (php_interval_obj *)zend_objects_get_address(object TSRMLS_DC);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, Z_STRVAL_P(member));
+if (value == -1) fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) errx(1, "Unknown property (%s)", Z_STRVAL_P(member));
+TSRMLS_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, Z_STRVAL_P(member));
+value = tmp_member;
+if (value == -1) value = 0;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(value));
+Z_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) return;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member->type));
+if (value == -1) return E_ERROR;
+PHY_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), E_ERROR);
+if (value == -1)  JS_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", tmp_member);
+value = 0; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = n;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), m);
+value = '0';
+if (value == -1) return NULL;
+fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX */
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)" % Z_STRVAL_P(member));
+(void) value;
+p = value;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+value = - 1;
+if (value == 0) value = obj->diff->n;
+value = E_ERROR;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member), -1);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", name);
+value = value - 1;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__, Z_STRVAL_P(member));
+value = i;
+value = value->value;
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL(member));
+value = errno;
+if (value == 0)  value = obj->diff->n;
+++value;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)n", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property(%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)" "", Z_STRVAL_P(member));
+value = obj->diff;
+if (value == -1) value = Z_STRVAL_P(member); else value = Z_STRVAL_P(member);
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", ZSTRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", &member);
+splx(s);
+value = m;
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+if (value == -1)  printf("Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property " "(%s)", Z_STRVAL_P(member));
+value = value.get();
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+value = value == 0;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", obj->diff->n);
+if (value == -1)  zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+value = strdup(value);
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "%s", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", E_STRVAL_P(member));
+value = 0.0;
+if (value == -1)  value = 0;
+if (value == -1)  PHY_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+*value = -1;
+value = %s;
+if (value == -1)  Z_STRVAL_P(member);
+break;
+value = 1;
+if (value == 0)
+free(value);
+(void)value = -1;
+value = (value == -1)? E_ERROR : E_ERROR;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property", Z_STRVAL_P(member));
+value = value = -1;
+Z_STRVAL_P(member);
+if (value == -1)  ++value;
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", member);
+value = (value == -1)? E_ERROR : "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0)   value = obj->diff->n;
+if (value == -1) value = E_ERROR;
+value = -2;
+if (value == -1)  Z_SET_REFCOUNT(retval);
+value = strcmp(Z_STRVAL_P(member), m);
+value = address;
+php_error_docref(NULL TSRMLS_CC, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) value = Z_STRVAL_P(member); else value = 0;
+value = ok;
+value = -0;
+if (value == -1)  error("Unknown property (%s)", Z_STRVAL_P(member)); return;
+value = 1.0;
+value = *member;
+value = "";
+value = (value == -1)? E_ERROR : Z_STRVAL_P(member);
+if (value == -1) value = Z_STRVAL_P(member); else value = -1;
+if (value == -1) error = E_ERROR;
+GET_VALUE_FROM_STRUCT(n,m)
+value = sizeof(value);
+if (value == -1) value = obj->diff->n; else value = 0;
+value = Z_STRVAL_P(member); if (value == -1)
+value = -1.0;
+value =  0;
+*value = 0;
+value = value->n;
+if (value == -1) value = obj->diff->n; else value = -1;
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0)
+if (value == -1)  /* XXX: No object */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * If we're doing a _referrer * object then then we have to allocate the value. */ value = value->type;
+/* FIXME: not yet in TSRMLS_CC. */ value = -1; if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = 0; if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  /* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));  */
+value = __builtin__(member->type);
+if (value == -1)  /* XXX */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* The mtx pointer must be one of the following: */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  /* XXX */ if (!IsCached_To())    /* A valid value */
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));  */
+/* * Get the value value */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));  */
+if (value == -1)  /* * If we are using NULL fs, then we'll not allocate it to the client. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * We need to set a symbol name in '/' to be valid in the string. */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* If we don't have a * value, we will only know the syntax of the object that is the item to read */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1)  /* * If we're in a table, we have no table. */ if (value->type == IS_STRING)  tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;    /* GET_VALUE_FROM_STRUCT(n,m)  if (strcmp(Z_STRVAL_P(member), m) == 0)   value = obj->diff->n;   GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1))  if ((len = 0) && (len >= 0))   php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX: this is just a double-bit event, containing a single string with the same value as the value */ value = -1;
+/* if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+/* FIXME: Ignore the.m. XXX */
+/* * XXX * The default value is "unknown" in the base struct date. This is not correct. */ value = Z_STRVAL_P(member); if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+value = -1; if (!((value = __func__) || (value->type!= IS_STRING)))  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = (value == -1)? NULL : '0'; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m)  if (strcmp(Z_STRVAL_P(member), m) == 0)   value = obj->diff->n;   GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX it is a long timeout */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* If we've got a pointer. */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX - The result is a function that we are able to get, and * it's a simple function that will * return an error. */ value = value = 0; if (value == 0)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  /* if (value == -1)  /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0)  /* not a dp */ if (obj->type == IS_STRING)  /* not a dp */ if (obj->type == IS_STRING)  /* NOT a dp */ obj->type =  IS_STRING;  /* not a dp */ if (obj->type == IS_STRING)  /* not a dp */ obj->dp = obj->dp;  /* not a dp */ if (obj->type == IS_STRING)  /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));  else  if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0)  GET_VALUE_FROM_STRUCT(n,m)  GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+value = (struct tmp_member *) (struct tmp_member *) /* XXX */ if (value == -1)  php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)  /* GET_VALUE_FROM_STRUCT(n,m)  GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+
+else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * Get the value value */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n;
+if (value == -1) </* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) &printf("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = '&0';
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+if (value == -1) /* XXX */ if (!IsCached_To()) &</* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &/* XXX: No object */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ if (!IsCached_To()) <<</* A valid value */
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* The mtx pointer must be one of the following: */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) <<</* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) <<</* A valid value */
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+if (value == -1) </* XXX */ if (!IsCached_To()) <<&/* A valid value */
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", &member);
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_P(member));
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) &<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+if (value == -1) </* XXX: No object */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", &member);
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+/* The mtx pointer must be one of the following: */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) value = 0;
+if (value == -1) Z_STRVAL_P(member);
+if (value == -1) </* XXX */ if (!IsCached_To()) <</* A valid value */
+/* If we don't have a * value, we will only know the syntax of the object that is the item to read */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_P(member));
+if (value == -1) <printf("Unknown property (%s)", Z_STRVAL_P(member));
+value = -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+if (value) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &/* * If we are using NULL fs, then we'll not allocate it to the client. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX: No object */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) JS_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "%s", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <Z_STRVAL_P(member);
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", key);
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (!value) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ if (!IsCached_To()) &<</* A valid value */
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX - The result is a function that we are able to get, and * it's a simple function that will * return an error. */ value = value = 0; if (value == 0) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", tmp_member);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) </* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &/* XXX */ if (!IsCached_To()) &<&/* A valid value */
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = (struct tmp_member *) (struct tmp_member *) /* XXX */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = <0;
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) <&&/* A valid value */
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) <value = obj->diff->n;
+if (value == -1) <E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = -1; if (!((value = __func__) || (value->type!= IS_STRING))) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) <Z_SET_REFCOUNT(retval);
+if (value == 0) value = obj->diff->n;
+&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+/* If we've got a pointer. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", NULL);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", tmp_member);
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &/* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) <&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+if (value == -1) &/* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+if (value == -1) </* XXX */ if (!IsCached_To()) <&</* A valid value */
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) &Z_STRVAL_P(member);
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = (value == -1)? NULL : '<0'; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* If we've got a pointer. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", name);
+if (value == -1) /* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n;
+if (value == -1) ++value;
+if (value) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <error("Unknown property (%s)", Z_STRVAL_P(member)); return;
+/* if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+if (value == 0) <value = obj->diff->n;
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+value = -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) Z_SET_REFCOUNT(retval);
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (!value) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) /* GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) </* XXX */ if (!IsCached_To()) &&/* A valid value */
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) <&</* A valid value */
+if (value == -1) /* XXX */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n;
+value = -1;
+<else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &Z_SET_REFCOUNT(retval);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) <&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* If we don't have a * value, we will only know the syntax of the object that is the item to read */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) value = Z_STRVAL_P(member);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* XXX */ if (!IsCached_To()) /* A valid value */
+value = 0;
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "%s", Z_STRVAL_P(member));
+/* if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) <value = Z_STRVAL_P(member);
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", name);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n;
+if (value == -1) /* XXX */ if (!IsCached_To()) &&/* A valid value */
+if (value == -1) </* XXX */ if (!IsCached_To()) &&</* A valid value */
+/* if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+if (value == -1) /* XXX */ if (!IsCached_To()) <&/* A valid value */
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &/* XXX */ if (!IsCached_To()) &<</* A valid value */
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member);
+<else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+&else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* If we've got a pointer. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", P(member));
+if (value == -1) <++value;
+if (value == -1) </* XXX */ if (!IsCached_To()) </* A valid value */
+if (value == -1) /* XXX */ if (!IsCached_To()) &&&/* A valid value */
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* FIXME: not yet in TSRMLS_CC. */ value = -1; if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <value = obj->diff->n;
+if (value == -1) </* GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+<else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+<else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) </* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL(member));
+else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = &0;
+if (value) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) &</* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; </* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &/* XXX */ if (!IsCached_To()) &&/* A valid value */
+if (value == -1) /* XXX */ if (!IsCached_To()) &<</* A valid value */
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", member);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)&n", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* XXX */ if (!IsCached_To()) &/* A valid value */
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) value = obj->diff->n;
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+value = obj->diff->n;
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+&else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+/* XXX it is a long timeout */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not yet in TSRMLS_CC. */ value = -1; if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * XXX * The default value is "unknown" in the base struct date. This is not correct. */ value = Z_STRVAL_P(member); if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* XXX */ if (!IsCached_To()) &<&/* A valid value */
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+value = -1; if (!((value = __func__) || (value->type!= IS_STRING))) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) </* A valid value */
+if (value == -1) <zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * Get the value value */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) error("Unknown property (%s)", Z_STRVAL_P(member)); return;
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n;
+if (value == -1) </* XXX */ if (!IsCached_To()) &</* A valid value */
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member);
+/* if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = '<0';
+if (value == -1) </* XXX */ if (!IsCached_To()) /* A valid value */
+/* If we don't have a * value, we will only know the syntax of the object that is the item to read */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (!value) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* The mtx pointer must be one of the following: */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_P(member));
+if (value) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = (struct tmp_member *) (struct tmp_member *) /* XXX */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) </* GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", key);
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, Z_STRVAL_P(member));
+<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) printf("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ if (!IsCached_To()) &/* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+if (value == -1) </* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", tmp_member);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+value = (value == -1)? NULL : '&0'; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = (struct tmp_member *) (struct tmp_member *) /* XXX */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+/* * We need to set a symbol name in '/' to be valid in the string. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) php_error_docref(NULL TSRMLS_CC, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) &&&/* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", key);
+if (value == -1) &value = obj->diff->n;
+if (value == -1) zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member;
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* * If we are using NULL fs, then we'll not allocate it to the client. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (!value) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+if (value == -1) &/* XXX */ if (!IsCached_To()) <<&/* A valid value */
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", member);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) &&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * XXX * The default value is "unknown" in the base struct date. This is not correct. */ value = Z_STRVAL_P(member); if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &/* XXX */ if (!IsCached_To()) <&&/* A valid value */
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX it is a long timeout */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * XXX * The default value is "unknown" in the base struct date. This is not correct. */ value = Z_STRVAL_P(member); if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+if (value == -1) <error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <error("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) <&</* A valid value */
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+/* if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", name);
+/* * Get the value value */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+if (value == -1) &/* XXX */ if (!IsCached_To()) </* A valid value */
+if (value == -1) value = obj->diff->n;
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* XXX */ if (!IsCached_To()) <</* A valid value */
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) &&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * We need to set a symbol name in '/' to be valid in the string. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+value = 0; if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = '0';
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+<else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+&else &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) &GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", NULL);
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", P(member));
+/* FIXME: not yet in TSRMLS_CC. */ value = -1; if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) <<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * We need to set a symbol name in '/' to be valid in the string. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) <<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = 0; if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = 0;
+<else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n;
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; <&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) &/* XXX */ if (!IsCached_To()) &/* A valid value */
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) &<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) </* * If we are using NULL fs, then we'll not allocate it to the client. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &error("Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member);
+if (value == -1) /* GET_VALUE_FROM_STRUCT(n,m) GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX - The result is a function that we are able to get, and * it's a simple function that will * return an error. */ value = value = 0; if (value == 0) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+if (value) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) /* A valid value */
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) <<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) <&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+&else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1)
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ if (!IsCached_To()) <&/* A valid value */
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", m);
+if (value == -1) &PHY_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* XXX */ if (!IsCached_To()) &&&/* A valid value */
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) <JS_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) &<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &++value;
+if (!value) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) &/* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)n", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) <if (strcmp(Z_STRVAL_P(member), m) == 0) &value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) &tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * Now, it's possible to * have a 'unknown property'. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &*/
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) <if ((len = 0) && (len >= 0)) &<php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", __func__);
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", &member);
+if (value == -1) /* if (value == -1) &/* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX it is a long timeout */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "%s", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &JS_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) /* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) </* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) PHY_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <E_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) &&</* A valid value */
+if (value == -1) </* XXX */ if (!IsCached_To()) &<&/* A valid value */
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)<n", Z_STRVAL_P(member));
+if (value == -1) &value = obj->diff->n;
+if (value == 0) &value = obj->diff->n;
+if (value == -1) </* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <*/
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &value = Z_STRVAL_P(member);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", member);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) </* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) </* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) GET_VALUE_FROM_STRUCT(n,m) <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); &else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) <tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <<value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) <<&/* A valid value */
+if (value == -1) </* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) &/* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+if (value == -1) </* GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(
+if (value == -1) &value = 0;
+value = -1; if (!((value = __func__) || (value->type!= IS_STRING))) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* XXX */ if (!IsCached_To()) <&/* A valid value */
+if (value == -1) <PHY_ERROR("Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* if (value == -1) </* not a dp value */ if (((struct dp *)obj->dp = dp->dp) == 0) /* not a dp */ if (obj->type == IS_STRING) &/* not a dp */ if (obj->type == IS_STRING) /* NOT a dp */ obj->type = IS_STRING; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ obj->dp = obj->dp; /* not a dp */ if (obj->type == IS_STRING) /* not a dp */ if (obj->
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) &if ((len = 0) && (len >= 0)) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else &if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", NULL);
+else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else &if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) /* XXX */ if (!IsCached_To()) <</* A valid value */
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &&/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &</* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+/* FIXME: not set for %s of %s, it's up to %s. */ if ((value == -1) || (value == -1)) if ((len = 0) && (len >= 0)) &&php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+&else <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &fprintf(stderr, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); else <if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &error("Unknown property (%s)", Z_STRVAL_P(member)); return;
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) /* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; /* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) <value = 0;
+/* XXX - The result is a function that we are able to get, and * it's a simple function that will * return an error. */ value = value = 0; if (value == 0) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+value = -1; if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n;
+if (value == -1) </* XXX */ if (!IsCached_To()) <&&/* A valid value */
+if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", value);
+if (value == -1) &/* XXX */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) &if (strcmp(Z_STRVAL_P(member), m) == 0) <value = obj->diff->n; &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+if (!value) php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) <&value = obj->diff->n; <GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(i, "i"); GET_VALUE_FROM_STRUCT(s, "s"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STRUCT(invert, "invert"); GET_VALUE_FROM_STR
+value = 0; if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* * It doesn't appear to be an 0, as well as a '0' function, so we should check that all properties are in-table. */ if (value == -1) &/* * If we're in a table, we have no table. */ if (value->type == IS_STRING) tmp_member = *member; zval_copy_ctor(&tmp_member); convert_to_string(&tmp_member); convert_to_string(&tmp_member); member = &tmp_member; &/* GET_VALUE_FROM_STRUCT(n,m) if (strcmp(Z_STRVAL_P(member), m) == 0) value = obj->diff->n; GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m");
+if (value == -1) /* XXX */ if (!IsCached_To()) &&</* A valid value */
+if (value == -1) /* * We have no real property. */ php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); */
+value = (value == -1)? NULL : '0'; php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+&else php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+/* XXX we can only get here. */ if (value == -1) &php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member)); <else if (value == -1) <php_error_docref(NULL TSRMLS_CC, E_ERROR, "Unknown property (%s)", Z_STRVAL_P(member));
+if (value == -1) &/* GET_VALUE_FROM_STRUCT(n,m) &GET_VALUE_FROM_STRUCT(y, "y"); GET_VALUE_FROM_STRUCT(m, "m"); GET_VALUE_FROM_STRUCT(d, "d"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "h"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(h, "s"); GET_VALUE_FROM_STRUCT(

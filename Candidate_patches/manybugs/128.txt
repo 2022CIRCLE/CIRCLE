@@ -1,0 +1,937 @@
+golden:
+if (resp->status && (resp->status < 100 || resp->status > 999)) { ERROR("invalid status code %i", resp->status); return PARSE_ERROR;}
+inference:
+
+#endif
+pParser = http_resp_parserAlloc( malloc );
+context.ok = 1;
+http_resp_parser(pParser, token_id, token, &context);
+@endif
+context.errmsg = buffer_init();
+context.resp = resp;
+printf("http-response: ");
+return 0;
+context.errmsg = buffer_init(); context.resp = resp;
+splx(s);
+pParser = NULL;
+/* XXX */
+pParser = http_resp_parserAlloc(malloc);
+if (!cq->first) return PARSE_NEED_MORE;
+ret = PARSE_UNSET;
+pParser = http_resp_parserAlloc( malloc);
+buffer = buffer_pool_get(context.unused_buffers);
+context.free_buffers = buffer_pool_get(context.unused_buffers);
+token = buffer_pool_get(context.unused_buffers);
+break;
+if(!cq->first) return PARSE_NEED_MORE;
+context.error = 0;
+#ifdef DEBUG
+http_resp_parserTrace(stderr, "http-resp: ");
+*pParser = NULL;
+fprintf(stderr, "http-response: ");
+*/
+http_resp_parserAlloc( malloc );
+t.is_key = 0; t.is_statusline = 1;
+"http-response: "
+context.ok = 0;
+parse_status_t ret = PARSE_UNSET;
+return ret;
+errmsg = buffer_init();
+context.free(buffer_pool_get(context.unused_buffers));
+t.is_key = 0;
+context.resp = 0;
+int token_id = 0;
+#else
+buf = buffer_pool_get(context.unused_buffers);
+free(buffer_pool_get(context.unused_buffers));
+int last_token_id = 0;
+last_token_id = token_id;
+if (!pParser) return PARSE_NEED_MORE;
+#ifdef DIAGNOSTIC
+array_reset(resp->headers);
+return NULL;
+pParser = pParser;
+(void)pParser;
+log_info("http-response: ");
+parse_status_t ret;
+pParser = http_resp_parserAlloc();
+buffer_free(buffer_pool_get(context.unused_buffers));
+debug("http-response: ");
+pParser = null;
+context.free(context.unused_buffers);
+context.flags = flags;
+t.is_key = 0; t.is_statusline = 1; context.ok = 1;
+int token_id;
+"http-response: ");
+(void)buffer_pool_get(context.unused_buffers);
+ret = 0;
+ret = PARSE_NEED_MORE;
+(void) buffer_pool_get(context.unused_buffers);
+"http-response: ";
+*token = NULL;
+pParser = HTTP_resp_parserAlloc( malloc );
+*token_id = 0;
+context.info("http-response: ");
+if(!pParser) return PARSE_NEED_MORE;
+#if 0
+int ret = PARSE_UNSET;
+@ifdef DEBUG
+http_resp_parser();
+pParser->reset();
+debug_printf("http-response: ");
+context.free();
+context.exit();
+return (0);
+status = 0;
+errmsg = buffer_init(); context.resp = resp;
+http_resp_parserTrace(stderr, "http-response");
+int token_id = 0; buffer *token = NULL;
+http_resp_parser(pParser, token_id, token);
+context.ok = 1; context.errmsg = buffer_init();
+context.verbose = 1;
+http_resp_parser(pParser, token_id, &context);
+(void) http_resp_parserAlloc( malloc );
+/*
+flags = 0;
+status = http_resp_parserAlloc( malloc );
+context.ok = 1; context.resp = resp;
+fprintf(stderr,"http-response: ");
+http_resp_parserAlloc(malloc);
+pParser->http_resp_parserAlloc( malloc );
+context.flags = 0;
+pParser->pParser = NULL;
+snprintf(stderr, "http-response: ");
+printf("http_resp_parse_cq: ");
+pParser.free(pParser);
+printf("http_resp_parser: ");
+if (!token_id) return PARSE_NEED_MORE;
+pParser.free(buffer_pool_get(context.unused_buffers));
+(void)http_resp_parserAlloc( malloc );
+pParser = pParserAlloc( malloc );
+pParser->free(pParser);
+http_resp_parserTrace(stderr, "http-response ");
+continue;
+errmsg = buffer_init(); context.ok = 1;
+(void) pParser;
+pParser = http_resp_parserAlloc( malloc ); #endif
+#endif /* XXX */
+http_resp_parserTrace(stderr, "http: ");
+http_resp_parserTrace(stderr,"http-response: ");
+http_resp_ctx_t
+pParser = http_resp_parserAlloc ( malloc );
+http_resp_status_t ret = PARSE_UNSET;
+std::free(std);
+pParser.clear();
+pParser = http_resp_parserALLoc( malloc );
+http_resp_parserTrace();
+if (pParser == NULL) break;
+if(token_id == 0) break;
+if (token_id == 0) break;
+printf("http-response:n");
+const char *token_id = 0;
+http_resp_parser_t ret = PARSE_UNSET;
+if (!buffer_pool_get(context.unused_buffers)) break;
+const http_resp_status_t ret = PARSE_UNSET;
+http_resp_parser_free(pParser);
+http_resp_parserInit();
+return parse_status_t ret;
+http_resp_parser_exit();
+http_resp_parserAlloc( malloc);
+/* parse_status_t ret = PARSE_UNSET;
+http_resp_parserTrace(pParser, token_id, &context);
+#ifdef DEBUG printf("http-response: "); #endif
+http_resp_parser_t ret;
+http_resp_parser_t pParser;
+int token_id = 0; buffer_token = NULL;
+pParser = http_resp_parserAlloc(malloc );
+http_resp_status_t ret;
+"http_resp_parser: "
+if(!buffer_pool_get(context.unused_buffers)) break;
+if(pParser == NULL) break;
+return parse_status_t ret = PARSE_UNSET;
+if (!pParser) return PARSE_UNSET;
+context.errmsg = buffer_init(); context.resp = 0;
+pParser = http_resp_parser_alloc( malloc );
+http_resp_parserEmpty();
+pParser = http_resp_paraserAlloc( malloc );
+http_resp_parser(pParser, token, &context);
+http_resp_parser_destroy(pParser);
+pParser = http_resp_parserAlloc(alloc);
+pParser = http_resp_parserAlloc( malloc, &context);
+http_resp_parser_t pParser = NULL;
+pParser = http_resp_parserAll( malloc );
+http_resp_parser_debug("http-response: ");
+http_resp_parserTrace(context, "http-response: ");
+http_resp_parserDestroy(pParser);
+http_resp_parserTrace(resp, "http-response: ");
+if(t.is_key == 0) t.is_statusline = 1;
+ret = parse_status_t ret;
+http_resp_parserTrace(stderr, "http-response:
+int token_id = 0; buffer = NULL; http_resp_ctx_t
+if (t.is_key == 0) t.is_statusline = 1;
+pParser = http_resp_parserAlloc( pParser );
+#ifdef DEBUG printf("http-response: ");
+const http_resp_parserTrace();
+if (token_id == TK_CRLF) break;
+http_resp_parserTrace(stderr, "http-status: ");
+printf("http-response: %sn", resp->headers);
+const http_resp_status_t ret;
+#if defined(XP_MAC) || defined(XP_MACOSX)
+pParser = http_resp_parseralloc( malloc );
+else  pParser = http_resp_parserAlloc( malloc );
+http_resp_parserTrace(stderr, "Parse_status: ");
+http_resp_parser(pParser, token_id, token, context);
+http_resp_parser(pParser, token_id, token, NULL);
+http_resp_parser_parserAlloc( malloc );
+http_resp_parser_t t;
+pParser = http_resp_tokenizerAlloc( malloc );
+if(token_id == TK_CRLF) break;
+http_resp_parserTrace(stderr, "http_resp: ");
+if(token_id == 0) return PARSE_NEED_MORE;
+pParser = http_resp_parse_cq(resp);
+http_resp_parserTrace(pParser, token_id, token);
+printf("http-response: %sn", __func__);
+if (pParser) http_resp_parserAlloc( malloc );
+printf("http-response: %sn", context.resp->headers);
+if(context.status!= 0) return PARSE_NOT_INITIALIZED;
+if(pParser)  http_resp_parser_exit(pParser, pParser->cq, pParser->cq);
+pParser->cq = cq->first; pParser->cq->cq = cq->first; pParser->cq = cq->first; pParser->cq = cq->first; pParser->cq = cq->first; pParser->cq->c = cq->first; pParser->cq->offset = t.c->offset; pParser->cq->c = cq->first; pParser->cq->offset = t.c->offset; pParser->cq->c = cq->first; pParser->cq->c = cq->first; pParser->cq->offset = t.c->offset; pParser->cq->offset = t.c->offset; pParser->cq->c = cq->first; pParser->cq->c =
+http_resp_parserTrace(stderr, "http-response: ");
+pParser->save_tblkq = NULL;
+context.log = 0;
+http_resp_parser_set_default_cq(resp->ns_cq);
+/* XXX - Use it */
+pParser->reset_tlb_url = tlb_url;
+if (pParser)  context.ok = 1; context.resp = 0; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL)  /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL)  pParser = NULL;  pParser = NULL;
+http_resp_parserFailure(stderr, "http-response: ");
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser)  pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response");  pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+if (token_id!= 0)  if (context.id!= kid) context.id = kid;  else  context.id = kid;
+pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc );
+if(cq->first) break;
+context.bs = buffer_pool_get(context.unused_buffers);
+/* FIXME: pParser : http_resp_parserAlloc( malloc );
+else  /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;   if (!context.ok)  http_resp
+if (flags)  fprintf(stderr, "http-response: ");
+context.msg = buffer_init();
+if(t.doing_save)  /* try to save dummy */ pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if(last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+/* * This means the parser failed */
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1)  /* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1)  /* XXX */
+/* XXX need to use this as we want to * * FIXME: parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_
+if (strlen(pParser) == 0)  pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( pParser, token_id, token, &context); if (!pParser) return PARSE_NEED_MORE; pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); if (last_token_id == TK_CRLF && token_i
+/* * * Enable the pParser to * set the name of the pParser's name. */ if (context.p_get_type() == CONSTRUCTURAL_SAME) context.p_return_attr = pParser_attr;
+http_resp_parser_lock(&pParser);
+context.stack = NULL;
+/* skip */
+/* XXX avoid http_resp_parse_cq() will stop here. */ if(!(cq->first) || (cq->first!= cq->first)) return PARSE_NEED_MORE; t.cq = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+/* If this function is called, then then we have to retry */ if (! ret) return PARSE_NEED_MORE; if (! ret) return PARSE_NEED_MORE;
+else  if ((bFlags & FB_F_RUNNING) == 0)  FB_F_RUNNING = 1;
+/* * XXX cq won't be done. */ if(nsnull!= cq)  cq = nsnull;  /* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* if the URL is the first port, return 0 */ if (!cq->first) return PARSE_NEED_MORE;
+/* * check if we're done */
+pParser->set_flags(flags);
+#ifdef TIMEOUT if (parse_status_t ret = TIMEOUT_NOT_THERE)  /* TIMEOUT */ if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+pParser->send_status(resp->status);
+if (context.flags & FRAME_REPORT_POLLING) context.report_message("http-response: ");
+/* XXX need to get a buffer */ pParser = http_resp_parserAlloc( malloc );
+#ifdef XP_MAC if (context.mode == M_VTY)  /* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: ");  #endif
+context.need_ret = 1;
+if (context.exists) context.current_flags |= CONNECTION_FLAGS;
+else  http_resp_parserTrace(stderr, "http-response: ");
+pParser->check_response_send(resp);
+/* XXX - XXX */ if(!cq->first) return PARSE_NEED_MORE; t.cq = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+pParser->set_data(data);
+/* XXX: unable to get the parser info for all the nodes. */ if(pParser)  http_resp_parser(pParser, token_id, token, &context); pParser->flags |= POST_SUCCEEDED;
+if(context.debug == 0) context.debug = 0;
+/* this must be a bug id */
+if (pParser)  /*  HTTP-response: n");
+context.p = context.p;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL)  if(pParser->cp == NULL)  return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL;  pParser->cp = NULL;
+/* * In a patch that * does not exist, skip a * set of the htonl *. If the thread was terminated from the thread, we will try to free the buffer to avoid * the return of the header. */ if (!bsd->resp->flags)  bsd->resp->flags = 0; bsd->resp->flags = 0; bsd->resp->flags = 0;
+pParser->status = status;
+/* if (context.info_flags & PQ_NONE)  ret = PARSE_UNSET; int last_token_id = 0; if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* XXX - Is this an atomic-instance */ pParser = http_resp_parserAlloc( malloc );
+/* Delete last token in response code, and delete the url. */ if (pParser) pParser->set_url(resp->next_url);
+return PR_TRUE;
+pParser->set_protocol(pParser);
+else  pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+context.sysctx_lock = NULL;
+pParser->clear_progress();
+if(!cq->first) return PARSE_NEED_MORE; if(!cq->first) return PARSE_NEED_MORE;
+context.enable_retry = 0;
+pParser->report_errno = 0;
+pParser->init(&resp->headers);
+context.set_version_info(&version, 0);
+if (pParser)  pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers))  if (nil)  pParser->sep_p = cp->headers;
+if(resp->flags & FR_INIT)  fprintf(stderr, "http-response: "); ret = ret;
+/* XXX - no memory */ if(!blocked) return PARSE_UNSET;
+context.unset(&token_id, 0);
+context.enable_hosting = PR_FALSE;
+if ((token_id = 0) && (t.is_key = 0))  t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* If this is a * bug in %s, use "http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0))  stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* check if the token is not available */
+/* * If there's a cq cq for each pParser it should be done here, * or the cq value is just to be p_response. */ if (cq->first)  pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_res
+/* if (strncmp(strncmp(buffer_pool_get(context.unused_buffers)), "pstr") == 0)  pParser = http_resp_parserAlloc( malloc );
+/* XXX we'll just need to call http_resp_parserAlloc() */
+if(context.flags & APPENDED_HOST) context.flags &= APPENDED_HOST;
+/* XXX */ if(cq->first == 0)  printf("http_resp_parse_cq: %sn", resp->headers);
+pParser->set_status(status);
+pParser->parse_status(resp);
+if (t.is_key == 0)  if ((t.is_key == 0) || (t.is_key == 0))  /* reverting it here. */ if ((cq->first) || (cq->first))  ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* FIXME: we need to get a buffer that works like a cache */ if(!buffer_pool_get(context.unused_buffers))  if(!buffer_pool_get(context.unused_buffers)) return PARSE_NOT_INIT; /* FIXME: what to do with this block is to */ buffer_pool_get(context.unused_buffers);
+/* if (resp->headers)  http_resp_parser_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+if(resp->first_token_id == cq->first) return PARSE_NEED_MORE;
+/* * XXX splx that the parser failed. */ if (context.flags & PG_COMPAT) context.flags |= PG_COMPAT;
+/* * Enable bug 1151 */ if(context.is_str)  if(context.is_dlg)  context.strdup_dlg = 1;   else  context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f)  if(flags & 0x7f)  flags &= 0x7f; flags &= 0x7f;
+pParser = http_resp_parserAlloc( malloc ); if(pParser)  http_resp_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers);
+pParser->need_patch = PR_FALSE;
+pParser->sys =
+context.events = EVENT_MATCH;
+context.unregister_t __attribute__("http-response: ");
+/* XXX */ /* XXX */
+if(resp->input)  context.warn("parse_status: http_resp_parse_cq: http_resp_parse_cq: input failed");
+context.debug("http_resp_parse_cq: %s", context.device->device_id);
+pParser->protocol = pParser;
+http_resp_parser_check_string(stderr, "http-response: ");
+pParser->buffer_push(buffer_push);
+if (strlen(c) >= 0)  int error;
+/* * If we have not got any free buffers, then we can't do anything else. */ if(pParser)  /* I'm done, but we have already done a free buffer. */ pParser->p_free(buffer); pParser->p_free(buffer);
+if (context.is_key == 0)  if (context.in_buffers)  /* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+context.unload();
+if(pParser->result!= 0)  return PARSE_RETURN_ERR;
+/* XXX 'patching a patch in a response */
+context.wr = wr;
+/* * Enable this to support this token */ if(buffer_pool_get(buffer_pool_get(context.unused_buffers))) == 0) break;
+/* * Check that a hwnd will not have a sock to parse. */ if (pParser)  pParser->mWnd = 0;
+/* XXX */ if(context.state == COMPONENT_DEBUG) context.state = COMPONENT_DEBUG;
+#ifdef TDS_DEBUG
+pParser->pParser_enabled = PR_FALSE;
+/* * We can't do anything that is needed. */ pParser = http_resp_parserAlloc( malloc ); /* * If we have not yet thrown, then then we'll return a failed result */ if ((pParser == NULL) && (!pParser->pParser)) return PARSE_SUCCESS; if (!pParser->pParser) return PARSE_SUCCESS;
+/* XXX: hmm, do nothing */
+if (!flag) flag = 1;
+http_resp_parserFlush(resp);
+
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) </* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) /* XXX */
+/* If this is a * bug in %s, use &"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) stderr, "http-response: %s", t->cstr_token, resp->headers);
+if (flags) fprintf(stderr, "http-response: ");
+&else &if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= <0x7f; flags &= 0x7f;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+&else &http_resp_parserTrace(stderr, "http-response: ");
+if (pParser) /* <HTTP-response: n");
+if (strlen(c) >= 0) &int error;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (context.is_key == 0) <if (context.in_buffers) &/* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+pParser = http_resp_parserAlloc( malloc ); if(pParser) <http_resp_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers);
+/* If this is a * bug in %s, use <"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) &stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; <pParser = NULL;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+if (token_id!= 0) if (context.id!= kid) context.id = kid; &else context.id = kid;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; pParser = NULL;
+/* If this is a * bug in %s, use <"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) stderr, "http-response: %s", t->cstr_token, resp->headers);
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+printf("http-response: %sn", context.resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= 0x7f; flags &= &0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; pParser = NULL;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); &pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= <0x7f; flags &= <0x7f;
+/* if (strncmp(strncmp(buffer_pool_get(context.unused_buffers)), "pstr") == 0) <pParser = http_resp_parserAlloc( malloc );
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; &pParser = NULL;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+#ifdef XP_MAC if (context.mode == M_VTY) </* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); <#endif
+if (pParser) </* &HTTP-response: <n");
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; &pParser = NULL;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+pParser = http_resp_parserAlloc( malloc ); if(pParser) http_resp_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers);
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; &else context.id = kid;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+else &http_resp_parserTrace(stderr, "http-response: ");
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; &else &context.id = kid;
+if(context.flags & APPENDED_HOST) context.flags &= APPENDED_HOST;
+&else <if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+#ifdef XP_MAC if (context.mode == M_VTY) /* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); &#endif
+if(resp->flags & FR_INIT) fprintf(stderr, "http-response: "); ret = ret;
+/* XXX: unable to get the parser info for all the nodes. */ if(pParser) &http_resp_parser(pParser, token_id, token, &context); pParser->flags |= POST_SUCCEEDED;
+/* * If there's a cq cq for each pParser it should be done here, * or the cq value is just to be p_response. */ if (cq->first) pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_res
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= <0x7f; flags &= <0x7f;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+if(pParser->result!= 0) return PARSE_RETURN_ERR;
+<else &if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+if(context.flags & APPENDED_HOST) context.flags &= <APPENDED_HOST;
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= &0x7f; flags &= 0x7f;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= &0x7f; flags &= 0x7f;
+if (pParser) </* HTTP-response: &n");
+/* XXX: unable to get the parser info for all the nodes. */ if(pParser) http_resp_parser(pParser, token_id, token, &context); pParser->flags |= POST_SUCCEEDED;
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; <else &context.id = kid;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; <pParser = NULL;
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+last_token_id = token_id;
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= <0x7f; flags &= &0x7f;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+if (token_id!= 0) if (context.id!= kid) context.id = kid; &else &context.id = kid;
+if (pParser) </* &HTTP-response: n");
+pParser = http_resp_parserAlloc( malloc ); if(pParser) &http_resp_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers);
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+/* * If we have not got any free buffers, then we can't do anything else. */ if(pParser) </* I'm done, but we have already done a free buffer. */ pParser->p_free(buffer); pParser->p_free(buffer);
+if (token_id!= 0) if (context.id!= kid) context.id = kid; <else <context.id = kid;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#endif
+#endif
+<else if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+if (pParser) &context.ok = 1; context.resp = 0; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if(t.doing_save) </* try to save dummy */ pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if(last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+else <if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+if (pParser) &/* &HTTP-response: <n");
+if (pParser) &/* &HTTP-response: &n");
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= 0x7f; flags &= <0x7f;
+/* If this is a * bug in %s, use &"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) <stderr, "http-response: %s", t->cstr_token, resp->headers);
+else &if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= <0x7f; flags &= &0x7f;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= <0x7f; flags &= 0x7f;
+else &if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; &else <context.id = kid;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= <0x7f; flags &= 0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= <0x7f; flags &= <0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= <0x7f; flags &= 0x7f;
+&else &pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= <0x7f; flags &= &0x7f;
+printf("http-response: %s&n", __func__);
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= 0x7f; flags &= 0x7f;
+/* * In a patch that * does not exist, skip a * set of the htonl *. If the thread was terminated from the thread, we will try to free the buffer to avoid * the return of the header. */ if (!bsd->resp->flags) &bsd->resp->flags = 0; bsd->resp->flags = 0; bsd->resp->flags = 0;
+if (context.is_key == 0) if (context.in_buffers) &/* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+else if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) <pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); &pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+if (pParser) &/* HTTP-response: <n");
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+&else <if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= &0x7f; flags &= 0x7f;
+else if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= &0x7f; flags &= 0x7f;
+if (token_id!= 0) if (context.id!= kid) context.id = kid; else context.id = kid;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+/* if (context.info_flags & PQ_NONE) ret = PARSE_UNSET; int last_token_id = 0; if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+&else <pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+if (context.is_key == 0) <if (context.in_buffers) </* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; <pParser = NULL;
+/* * If there's a cq cq for each pParser it should be done here, * or the cq value is just to be p_response. */ if (cq->first) &pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_res
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; &pParser = NULL;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= &0x7f; flags &= 0x7f;
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) &/* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) &/* XXX */
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; &pParser = NULL;
+if (strlen(pParser) == 0) pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( pParser, token_id, token, &context); if (!pParser) return PARSE_NEED_MORE; pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); if (last_token_id == TK_CRLF && token_i
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+if (pParser) /* HTTP-response: &n");
+if (pParser) /* HTTP-response: n");
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+&else &if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; <else context.id = kid;
+/* FIXME: we need to get a buffer that works like a cache */ if(!buffer_pool_get(context.unused_buffers)) <if(!buffer_pool_get(context.unused_buffers)) return PARSE_NOT_INIT; /* FIXME: what to do with this block is to */ buffer_pool_get(context.unused_buffers);
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * XXX cq won't be done. */ if(nsnull!= cq) <cq = nsnull; &/* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+<else &if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; <else <context.id = kid;
+if (pParser) &/* <HTTP-response: &n");
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+if (pParser) </* &HTTP-response: &n");
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= &0x7f; flags &= <0x7f;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= &0x7f; flags &= 0x7f;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+<else <if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* XXX */ if(cq->first == 0) <printf("http_resp_parse_cq: %s&n", resp->headers);
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; pParser = NULL;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+if ((token_id = 0) && (t.is_key = 0)) &t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; <pParser = NULL;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; pParser = NULL;
+<else <pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#ifdef XP_MAC if (context.mode == M_VTY) &/* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); <#endif
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) context.ok = 1; context.resp = 0; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; &pParser = NULL;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+<else http_resp_parserTrace(stderr, "http-response: ");
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= &0x7f; flags &= &0x7f;
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+else <http_resp_parserTrace(stderr, "http-response: ");
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= <0x7f; flags &= &0x7f;
+if (context.is_key == 0) &if (context.in_buffers) /* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; else <context.id = kid;
+if (token_id!= 0) if (context.id!= kid) context.id = kid; <else &context.id = kid;
+if (pParser) /* &HTTP-response: <n");
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Delete last token in response code, and delete the url. */ if (pParser) pParser->set_url(resp->next_url);
+<else &http_resp_parserTrace(stderr, "http-response: ");
+/* * If we have not got any free buffers, then we can't do anything else. */ if(pParser) /* I'm done, but we have already done a free buffer. */ pParser->p_free(buffer); pParser->p_free(buffer);
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; <pParser = NULL;
+if (pParser) <context.ok = 1; context.resp = 0; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if(pParser) &http_resp_parser_exit(pParser, pParser->cq, pParser->cq);
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; pParser = NULL;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= 0x7f; flags &= 0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= <0x7f; flags &= &0x7f;
+if (pParser) </* <HTTP-response: <n");
+printf("http-response: %sn", __func__);
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else <pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= 0x7f; flags &= 0x7f;
+if ((token_id = 0) && (t.is_key = 0)) <t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+&else <if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+if (pParser) </* <HTTP-response: n");
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) <pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+else pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* if (resp->headers) http_resp_parser_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= <0x7f; flags &= 0x7f;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+<else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+/* XXX */ if(cq->first == 0) <printf("http_resp_parse_cq: %sn", resp->headers);
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if(pParser->result!= 0) &return PARSE_RETURN_ERR;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) </* <HTTP-response: &n");
+/* if (resp->headers) <http_resp_parser_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+printf("http-response: %s&n", resp->headers);
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if(resp->flags & FR_INIT) <fprintf(stderr, "http-response: "); ret = ret;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (pParser) &/* HTTP-response: &n");
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= &0x7f; flags &= 0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= 0x7f; flags &= &0x7f;
+/* If this is a * bug in %s, use "http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) &stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= 0x7f; flags &= &0x7f;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+printf("http-response: %s<n", __func__);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+/* if (strncmp(strncmp(buffer_pool_get(context.unused_buffers)), "pstr") == 0) &pParser = http_resp_parserAlloc( malloc );
+printf("http-response: %sn", resp->headers);
+/* if (context.info_flags & PQ_NONE) <ret = PARSE_UNSET; int last_token_id = 0; if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= &0x7f; flags &= <0x7f;
+if (pParser) &/* &HTTP-response: n");
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= 0x7f; flags &= <0x7f;
+/* * XXX cq won't be done. */ if(nsnull!= cq) &cq = nsnull; /* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* If this is a * bug in %s, use "http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) stderr, "http-response: %s", t->cstr_token, resp->headers);
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+&else if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+/* * XXX cq won't be done. */ if(nsnull!= cq) cq = nsnull; </* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if (pParser) /* <HTTP-response: &n");
+if (strlen(c) >= 0) <int error;
+else <if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#ifdef XP_MAC if (context.mode == M_VTY) /* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); #endif
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; else &context.id = kid;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) /* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) &/* XXX */
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+/* XXX */ if(cq->first == 0) printf("http_resp_parse_cq: %s&n", resp->headers);
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; &pParser = NULL;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= &0x7f; flags &= 0x7f;
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) </* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) </* XXX */
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else &if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+if (context.is_key == 0) <if (context.in_buffers) /* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * XXX cq won't be done. */ if(nsnull!= cq) <cq = nsnull; </* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+#ifdef TIMEOUT if (parse_status_t ret = TIMEOUT_NOT_THERE) </* TIMEOUT */ if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+if (pParser) /* &HTTP-response: n");
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= &0x7f; flags &= <0x7f;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (context.is_key == 0) if (context.in_buffers) </* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* if (strncmp(strncmp(buffer_pool_get(context.unused_buffers)), "pstr") == 0) pParser = http_resp_parserAlloc( malloc );
+/* XXX */ if(cq->first == 0) &printf("http_resp_parse_cq: %sn", resp->headers);
+printf("http-response: %s&n", context.resp->headers);
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+if(resp->input) context.warn("parse_status: http_resp_parse_cq: http_resp_parse_cq: input failed");
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; <else &context.id = kid;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= 0x7f; flags &= 0x7f;
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) &pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); <pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= &0x7f; flags &= <0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= 0x7f; flags &= <0x7f;
+/* XXX: unable to get the parser info for all the nodes. */ if(pParser) <http_resp_parser(pParser, token_id, token, &context); pParser->flags |= POST_SUCCEEDED;
+if (strlen(pParser) == 0) &pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( pParser, token_id, token, &context); if (!pParser) return PARSE_NEED_MORE; pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); if (last_token_id == TK_CRLF && token_i
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= 0x7f; flags &= &0x7f;
+if(pParser) <http_resp_parser_exit(pParser, pParser->cq, pParser->cq);
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); <pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= <0x7f; flags &= &0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; <pParser = NULL;
+/* * In a patch that * does not exist, skip a * set of the htonl *. If the thread was terminated from the thread, we will try to free the buffer to avoid * the return of the header. */ if (!bsd->resp->flags) <bsd->resp->flags = 0; bsd->resp->flags = 0; bsd->resp->flags = 0;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * XXX cq won't be done. */ if(nsnull!= cq) &cq = nsnull; </* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else &pParser = http_resp_parserAlloc( malloc );
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+/* if (resp->headers) &http_resp_parser_parser(pParser, token_id, token, &context); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+&#endif
+#ifdef XP_MAC if (context.mode == M_VTY) &/* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); &#endif
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) &pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+if (token_id!= 0) if (context.id!= kid) context.id = kid; &else <context.id = kid;
+&else pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) <context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+if (strlen(pParser) == 0) <pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( pParser, token_id, token, &context); if (!pParser) return PARSE_NEED_MORE; pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); if (last_token_id == TK_CRLF && token_i
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= &0x7f; flags &= &0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= &0x7f; flags &= &0x7f;
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+pParser->sys =
+/* XXX */ if(cq->first == 0) printf("http_resp_parse_cq: %s<n", resp->headers);
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; &else context.id = kid;
+/* If this is a * bug in %s, use &"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) &stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= &0x7f; flags &= &0x7f;
+else if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+printf("http-response:<n");
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= <0x7f; flags &= <0x7f;
+&else http_resp_parserTrace(stderr, "http-response: ");
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX - XXX */ if(!cq->first) return PARSE_NEED_MORE; t.cq = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= 0x7f; flags &= &0x7f;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if(pParser->result!= 0) <return PARSE_RETURN_ERR;
+if (flags) <fprintf(stderr, "http-response: ");
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+&else if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= <0x7f; flags &= <0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= <0x7f; flags &= &0x7f;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= <0x7f; flags &= 0x7f;
+/* FIXME: we need to get a buffer that works like a cache */ if(!buffer_pool_get(context.unused_buffers)) &if(!buffer_pool_get(context.unused_buffers)) return PARSE_NOT_INIT; /* FIXME: what to do with this block is to */ buffer_pool_get(context.unused_buffers);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (token_id!= 0) if (context.id!= kid) context.id = kid; else <context.id = kid;
+if ((token_id = 0) && (t.is_key = 0)) t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) &/* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) /* XXX */
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* * XXX cq won't be done. */ if(nsnull!= cq) &cq = nsnull; &/* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+&else &if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+<else <if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+/* * Check that a hwnd will not have a sock to parse. */ if (pParser) <pParser->mWnd = 0;
+#ifdef XP_MAC if (context.mode == M_VTY) </* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); &#endif
+<else pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#ifdef TIMEOUT if (parse_status_t ret = TIMEOUT_NOT_THERE) /* TIMEOUT */ if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= &0x7f; flags &= &0x7f;
+<else &pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+if (token_id!= 0) if (context.id!= kid) context.id = kid; else &context.id = kid;
+<else &if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) </* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) &/* XXX */
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* * If we have not got any free buffers, then we can't do anything else. */ if(pParser) &/* I'm done, but we have already done a free buffer. */ pParser->p_free(buffer); pParser->p_free(buffer);
+else <pParser = http_resp_parserAlloc( malloc );
+if(pParser) http_resp_parser_exit(pParser, pParser->cq, pParser->cq);
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) /* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) /* XXX */
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if(context.flags & APPENDED_HOST) context.flags &= &APPENDED_HOST;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if(t.doing_save) &/* try to save dummy */ pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if(last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (context.is_key == 0) &if (context.in_buffers) &/* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+#ifdef XP_MAC if (context.mode == M_VTY) &/* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); #endif
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; &pParser = NULL;
+if (pParser) </* HTTP-response: <n");
+else pParser = http_resp_parserAlloc( malloc );
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * XXX cq won't be done. */ if(nsnull!= cq) cq = nsnull; /* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+<else <http_resp_parserTrace(stderr, "http-response: ");
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= 0x7f; flags &= <0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= 0x7f; flags &= <0x7f;
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) &pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); &pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) &context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= 0x7f; flags &= 0x7f;
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= 0x7f; flags &= 0x7f;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+/* if (context.info_flags & PQ_NONE) &ret = PARSE_UNSET; int last_token_id = 0; if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= &0x7f; flags &= <0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= 0x7f; flags &= <0x7f;
+printf("http-response: %s<n", context.resp->headers);
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) &/* <HTTP-response: n");
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; else <context.id = kid;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= 0x7f; flags &= &0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; &pParser = NULL;
+if (pParser) &/* HTTP-response: n");
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * If there's a cq cq for each pParser it should be done here, * or the cq value is just to be p_response. */ if (cq->first) <pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); pParser = http_res
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= &0x7f; flags &= <0x7f;
+if (context.is_key == 0) &if (context.in_buffers) </* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= <0x7f; flags &= <0x7f;
+if(t.doing_save) /* try to save dummy */ pParser = http_resp_parserAlloc( malloc ); pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if(last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * XXX cq won't be done. */ if(nsnull!= cq) cq = nsnull; &/* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+&else <http_resp_parserTrace(stderr, "http-response: ");
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (pParser) </* HTTP-response: n");
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) <context.strdup_dlg = 1; else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* XXX */ if(cq->first == 0) &printf("http_resp_parse_cq: %s&n", resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= &0x7f; flags &= &0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; <pParser = NULL;
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; else context.id = kid;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= <0x7f; flags &= &0x7f;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= 0x7f; flags &= 0x7f;
+if (context.is_key == 0) if (context.in_buffers) /* if __builtin__ */ pParser = http_resp_parserAlloc( malloc );
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) <pParser = NULL; pParser = NULL;
+<else if ((bFlags & FB_F_RUNNING) == 0) <FB_F_RUNNING = 1;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= 0x7f; flags &= <0x7f;
+if(resp->input) &context.warn("parse_status: http_resp_parse_cq: http_resp_parse_cq: input failed");
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+/* FIXME: we need to get a buffer that works like a cache */ if(!buffer_pool_get(context.unused_buffers)) if(!buffer_pool_get(context.unused_buffers)) return PARSE_NOT_INIT; /* FIXME: what to do with this block is to */ buffer_pool_get(context.unused_buffers);
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= <0x7f; flags &= 0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= &0x7f; flags &= <0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) </* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; pParser = NULL;
+<else <if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#ifdef TIMEOUT if (parse_status_t ret = TIMEOUT_NOT_THERE) &/* TIMEOUT */ if (!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers);
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (pParser) /* &HTTP-response: &n");
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; pParser = NULL;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= 0x7f; flags &= 0x7f;
+&else if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= <0x7f; flags &= <0x7f;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) = cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; <pParser = NULL;
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; else context.id = kid;
+/* If this is a * bug in %s, use "http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) <stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= 0x7f; flags &= <0x7f;
+/* XXX */ if(cq->first == 0) &printf("http_resp_parse_cq: %s<n", resp->headers);
+if (pParser) <pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) /* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) </* XXX */
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* XXX bug 42468 */ if ((pParser = http_resp_parserAlloc(malloc)) && context.ok == 1) &/* XXX */ if ((pParser = http_resp_parserAlloc( malloc)) && context.ok == 1) </* XXX */
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) &flags &= <0x7f; flags &= <0x7f;
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+printf("http-response:n");
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) <flags &= <0x7f; flags &= 0x7f;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) pParser = NULL; <pParser = NULL;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= 0x7f; flags &= &0x7f;
+/* * In a patch that * does not exist, skip a * set of the htonl *. If the thread was terminated from the thread, we will try to free the buffer to avoid * the return of the header. */ if (!bsd->resp->flags) bsd->resp->flags = 0; bsd->resp->flags = 0; bsd->resp->flags = 0;
+if (strlen(c) >= 0) int error;
+else &pParser = http_resp_parserAlloc( malloc ); token = buffer_pool_get(context.unused_buffers);
+if (pParser) /* HTTP-response: <n");
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; <else <context.id = kid;
+else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <&if (!context.ok) http_resp
+<else if ((bFlags & FB_F_RUNNING) == 0) &FB_F_RUNNING = 1;
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) flags &= <0x7f; flags &= <0x7f;
+printf("http-response: %s<n", resp->headers);
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+#ifdef XP_MAC if (context.mode == M_VTY) </* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); #endif
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) &if(pParser->cp == NULL) &return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; &pParser->cp = NULL;
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; &&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+return 0;
+/* XXX */ if(cq->first == 0) printf("http_resp_parse_cq: %sn", resp->headers);
+if (pParser) &/* <HTTP-response: <n");
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; &else <context.id = kid;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= &0x7f; flags &= &0x7f;
+else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+/* XXX */ if(cq->first == 0) <printf("http_resp_parse_cq: %s<n", resp->headers);
+/* If this is a * bug in %s, use <"http-response" */ if ((t->cstr_token == 0) || (t->cstr_token == 0)) <stderr, "http-response: %s", t->cstr_token, resp->headers);
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= <0x7f; flags &= &0x7f;
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; pParser->cp = NULL;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) /* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; pParser = NULL;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) <context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* * Check that a hwnd will not have a sock to parse. */ if (pParser) &pParser->mWnd = 0;
+if(resp->input) <context.warn("parse_status: http_resp_parse_cq: http_resp_parse_cq: input failed");
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= &0x7f; flags &= &0x7f;
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+/* XXX need to allocate a buffer in cp. */ if(pParser == NULL) <if(pParser->cp == NULL) <return PARSE_FEW_MORE; pParser->cp = NULL; pParser->cp = NULL; <pParser->cp = NULL;
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & &((nil) <= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if(resp->flags & FR_INIT) &fprintf(stderr, "http-response: "); ret = ret;
+if (t.is_key == 0) <if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (t.is_key == 0) if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) <ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) flags &= 0x7f; flags &= &0x7f;
+if (pParser) /* <HTTP-response: <n");
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; &else &context.id = kid;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * Enable bug 1151 */ if(context.is_str) &if(context.is_dlg) &context.strdup_dlg = 1; <&else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) &/* reverting it here. */ if ((cq->first) || (cq->first)) ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (token_id!= 0) if (context.id!= kid) context.id = kid; <else context.id = kid;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) &= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) /* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) &flags &= 0x7f; flags &= 0x7f;
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) &= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) <flags &= 0x7f; flags &= <0x7f;
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+/* * Check that a hwnd will not have a sock to parse. */ if (pParser) pParser->mWnd = 0;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= &0x7f; flags &= 0x7f;
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= <0x7f; flags &= 0x7f;
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; &<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (token_id!= 0) &if (context.id!= kid) context.id = kid; else &context.id = kid;
+#ifdef XP_MAC if (context.mode == M_VTY) /* the M_VTY thread */ t.snprintf(t.snprintf, "http-response: "); <#endif
+if (t.is_key == 0) &if ((t.is_key == 0) || (t.is_key == 0)) </* reverting it here. */ if ((cq->first) || (cq->first)) &ret = PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers); pParser = http_resp_parserAlloc( malloc); token = buffer_pool_get(context.unused_buffers); /* CRLF
+if (pParser) &pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) = cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+pParser = http_resp_parserAlloc( malloc );
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & ((nil) <= cp->headers) && ((nil) <= cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* Check if he has a token which he's trying to use, a byte. */ if (pParser!= NULL) &/* * This is needed if we are not allowed to parse this so we don't bother * to use it. */ if (pParser == NULL) &pParser = NULL; &pParser = NULL;
+&else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+/* * Enable bug 1151 */ if(context.is_str) <if(context.is_dlg) context.strdup_dlg = 1; <else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+else <if ((bFlags & FB_F_RUNNING) == 0) FB_F_RUNNING = 1;
+/* check the "http-response" command. */ if(flags & 0x7f) &if(flags & 0x7f) <flags &= &0x7f; flags &= <0x7f;
+/* * XXX cq won't be done. */ if(nsnull!= cq) <cq = nsnull; /* * XXX */ if(!cq->first) return PARSE_NEED_MORE; cq->first = cq->first; cq->offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); array_reset(resp->headers);
+<else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &&if (!context.ok) http_resp
+printf("http-response:&n");
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; if (!context.ok) http_resp
+if (flags) &fprintf(stderr, "http-response: ");
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= &0x7f; flags &= <0x7f;
+&else /* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <if (!context.ok) http_resp
+else http_resp_parserTrace(stderr, "http-response: ");
+if (pParser) pParser->response_page_cp = ((resp->pParser->sep_p == http_resp_p_tokenizer) & <((nil) &= cp->headers) && ((nil) = cp->headers) && (nil = cp->headers)) if (nil) pParser->sep_p = cp->headers;
+/* * The "user" parser failed to generate a parser on the web. */ if (pParser) <pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( malloc ); pParser->http_resp_parserAlloc( &context ); pParser->http_resp_parserPendingChannel( "http-response"); <pParser = http_resp_parserAlloc( malloc ); pParser->http_resp_parserPendingChannel( "http-response");
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &if (!context.ok) http_resp
+/* check the "http-response" command. */ if(flags & 0x7f) if(flags & 0x7f) &flags &= &0x7f; flags &= &0x7f;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) context.strdup_dlg = 1; &else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+/* check the "http-response" command. */ if(flags & 0x7f) <if(flags & 0x7f) flags &= 0x7f; flags &= &0x7f;
+/* * Enable bug 1151 */ if(context.is_str) if(context.is_dlg) &context.strdup_dlg = 1; <<else context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 1; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg = 0; context.strdup_dlg =
+if (token_id!= 0) <if (context.id!= kid) context.id = kid; <else context.id = kid;
+<else </* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; &<if (!context.ok) http_resp
+<#endif
+&else &/* parse_status_t ret = PARSE_UNSET; int last_token_id = 0; if(!cq->first) return PARSE_NEED_MORE; t.cq = cq; t.c = cq->first; t.offset = t.c->offset; t.is_key = 0; t.is_statusline = 1; context.ok = 1; context.ok = 1; context.errmsg = buffer_init(); context.resp = resp; context.unused_buffers = buffer_pool_get(context.unused_buffers); /* CRLF CRLF... the header end sequence */ if (last_token_id == TK_CRLF && token_id == TK_CRLF) break; last_token_id = token_id; <<if (!context.ok) http_resp

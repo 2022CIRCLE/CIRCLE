@@ -1,0 +1,603 @@
+golden:
+if (!_TIFFMergeFields(tif, faxFields, TIFFArrayCount(faxFields))) {
+inference:
+if (!_TIFFMergeField(tif, faxFields)){
+if (!_TIFFMergeField(tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0))){
+if (!_TIFFMergeField(tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, &faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), 0)){
+if (!_TIFF_MergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(&tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, NULL))){
+if (!TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(&tif, faxFields, TIFFArrayCount(faxFields))){
+if(!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif))){
+if (!__TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, &faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &tif->tif_data)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount())){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, 0)){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(sp, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, *faxFields, TIFFArrayCount(faxFields))){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(ffaxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(&faxFields))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(mailFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFF_ArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_data)){
+TIFFErrorExt(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed");{
+if (!_TIFFMergeField(tif, faxFields, tif->tif_data)){
+if (tif->tif_data == NULL){
+if (!tif->tif_data){
+if (!_TIFFMergeField(tif->tif_clientdata, TIFFArrayCount(faxFields))){
+if (!GetTIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, PR_TRUE))){
+if (!tif->tif_data._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, PR_FALSE))){
+if (!_TIFFMergeField(tif, faxFields) && TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(false))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_clientdata)){
+if (_TIFFMergeField(tif, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(fifFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, FALSE))){
+if (! TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(flags))){
+if (!_TIFFMergeField(&tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFTableCount(faxFields))){
+if (!_TIFFMergeField((tif)tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), faxFields)){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(ifp, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), PR_FALSE)){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))!= 0){
+if (!_MergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+else if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, (int) TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayLength(faxFields))){
+if (!_TIFFMLergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0, 0))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), 0){
+if (!_TIFFMergeField(tif, faxFields || TIFFArrayCount(faxFields))){
+if (!_FIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TRUE))){
+if (!_TIFFMergeField(tif, tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, faxFields))){
+if (!_TIFFMergeField(tif, faxFields) || TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, (int)faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, fs, TIFFArrayCount(fs))){
+if (!_TIFFMergeField(tif, tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField (tif, faxFields, TIFFArrayCount (faxFields))){
+if (!&_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields) - 1)){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif->tif_data){
+if (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, &tif->tif_data)){
+if (NS_FAILED(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_data == NULL){
+if (TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), PR_TRUE)){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField((tif->tif_clientdata), faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, &faxFields)){
+if (!_TIFFMergeField((tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArraySize(faxFields))){
+if (!_TIFFMergeField(tif, FALSE, faxFields, TIFFArrayCount(faxFields))){
+if (tif->tif_data == _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, base, faxFields, TIFFArrayCount(faxFields))){
+if (!nsCRT::TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields));{
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields));{
+if (!_TIFFMergeField(sp->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, num_faxFields, TIFFArrayCount(num_faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), FALSE)){
+if (!NS_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields | TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, nsnull))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_fields))){
+if (!_TIFFMergeField(fd, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, (int)TIFFArrayCount(faxFields))){
+if (!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_FiffMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!tif->tif_clientdata._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMemoryField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif.tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!get_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &rv))){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, fields, TIFFArrayCount(fields))){
+if (&_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields), tif->tif_data)){
+if (!_GetTIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount (faxFields))){
+if (!_TIFFMergeField(tif, (uint8*) faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), &tif->tif_data){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif, faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(copyFields))){
+if (!._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields);{
+if (tif->tif_data == 0){
+if (!_TIFFMEMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, fd, TIFFArrayCount(fd))){
+if (!_TIFFMergeField(tif, faxFields, _TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(p, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, (uint8*) TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(*tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TRUE)){
+if (!_TIFFMergeField(tif, faxFields, NULL)){
+if (!_TIFFMergeField(tif, faxFields) ||!_TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, 0, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, (uint8_t)faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(fif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(buf))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields - 1))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), tif->tif_clientdata){
+if (!_TIFFMergeField2(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFList(faxFields))){
+if (!_TIFFMergeField(tif, faxFields) &&!_TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, TIFFFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields), 0)){
+if (!_TIFFMergeField(tif, faxFields, faxFields)){
+if (!_TIFFMergeField(tif, 0)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields, 0))){
+if (!_TIFFMergeField(TIFF, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), tif->tif_data){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&faxFields))){
+if (! _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, len)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &sp))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &rw))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &flags))){
+TIFFerrorExt(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed");{
+if ((tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState))){
+if (tif->tif_data!= NULL){
+if (tif->tif_data!= 0){
+ret = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (ret){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0)){
+if (!_TIFFMergeField()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount()))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0xff))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount(tif)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, sizeof(tif)))){
+if (tif->tif_data == NULL)  TIFFErrorExt(tif->tif_clientdata, module, "No space for state block");{
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &sp)){
+if (!_TIFFMergeField(tif, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed");{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(tif))){
+if (!_TIFFMergeField((tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+tif = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif){
+tif = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif){
+if (!tif->tif_clientdata){
+if (!True){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_ARGS))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFInitRowCount())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_UNSIGNED))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) || (tif->tif_clientdata == NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_FILENAME_FILE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &pObject))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_REFERENCES))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed");{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFFlags(tif->tif_flags)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif, faxArrays, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFF_REMOVE_REFCNT(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && (fax3)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &cctlr))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_IF_PROTO)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_MAX_BEFORE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), nsnull)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_FIRST_FIELD(&tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && ((tif->tif_clientdata == NULL) && (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFProxyListener()))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeScanner(tif, TIFFFields.size())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArena())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount(nsIReadableString(nsIReadableString))))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, FAIL))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_INT)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_FAST(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0;  /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL)  TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0);  sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(tif->tif_clientdata->mIsInitialized && TIFF_IsCompileable(tif->tif_clientdata->mIsCompileable))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Fax3CBindings()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFCount()))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ROOT)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_ADDRESS))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_INTF))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ARRAY_LEN)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Status_eIgnore){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &sp->sp->sp->sp->sp->sp->sp->sp_list)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_FAILURE(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeTTFax3(tif->tif_clientdata, TIFF_TAX3_M)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &ioCtrl))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &sp->sp_key))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_AlreadyReadable))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFScopeField(tif, tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed");{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_LIST_ADDREF(*tif))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &_TIFF_RELEASE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && (sp->flags & AF_LASTDEV)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_LONG)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_TYPE_FREE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeLetterSize(tif, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_NAME_AsSIZE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0;  /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL)  TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0);  sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &eVFaxID))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), _TIFFAddRefCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFExpireInit)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(newFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_FIRST_SIZE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_data.tiff_type)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFFlags(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_Fax3Conflicts_Fax_Handle){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Fax3State(tif)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) || ((*tif->tif_clientdata) == NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!tif->tif_data.get()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &_TIFF_MergeFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(flags))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))) && (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))  0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_BODY_READ))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Flags){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ROOT_CANT_TIFF)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeState(tif, TIFFIEMBLOCKET_PARSER_ARG)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeAtoms(tif, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeSysCRT()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFSize(&padding))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeFax3(tif->tif_clientdata, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF)) &&!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount((const char *)&tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArray))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFFactoryCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_IN_CALLbacks))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeField(tif, faxArrays)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)){
+if (!NS_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields || TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(fif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) || (tif->tif_clientdata == NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, FALSE, faxFields, TIFFArrayCount(faxFields))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!tif->tif_data.get()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, PR_TRUE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFSize(&padding))){
+else if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFF_MergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, sizeof(tif)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+&if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields) ||!_TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, PR_FALSE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ROOT_CANT_TIFF)){
+if (!__TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!&_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields) || TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(tif->tif_clientdata->mIsInitialized && TIFF_IsCompileable(tif->tif_clientdata->mIsCompileable))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_data.tiff_type)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &flags))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &sp->sp_key))){
+if(!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_data == NULL){
+if (!_TIFFMergeField(&tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, &faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), &tif->tif_data){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TRUE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_IF_PROTO)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_FIRST_SIZE))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_FIRST_FIELD(&tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &cctlr))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFInitRowCount())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, FAIL))){
+if (tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), tif->tif_data){
+if (!_TIFFMergeField(ifp, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(*tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, tif->tif_data)){
+if (!TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount (faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), nsnull)){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))!= 0){
+if (!_TIFFMergeField(&tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &ioCtrl))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_LONG)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount(nsIReadableString(nsIReadableString))))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields), 0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (_TIFFMergeField(tif, faxFields)){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), 0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, FALSE))){
+if (NS_FAILED(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(sp->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Flags){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &tif->tif_data)){
+if (!_TIFFMergeField(tif, fs, TIFFArrayCount(fs))){
+if (!_TIFFMergeField(sp, faxFields, TIFFArrayCount(faxFields))){
+ret = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (ret){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_GetTIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && (fax3)){
+if (!_TIFFMergeField((tif->tif_clientdata), faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(fifFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) || ((*tif->tif_clientdata) == NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields - 1))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_Fax3Conflicts_Fax_Handle){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField2(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_FILENAME_FILE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFF_REMOVE_REFCNT(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, nsnull))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, tif->tif_data))){
+if (!_TIFFMergeField(tif->tif_clientdata, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(flags))){
+if (!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, 0)){
+if (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_TYPE_FREE)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(0))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &rv))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_fields))){
+tif = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (tif){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_ADDRESS))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeState(tif, TIFFIEMBLOCKET_PARSER_ARG)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(copyFields))){
+if (!_TIFFMergeField()){
+if (!_TIFFMergeField(tif, faxFields, (int)TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArraySize(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0xff))){
+if (!_TIFFMergeField(tif, faxFields, (int) TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, 0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && (sp->flags & AF_LASTDEV)){
+if (!_MergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif, faxArrays, TIFFArrayCount(faxFields))){
+if (tif->tif_data!= NULL){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_INT)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArena())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), NULL)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount(tif)))){
+if (tif->tif_data == _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF)) &&!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount((const char *)&tif->tif_clientdata))){
+if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block");{
+if (!get_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ROOT)){
+if (! _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, &faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))) && (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) 0)){
+if (!True){
+if (!_TIFFMergeField(tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif->tif_data))){
+if (! TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields) && TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFTableCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields) &&!_TIFFArrayCount(faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &_TIFF_MergeFields))){
+if (!_TIFFMergeField(tif, fd, TIFFArrayCount(fd))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_UNSIGNED))){
+<if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif.tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_BODY_READ))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields), tif->tif_data)){
+if (!_TIFFMergeField(tif, TIFFFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(TIFF, faxFields, TIFFArrayCount(faxFields))){
+if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block");{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &eVFaxID))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_ARRAY_LEN)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArrayCount()))){
+if (!_TIFFMergeField(tif, faxFields, TIFF_ArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(flags))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFFactoryCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, &faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeField(tif, faxArrays)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif, faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0, 0))){
+if (!tif->tif_data){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFArray))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TRUE))){
+if (!._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(p, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, 0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_FAST(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(buf))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_FAILURE(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &pObject))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeFax3(tif->tif_clientdata, TIFFArrayCount(faxFields))){
+TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif->tif_data){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(&faxFields))){
+if (!_TIFFMergeField(tif, tif->tif_data, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), 0){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, _TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, &tif->tif_data)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Fax3CBindings()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFMergeLetterSize(tif, faxFields)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, (uint8_t)faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), tif->tif_data)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) && ((tif->tif_clientdata == NULL) && (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(faxFields, 0))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif->tif_data))){
+if (tif->tif_data!= 0){
+if (!_FIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif)){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, (uint8*) TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(mailFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields) - 1)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(&tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Fax3State(tif)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_REFERENCES))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &_TIFF_RELEASE))){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(faxFields))){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, base, faxFields, TIFFArrayCount(faxFields))){
+if (!_FiffMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount())){
+if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayLength(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_TIFFFlags(tif->tif_flags)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); &sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField (tif, faxFields, TIFFArrayCount (faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFCount()))){
+if (!_TIFFMergeField(tif, faxFields | TIFFArrayCount(faxFields))){
+if (!_TIFFMemoryField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_IN_CALLbacks))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), FALSE)){
+if (!_TIFFMergeField(tif, (uint8*) faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))) && (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), _TIFFAddRefCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &sp)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeAtoms(tif, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!_Status_eIgnore){
+tif = _TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)); if (!tif){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeSysCRT()){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(ffaxFields))){
+if (!_TIFFMEMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if ((!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (&_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) &&!(_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))) && (_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) <0)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeScanner(tif, TIFFFields.size())){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_MAX_BEFORE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, NULL))){
+if (!_TIFFMergeField(fd, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, len)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), faxFields)){
+if (!_TIFFMergeField(tif, faxFields, TIFFList(faxFields))){
+if (!tif->tif_clientdata._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField((tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&faxFields))){
+if (!_TIFFMergeField(tif, faxFields, 0, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, *faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFExpireInit)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) <TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_INTF))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(false))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), PR_TRUE)){
+if (!_TIFFMergeField(tif, tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!GetTIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_NAME_AsSIZE))){
+if (!_TIFFMLergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block");{
+if ((tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState))){
+if (!_TIFFMergeField((tif->tif_clientdata, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, num_faxFields, TIFFArrayCount(num_faxFields))){
+if (!tif->tif_data._TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), PR_FALSE)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), &sp->sp->sp->sp->sp->sp->sp->sp_list)){
+if (!_TIFFMergeField(tif, fields, TIFFArrayCount(fields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_ARGS))){
+if (!_TIFFMergeField(tif, faxFields, NULL)){
+if (!_TIFFMergeField(tif, (int)faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) &TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField((tif)tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(newFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFF_AlreadyReadable))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeTTFax3(tif->tif_clientdata, TIFF_TAX3_M)){
+if (!nsCRT::TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFMergeField(tif->tif_clientdata, "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField;{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, TIFFProxyListener()))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFErrorExt(tif->tif_clientdata), "InitCCITTFax3", "Merging common CCITT Fax codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (Fax3CodecState)); if (tif->tif_data == NULL) TIFFErrorExt(tif->tif_clientdata, module, "No space for state block"); return (0); <sp = Fax3State(tif); sp->rw_mode = tif->tif_tagmethods.vgetfield; tif->tif_tagmethods.vgetfield = Fax3VGetField; tif->tif{
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &sp))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)) ||!_TIFFFlags(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields, &rw))){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields)), tif->tif_clientdata){
+if (!_TIFFMergeField(tif, faxFields, TIFFArrayCount(faxFields), TIFF_LIST_ADDREF(*tif))){

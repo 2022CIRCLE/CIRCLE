@@ -1,0 +1,722 @@
+golden:
+if (!size) { RETVAL_FALSE; } else { RETVAL_STRINGL(mem, size, 1); }
+inference:
+if (!size)
+if (!size && mem)
+if (!mem)
+if (!size || mem)
+if (size == 0)
+if (size  0)
+if (size == -1)
+if (size > 0)
+if (!id)
+if (!size &&!mem)
+if (mem &&!size)
+if (mem == NULL)
+if (size)
+if (size!= 0)
+if(!size)
+if (!msize)
+if (!intern->document)
+if (!message)
+if (mem!= NULL)
+if (mem) xmlFree(mem);
+if (*size)
+if (mem)
+if (size >= 0)
+if (size = 0)
+if (!size ||!mem)
+else if (!size)
+if (!m)
+if (mem)  if (!size)
+if (!nsize)
+if (!size &&!intern->document)
+if (size  1)
+if (!m_size)
+if (size  size)
+if (!size &&!id)
+if (!length)
+if (nsnull!= size)
+if (mem == 0)
+if (nsnull!= mem)
+if (nsnull == size)
+if (!maxsize)
+if (intern->document)
+if (!len)
+if (mem!= 0)
+if (size!= -1)
+if (!mem ||!size)
+if (!(size - 1))
+if (mem) xmlFree(mem); else
+if (!format)
+if (!cnt)
+if (size == 0 &&!size)
+if (!size == 0)
+if (!max_size)
+if (!size )
+if (!(int)size)
+if (!size > 0)
+if (!size && doc_props)
+if (!size &&!m)
+if (mem == '0')
+if (!size &&!doc_props)
+if (mem!= '0')
+if (!size &&!name)
+if (!doc_props)
+if (!size &&!zval)
+if (size > 0 &&!size)
+if (!size && m)
+if (!size &&!size)
+if (!dom_document_save_html)
+if (mem == NULL ||!size)
+if (!size ||!intern->document)
+if (!size == -1)
+if (mem  size)
+if (!get_size())
+if (mem  0)
+if (!result)
+if (!size)  xmlFree(mem);
+if (!size())
+if (!index)
+if (!size &&!xmlChar)
+if (m)
+if (!SIZE)
+if (!big)
+if (size &&!size)
+if (! size)
+if (size == 1)
+/* if (!size)
+if (!&size)
+if (!size
+if (!size);
+if (!size - 1)
+if (!mSize)
+if (!size &&!url)
+if (!size ||!id)
+if (!(char *)size)
+if (size == 0 ||!size)
+if (!size && format)
+if (size  0 ||!size)
+if (!size && (intern->document))
+if (!mem &&!size)
+if (!nsCRT::size)
+if (size == NULL)
+if (nsnull == mem)
+if (size  0 &&!size)
+if (!(size-1))
+if (!buf)
+if (!document)
+else
+if (!asize)
+if (!size)  /* XXX */
+if (!size && *mem)
+if (!size + 1)
+if (size >= size)
+if (!size)   else
+if (!size && mem!= NULL)
+if ((!size))
+if (!size &&!document)
+if (mem == -1)
+if (size == size)
+if (!size ||!doc_props)
+if (!name)
+if (size >= 0 &&!size)
+if (!tmp)
+if (!retval)
+if (!getsize())
+if (size == '0')
+if (size = size)
+if (!data)
+if (!cmp)
+if (!nsnull)
+if (!small)
+if (!intern->document.size)
+if (!size || mem == NULL)
+if (!size && mem!= 0)
+if (!size &&!flags)
+if (size > size)
+if (&size)
+if (!size &&!xml)
+if (id == 0)
+if (!flags)
+if (nsize)
+if (!size &&!format)
+if (!max)
+if (nsize == 0)
+if (!size && mem == NULL)
+if (!size--)
+if (!count)
+if (!size ||!zval)
+if (!size &&!tmp)
+if (size  2)
+if (!size && (mem))
+if (!prefix)
+if (!mark)
+if (intern->document)  if (!size)
+if (!mem) xmlFree(mem);
+if (!size || (mem))
+if (!size &&!cnt)
+if (!size &&!debug)
+if (!size &&!p)
+if (!size &&!cmp)
+if (!size &&!XP_MAC)
+if (!size &&!ptr)
+if (!size && mem == 0)
+if (!size &&!xmlDoc)
+if (!size || mem == 0)
+if (id  size)
+if (m == NULL)
+
+if (!ISO-8859-1 ||!size)
+if (!size &&!nsnull)
+if (!size &&!v)
+if (!size || format == '0')
+if (!size &&!type)
+if (!size &&!param)
+if (!size && len > 0)
+if (id  0)
+if (!size &&!encoding)
+if (!size &&!XUL)
+if (dom_document_save_html)
+if (!size && len == 0)
+if (!size &&!result)
+if (!size && mem  0)
+if (!size && mem && mem)
+if (!size &&!document->document)
+if (size!= 0 &&!size)
+if (!size &&!retval)
+if (!size &&!xmlSize)
+if (!size || (mem == NULL))
+if (!size && id == 0)
+if (mem && size  0)
+if (mem) xmlFree(mem);  else
+if (!size &&!dom_document_save_html)
+if (!(size  0))
+if (!size &&!isDoc)
+if (mem)  retval_string(mem, size, 1); xmlFree(mem);    else
+if (!size && (docp->doc_prog == xmlProperty_PROP_HTML))
+if (!size)  /* * Try to use the first parameter to * fixup with the uid. */
+if (!size && (pragma == '0'))
+if (!size && ((abv == ZEND_NUM_ARGS()) && ((abv == ZEND_NUM_ARGS())) && (abv == ZEND_NUM_ARGS()))
+if (!size &&!hwnd_enabled)
+if (!size &&!mv)
+if (!size && m_size == 0)
+if (!size && (nbyte)==0)
+if (!size &&!disabled)
+if (!size && (nsnull!= mem))
+if (!size && (!enable_flags))
+if (size > 0)  xmlFree(mem);  else
+if (!size &&!file)
+if (!size && (isUnsigned))
+if (!size)  if (mem) xmlFree(mem); RETURN_FALSE;  /* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (!size &&!m_required)
+if (!size &&!defined(DOM_UNKNOWN_ANY))
+if (!size &&!abc)
+if (!size &&!ret)
+if (!size &&!expect_flags &&!fixup->save_class_name)
+if (!size &&!XULSize)
+if (!size)  /* xmlFree(mem); */
+if (!size &&!xmlName)
+if (mem) xmlFree(mem);  /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval  0)  /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK;   if (need_unlink)
+if (mem) xmlFree(mem); if (!size)
+if (!size &&!initialized)
+if (!size &&!isdigit(cx, cx))
+if (!size && (ptr == '0'))
+if (!size &&!xml_memory)
+if (mem) xmlFree(mem);  if (!size)
+if (!size && (!strcmp(intern->document, "ISO-8859-1")))
+if (!size &&!aContext)
+if (mem) xmlFree(mem); else if (!size)
+if (!size)  XML_WRITE_DOM_PROTO_CAST(XML_DOM_PROTO_CAST(XML_DOM_PROTO, dom_document_class_entry)));
+if (!size)  if (mem) xmlFree(mem); RETURN_FALSE;
+if (size > 0)  char *s = (char *) mem;
+if (!size &&!u)
+if (!size)  /* FIXME: got no docprops! */
+if (mem)  xmlFree(mem);   else
+if (!size &&!hdr)
+if (!size &&!xmlLength())
+if (!size && (cnt = 0))
+if (!size && mb_hdr.e_mb_hdr_size == 0)
+if (!size &&!IsContainer(intern->document))
+if (mem)  xmlFree(mem); RETURN_FALSE;  /* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (!size &&!ZIMPL_BASE)
+if (!size &&!ZeroDrop)
+if (!size && m_prt_set_method(*id))
+if (!size && (!enable_flags))
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size &&!intern->document)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &&&else
+if (!&size)
+if (size &0 &&!size)
+if (size > 0) &xmlFree(mem); else
+if (!size && len == 0)
+if (!size &&!xmlName)
+if (!size) &xmlFree(mem);
+if (!size && (nbyte)==0)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size) &&else
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size && mem &0)
+if (!size) &/* XXX */
+if (size == '&0')
+if (!size &&!abc)
+if (mem == -1)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem == NULL ||!size)
+if (!id)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <&else
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <else
+if (size > 0)
+if (m == NULL)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (size == size)
+if (!(size 0))
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size &&!name)
+if (!nsCRT::size)
+if (mem) xmlFree(mem); <if (!size)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); RETURN_FALSE; &/* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+else
+if (size 0 &&!size)
+if (size <0 &&!size)
+if (mem) <xmlFree(mem); <&else
+if (!size) &if (mem) xmlFree(mem); RETURN_FALSE; /* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (!size && mb_hdr.e_mb_hdr_size == 0)
+if (mem &0)
+if (!size &&!IsContainer(intern->document))
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) <xmlFree(mem); else
+if (size == NULL)
+if (size == 0 ||!size)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size || format == '0')
+if (size <= size)
+if (nsize == 0)
+if (!size && mem!= 0)
+if (!size &&!ret)
+if (!size && (cnt &= 0))
+if (!size) <xmlFree(mem);
+if (size >= size)
+if (!size &&!size)
+if (!size) /* xmlFree(mem); */
+if (size 0)
+if (!buf)
+if (!size && id == 0)
+if (&size)
+if (!size &&!initialized)
+if (!size) /* XXX */
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <&&else
+if (size &size)
+if (!mem &&!size)
+if (!size && mem == 0)
+if (!size &&!XULSize)
+if (!size &&!doc_props)
+if (size > 0) &xmlFree(mem); <else
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &else
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size ||!id)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (m)
+if (!SIZE)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &<<else
+if (!size && m)
+if (!size) <&else
+if (size > 0) <xmlFree(mem); else
+if (!result)
+if (!mSize)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); else
+if (mem) &xmlFree(mem); &&else
+if (!msize)
+if (!size || mem == NULL)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!nsnull)
+if (size &0 ||!size)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &&<else
+if (!size && mem!= NULL)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem == 0)
+if (!m)
+if (!size == -1)
+if (!size && mem == NULL)
+if (!(size-1))
+<else
+if (!size &&!result)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size &&!defined(DOM_UNKNOWN_ANY))
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <<<else
+if (size <1)
+if (!size) &if (mem) xmlFree(mem); RETURN_FALSE;
+if (size > 0) xmlFree(mem); &else
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <<<else
+if (mem!= NULL)
+if (!(size &0))
+if (intern->document) if (!size)
+if (mem) xmlFree(mem);
+if (!size) if (mem) xmlFree(mem); RETURN_FALSE; </* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (!size && (ptr == '&0'))
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &&else
+if (!message)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <&else
+if (id &0)
+if (size > 0 &&!size)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <&else
+if (mem) xmlFree(mem); <&else
+if (!size == 0)
+if (!size) &/* xmlFree(mem); */
+if (!size) if (mem) xmlFree(mem); RETURN_FALSE;
+if (size == 0 &&!size)
+if (size &= size)
+if (!size - 1)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) <xmlFree(mem); RETURN_FALSE; &/* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <&&else
+if (!size)
+if (mem) &xmlFree(mem); <else
+if (mem!= 0)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <else
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size &&!xmlChar)
+if (intern->document) <if (!size)
+if (intern->document)
+if (!size) <if (mem) xmlFree(mem); RETURN_FALSE; &/* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (size == '<0')
+if (!retval)
+if (mem) &xmlFree(mem); RETURN_FALSE; /* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (!cnt)
+if (size >= 0 &&!size)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); if (!size)
+if (!size ||!intern->document)
+if (!m_size)
+if (!size && (intern->document))
+if (!size &&!u)
+if (!size &&!m)
+if (!size &&!file)
+if (!size &&!xmlSize)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &<&else
+if (!size) if (mem) xmlFree(mem); RETURN_FALSE; /* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if ((!size))
+if (!size && (cnt = 0))
+if (!size ||!doc_props)
+if (!size) if (mem) xmlFree(mem); RETURN_FALSE; &/* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!(int)size)
+if (size == 0)
+if (!size || mem == 0)
+if (size > size)
+if (!size )
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <<&else
+if (!size || format == '&0')
+if (mem!= '<0')
+if (size <0)
+&else
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &<else
+if (mem == '&0')
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+&if (!size)
+if (mem) xmlFree(mem); &else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size &&!v)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &<else
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &&else
+if (nsize)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size && mem)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &&<else
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); RETURN_FALSE; </* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <&<else
+if (mem == '<0')
+if (!size && doc_props)
+if (mem) xmlFree(mem); RETURN_FALSE; /* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (size > 0) &xmlFree(mem); &else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!asize)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (size &&!size)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &&&else
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size &&!encoding)
+if (!nsize)
+if (size > 0) <xmlFree(mem); &else
+if (!size || (mem))
+else if (!size)
+if (id 0)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); else
+if (!size &&!xml_memory)
+if (mem) &xmlFree(mem); &else
+if (mem && size &0)
+if (!size ||!zval)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size && m_prt_set_method(*id))
+if (!index)
+if (!size) &/* * Try to use the first parameter to * fixup with the uid. */
+if (!size &&!XUL)
+if (mem) xmlFree(mem); &if (!size)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size && ((abv == ZEND_NUM_ARGS()) && ((abv == ZEND_NUM_ARGS())) && (abv == ZEND_NUM_ARGS()))
+if (!size &&!format)
+if (!size ||!mem)
+if (!size &&!retval)
+if (!size) <XML_WRITE_DOM_PROTO_CAST(XML_DOM_PROTO_CAST(XML_DOM_PROTO, dom_document_class_entry)));
+/* if (!size)
+if (!size && (ptr == '0'))
+if (id <size)
+if (mem) &xmlFree(mem); RETURN_FALSE; </* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (size 1)
+if (!dom_document_save_html)
+if (mem) <xmlFree(mem); RETURN_FALSE; /* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (! size)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size) <<else
+if (mem) <xmlFree(mem); &else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) <xmlFree(mem); <<else
+if (!count)
+if (id &size)
+if (!size) xmlFree(mem);
+if (!size > 0)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &&else
+if (!size) </* FIXME: got no docprops! */
+if (size > 0) xmlFree(mem); else
+if (!size &&!debug)
+if (!size && len > 0)
+if (*size)
+if (!size &&!id)
+if (!name)
+if (!size &&!xmlDoc)
+if (!size) </* xmlFree(mem); */
+if (!size) &<else
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &&<else
+if (!size) </* * Try to use the first parameter to * fixup with the uid. */
+if (mem 0)
+if (!size &&!mv)
+if (!size) &/* FIXME: got no docprops! */
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!getsize())
+if (!size &&!type)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &<&else
+if (!size && (pragma == '0'))
+if (!size &&!ZIMPL_BASE)
+if (!size &&!document)
+if (!prefix)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size && (cnt <= 0))
+if (!max_size)
+if (mem <0)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) &xmlFree(mem); <&else
+if (mem)
+if (mem) &xmlFree(mem); &<else
+if (mem) xmlFree(mem); else if (!size)
+if (!(char *)size)
+if (!size &&!flags)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <&&else
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <&<else
+if (!flags)
+if (!size && mem <0)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size) <else
+if (size!= 0)
+if (!max)
+if(!size)
+if (dom_document_save_html)
+if (!size && (mem))
+if (size <= 0)
+if (!size &&!tmp)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &<&else
+if (mem && size 0)
+if (mem) <xmlFree(mem); &&else
+if (!size &&!xmlLength())
+if (size!= 0 &&!size)
+if (!size) /* FIXME: got no docprops! */
+if (size <size)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) &xmlFree(mem); RETURN_FALSE; &/* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (mem size)
+if (mem) <xmlFree(mem); <else
+if (mem) &if (!size)
+if (mem &size)
+if (!size &&!aContext)
+<if (!size)
+if (!size &&!param)
+if (!size && mem 0)
+if (!size || (mem == NULL))
+if (mem) if (!size)
+if (!size &&!isDoc)
+if (!mem)
+if (!document)
+if (!size &&!mem)
+if (!size) <if (mem) xmlFree(mem); RETURN_FALSE; /* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (!size())
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size && format)
+if (mem) xmlFree(mem); &&else
+if (mem <size)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <<else
+if (size &1)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &<<else
+if (size &0)
+if (!size && m_size == 0)
+if (nsnull!= mem)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <<&else
+if (!size &&!hwnd_enabled)
+if (!cmp)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!mem ||!size)
+if (!size) &else
+if (!small)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <&<else
+if (mem) <xmlFree(mem); &<else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); else
+if (!size + 1)
+if (!size &&!url)
+if (size > 0) char *s = (char *) mem;
+if (!size) &XML_WRITE_DOM_PROTO_CAST(XML_DOM_PROTO_CAST(XML_DOM_PROTO, dom_document_class_entry)));
+if (size > 0) xmlFree(mem); <else
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!len)
+if (!size && (!strcmp(intern->document, "ISO-8859-1")))
+if (!size) </* XXX */
+if (!(size <0))
+if (mem) retval_string(mem, size, 1); xmlFree(mem); <<else
+if (!length)
+if (!size) &if (mem) xmlFree(mem); RETURN_FALSE; </* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (mem) &xmlFree(mem); else
+if (!size &&!dom_document_save_html)
+if (size = size)
+if (mem == NULL)
+if (id <0)
+if (!size || mem)
+if (nsnull == size)
+if (id == 0)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size) XML_WRITE_DOM_PROTO_CAST(XML_DOM_PROTO_CAST(XML_DOM_PROTO, dom_document_class_entry)));
+if (mem) &xmlFree(mem); <<else
+if (!size && (pragma == '&0'))
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (size!= -1)
+if (mem == '0')
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <else
+if (!size && mem && mem)
+if (size > 0) <char *s = (char *) mem;
+if (mem) <if (!size)
+if (!size &&!m_required)
+if (!size &&!cnt)
+if (!intern->document)
+if (mem) xmlFree(mem); <else
+if (!size--)
+if (!size &&!cmp)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &<<else
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (nsnull!= size)
+if (!size && (docp->doc_prog == xmlProperty_PROP_HTML))
+if (!size &&!xml)
+if (!data)
+if (size = 0)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <<&else
+if (size <2)
+if (!size && (pragma == '<0'))
+if (!size &&!disabled)
+if (size >= 0)
+if (!doc_props)
+if (!size && (ptr == '<0'))
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (size &= 0)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); &<else
+if (nsnull == mem)
+if (mem &&!size)
+if (!get_size())
+if (!size &&!XP_MAC)
+if (!format)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (size)
+if (!size && (nsnull!= mem))
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!big)
+if (size <0 ||!size)
+if (mem!= '&0')
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (size == '0')
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (size > 0) &char *s = (char *) mem;
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); &&&else
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size) /* * Try to use the first parameter to * fixup with the uid. */
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (!size) <if (mem) xmlFree(mem); RETURN_FALSE;
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size) <if (mem) xmlFree(mem); RETURN_FALSE; </* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (mem) <xmlFree(mem); RETURN_FALSE; </* XXX fixup in xmldoc_props */ if (mem) xmlFree(mem);
+if (!(size - 1))
+if (!size &&!zval)
+if (size 2)
+if (id size)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (!size &&!isdigit(cx, cx))
+if (!size || format == '<0')
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (size > 0) <xmlFree(mem); <else
+if (size size)
+if (mem) <retval_string(mem, size, 1); xmlFree(mem); <<else
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size &&!ZeroDrop)
+if (mem) xmlFree(mem); else
+if (!intern->document.size)
+if (mem) xmlFree(mem); <<else
+if (mem && size <0)
+if (!size &&!hdr)
+if (mem!= '0')
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (intern->document) &if (!size)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval &0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size &&!ptr)
+if (!size) &if (mem) xmlFree(mem); RETURN_FALSE; &/* FIXME: DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);
+if (!size && *mem)
+if (!size &&!p)
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) </* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; <if (need_unlink)
+if (mem) xmlFree(mem); &<else
+if (size &2)
+if (size == 1)
+if (!size &&!nsnull)
+if (!tmp)
+if (!size &&!document->document)
+if (size 0 ||!size)
+if (mem) xmlFree(mem); /* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (mem) &retval_string(mem, size, 1); xmlFree(mem); <<<else
+if (mem) xmlFree(mem); &/* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval <0) /* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; if (need_unlink)
+if (mem) xmlFree(mem); </* * If we can't make it an a function we want, then just leave it at a pointer to the parent. */ if (retval 0) &/* * Get the header of the document's description. */ if (mem) xmlFree(mem); return NS_OK; &if (need_unlink)
+if (!size) else
+if (!ISO-8859-1 ||!size)
+if (size == -1)
+if (!maxsize)
+if (!size && (isUnsigned))
+if (!mark)
+if (!size &&!expect_flags &&!fixup->save_class_name)
+if (mem) retval_string(mem, size, 1); xmlFree(mem); &else

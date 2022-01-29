@@ -1,0 +1,681 @@
+golden:
+if (!VALID_WRITE_BUFFER(self) || self->write_pos > self->pos) {
+inference:
+if (!VALID_WRITE_BUFFER(self)){
+if (!_VALID_WRITE_BUFFER(self)){
+if (!PyArg_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, 0)){
+if (!VALID_WRITE_BUFFER(&self)){
+if ((!VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(res)){
+if (!VALID_WRITE_BUFFER(buf)){
+if (!Py_VALID_WRITE_BUFFER(self)){
+if (!VALID_READ_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, NULL)){
+if (!VALID_BUFFER_BUFFER(self)){
+if (!Py_VALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((void *)self)){
+else if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &res)){
+if (!BUFFER_WRITE_BUFFER(self)){
+if (!(VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self, PR_TRUE)){
+if(!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ){
+if (!ValID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &buf)){
+if (!VALID_WRITE_BUFFER(p)){
+if (!PY_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER (self)){
+if (!PY_VALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, res)){
+if (VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(args)){
+if (!Py_WRITE_BUFFER(self)){
+if (ValID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&res)){
+if (!VALID_WRITE_BUFFER(self->buffer_size)){
+if (!VALID_WRITE_BUFFER((void **)self)){
+if (!VALID_WRITE_BUFFER(self, buf)){
+if (!VALID_WRITE_BUFFER(self, args)){
+if (!VALID_REFERENCE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(*self)){
+if (!VALID_WITH_BUFFER(self)){
+if (!VALID_WRITE_BUFFER()){
+if (!VALID_WRITE_BUFFER(&buf)){
+if (! VALID_WRITE_BUFFER(self)){
+if (!BUFFER_WRITE(self)){
+if (!VALID_WRITE_BUFFER(self->buffer)){
+if (!VALID_WRITE_BUFFER(&self->buffer)){
+if (!__VALID_WRITE_BUFFER(self)){
+if (VALID_WRITE_BUFFER(self)!= 0){
+if (!VALID_DEBUG_BUFFER(self)){
+if (valID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(s)){
+if (!VALID_WRITE_BUFFER( self ) ){
+if (VALID_WRITE_BUFFER(self) == 0){
+if (!VALID_WRITE_BUFFER_READ(self)){
+if (!Valid_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, size)){
+if (!VALID_WRITE_BUFFER(*args)){
+if (!PY_WRITE_BUFFER(self)){
+else{
+if (!VALID_RESTORE_BUFFER(self)){
+if (!INVALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((void**)self)){
+if (!VALID_WRITE_BUFFER(ch)){
+if (!VALID_WRITE_BUFFER((void*)self)){
+if (!VALID_WRITE_BUFFER){
+if (!VALID_WRITE_BUFFER((int)self)){
+if (!VALID_WRITE_BUFFER(self, 0, 0)){
+if (!VALID_RETURN_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((unsigned long)self)){
+if (!MAP_WRITE_BUFFER(self)){
+if (!VALID_FOREACH_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self.buffer_size)){
+if (_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, offset)){
+if (!VALID_WRITE_BUFFER((u_long)self)){
+if (!VALID_WRITE_BUFFER(m)){
+if (!WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER_FAILURE(self)){
+if (!VALID_WAKE_BUFFER(self)){
+if (!Py_BUFFER_BUFFER(self)){
+if (!_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER_FAST(self)){
+if (!VALID_RUNNING_BUFFER(self)){
+if (!VALID_PRINT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((char *)self)){
+if (!PyObject_WRITE_BUFFER(self)){
+val = VALID_WRITE_BUFFER(self); if (val){
+if (!INIT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(NULL)){
+if (!VALID_PY_WRITE_BUFFER(self)){
+if (!BUFFER_WRITE){
+if (!VALID_WRITE_BUFFER(node)){
+if (!VAR_WRITE_BUFFER(self)){
+if (!Buffer_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, p)){
+if (!VALID_WRITE_BUFFER(ns)){
+if (!PL_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &rv)){
+if (!VALID_WRITE_BUFFER(self, FALSE)){
+if (!VALID_WRITE_BUFFER(buffered)){
+return NULL; if (!VALID_WRITE_BUFFER(self)){
+if (PY_VALID_WRITE_BUFFER(self)){
+if (!valID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(string)){
+if (!(ValID_WRITE_BUFFER(self))){
+if (!FALSE(VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self, &p)){
+if (self == NULL){
+if (!VALID_WRITE_BUFFER((void *) self)){
+if (!Py_BUFFER_WRITE(self)){
+if (!VALID_CREAT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &args)){
+if (!BUFFER_BUFFER(self)){
+if (!&VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, false)){
+if (NULL == VALID_WRITE_BUFFER(self)){
+if (VALID_WRITE_BUFFER(self){
+if (!VALID_WRITE_BUFFER(dev)){
+if (!_bufferedwriter_write(self)){
+if (!VALID_WRITE_BUFFER_UNLOCKED(self)){
+if (!VALID_WRITE_BUFFER(self.buffer)){
+if (!VALID_WRITE_BUFFER(self){
+if (!VALID_WRITE_BUFFER(n)){
+if (!PyPy_WRITE_BUFFER(self)){
+
+if (!VALID_WRITE_BUFFER(v)){
+if (!VALID_SET_BUFFER(self)){
+if (!IF_WRITE_BUFFER(self)){
+if (=VALID_WRITE_BUFFER(self)){
+if (!BUFFER_READ(self)){
+if (!(void)VALID_WRITE_BUFFER(self)){
+if (!XP_VALID_WRITE_BUFFER(self)){
+if (!VALID_WAIT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER2(self)){
+if (!VALID_BUFFER(self)){
+if (!BUFFER_READ_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(nsnull)){
+if ( (!VALID_WRITE_BUFFER(self)) ){
+if (!_BUFFER_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, 1)){
+if (!True){
+if (!VALID_WRITE_BUFFER(self ) ){
+if (!res){
+if (VALID_WRITE_BUFFER(self)!= NULL){
+if (!CHECK_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(arg)){
+if (__VALID_WRITE_BUFFER(self)){
+if (!SAVE_BUFFER(self)){
+if (!VALID_STATUS_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(u)){
+if (!VALID_IS_BUFFER(self)){
+if (__func__ == VALID_WRITE_BUFFER){
+if (res == NULL){
+else  if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_REFERENCE(self)){
+if (!VALID_WRITE_BUFFER(!self)){
+if (!VALID_WRITE_BUFFER(i)){
+if (!VALID_WRITE_BUFFER(self, len)){
+if (!VALID_WRITE_BUFFER(&self->raw_pos)){
+if (valID_WRITE_BUFFER(self) == 0){
+if (!Py_READ_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &err)){
+if (!void){
+if (!VALID_WRITE){
+if (!DEBUG_BUFFER(self)){
+if (!VALID_WRITE_BUFFER_DEBUG){
+if (!VALID_WRITE_BUFFER(self);{
+if (!VALID_WRITE_BUFFER(&self->buf)){
+if (!VALID_WRITE_BUFFER(self, &off)){
+if (v3){
+if (!FALSE){
+if (!FAILURE){
+if (!NULL){
+if (!PIDGET(self)){
+if (self!= NULL){
+if (!VALID_WAITOK){
+break;{
+default:{
+if (!VALID_WRITE_BUFFER(self) || ((mTimeout = 0) || (mTimeout == 0))){
+if (!VALID_WRITE_BUFFER(self, &src)){
+if (!VALID_WRITE_BUFFER(self) && (errno == 0)){
+if (!Py_BUFFER_READ(self)){
+if (!VALID_WRITE_BUFFER(self) && (!PL_strcmp(self, "write"))){
+if (!_bufferedwriter_flush_unlocked(self)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_WRITE_BUFFER((int)self)){
+if (!VALID_WRITE_BUFFER(self) && (self->initialized == PR_FALSE)){
+if (!_Bufferedwriter_write_buffer(self)){
+if (!VALID_WRITE_BUFFER(self) || (!PyArg_ParseTuple(args, "y*:write", &buf))){
+if (!VALID_WRITE_BUFFER(self) || (args[0]!= NULL)){
+if (!VALID_WRITE_BUFFER(self) ||!Py_LAST_BUFFER_WITH_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) || (!PyFlexGetInteger(self)) && (PyFlexGetInteger(self))){
+if (!VALID_WRITE_BUFFER(&self->buffer_size)){
+if (!VALID_WRITE_BUFFER(self) && ((op = _buffer_sync()) == 0)){
+if (!VALID_WRITE_BUFFER(self, nsCRT::free_ns_name, &nsCRT::sep)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WAITOK){
+if (!VALID_WRITE_BUFFER(self, PR_FALSE)){
+if (!VALID_WRITE_BUFFER(self) && ((offset  0) && ((offset  0)))){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_FAILURE(self)){
+if (!VALID_WRITE_BUFFER(self) || (is_CLOSED(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_FindPy(self, PY_XPATH)){
+if (!VALID_WRITE_BUFFER(self) ||!(!_failed_toread_write_error(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_Assert(self)){
+if (!VALID_WRITE_BUFFER(self) && (iocmd == 0)){
+if (!VALID_WRITE_BUFFER(self, &sysmode)){
+if (!VALID_WRITE_BUFFER(self) || ((res = _bufferedwriter_flush_unlocked(self)) && (self->is_unlocked(&buf)))){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_DEBUG){
+if (!VALID_WRITE_BUFFER(self) &&!SIZE_BUFFER(self->write_pos)){
+if (!VALID_WRITE_BUFFER(self, nbuf)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) && (!FAILURE)){
+if (!VALID_WRITE_BUFFER(self, &bufferedwriter)){
+if (!(VALID_WRITE_BUFFER(self)) &&!(VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self) &&!PyArena_Debug(self)){
+if (!VALID_WRITE_BUFFER(self) ||!Py_Buffer_Assign(&buf)){
+if (!VALID_WRITE_BUFFER(self) && (IS_CLOSED(self) &&!PyArg_Sys_Lock(&buf))){
+if (!VALID_WRITE_BUFFER(self, py_next_type)){
+if (!PyCRT_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (size == 0)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_DebugRenderer_PyExc_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self, &os)){
+if (!VALID_WRITE_BUFFER(self) &&!NULL){
+if (!VALID_WRITE_BUFFER(self) &&!Py_ArenaFlag(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyValueError, res){
+if (!VALID_WRITE_BUFFER(self, &is_Closing)){
+if (!VALID_WRITE_BUFFER(self, "c:%lx", (*(args == NULL)? '0': '0'))){
+if (!VALID_WRITE_BUFFER(self) &&!INVALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &i)){
+if (!VALID_WRITE_BUFFER(self, &tmp)){
+if (!VALID_WRITE_BUFFER(self) &&!(__unused__)){
+if (!VALID_WRITE_BUFFER(self) && (!HAVE_STATUS(self))){
+if (!PyValidator_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PL_DHASH_INSTANCE(p)){
+if (!VALID_WRITE_BUFFER(self) && (not_dispose)){
+if (!_Buffered_Reader(self)){
+if (!VALID_WRITE_BUFFER(self) && (errno!= 0)){
+if (!PyArg_Write_BufFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) && (not_found)){
+if (!VALID_WRITE_BUFFER(self) && (buffered)){
+if (!Py_BUFFER_FLAGS(self)){
+if (!Py_BUFFER_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (res!= NULL)){
+if (!_BufferedReader_Buffer_Open(self)){
+if (!VALID_WRITE_BUFFER(self) &&!Py_SYNC_BUFFER_SETUP){
+if (!VALID_WRITE_BUFFER(self, &cvs_data)){
+if (!VALID_WRITE_BUFFER(self) && (is_SysAddRef(self) &&!PyArg_SysAddRef(self))){
+if (!VALID_WRITE_BUFFER(self) && (!(uintptr_t)->do_write)){
+if (!VALID_WRITE_BUFFER(self) ||!_bufferedwriter_flush_unlocked(self)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&self->_current_buffer)){
+if (!VALID_WRITE_BUFFER(self) &&!Py_Err_GetError("write to closed file");{
+if (!VALID_WRITE_BUFFER(self) &&!IS_SUCCEEDED(self)){
+if (!VALID_WRITE_BUFFER(&self->raw_ptr)){
+if (!VALID_WRITE_BUFFER(self) ||!Py_XBJ_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyBufferedWrite_Shutdown(self)){
+if (!VALID_WRITE_BUFFER(self) && (not_empty)){
+if (!VALID_WRITE_BUFFER(self) &&!_BufferedWriterProc){
+if (!VALID_WRITE_BUFFER(self) &&!ENTER_BUFFERED(self)){
+if (!PyFlexValidator_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &ptr)){
+if (!VALID_WRITE_BUFFER(self) || ((buf = get_buf_num(&buf, sizeof(buf)) == 0) || (res == NULL))){
+if (!VALID_WRITE_BUFFER(self) &&!(self->data_flags & PTHREAD_BUFFER_READ)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_Destroy(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL;  if (IS_CLOSED(self))  PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL;  if (!ENTER_BUFFERED(self))  PyBuffer_Release(&buf); return NULL;  if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL;  if (!ENTER_BUFFERED(self))  PyBuffer_Release(&buf); return NULL;  if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, &old_buf)){
+if (!VALID_WRITE_BUFFER(self) && (self->buffer_size = 0)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_FinalizeFlushBuffer(self, &buf)){
+if (!VALID_WRITE_BUFFER(self, "write_length")){
+if (!VALID_WRITE_BUFFER(self) &&!BUFFER_PARSE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, PZ_INT)){
+if (!VALID_WRITE_BUFFER(self) && (SIGNAL("WRITE_BUFFER: can't write buffer"))){
+if (!PyValid_Buffered_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_SUCCESS){
+if (!VALID_WRITE_BUFFER(self, &off_end)){
+if (!VALID_WRITE_BUFFER(self) && (!snprintf(self->_buffer_size, 0))){
+if (!Py_Writable_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->args->arg{
+if (!VALID_WRITE_BUFFER(self) ||!FAILURE){
+if (!VALID_WRITE_BUFFER(self) || (offset  0)){
+if (!_BufferedWriterBuffer(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyBuffer_SetString(PyExc_ValueError, "write to closed file")){
+if (!VALID_WRITE_BUFFER(self) && ((PyErr_SetString(PyExc_ValueError, "write to closed file")))){
+if (!VALID_WRITE_BUFFER(self, &self->read_pos)){
+if (!Py_REFERENCE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyPy_UNLOCK(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyBuffer_Release(&buf)){
+if (!((VALID_WRITE_BUFFER_READ && (Buf_WritePadding == 0)) || (BUF_WritePadding == 0))){
+if (!VALID_WRITE_BUFFER(self) && (*(bfd = res) || *(bfd = res))){
+if (!VALID_WRITE_BUFFER(self) &&!self->write_object){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_SUCCESS(self)){
+if (!VALID_WRITE_BUFFER(self) || (offset &0)){
+if (!VALID_WRITE_BUFFER(self) ||!PyBuffer_SetString(PyExc_ValueError, "write to closed file")){
+if (!VALID_WRITE_BUFFER(self, offset)){
+if (!VALID_REFERENCE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && ((offset &0) && ((offset <0)))){
+if (!VALID_WRITE_BUFFER(self, &args)){
+if (!VALID_WRITE_BUFFER(self) ||!Py_XBJ_BUFFER(self)){
+if ((!VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!_BUFFER_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_RETURN_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(p)){
+if (!VALID_WRITE_BUFFER(self) || (!PyFlexGetInteger(self)) && (PyFlexGetInteger(self))){
+if (!VALID_WRITE_BUFFER(self) && (size == 0)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!NULL){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) || (offset 0)){
+if (!BUFFER_WRITE){
+if (!valID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArena_Debug(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyBufferedWrite_Shutdown(self)){
+if (!VALID_WRITE_BUFFER(self, &off_end)){
+if (!VALID_WRITE){
+if (!VALID_WRITE_BUFFER(self) &&!BUFFER_PARSE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, py_next_type)){
+else{
+if (!VALID_WRITE_BUFFER(self, PR_TRUE)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(!self)){
+if (!VALID_WAITOK){
+if (!_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, PR_FALSE)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!PyValid_Buffered_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_PY_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!_bufferedwriter_flush_unlocked(self)){
+if (!VALID_WRITE_BUFFER(node)){
+if (!VALID_WRITE_BUFFER(u)){
+if (!Py_BUFFER_READ(self)){
+if (!VALID_WRITE_BUFFER(self, size)){
+if (!(VALID_WRITE_BUFFER(self))){
+if (!VALID_WAKE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!((VALID_WRITE_BUFFER_READ && (Buf_WritePadding == 0)) || (BUF_WritePadding == 0))){
+if (!&VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!PyBuffer_Release(&buf)){
+if (!BUFFER_WRITE(self)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_WRITE_BUFFER((int)self)){
+if (!Py_READ_BUFFER(self)){
+if (!ValID_WRITE_BUFFER(self)){
+if (__VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_BUFFER(self)){
+if (!(void)VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ){
+if (!VALID_WRITE_BUFFER(self, 0, 0)){
+val = VALID_WRITE_BUFFER(self); if (val){
+if (!DEBUG_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (VALID_WRITE_BUFFER(self){
+if (!VALID_WRITE_BUFFER(self, buf)){
+if (!VALID_PRINT_BUFFER(self)){
+if (!(VALID_WRITE_BUFFER(self)) &&!(VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VAR_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_CREAT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!Py_BUFFER_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(ns)){
+if (!PL_VALID_WRITE_BUFFER(self)){
+<else{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && (iocmd == 0)){
+if (!VALID_WITH_BUFFER(self)){
+if (res == NULL){
+if (!VALID_WRITE_BUFFER(self) && (buffered)){
+if (!VALID_WRITE_BUFFER(self) ||!Py_LAST_BUFFER_WITH_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(buf)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && ((offset 0) && ((offset &0)))){
+if (!VALID_WRITE_BUFFER(ch)){
+if (!VALID_WRITE_BUFFER(self) &&!INVALID_BUFFER(self)){
+if (!Buffer_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, &old_buf)){
+if (!VALID_WRITE_BUFFER(self, "c:%lx", (*(args == NULL)? '&0': '0'))){
+if (!VALID_WRITE_BUFFER(*self)){
+if (!VALID_WRITE_BUFFER(self) && (!PL_strcmp(self, "write"))){
+if (!VALID_WRITE_BUFFER(string)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (v3){
+if (__func__ == VALID_WRITE_BUFFER){
+if (!PY_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, false)){
+if (!VALID_WRITE_BUFFER(self) && ((op = _buffer_sync()) == 0)){
+if (!VALID_WRITE_BUFFER(self, &ptr)){
+if (!VALID_WRITE_BUFFER(self) && (self->buffer_size = 0)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!FAILURE){
+if (!VALID_WRITE_BUFFER(self) &&!_BufferedWriterProc){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) || (is_CLOSED(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (self == NULL){
+if (!VALID_WRITE_BUFFER(self) && ((offset 0) && ((offset 0)))){
+if (!VALID_WRITE_BUFFER_FAST(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (!(uintptr_t)->do_write)){
+if (VALID_WRITE_BUFFER(self)!= NULL){
+if (!VALID_WRITE_BUFFER(arg)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, "write_length")){
+if (!VALID_WRITE_BUFFER(self ) ){
+if (!VALID_WRITE_BUFFER(self, &self->read_pos)){
+if (!PY_VALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, NULL)){
+&if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!self->write_object){
+if (!VALID_WRITE_BUFFER(&res)){
+if (!VALID_STATUS_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((void **)self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_Assert(self)){
+if (!BUFFER_READ(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_Destroy(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, 0)){
+&else{
+if (!VALID_SET_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &src)){
+if (!VALID_WAIT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER_UNLOCKED(self)){
+if (!VALID_WRITE_BUFFER(self) && (errno == 0)){
+if (!_bufferedwriter_flush_unlocked(self)){
+if (!VALID_WRITE_BUFFER(self, &i)){
+if (=VALID_WRITE_BUFFER(self)){
+if (!Py_VALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (not_empty)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &tmp)){
+if (!PY_VALID_WRITE_BUFFER(self)){
+return NULL; if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!PyArg_FinalizeFlushBuffer(self, &buf)){
+if (!VALID_WRITE_BUFFER(self) && (errno!= 0)){
+if (!VALID_WRITE_BUFFER(v)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_FindPy(self, PY_XPATH)){
+if (!VALID_WRITE_BUFFER(self) &&!Py_ArenaFlag(self)){
+if (!INIT_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!_BufferedWriterBuffer(self)){
+if (!_bufferedwriter_write(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, p)){
+if (!VALID_WRITE_BUFFER(self) &&!SIZE_BUFFER(self->write_pos)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && (IS_CLOSED(self) &&!PyArg_Sys_Lock(&buf))){
+if (!VALID_WRITE_BUFFER(self, &off)){
+if (valID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER()){
+if (!VALID_WRITE_BUFFER(self, args)){
+if (!True){
+if (!_Buffered_Reader(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && ((PyErr_SetString(PyExc_ValueError, "write to closed file")))){
+if (!VALID_WRITE_BUFFER(self) && (not_dispose)){
+if (!VALID_WRITE_BUFFER((unsigned long)self)){
+if (!VALID_WRITE_BUFFER(self) && (self->buffer_size <= 0)){
+if (!VALID_WRITE_BUFFER(self) && (!snprintf(self->_buffer_size, 0))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER((void *)self)){
+if (!VALID_READ_BUFFER(self)){
+else &if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, FALSE)){
+if (!VALID_WRITE_BUFFER(self, "c:%lx", (*(args == NULL)? '0': '0'))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (VALID_WRITE_BUFFER(self) == 0){
+if (!BUFFER_BUFFER(self)){
+if (!Py_Writable_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && ((offset &0) && ((offset &0)))){
+if (!VALID_WRITE_BUFFER(self, &sysmode)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, len)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (ValID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (self->buffer_size &= 0)){
+if (!PyCRT_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) || ((mTimeout = 0) || (mTimeout == 0))){
+if (!VALID_WRITE_BUFFER(self) && (self->initialized == PR_FALSE)){
+if (!VALID_REFERENCE(self)){
+if (!VALID_WRITE_BUFFER(self) || ((res = _bufferedwriter_flush_unlocked(self)) && (self->is_unlocked(&buf)))){
+if (!VALID_WRITE_BUFFER(s)){
+if (!VALID_WRITE_BUFFER(self) ||!PyArg_DebugRenderer_PyExc_ParseTuple(args, "y*:write", &buf)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!NULL){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (! VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!Py_SYNC_BUFFER_SETUP){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) || ((buf = get_buf_num(&buf, sizeof(buf)) == 0) || (res == NULL))){
+if (!VALID_WRITE_BUFFER(i)){
+if (!VALID_WRITE_BUFFER(&self)){
+if (!VALID_WRITE_BUFFER(self) && (*(bfd = res) || *(bfd = res))){
+if (!VALID_WRITE_BUFFER(self, nbuf)){
+if (!PyFlexValidator_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!PyValueError, res){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self)){
+if (!BUFFER_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_SUCCESS(self)){
+if (!PyPy_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER (self)){
+<else if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, res)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, nsCRT::free_ns_name, &nsCRT::sep)){
+if (!VALID_WRITE_BUFFER((char *)self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!BUFFER_READ_BUFFER(self)){
+if (!FALSE){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self.buffer_size)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, &res)){
+if (!VALID_WRITE_BUFFER(n)){
+<if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, 1)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER){
+if (!VALID_WRITE_BUFFER(self) || (!PyArg_ParseTuple(args, "y*:write", &buf))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER((void**)self)){
+if (!(ValID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self, &buf)){
+if (!VALID_WRITE_BUFFER(self) && ((offset <0) && ((offset <0)))){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WAITOK){
+if (!MAP_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) || (offset <0)){
+if (!VALID_WRITE_BUFFER(&self->buf)){
+if (valID_WRITE_BUFFER(self) == 0){
+if (!VALID_WRITE_BUFFER(buffered)){
+if (!VALID_WRITE_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(m)){
+if (!VALID_RESTORE_BUFFER(self)){
+if (!VALID_RUNNING_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self, &p)){
+if (!VALID_WRITE_BUFFER(self, &bufferedwriter)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&self->buffer)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_DEBUG){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!PyObject_WRITE_BUFFER(self)){
+if (!Py_BUFFER_WRITE(self)){
+if (_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(res)){
+if (!VALID_WRITE_BUFFER(self) ||!FAILURE){
+if (!IF_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((void *) self)){
+if (!SAVE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (res!= NULL)){
+if (!VALID_WRITE_BUFFER(NULL)){
+if (!Py_REFERENCE_BUFFER(self)){
+if (PY_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (SIGNAL("WRITE_BUFFER: can't write buffer"))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, &rv)){
+if (!VALID_WRITE_BUFFER_READ(self)){
+if (self!= NULL){
+if (!VALID_WRITE_BUFFER(args)){
+if (!VALID_WRITE_BUFFER(self, &os)){
+if (!VALID_WRITE_BUFFER_FAILURE(self)){
+else if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+&else if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!IS_SUCCEEDED(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER( self ) ){
+if (!PIDGET(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_FOREACH_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&buf)){
+if (!VALID_WRITE_BUFFER(self) && ((offset <0) && ((offset &0)))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!__VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!PyArg_Write_BufFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!(self->data_flags & PTHREAD_BUFFER_READ)){
+if (!Py_VALID_WRITE_BUFFER(self)){
+if (VALID_WRITE_BUFFER(self)!= 0){
+if (!void){
+if (!VALID_WRITE_BUFFER(self) && (is_SysAddRef(self) &&!PyArg_SysAddRef(self))){
+if (!INVALID_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&self->raw_pos)){
+if (!VALID_WRITE_BUFFER(self, &err)){
+if (!PyArg_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) && ((offset 0) && ((offset <0)))){
+if (!VALID_WRITE_BUFFER(self->buffer_size)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(*args)){
+if (!VALID_WRITE_BUFFER(self) && ((offset &0) && ((offset 0)))){
+if (!VALID_WRITE_BUFFER(self, &is_Closing)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) &&!ENTER_BUFFERED(self)){
+if (!VALID_WRITE_BUFFER_DEBUG){
+if (!VALID_WRITE_BUFFER(self.buffer)){
+if (!VALID_WRITE_BUFFER(self) ||!VALID_WRITE_FAILURE(self)){
+if (!VALID_WRITE_BUFFER(dev)){
+if (!Py_BUFFER_FLAGS(self)){
+if (!_BufferedReader_Buffer_Open(self)){
+if (!VALID_WRITE_BUFFER(self) &&!PL_DHASH_INSTANCE(p)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_DEBUG_BUFFER(self)){
+if (!VALID_WRITE_BUFFER((u_long)self)){
+if (!VALID_WRITE_BUFFER(self) &&!PyPy_UNLOCK(self)){
+if(!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(nsnull)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!Py_BUFFER_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self->buffer)){
+if (!VALID_WRITE_BUFFER((void*)self)){
+if (!VALID_WRITE_BUFFER(self) && ((offset <0) && ((offset 0)))){
+if (!FALSE(VALID_WRITE_BUFFER(self))){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!Py_Buffer_Assign(&buf)){
+if (!res){
+if (!VALID_WRITE_BUFFER(self) && (!FAILURE)){
+else <if (!VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(&self->raw_ptr)){
+if (!VALID_WRITE_BUFFER(&self->_current_buffer)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) <PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!Valid_WRITE_BUFFER(self)){
+if (!PyValidator_BUFFER(self)){
+if (!VALID_WRITE_BUFFER2(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (IS_CLOSED(self)) &PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self) || (args[0]!= NULL)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!XP_VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!(!_failed_toread_write_error(self))){
+if (!VALID_WRITE_BUFFER(self) && (!HAVE_STATUS(self))){
+if (NULL == VALID_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; <if (!ENTER_BUFFERED(self)) <PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!VALID_WRITE_BUFFER(self, "c:%lx", (*(args == NULL)? '<0': '0'))){
+if (!VALID_WRITE_BUFFER(self, PZ_INT)){
+if (!_Bufferedwriter_write_buffer(self)){
+if (!VALID_WRITE_BUFFER(self) ||!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (IS_CLOSED(self)) PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; &if (!ENTER_BUFFERED(self)) &PyBuffer_Release(&buf); return NULL; if (!PyErr_SetString(PyExc_ValueError, "write to closed file"); PyBuffer_Release(&buf); return NULL; if (!ENTER_BUFFERED(self)) PyBuffer_Release(&buf); return NULL; if (!PyErr_Set{
+if (!Py_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) &&!VALID_SUCCESS){
+if (!VALID_WRITE_BUFFER(self) &&!(__unused__)){
+if (!VALID_BUFFER(self)){
+if (!VALID_IS_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(self) && (not_found)){
+if (!CHECK_WRITE_BUFFER(self)){
+if (!VALID_WRITE_BUFFER(&self->buffer_size)){
+if (!VALID_WRITE_BUFFER(self, &cvs_data)){
+if (!VALID_WRITE_BUFFER((int)self)){
+if ( (!VALID_WRITE_BUFFER(self)) ){

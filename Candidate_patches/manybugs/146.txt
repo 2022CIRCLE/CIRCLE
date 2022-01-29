@@ -1,0 +1,605 @@
+golden:
+<extra_id_0>
+inference:
+return 0;
+return;
+return ret;
+return NS_OK;
+return retval;
+
+return (FAILURE);
+return rv;
+return PR_FALSE;
+return FALSE;
+return RETURN_FALSE;
+return (FALSE);
+return EINVAL;
+RETURN_FALSE;
+return result;
+return (0);
+return -1;
+RETURN_FAILURE;
+return 1;
+return RETURN_FAILURE;
+return FAILURE;
+return (RETURN_FALSE);
+RETURN_TRUE;
+return(FALSE);
+return(FAILURE);
+return_FAILURE;
+return JS_FALSE;
+return nsnull;
+return PR_FAILURE;
+return NULL;
+xmlFree(mem);
+return res;
+return false;
+return TRUE;
+ReTURN_FALSE;
+goto out;
+return f;
+return RETURN;
+#endif
+return DOM_FAILURE;
+break;
+return n;
+return XML_FALSE;
+return ret_FAILURE;
+return PR_TRUE;
+return PZ_FALSE;
+return READ_FALSE;
+return ret_FALSE;
+return ENOENT;
+return ;
+goto done;
+return nil;
+return XML_TRUE;
+return return;
+error = RETURN_FALSE;
+return ERR_FAILURE;
+return code;
+return _FAILURE;
+return EIF_FAILURE;
+result = RETURN_FALSE;
+return (ret);
+return EINTR;
+xfree(mem);
+ERR_FAILURE;
+return NS_FAILURE;
+goto exit;
+return errno;
+return ERR_FALSE;
+return RETURN_TRUE;
+return RECURSE;
+__return_FALSE;
+return EIF_FALSE;
+return (1);
+return (false);
+return NS_FALSE;
+return fres;
+ret = 0;
+#endif return 0;
+*return_FALSE;
+return (ERROR_FAILURE);
+return
+return_FALSE;
+goto cleanup;
+goto fail;
+return (TRUE);
+return void;
+goto ret;
+return fclose;
+RETURN_SUCCESS;
+return EPERM;
+return nresult;
+return doc_props;
+return ReTURN_FALSE;
+return fd;
+return err;
+return true;
+void RETURN_FALSE;
+return AFAILURE;
+return RAPTOR_FAILURE;
+return error;
+xfree(mem); return;
+return val;
+return EMPTY;
+return (failed);
+return INVALID_ARGS;
+return ENOBUFS;
+ret = FAILURE;
+return ERROR_FAILURE;
+exit_FAILURE;
+return DOM_OK;
+return PZ_FAILURE;
+return JS_FAILURE;
+returnFAILURE;
+return (EINVAL);
+exit(1);
+return DOM_FALSE;
+return DOM_TRUE;
+#endif return;
+return xmlError;
+(void)return_FALSE;
+return xfree(mem);
+return eval;
+return zval;
+ret = return;
+return fclose();
+return (return);
+return 2;
+return1;
+return True;
+dom_return_FALSE;
+return XUL_FAILURE;
+return PROT_FAILURE;
+PR_FAILURE;
+goto end;
+return nret;
+return fcnt;
+goto retval;
+ret = TRUE;
+return-1;
+return YES;
+return fret;
+return(1);
+return XML_FAILURE;
+return ret_false;
+ret = ret;
+return ERR;
+RETURN_FALSE; return;
+return NUM_ARGS;
+return XML_OK;
+return EOF;
+NS_RELEASE(intern);
+retval = FALSE;
+return (ERR);
+#endif return NS_OK;
+ret = PR_FALSE;
+RETURN_ERR;
+ret = PR_FAILURE;
+NS_RELEASE(docp);
+xfree(intern->document);
+return ret_FAIL;
+retval_FAILURE;
+ret = return_FAILURE;
+#endif return (FAILURE);
+return:
+ret = return_FALSE;
+retval = 0;
+xmlfree(mem);
+return ntohs();
+return xmlFailure;
+return (RETURN_FAILURE);
+RETURN_FALSE ();
+continue;
+return retval_FALSE;
+RETURN_FALSE; break;
+XP_UNLOCK();
+return fs_retval;
+RETURN_FALSE; */
+fclose(intern->document);
+DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* XXX this doesn't work because * this does * don't work in the DOM * state. */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result;  DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size)  if (mem) xmlFree(mem); return;  /* XXX */ rv = sa
+/* Return false if it was passed in */ return 0;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret)  ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret)  ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret)  ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret)  ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern);   if (ret)  ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret)  ret = DOM_GET_OBJ(docp,
+ret = RETURN_FALSE;
+xmlFree(mem); return 0;
+xmlFree(mem); return (FALSE);
+XMLElement *rule = XMLElement_ToString(*intern->document); if (rule) xmlFree(rule); return;
+#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem);  #endif
+xfree(intern->document); return;
+xfree(mem); return 0;
+DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);  else htmlDocDumpMemory(docp, &mem, &size);
+retval = RETURN_FALSE;
+rv = RETURN_FALSE;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp)  if (fp->name.flags & DOM_CONTENT_STRING)  xmlFree(fp); xmlFree(fp->name);   if (IsAvailable())  return;  DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* XXX shouldn't happen; */
+return NS_ERROR_FAILURE;
+xmlfree(mem); return;
+if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE)  /* XXX */ return;
+xmlFree(mem); return (result);
+XUL_ASSERTION(!intern->document, "cannot render DOM document html"); return DOM_ERROR_FAILURE;
+XMLElement* xml = xmlStringBinding_value(intern->document, mem, &xml, &xml) == 0; return 0;
+DOM_ERROR("bad value %s'" "%sn", __func__,intern->document); return;
+/* * We have no data, but we will be done again. */ xmlFree(mem); return 0;
+/* * Returning this object to the current object. */ return 0;
+if (intern->document)  char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format);  else  htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return;  /* end dom_document_save_html */ return;
+
+&return 0;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<return 0;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+#endif return 0;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* XXX shouldn't happen; */
+&return NS_OK;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<return NS_ERROR_FAILURE;
+&<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); #endif
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+DOM_ERROR("bad value &%s'" "%s<n", __func__,intern->document); return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); &#endif
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+<retval = RETURN_FALSE;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+RETURN_FALSE;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+<<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+return NS_OK;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+return 0;
+<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+<&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+<#endif return 0;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+&<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+return rv;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+rv = RETURN_FALSE;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<return (FAILURE);
+&<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+<#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); #endif
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+RETURN_FALSE;
+&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<return rv;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+DOM_ERROR("bad value %s'" "%sn", __func__,intern->document); return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+DOM_ERROR("bad value %s'" "%s&n", __func__,intern->document); return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+<return ret;
+&RETURN_FALSE;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&return 0;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+return (FAILURE);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+&&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&return rv;
+</* Return false if it was passed in */ return 0;
+<&return NS_ERROR_FAILURE;
+&&return NS_ERROR_FAILURE;
+<&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = RETURN_FALSE;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+&/* XXX shouldn't happen; */
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+<return retval;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+<<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+DOM_ERROR("bad value &%s'" "%s&n", __func__,intern->document); return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); <#endif
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+<return 0;
+<DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size);
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+/* Return false if it was passed in */ return 0;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+DOM_ERROR("bad value <%s'" "%s<n", __func__,intern->document); return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&rv = RETURN_FALSE;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+return retval;
+DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size);
+DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+<&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+DOM_ERROR("bad value %s'" "%s<n", __func__,intern->document); return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+&#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); #endif
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+<<return NS_ERROR_FAILURE;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&#endif return 0;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+DOM_ERROR("bad value &%s'" "%sn", __func__,intern->document); return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+DOM_ERROR("bad value <%s'" "%s&n", __func__,intern->document); return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+&&&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+&return retval;
+return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size);
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&return (FAILURE);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+&#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); <#endif
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+return NS_ERROR_FAILURE;
+&return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size);
+&<return NS_ERROR_FAILURE;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+DOM_ERROR("bad value <%s'" "%sn", __func__,intern->document); return;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+<return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+<&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); <#endif
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; &/* XXX */ rv = sa
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+</* XXX shouldn't happen; */
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+<ret = RETURN_FALSE;
+&&<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) </* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+<<&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) &/* XXX */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); &#endif
+<RETURN_FALSE;
+retval = RETURN_FALSE;
+&/* Return false if it was passed in */ return 0;
+<rv = RETURN_FALSE;
+DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size);
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&return ret;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+return 0;
+&return NS_ERROR_FAILURE;
+<#ifdef LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); #else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); &#endif
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else htmlDocDumpMemory(docp, &mem, &size);
+<if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; /* end dom_document_save_html */ return;
+&if (end_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE) /* XXX */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) &if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); <else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); else <htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+RETURN_FAILURE;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) <if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+<return NS_OK;
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+if (intern->document) &char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; </* end dom_document_save_html */ return;
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; <DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; /* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+if (intern->document) <char* docp = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else &htmlDocDumpMemory(docp, &mem, &size); xmlFree(mem); return; &/* end dom_document_save_html */ return;
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+ret = RETURN_FALSE;
+&retval = RETURN_FALSE;
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); &if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+return ret;
+<ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+&ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+</* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) if (fp->name.flags & DOM_CONTENT_STRING) &xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) &ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) <ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (ret) ret = DOM_GET_OBJ(docp,
+XMLElement* result = XMLElement(); if (NS_FAILED(result)) return result; /* XXX: don't release DOM_document_save_html */ result = XMLElement(*this, getThis(), &id, dom_document_class_entry); if (NS_FAILED(result)) return result; return result; &DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); if (!size) <if (mem) xmlFree(mem); return; </* XXX */ rv = sa
+&/* * If we got the docs we don't have to get a doc_props, then retry the first. */ if (fp) &if (fp->name.flags & DOM_CONTENT_STRING) <xmlFree(fp); xmlFree(fp->name); <if (IsAvailable()) return; DOM_GET_OBJ(docp, id, xmlDocPtr, intern);
+&DOM_GET_OBJ(docp, id, xmlDocPtr, intern); if (LIBXML_VERSION >= 20623 doc_props = dom_get_doc_props(intern->document); format = doc_props->formatoutput; htmlDocDumpMemoryFormat(docp, &mem, &size, format); &else htmlDocDumpMemory(docp, &mem, &size);

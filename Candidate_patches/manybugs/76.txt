@@ -1,0 +1,623 @@
+golden:
+tif->tif_flags &= ~TIFF_BEENWRITING;    /* reset before new dir */ tif->tif_flags &= ~TIFF_BUF4WRITE;      /* reset before new dir */
+inference:
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING;
+
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir. */
+TIFF_BEENWRITING; /* reset before new dir */
+/* reset before new dir */
+TIFF_BEENWRITING(tif);
+TIFF_BEENWRITING(tif); /* reset before new dir */
+TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_iflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directory */
+tif->tif_flags&=TIFF_BEENWRITING; TIFFFreeDirectory(tif);
+/* reset before new dir */ tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir*/
+TIFF_BEENWRITING(tif,dir,dircount);
+tif->tif_flags&=TIFF_BEENWRITE;
+if (tif->tif_flags& TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags &= TIFF_BEENWRITING;
+tif->tif_flags&= TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags &=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING;/* reset before new dir */
+&tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before newdir */
+tif->tif_vflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEGINWRITING; /* reset before new dir */
+flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags &= TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif)
+tif->tif_flags&=TIFF_BEENWRITING; /* reset after new dir */
+TIFF_BEENWRITING(tif,dir);
+tif->tif_flags&=TIFF_BEENWRITING; /* Reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir! */
+tif->tif_fileflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING
+if (tif->tif_flags&TIFF_BEENWRITING) /* reset before new dir */
+tf->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_cflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEEN_WRITING; /* reset before new dir */
+/* reset before new dir. */
+tif->tif_flags&=TIFF_BEENWRITING; /* resetbefore new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new Dir */
+TIFF_BEENWRITING(tif->tif_flags); /* reset before new dir */
+tif->tif_filters&=TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags)
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir; */
+tif->tif_flags&=TIFF_NEEDGIANT; /* reset before new dir */
+TIFF_BEENWRITING(); /* reset before new dir */
+tif->tif_flags&=TIFF_BREAK; /* reset before new dir */
+tif->tif_files&=TIFF_BEENWRITING; /* reset before new dir */
+if (tif->tif_flags & TIFF_BEENWRITING) /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&=TIFF_BEENWRITING);
+tif.tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir... */
+TIFF_BEENWRITING(tif->tif_flags);
+tif->tif_bflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=DIFF_BEENWRITING; /* reset before new dir */
+tif->tif_tflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_diroff&=TIFF_BEENWRITING; /* reset before new dir */
+*tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags |= TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&= TIFF_BEENWRITING;
+TIFF_BEENWRITING(tif,dir,dircount); /* reset before new dir */
+tif->tif_flags&=TIFF_NORMAL; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new file */
+tif->tif_flags&=TIFF_BEENWRITING /* reset before new dir */
+tif->tif_xflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BREENWRITING; /* reset before new dir */
+tif->tif_lflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directory. */
+tif->tif_flags&=TIFF_BEENWRITE; /* reset before new dir. */
+TIFFFetchDirectory(tif,dir,dircount);
+tif->tif_flags&=TIFF_BEENWRITING; /* * reset before new dir */
+tif->tif_flags&=TIF_BEENWRITING; /* reset before new dir */
+tif->tif_iflags&=TIFF_BEENWRITING;
+th->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING();
+tif->tif_sflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_NONE; /* reset before new dir */
+TIFF_BEENWRITING; /* reset before new dir. */
+tif->tif_flags&=TIFF_BEENWIRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /*reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&)
+TIFF_BEENWRITING /* reset before new dir */
+tif->tif_pflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_WRITE; /* reset before new dir */
+TIFF_BEENWRITING(tif,dir); /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directories */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset */
+tif->tif_flags&=TIFF_BEENWRITING: /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWAIT; /* reset before new dir */
+tif->tif_flags&=TIFFBEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_OK; /* reset before new dir */
+tif->tif_localflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_RESTORE; /* reset before new dir */
+tif->tif_diroff=tif->tif_nextdiroff;
+if(tif->tif_flags& TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING/* reset before new dir */
+tif->tif_modules&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif__flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_rflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF__BEENWRITING; /* reset before new dir */
+(tif->tif_flags&=TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_opts&=TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(&tif->tif_flags); /* reset before new dir */
+tif->tif_plags&=TIFF_BEENWRITING; /* reset before new dir */
+sflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_DONE; /* reset before new dir */
+tif->tif_flags&=FIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before the new dir */
+tif->tif_flags &=TIFF_BEENWRITING;
+TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_aflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_DEBUG; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new DIR */
+(tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+if(tif->tif_flags&TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=TIFF_SYNC; /* reset before new dir */
+tif->tif_dflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir **/
+/* Reset before new dir */
+tif->tif_nextdiroff=tif->tif_nextdiroff;
+TIFF_BEENWRITING
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir) */
+tif->tif_flags&=TIFF_BEENWRITING; /* set before new dir */
+/* reset before new dir. */ tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_iocmd = TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(&tif->tif_flags);
+tif->tif_flags&=TIFF_ BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir
+tif->tif_flags&=TIFF_BRWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset beforenew dir */
+tif->tif_flags&=TIFF_FEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BOUNDWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING); /* reset before new dir */
+TIFF_BEENWRITING(tif); /* reset before new dir. */
+tif->tif_flags&=TIFF_INVALID; /* reset before new dir */
+&tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING>; /* reset before new dir */
+tif->tif_flags&&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWHRITING; /* reset before new dir */
+(tif->tif_flags& TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=TIFF_INWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new direction */
+tif->tif_flags&=TIFF_BEENWRITING]; /* reset before new dir */
+tif->tif_flags&=TIFF_BEGINWRITING;
+tif->tif_flags&=TIFF_BREAKWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEEN_WRITING;
+TIFF_BEENWRITING(tif->tif_flags& TIFF_BEENWRITING);
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dirs */
+tif->tif_flags&=TIFF_READ; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; else /* reset before new dir */
+splx(s);
+tif->tif_flags&=TIFF_NOWAIT; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWIRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* delete before new dir */
+tif->tif_diroff&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING  /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset for new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before newdir. */
+tif->tif_flags&TIFF_BEENWRITING; /* reset before new dir */
+if (!TIFFCheckDirOffset(tif,tif->tif_nextdiroff)) return 0;
+tif->tif_flags&=TIFF_NEEDGIANT;
+tif->tif_flags&=TIFF_BEENWRITING);
+tif->tif_diroff = tif->tif_nextdiroff;
+tif->tif_flags&=TIFF_BREENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir? */
+tif->tif_curdir++;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset by new dir */
+TIFF_BEENWRITING(tif->tif_flags&=TIFF_BEENWRITING)
+tif->tif_flags&=TIFF_BEENWAIT;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir: */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir.*/
+if (tif->tif_flags& TIFF_BEENWRITING) TIFFFreeDirectory(tif);
+TIFF_BEENWRITING(&tif->tif_flags)
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir, */
+/* reset before new directory */
+(*tif->tif_cleanup)(tif);
+tif->tif_diroff=tif->tif_diroff;
+tif->tif_reset();
+tif->tif_flags&=TIFF_NORMAL;
+TIFF_BEENWRITE;
+TIFFBEENWRITING(tif);
+/* reset before new dir*/
+TIFF_BEENWRRITING(tif);
+TIFF_BEENWRITING(tif->tif_flags& TIFF_BEENWRITING); /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags) &= TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_xflags&=<TIFF_BEENWRITING; /* reset before new dir */
+/* reset before new dir. */ tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&&=&TIFF_BEENWRITING; /* reset before new dir */
+&tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_FEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_NORMAL; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITE; /* reset before new dir. */
+tif.tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directory. */
+tif->tif_flags&=&TIFF_WRITE; /* reset before new dir */
+if(tif->tif_flags&<TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=TIFF_DONE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING: /* reset before new dir */
+tif->tif_flags&=<TIFF_ BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* Reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset */
+tif->tif__flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_diroff&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; else /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir*/
+TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_NEEDGIANT; /* reset before new dir */
+*tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWAIT;
+tif->tif_flags&=TIFF_BEENWRITING /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_diroff&=<TIFF_BEENWRITING;
+tif->tif_fileflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING&; /* reset before new dir */
+(tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir, */
+tif->tif_flags&=TIFF__BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_DEBUG; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&=&TIFF_BEENWRITING);
+tif->tif_flags&= TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_tflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags &= <TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir; */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir? */
+tif->tif_diroff&=&TIFF_BEENWRITING;
+tif->tif__flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITE;
+tif->tif_flags&=&TIFF_BREENWRITING;
+tif->tif_flags&=<TIFF_DONE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset by new dir */
+tif->tif_flags&= <TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset by new dir */
+tif->tif_flags&=&TIFF_OK; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING;/* reset before new dir */
+tif->tif_pflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /*reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir **/
+tif->tif_opts&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset after new dir */
+tif->tif_flags&=TIFF_BEENWRITING);
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir
+tif->tif_flags&=TIFF_NEEDGIANT; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&=TIFF_BEENWRITING);
+tif->tif_flags |= TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* * reset before new dir */
+tif->tif_diroff&=&TIFF_BEENWRITING; /* reset before new dir */
+sflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&= TIFF_BEENWRITING;
+tif->tif_flags&=&TIFF_NEEDGIANT;
+tif->tif_flags&= <TIFF_BEENWRITING;
+tif->tif_flags&=&TIFF_DONE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BREAKWRITING; /* reset before new dir */
+&tif->tif_flags&=<TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWHRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEGINWRITING;
+(tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_NORMAL;
+tif->tif_flags &= TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_WRITE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset beforenew dir */
+tif->tif_flags&=TIFF_BREENWRITING;
+tif->tif_flags&=&TIFF_NONE; /* reset before new dir */
+tif->tif_flags&=<TIF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir, */
+tif->tif_flags&&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING]; /* reset before new dir */
+tif->tif_flags&=TIFF_ BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_FEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING>; /* reset before new dir */
+tif->tif_vflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* set before new dir */
+tif->tif_flags&=&TIFF_BREAKWRITING; /* reset before new dir */
+tif->tif_files&=<TIFF_BEENWRITING; /* reset before new dir */
+*tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&=&TIFF_BEENWRITING)
+tif->tif_flags&=&TIFF__BEENWRITING; /* reset before new dir */
+tif->tif_filters&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEGINWRITING; /* reset before new dir */
+tif->tif_rflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BREAK; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir) */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new file */
+sflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* delete before new dir */
+tif->tif_rflags&=TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags&=TIFF_BEENWRITING)
+tif->tif_flags&=<TIFF_BEENWRITING]; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new directories */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir.*/
+tif->tif_flags&=<TIFF_BEENWRITING /* reset before new dir */
+tif->tif_flags&<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_iflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new direction */
+tif->tif_flags&=<TIFF_BEENWRITING; /* set before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir! */
+tif.tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directories */
+tif->tif_flags&=<TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING<; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir) */
+tif->tif_flags&=<TIFF_BEENWAIT;
+tif->tif_flags&=&TIFF_NORMAL; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new DIR */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dirs */
+tif->tif_flags&=TIFF_BEENWIRITING;
+tif->tif_diroff&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING
+tif->tif_flags&=&DIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_WRITE; /* reset before new dir */
+tif->tif_flags&=&TIFF_NOWAIT; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir; */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset for new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new directories */
+tif->tif_flags&=&TIFF_BOUNDWRITING; /* reset before new dir */
+tif->tif_flags |= &TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING/* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset beforenew dir */
+TIFF_BEENWRITING(tif->tif_flags&=<TIFF_BEENWRITING);
+tif->tif_iflags&=TIFF_BEENWRITING;
+<TIFF_BEENWRITING; /* reset before new dir */
+(tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_iflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; TIFFFreeDirectory(tif);
+tif->tif_flags&=&TIFF_BEENWRITING; /* * reset before new dir */
+tif->tif_flags&=TIFF_NORMAL;
+TIFF_BEENWRITING(tif->tif_flags&TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=<TIFF_INVALID; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWAIT; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new directory */
+tif->tif_opts&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_SYNC; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset */
+tif->tif_flags |= <TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_lflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_DEBUG; /* reset before new dir */
+tif->tif_flags&=TIFF_INWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEGINWRITING; /* reset before new dir */
+tif->tif_sflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_RESTORE; /* reset before new dir */
+tif->tif_tflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING);
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset beforenew dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before newdir. */
+tif->tif_flags&=<TIFF_BEEN_WRITING;
+th->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING;
+TIFF_BEENWRITING(tif->tif_flags&<TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=<TIFF_BREENWRITING;
+TIFF_BEENWRITING(tif->tif_flags&=<TIFF_BEENWRITING)
+tif->tif_flags&=TIF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new directory */
+tif->tif_flags&=TIFF_OK; /* reset before new dir */
+tif->tif_vflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags &=TIFF_BEENWRITING;
+tf->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir: */
+tif->tif_diroff&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before newdir */
+tif->tif_flags&&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir **/
+TIFF_BEENWRITING(tif->tif_flags) &= &TIFF_BEENWRITING; /* reset before new dir */
+tf->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+*tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /*reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before newdir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir: */
+tif->tif_flags&=<TIFF__BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset */
+tif.tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BREENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* set before new dir */
+TIFF_BEENWRITING(tif->tif_flags&&TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=<TIFF_BREENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFFBEENWRITING; /* reset before new dir */
+tif->tif_plags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_aflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_xflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir.*/
+tif->tif_dflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_plags&=&TIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags) &= <TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_INVALID; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEEN_WRITING; /* reset before new dir */
+tif->tif_flags&=&TIF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_NEEDGIANT;
+tif->tif_flags&=&TIFF_BEENWRITING </* reset before new dir */
+tif->tif_cflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_NEEDGIANT;
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new DIR */
+flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING
+tif->tif_pflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_cflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* delete before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING;/* reset before new dir */
+tif->tif_aflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* Reset before new dir */
+tif->tif_localflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new file */
+tif->tif_files&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITE; /* reset before new dir. */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir
+tif->tif_iflags&=&TIFF_BEENWRITING;
+th->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_aflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_NOWAIT; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; else /* reset before new dir */
+TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&FIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before newdir. */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset by new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir.*/
+th->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+if(tif->tif_flags&TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWIRITING; /* reset before new dir */
+tif->tif_modules&=<TIFF_BEENWRITING; /* reset before new dir */
+&tif->tif_flags&=&TIFF_BEENWRITING;
+tif->tif_flags&=<TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir. */
+&tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir*/
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BREAK; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before newdir. */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir) */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir, */
+tif->tif_flags&=<TIFF_BEENWRITING </* reset before new dir */
+tif->tif_flags&=<TIFF_FEENWRITING; /* reset before new dir */
+tif->tif_modules&=&TIFF_BEENWRITING; /* reset before new dir */
+sflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING&; /* reset before new dir */
+tif->tif_flags&=TIFF_INVALID; /* reset before new dir */
+tif->tif_iflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir **/
+tif->tif_flags&=TIFF_BEENWAIT;
+tif->tif_plags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEEN_WRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; else /* reset before new dir */
+tif->tif_lflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before the new dir */
+tif->tif_flags&=TIFF_READ; /* reset before new dir */
+tif->tif_dflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEGINWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir... */
+tif->tif_flags&=<TIFF_DEBUG; /* reset before new dir */
+/* reset before new dir */ tif->tif_flags&=TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING &/* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir; */
+tif->tif_sflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dirs */
+tif->tif_pflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_cflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tf->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif__flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITE;
+tif->tif_flags&=TIFF_NORMAL; /* reset before new dir */
+tif->tif_flags&=TIFF_BEEN_WRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* * reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_NOWAIT; /* reset before new dir */
+tif->tif_flags &=&TIFF_BEENWRITING; /* reset before new dir */
+(tif->tif_flags&=TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITE; /* reset before new dir. */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new file */
+flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFFBEENWRITING; /* reset before new dir */
+tif->tif_modules&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<DIFF_BEENWRITING; /* reset before new dir */
+TIFF_BEENWRITING(tif->tif_flags) &= TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /*reset before new dir */
+/* reset before new dir. */ tif->tif_flags&=<TIFF_BEENWRITING;
+tif->tif_flags&=&TIFF_ BEENWRITING; /* reset before new dir */
+tif->tif_flags &=<TIFF_BEENWRITING;
+tif->tif_flags&=<TIFF_OK; /* reset before new dir */
+tif->tif_flags&=<TIFF_NORMAL;
+tif->tif_flags&=TIFF_BRWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir! */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before the new dir */
+tif->tif_sflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_rflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWIRITING; /* reset before new dir */
+tif->tif_lflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING;/* reset before new dir */
+tif->tif_flags&=DIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before the new dir */
+tif->tif_flags&=&TIFFBEENWRITING; /* reset before new dir */
+<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_fileflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_SYNC; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir... */
+tif->tif_flags&=TIFF_BREAK; /* reset before new dir */
+&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir! */
+tif->tif_localflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWIRITING;
+tif->tif_iflags&=<TIFF_BEENWRITING;
+tif->tif_flags&=FIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_READ; /* reset before new dir */
+tif->tif_flags&=<TIFF_NEEDGIANT; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWHRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING/* reset before new dir */
+tif->tif_xflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING>; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING: /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir. */
+tif->tif_flags&=&TIFF_BEENWHRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWIRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; TIFFFreeDirectory(tif);
+tif->tif_flags&=&TIFF_BREENWRITING; /* reset before new dir */
+tif->tif_flags&= &TIFF_BEENWRITING;
+tif->tif_flags&=&TIFF_BEENWRITING; /* resetbefore new dir */
+flags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWAIT; /* reset before new dir */
+tif->tif_flags&=&TIFF_BRWRITING; /* reset before new dir */
+tif->tif_bflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new DIR */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new Dir */
+tif->tif_flags&=&TIFF_BEEN_WRITING;
+tif->tif_vflags&=&TIFF_BEENWRITING; /* reset before new dir */
+&tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* resetbefore new dir */
+tif->tif_flags&=<TIFF_BOUNDWRITING; /* reset before new dir */
+tif->tif_flags &= &TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_NONE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; TIFFFreeDirectory(tif);
+tif->tif_flags&=&TIFF_BEENWRITING<; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING &/* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new directory */
+tif->tif_dflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset after new dir */
+tif->tif_flags&=<TIFF_SYNC; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING </* reset before new dir */
+&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&= &TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags &=&TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir... */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dirs */
+tif->tif_flags&=&TIFF_BEENWRITING; /* delete before new dir */
+tif->tif_flags&=<TIFF_INWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEGINWRITING;
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new directory. */
+tif->tif_flags&=&TIFF_RESTORE; /* reset before new dir */
+if (tif->tif_flags&TIFF_BEENWRITING) /* reset before new dir */
+/* reset before new dir */ tif->tif_flags&=<TIFF_BEENWRITING;
+tif->tif_flags &=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWAIT; /* reset before new dir */
+tif->tif_flags&=<TIFF_NONE; /* reset before new dir */
+tif->tif_flags&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* resetbefore new dir */
+tif->tif_flags&=TIFF_BOUNDWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING);
+tif->tif_flags&=TIFF_BEENWRITING: /* reset before new dir */
+(tif->tif_flags&=&TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_bflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset for new dir */
+tif->tif_flags&=&TIFF_BEENWRITE;
+tif->tif_flags &=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir*/
+tif->tif_localflags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEEN_WRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BRWRITING; /* reset before new dir */
+if(tif->tif_flags&&TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new Dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new direction */
+&tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_files&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_RESTORE; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING]; /* reset before new dir */
+if (tif->tif_flags&&TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_flags&=&TIFF_INWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new directory. */
+tif->tif_flags&=<TIFF_READ; /* reset before new dir */
+/* reset before new dir */ tif->tif_flags&=&TIFF_BEENWRITING;
+tif->tif_flags&=<TIFF_BEENWIRITING;
+(tif->tif_flags&=<TIFF_BEENWRITING); /* reset before new dir */
+tif->tif_tflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir? */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset for new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir: */
+tif->tif_filters&=&TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEGINWRITING;
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new direction */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before new dir. */
+tif->tif_bflags&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING<; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING &/* reset before new dir */
+/* reset before new dir. */ tif->tif_flags&=&TIFF_BEENWRITING;
+tif->tif_filters&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING>; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new dir
+tif->tif_flags&=<TIFF_BEENWRITING/* reset before new dir */
+tif->tif_flags&=TIFF_BREAKWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITING
+tif->tif_flags&=<TIFF_BEENWRITING; /* reset before new dir? */
+tif->tif_opts&=<TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING; /* Reset before new dir */
+if (tif->tif_flags&<TIFF_BEENWRITING) /* reset before new dir */
+tif->tif_fileflags&=TIFF_BEENWRITING; /* reset before new dir */
+tif->tif_flags&=&TIFF_BEENWRITE; /* reset before new dir */
+tif->tif_flags&=<TIFF_BEENWRITING&; /* reset before new dir */
+tif->tif_flags&=TIFF_BEENWRITING; /* reset before newdir */
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset after new dir */
+tif->tif_flags&=&TIFF_BEENWRITING;
+tif->tif_flags&=&TIFF_BEENWRITING; /* reset before new Dir */
+tif->tif_flags&=<FIFF_BEENWRITING; /* reset before new dir */

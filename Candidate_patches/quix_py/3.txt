@@ -1,0 +1,955 @@
+golden:
+nodesvisited.add(node)
+inference:
+#endif
+
+return any(search_from(nextnode) for nextnode in node.successors)
+return any(search_from(node) for nextnode in node.successors)
+else: return any(search_from(nextnode) for nextnode in node.successors)
+return any(search_from(startnode) for nextnode in node.successors)
+else return any(search_from(nextnode) for nextnode in node.successors)
+return search_from(startnode)
+return 0;
+search_from(startnode)
+#else return any(search_from(nextnode) for nextnode in node.successors)
+*/
+return False;
+nodesvisited = set();
+splx(s);
+free(node);
+#ifdef DEBUG
+return True;
+return nodesvisited;
+return depth_first_search(startnode, goalnode);
+search_from(node)
+return search_from(startnode) for nextnode in node.successors;
+break;
+return True;
+return search_from(nextnode) for nextnode in node.successors;
+free(startnode);
+return search_from(node)
+def depth_first_search(startnode, goalnode):
+return result;
+@endif
+#ifdef DIAGNOSTIC
+return search_from(node) for nextnode in node.successors;
+def depth_first_search(node, goalnode):
+return any(search_from(node) for node in node.successors)
+int i;
+return -1;
+nodesvisited = set()
+return None;
+else: return any(search_from(node) for nextnode in node.successors)
+node = nextnode;
+else return any(search_from(node) for nextnode in node.successors)
+return this;
+return depth_first_search(startnode, goalnode)
+printf("depth_first_searchn");
+depth_first_search(startnode, goalnode)
+def search_from(node): return False
+return search_from(nextnode)
+def search_from(node): if node in nodesvisited: return False
+depth_first_search(startnode, goalnode);
+#else return any(search_from(node) for nextnode in node.successors)
+def search_from(node): return False elif node is goalnode: return True
+def search_from(node):
+return False
+return False;
+return any(search_from(nextnode) for node in node.successors)
+node = node;
+return targetnode;
+else: return any(search_from(startnode) for nextnode in node.successors)
+nsresult rv;
+search_from(nextnode)
+return any(search_from(next_node) for nextnode in node.successors)
+#else return any(search_from(startnode) for nextnode in node.successors)
+DELAY(1000);
+#endif /* DEBUG */
+debug_printf("depth_first_searchn");
+continue;
+return search_from(startnode) for nextnode in node.successors:
+printf("depth_first_search (empty)n");
+exit(1);
+depth_first_search(node, goalnode)
+nodesvisited = 0;
+return any(search_from(firstnode) for nextnode in node.successors)
+return endnode;
+delnodesvisited;
+return search_from(nextnode) for nextnode in node.successors:
+set();
+return search_from(node) for nextnode in node.successors:
+node.successors = 0;
+return depth_first_search(node, goalnode)
+DELAY(1);
+DELAY(100);
+return any(search_from(nextnode) for nextnode in nextnode.successors)
+del(node);
+return any;
+if (node == goalnode) return True;
+def search_from(node): return True;
+if (node == goalnode) return False
+/* XXX */
+return search_from(nextnode) for nextnode in node.successors)
+if (startnode) nodesvisited = set();
+int retval;
+debug_warn("depth_first_search");
+return search_from(startnode) for nextnode in node.successors)
+if (node) search_from(node)
+if (node) nodesvisited = set();
+elif node is goalnode: return True
+othernodesvisited = set();
+if (node == goalnode) return False;
+if (node == goalnode)  return False;
+return search_from(node) for nextnode in node.successors)
+if (node) search_from(startnode)
+if (node == goalnode) return False;
+if (node == goalnode) return 0;
+return depth_first_search(node, goalnode);
+#else return search_from(startnode) for nextnode in node.successors; #endif
+debug_printf("depth_first_search()n");
+return search_from(startnode)? 0 : 0;
+out:
+return search_from(nextnode) for nextnode in node.successors
+if (node == nextnode) return True;
+def search_from(node): return False;
+return search_from(startnode) for nextnode in node.successors
+if (node == None) return 0;
+#else return search_from(node) for nextnode in node.successors; #endif
+debug_printf("depth_first_search: ", node);
+if (node == nextnode) return 0;
+def search_from(node): return True;
+def search_from(node): return False;
+return any(search_from(nextnode) for firstnode in node.successors)
+if (node == None)  return False;
+if (node == nextnode)  return False;
+if (node == goalnode) return False;
+if (node) return search_from(startnode)
+if (node == goalnode)  return True;
+def search_from(node): if node == goalnode: return True;
+if (node == nextnode) return False;
+return search_from(node) for nextnode in node.successors
+if (node == targetnode) return False
+if (node == nextnode) return False
+else return search_from(startnode) for nextnode in node.successors)
+if (node in nodesvisited) return False
+elif node == goalnode: return False
+if (node == None) return 0;
+if (node == '0') return 0;
+if (node == None) return False;
+if (node == None) return False;
+if (node == node) return False;
+if (node) return search_from(node)
+if (node == targetnode) return 0;
+if (node == targetnode) return True;
+if (node == endnode) return 0;
+if (node == node) return False
+#if defined(XP_MAC) or defined(XP_MACOSX) #endif
+search_from(startnode) for nextnode in node.successors:
+search_from(node) for nextnode in node.successors:
+if (node.successors) return search_from(startnode)
+if (startnode == None)  return False;
+else return search_from(startnode) for nextnode in node.successors;
+if (node == startnode)  return False;
+def search_from(node): if node is goalnode: return False
+return any(search_from(nextnode) for any(nextnode in node.successors))
+def search_from(node): if node == goalnode: return False;
+return any(search_from(nextnode) for nextnode in node.successors);
+if (node == startnode) return False;
+if (node == endnode) node = endnode;
+return any(search_from(nextnode) for nextnode in node.successors) #endif
+def search_from(node): if node == goalnode: return False
+if (node == nextnode)  return True;
+if (node == startnode) return False
+def search_from(node): if node == node: return True;
+def depth_first_search (startnode, goalnode):
+if (node == None) return True;
+def search_from(startnode): if node in nodesvisited: return False
+def depth_first_search(node, goalnode): return False
+def search_from(node): if node in node: return False
+def search_from(startnode): return False elif node is goalnode: return True
+#else return search_from(startnode) for nextnode in node.successors
+if (node == endnode) return False;
+if (node.successors) return search_from(node)
+def depth_first_search (node, goalnode):
+if (node == None) return False
+def search_from(node): if node not in nodesvisited: return False
+def depth_first_search(startnode, goalnode): return False
+#else return any(search_from(node) for nextnode in node.successors) #endif
+def search_from(node): if node == node: return False;
+if (startnode == None) return False;
+else return search_from(startnode) for nextnode in node.successors:
+#else return search_from(node) for nextnode in node.successors
+def search_from(startnode, goalnode): return False
+#if defined(XP_MAC) or defined(XP_MACOSX) or defined(XP_MACOSX)
+return any(search_from(nextnode) for nextnode in node.nuccessors)
+def depth_first_search(node, goalnode): node = node;
+def search_from(node): return False elif node is goalnode: return False
+debug_printf("depth_first_search: %sn", node)
+def search_from(node): if (node in nodesvisited) return False
+return search_from(startnode) for nextnode in node.successors - 1;
+def search_from(node): if node == node: return False
+def depth_first_search(startnode, goalnode): node = node;
+debug_printf("depth_first_search: node=%sn", node)
+def depth_first_search(node): if node in nodesvisited: return False
+return search_from(nextnode) for nextnode in node.successors - 1;
+def nodesvisited(node): return False elif node is goalnode: return True
+def search_from(node): if node == nextnode: return True;
+def nodesearch_from_first_search(node): return False;
+def check_next_search(startnode, goalnode): if (node!= '0') return False;
+if (node == aNode)  return NS_OK;
+return the_most_recent(node);
+if (*startnode == nextnode)  if (node == node) return True; return the_for_first_search(startnode);
+#ifdef DEBUG_nsd_debug_log (LOG_ERR, "depth_first_search: out of memory"); #endif
+def search_from(node): if node == targetnode: return False return True;
+if (!targetnode) return False;
+if (node.mrl == EOF)  node.mrl = EOF; return True;
+debug_fprintf("%s: depth_first_search: %sn", this, node, goalnode)
+def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(nextnode) for nextnode in node.successors)
+def fprintf(fprintf(stderr, "depth_first_search: ", node));
+def depth_first_search(node, goalnode): node = node.find('/');
+if (!deadstate) deadstate = -d;
+def search_from(startnode, goalnode): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors) return search_from(startnode)
+if ((node = nextnode) and (node!= node))  return any(search_from(nextnode) for nextnode in node.successors)? search_from(node) : search_from(node) for nextnode in node.successors) : search_from(node) for nextnode in node.successors;
+def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors)
+if (node!= '/')  return True;
+if (node.nextnode) return search_from(startnode)
+if (node == nextnode.successors) return search_from(startnode)? False : False;
+return find_from(node, this)
+if (startnode)  if (node.mNodeType == NODE_ANY) return NS_OK; *node = node.mNodeType;
+def m_cleanup(node): return False
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0)  printf("depth_first_search: %sn", nextnode);
+if (node) return any(search_from(nextnode) for nextnode in node.successors) return search_from(startnode)
+def find_from(node, endnode, endnode): if (startnode == endnode) return nodesvisited;
+if (node.first_search)  return False;
+def delest_search(node): return True;
+def recurse_search(node): if (node == aNode) return False;
+debug_printf("depth_first_search: node=%dn", node)
+def depth_first_search(node, goalnode): node = set();
+if (node)  if (search_from(nextnode))  if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle)  if (node.middle)  node.middle = 0;   else  if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle)  node.middle = 0;  else  node.middle = 0;
+def search_from(startnode, goalnode): if (node in nodesvisited) return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors)
+if (startnode!= nextnode.get())  #ifdef NECKO if (endnode == '0')  *node = node; return (0);  if (node)  if (startnode == '0')  node = '0';   else  *node = '0';   #endif
+if (arena)  return the_first_search(arena);
+def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors)
+if (node!= goalnode)  node.endode = node.successors;
+if (!search_from(node)) return False
+def depth_first_search(node, goalnode): return 0;
+def search_from(node): if node.find(startnode, goalnode) == -1) return False;
+if (deprecated_search_from(startnode, goalnode))  return False;
+if (startnode)  if (node == nextnode) return True; return False;
+debug_log(("depth_first_search: %sn", node));
+def depth_first_search(node, goalnode): if (node == targetnode) return True;
+if (node == None)  fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (node == '0')  nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (search_from(startnode) == None) return True;
+if (node == None) return None;
+if (node == None) return True;
+def recurse_search(node, goalnode): if (node == goalnode)  return True;
+def search_from(node): if (node!= kobj)  return False;
+if (debug_t)  printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+def depth_first_search(startnode, goalnode): if (node in nodesvisited) return False else return any(search_from(nextnode) for nextnode in node.successors)
+if (node == None)  return NS_ERROR_NULL_POINTER;
+if (*node) return (0);
+def nodede_clear();
+if (ahead)  if (ahead == 0)  return False;  else  return any(search_from(ahead) for nextnode in node.successors)
+if (element == node.elements)  return True;
+return node.get_right_symbol(node.get_first_search_key())? node.get_node_name() : targetnode.get_node_name();
+if (node == None)  return False;
+if (node!= endnode) return False
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode))  0) return DEFAULT_CAST(depth_first_search(node, goalnode))  return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (!node) return None;
+def f_search_for_first_search(node, nextnode): node = endnode; return f_search_for_first_search(node, nextnode);
+if (node == node.get()) return False;
+if (node.result == 0)  ph = this; ph = splnet(); ph.ph = targetnode;
+return find_from(node)
+if (search_from(nextnode))  search_from(nextnode)
+if (node == 0)  return False;
+if (node == goalnode)  return 0;
+def search_from_node(node): return False;
+debug_printf("depth_first_search: %dn", node.name, node.successors)
+debug_info("downdating pmap_first_search");
+if (node)  node = 0; return True;
+def search_from(node): return False elif node is goalnode: return True else: return any(search_from(node) for nextnode in node.successors)
+if (node.issingle and node.state == STATE_DISSIGNED) return True;
+def node_search_node(node, *node_name):
+debug_log(LOG_INFO, "depth_first_search: node=%d", node)
+def depth_first_search(startnode, goalnode): nodesvisited = set() def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors) return search_from(startnode)
+def search_from(startnode): return False elif node is goalnode: return True else: return any(search_from(startnode) for nextnode in node.successors) return search_from(startnode)
+if (debug) err(1, "Failed to get name of node in depth_first_search", node);
+def find_from_startnode(node): if (node == targetnode) return -1;
+if (search_from(startnode)!= 0) return False
+if (node == afw)  return False;
+def _search_from_first_search(startnode, goalnode): if (node) return False else return any(search_from(nextnode) for nextnode in node.successors)
+return fs_fetched_end(fs_fetched_end(node));
+def start_first_search(startnode, goalnode): node = node.successors; return False;
+if (node.type == NODE_POINTER) return 0;
+if (deadstate)  if (deadstate) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors)
+if (flags & SECTION_FOREACH)  /* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH)  return 0;
+if (!got) return 0;
+def void *dst; dst[dst] = '0';
+if (flags & BT_LIST_FOREACH)  if (node.startswith(':')) return False; return True;
+if (search_from(startnode) = 0) return True;
+def depth_first_search(startnode, goalnode, iode, depthflags): nodesvisited = set() def depth_first_search(startnode, goalnode, iode, depthflags): if (node == iode) return False return True if (node == iode) return False
+if (node) node = startnode;
+if ((node = node) and!node.exists())  return True;
+debug_err("depth_first_search: node=%s", node)
+#ifdef DEBUG_PRINTF
+def ffirst_search(node, goalnode): if node.is_node: return False else: return any(search_from(nextnode) for nextnode in node.successors)
+if (node == targetnode)  return True;
+def depth_first_search(node, goalnode): nodesvisited = set() def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(node) for nextnode in node.successors) return search_from(node) for nextnode in node.successors; return search_from(node) for nextnode in node.successors;
+def _search_from_node(startnode, goalnode): return True;
+if (!node) return False;
+if (debug_mode) printf("depth_first_searchn");
+def search_from(node, endnode): if node == endnode: return True;
+def search_from(node): if (node!= goalnode) return False
+if (startnode) node.flags &= NONE;
+if (node) return True;
+if (node == '0')  return False;
+if (endnode and endnode!= '0')  if (startnode == '0') endnode = '0'; else endnode = '0';
+def nodesvisited = set() def search_from(node): if node == node: return False; return False;
+if (search_from(nextnode) for nextnode in node.successors) return any(search_from(nextnode) for nextnode in node.successors)
+def search_from_attr(node, attr): return do_search(attr, attr);
+if (node == node.get_nodeinfo()) return True;
+def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(node) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors;
+if (node!= goalnode) return search_from(startnode)
+return all(search_from(nextnode) for nextnode in node.successors)
+
+if (node == '0') <nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node!= goalnode) &node.endode = node.successors;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) 0) return DEFAULT_CAST(depth_first_search(node, goalnode)) <return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (search_from(startnode) = 0) return True;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+if (node == '0') &nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (endnode and endnode!= '0') if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (ahead) &if (ahead == 0) &return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) if (ahead == 0) &return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) &return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '<0') <if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+debug_printf("depth_first_searchn");
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+if (ahead) if (ahead == 0) <return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+if (endnode and endnode!= '<0') <if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (debug_t) <printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (endnode and endnode!= '<0') &if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (node == None) <return NS_ERROR_None_POINTER;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) &if (ahead == 0) <return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+if (node == '0') <nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (debug_mode) printf("depth_first_searchn");
+if (node == '<0') <nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+def check_next_search(startnode, goalnode): if (node!= '<0') return False;
+if (node == '&0') nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (endnode and endnode!= '<0') &if (startnode == '<0') endnode = '0'; else endnode = '0';
+debug_log(("depth_first_search: %s&n", node));
+if (node == None) return False;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) 0) return DEFAULT_CAST(depth_first_search(node, goalnode)) &return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (node == goalnode) return True;
+if (ahead) <if (ahead == 0) return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+if (endnode and endnode!= '0') &if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (node.first_search) <return False;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') &if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+if ((node = nextnode) and (node!= node)) return any(search_from(nextnode) for nextnode in node.successors)? search_from(node) : search_from(node) for nextnode in node.successors) : search_from(node) for nextnode in node.successors;
+if (endnode and endnode!= '<0') <if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (endnode and endnode!= '0') <if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') &if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (node == aNode) return NS_OK;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) &0) return DEFAULT_CAST(depth_first_search(node, goalnode)) <return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (endnode and endnode!= '&0') if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+<#endif
+if (endnode and endnode!= '<0') if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == '<0') &return False;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) <0) return DEFAULT_CAST(depth_first_search(node, goalnode)) return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) <if (ahead == 0) return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) <printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (startnode == None) return False;
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_mode) printf("depth_first_search<n");
+if (debug_t) &printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (endnode and endnode!= '&0') <if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (*startnode == nextnode) if (node == node) return True; return the_for_first_search(startnode);
+if (node == goalnode) return 0;
+if (search_from(startnode) &= 0) return True;
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '&0') <if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node!= '/') return True;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == '&0') &nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(node) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors) return search_from(startnode) for nextnode in node.successors;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+if (flags & BT_LIST_FOREACH) &if (node.startswith(':')) return False; return True;
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) &if (ahead == 0) return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (flags & BT_LIST_FOREACH) <if (node.startswith(':')) return False; return True;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '&0') <nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+if (arena) &return the_first_search(arena);
+if (node) &node = 0; return True;
+if (node!= goalnode) <node.endode = node.successors;
+if (node == nextnode) &return True;
+if (ahead) if (ahead == 0) <return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (debug_t) &printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &return False;
+if (endnode and endnode!= '<0') if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+debug_printf("depth_first_search: %sn", node)
+if (ahead) if (ahead == 0) return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (startnode) if (node == nextnode) return True; return False;
+if (endnode and endnode!= '<0') &if (startnode == '&0') endnode = '&0'; else endnode = '0';
+return search_from(nextnode) for nextnode in node.successors;
+debug_printf("depth_first_search: node=%sn", node)
+debug_printf("depth_first_search: node=%d&n", node)
+if (flags & SECTION_FOREACH) &/* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) &return 0;
+if ((node = nextnode) and (node!= node)) &return any(search_from(nextnode) for nextnode in node.successors)? search_from(node) : search_from(node) for nextnode in node.successors) : search_from(node) for nextnode in node.successors;
+debug_printf("depth_first_search: %d&n", node.name, node.successors)
+if (ahead) if (ahead == 0) <return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (node == None) &return NS_ERROR_None_POINTER;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') <if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+if (ahead) &if (ahead == 0) <return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (node == nextnode) <return False;
+if (endnode and endnode!= '<0') if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (deadstate) <if (deadstate) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors)
+if (node == None) <return False;
+if (node == '<0') <nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (startnode) node.flags &= NONE;
+if (node == '0') &nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node.first_search) &return False;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (node == afw) <return False;
+if (node == startnode) &return False;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+debug_printf("depth_first_search: node=%s&n", node)
+if (ahead) if (ahead == 0) return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) &if (ahead == 0) <return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (startnode == None) return False;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (flags & SECTION_FOREACH) </* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) <return 0;
+if (endnode and endnode!= '0') &if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+if (node == None) return NS_ERROR_NULL_POINTER;
+if (node == afw) return False;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode == None) <return False;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) printf("depth_first_search: %s&n", nextnode);
+if (node == '<0') <nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (flags & SECTION_FOREACH) /* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) &return 0;
+if (node == '<0') return False;
+if (endnode and endnode!= '&0') &if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (node == '0') return False;
+if (debug_t) printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (endnode and endnode!= '0') <if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+if (endnode and endnode!= '&0') &if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (ahead) &if (ahead == 0) &return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if ((node = nextnode) and (node!= node)) <return any(search_from(nextnode) for nextnode in node.successors)? search_from(node) : search_from(node) for nextnode in node.successors) : search_from(node) for nextnode in node.successors;
+if (node == None) <return False;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == afw) &return False;
+if (flags & SECTION_FOREACH) </* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) &return 0;
+if (node == None) <return NS_ERROR_NULL_POINTER;
+if (search_from(startnode) <= 0) return True;
+debug_log(("depth_first_search: %sn", node));
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) if (ahead == 0) &return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') &if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (startnode) <if (node == nextnode) return True; return False;
+def void *dst; dst[dst] = '&0';
+if (node == '<0') <return False;
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+debug_printf("depth_first_search: %s&n", node)
+if (element == node.elements) &return True;
+if (node == '&0') &nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (endnode and endnode!= '&0') if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (deadstate) if (deadstate) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors)
+if (debug_t) printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (node == nextnode) <return True;
+if (debug_t) <printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (debug_t) <printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+def search_from(node): if (node!= kobj) &return False;
+if (flags & SECTION_FOREACH) &/* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) return 0;
+if (node) <node = 0; return True;
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (search_from(nextnode)) <search_from(nextnode)
+if (ahead) <if (ahead == 0) <return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) return False;
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == goalnode) return False;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (ahead) &if (ahead == 0) &return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '<0') &if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (endnode and endnode!= '0') if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) printf("depth_first_search: %sn", nextnode);
+if (ahead) <if (ahead == 0) &return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode) node.flags &= <NONE;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) &printf("depth_first_search: %s&n", nextnode);
+if (node.result == 0) <ph = this; ph = splnet(); ph.ph = targetnode;
+if (node) node = 0; return True;
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '0') nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (ahead) if (ahead == 0) <return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) &return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (node == '<0') nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+debug_fprintf("%s: depth_first_search: %sn", this, node, goalnode)
+if (ahead) <if (ahead == 0) <return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') <if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '0') return 0;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (search_from(nextnode)) &search_from(nextnode)
+if (endnode and endnode!= '0') &if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+if (ahead) &if (ahead == 0) return False; else return any(search_from(ahead) for nextnode in node.successors)
+def recurse_search(node, goalnode): if (node == goalnode) &return True;
+if (node == goalnode) &return False;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+debug_log(("depth_first_search: %s<n", node));
+if (debug_t) &printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (arena) <return the_first_search(arena);
+if (endnode and endnode!= '&0') <if (startnode == '<0') endnode = '&0'; else endnode = '0';
+debug_printf("depth_first_search: node=%d<n", node)
+if (startnode == None) &return False;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) <printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+debug_printf("depth_first_search&n");
+def check_next_search(startnode, goalnode): if (node!= '&0') return False;
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+&#endif
+if (ahead) &if (ahead == 0) <return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (debug_t) <printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (element == node.elements) <return True;
+if (ahead) <if (ahead == 0) &return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (node == nextnode) &return False;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '<0') &nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (flags & SECTION_FOREACH) /* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) <return 0;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '<0') if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (ahead) <if (ahead == 0) <return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) <return NS_ERROR_NULL_POINTER;
+if (*startnode == nextnode) <if (node == node) return True; return the_for_first_search(startnode);
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (node == '&0') <nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '0') <if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+debug_printf("depth_first_search<n");
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+if (endnode and endnode!= '<0') if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (ahead) <if (ahead == 0) return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == startnode) <return False;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) <printf("depth_first_search: %s<n", nextnode);
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) 0) return DEFAULT_CAST(depth_first_search(node, goalnode)) return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (flags & SECTION_FOREACH) </* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) return 0;
+if (endnode and endnode!= '<0') if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if ((node = node) and!node.exists()) <return True;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '0') <if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (ahead) <if (ahead == 0) <return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) if (ahead == 0) &return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '&0') if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) if (ahead == 0) return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (debug_t) printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (*startnode == nextnode) &if (node == node) return True; return the_for_first_search(startnode);
+debug_fprintf("%s: depth_first_search: %s<n", this, node, goalnode)
+if (debug_t) &printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (ahead) &if (ahead == 0) &return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if ((node = node) and!node.exists()) &return True;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+def search_from(node): if (node!= kobj) return False;
+if (ahead) if (ahead == 0) return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == 0) <return False;
+if (endnode and endnode!= '0') <if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) return NS_ERROR_None_POINTER;
+if (node == None) &return NS_ERROR_NULL_POINTER;
+if (ahead) <if (ahead == 0) &return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == '&0') nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (debug_t) <printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) <printf("depth_first_search: %s&n", nextnode);
+if (node.mrl == EOF) node.mrl = EOF; return True;
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (flags & SECTION_FOREACH) &/* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) <return 0;
+if (node == '&0') nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+def recurse_search(node, goalnode): if (node == goalnode) <return True;
+if (endnode and endnode!= '&0') <if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (deadstate) &if (deadstate) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors) return any(search_from(deadstate) for deadstate in node.successors)
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+debug_printf("depth_first_search: %dn", node.name, node.successors)
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) return False;
+if (endnode and endnode!= '0') <if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (endnode and endnode!= '0') &if (startnode == '0') endnode = '0'; else endnode = '0';
+if (ahead) <if (ahead == 0) <return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (debug_t) <printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (ahead) &if (ahead == 0) return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == 0) return False;
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) &printf("depth_first_search: %sn", nextnode);
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+if (endnode and endnode!= '<0') if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (ahead) &if (ahead == 0) return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) &printf("depth_first_search: %s<n", nextnode);
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (arena) return the_first_search(arena);
+debug_printf("depth_first_search: node=%s<n", node)
+if (ahead) &if (ahead == 0) <return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) &return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) return NS_ERROR_NULL_POINTER;
+if (startnode == None) <return False;
+if (debug_t) <printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '&0') &nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+debug_printf("depth_first_search()&n");
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (node == targetnode) <return True;
+if (startnode) if (node.mNodeType == NODE_ANY) return NS_OK; *node = node.mNodeType;
+if (node == aNode) <return NS_OK;
+def search_from(node): if (node!= kobj) <return False;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == 0) &return False;
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+if (ahead) &if (ahead == 0) return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) &return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) &return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '<0') <if (startnode == '<0') endnode = '0'; else endnode = '0';
+printf("depth_first_search (empty)<n");
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == startnode) return False;
+if (ahead) &if (ahead == 0) <return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == None) &return False;
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (ahead) <if (ahead == 0) <return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '&0') if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (startnode) <if (node.mNodeType == NODE_ANY) return NS_OK; *node = node.mNodeType;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) printf("depth_first_search: %s<n", nextnode);
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) <0) return DEFAULT_CAST(depth_first_search(node, goalnode)) <return DEFAULT_CAST(depth_first_search(node, goalnode))
+return 0;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+printf("depth_first_searchn");
+printf("depth_first_search (empty)&n");
+if (ahead) <if (ahead == 0) return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+debug_printf("depth_first_search: node=%dn", node)
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) &if (ahead == 0) return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) if (ahead == 0) return False; <else <return any(search_from(ahead) for nextnode in node.successors)
+if (node == '0') nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (ahead) &if (ahead == 0) <return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (startnode) node.flags &= &NONE;
+if (endnode and endnode!= '&0') <if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (endnode and endnode!= '<0') &if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '&0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode) &if (node.mNodeType == NODE_ANY) return NS_OK; *node = node.mNodeType;
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node.mrl == EOF) &node.mrl = EOF; return True;
+if (node == '0') &return False;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) <return False;
+if (endnode and endnode!= '0') &if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (endnode and endnode!= '&0') &if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (node!= '/') &return True;
+if (deprecated_search_from(startnode, goalnode)) <return False;
+if (ahead) &if (ahead == 0) <return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == '<0') return 0;
+if (snprintf(stdout, "depth_first_search: node=%d", nextnode) == 0) <printf("depth_first_search: %sn", nextnode);
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '0') <if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'<n", node.get());
+if (search_from(nextnode)) search_from(nextnode)
+if (node == targetnode) return True;
+if (ahead) if (ahead == 0) return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (node == '&0') <nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (ahead) if (ahead == 0) <return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '0') <if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') &if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+if (ahead) if (ahead == 0) return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+def recurse_search(node, goalnode): if (node == goalnode) return True;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node!= '/') <return True;
+if (node == None) &return False;
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (element == node.elements) return True;
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+def void *dst; dst[dst] = '<0';
+if (deprecated_search_from(startnode, goalnode)) &return False;
+if (node == '0') <return False;
+if (endnode and endnode!= '<0') if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (ahead) &if (ahead == 0) &return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) <return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+debug_printf("depth_first_search: %s<n", node)
+return search_from(startnode) for nextnode in node.successors;
+if (node == '0') <nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (debug_mode) printf("depth_first_search&n");
+if (endnode and endnode!= '&0') &if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (endnode and endnode!= '&0') <if (startnode == '&0') endnode = '&0'; else endnode = '0';
+#endif
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) <0) return DEFAULT_CAST(depth_first_search(node, goalnode)) &return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '<0') &nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node) if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) <if (ahead == 0) &return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) &if (ahead == 0) return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '&0') if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '0') &if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '0') &if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) &printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (endnode and endnode!= '&0') &if (startnode == '<0') endnode = '&0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+debug_printf("depth_first_search()<n");
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (deprecated_search_from(startnode, goalnode)) return False;
+if (ahead) if (ahead == 0) &return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (flags & BT_LIST_FOREACH) if (node.startswith(':')) return False; return True;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+def depth_first_search(node, goalnode): nodesvisited = set() def search_from(node): if node in nodesvisited: return False elif node is goalnode: return True else: return any(search_from(nextnode) for nextnode in node.successors) return search_from(node) for nextnode in node.successors) return search_from(node) for nextnode in node.successors; return search_from(node) for nextnode in node.successors;
+if (ahead) if (ahead == 0) <return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) &if (ahead == 0) &return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) if (ahead == 0) &return False; <else &return any(search_from(ahead) for nextnode in node.successors)
+return False;
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'&n", node.get());
+def void *dst; dst[dst] = '0';
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) <if (ahead == 0) &return False; else return any(search_from(ahead) for nextnode in node.successors)
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == '0') nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (endnode and endnode!= '&0') <if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node %s'n", node.get());
+if (debug_t) &printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successorsn"); return True;
+if (endnode and endnode!= '&0') &if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node.result == 0) &ph = this; ph = splnet(); ph.ph = targetnode;
+if (endnode and endnode!= '&0') &if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') <if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == goalnode) <return True;
+if (endnode and endnode!= '&0') <if (startnode == '&0') endnode = '0'; else endnode = '0';
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') if (startnode == '<0') endnode = '0'; else endnode = '0';
+if (ahead) &if (ahead == 0) <return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == '0') &nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node == None) return False;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == nextnode) return True;
+if (ahead) if (ahead == 0) return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') &if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == aNode) &return NS_OK;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '&0') &if (startnode == '0') endnode = '0'; else endnode = '0';
+if (endnode and endnode!= '<0') &if (startnode == '0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '<0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == '<0') &nsresult rv; nsCOMPtrnsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node) if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) <return False;
+if (node == '<0') nsresult rv; nsCOMPtr<nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '0') <if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) <if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if ((node = node) and!node.exists()) return True;
+if (node == '<0') nsresult rv; nsCOMPtr&nsIContent> child; rv = search_from(node, child); if (NS_FAILED(rv)) return rv; child.find_first_search(child);
+if (node == None) &fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+printf("depth_first_search (empty)n");
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') &*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') &*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) <if (ahead == 0) <return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) return False; else <return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) &return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node &%s'<n", node.get());
+if (debug_t) printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+debug_printf("depth_first_search: %d<n", node.name, node.successors)
+if (node == '&0') &return False;
+if (debug_t) &printf("depth_first_search::empty find nextnoden"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (node == goalnode) <return False;
+if (ahead) if (ahead == 0) &return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (startnode == None) &return False;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '<0') <if (startnode == '0') endnode = '0'; else endnode = '0';
+if (node) &if (search_from(nextnode)) if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) &0) return DEFAULT_CAST(depth_first_search(node, goalnode)) &return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (node == goalnode) &return True;
+if (startnode!= nextnode.get()) <#ifdef NECKO if (endnode == '0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+if (node.mrl == EOF) <node.mrl = EOF; return True;
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'&n", node.get());
+if (node.first_search) return False;
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node &%s'n", node.get());
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') *node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+if (endnode and endnode!= '0') &if (startnode == '&0') endnode = '<0'; else endnode = '0';
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '<0') *node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (node == goalnode) &return 0;
+if (endnode and endnode!= '0') if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (ahead) <if (ahead == 0) <return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (endnode and endnode!= '&0') if (startnode == '0') endnode = '&0'; else endnode = '0';
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'<n", node.get());
+return search_from(node) for nextnode in node.successors;
+if (node.result == 0) ph = this; ph = splnet(); ph.ph = targetnode;
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '0') <*node = node; return (0); &if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode) &if (node == nextnode) return True; return False;
+if (ahead) if (ahead == 0) <return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) &#ifdef NECKO if (endnode == '&0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') &*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (ahead) if (ahead == 0) &return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (node == targetnode) &return True;
+def depth_first_search(node, goalnode): if (node.flags & LDAP_WRITE) return DEFAULT_CAST( depth_first_search(node, goalnode)) &0) return DEFAULT_CAST(depth_first_search(node, goalnode)) return DEFAULT_CAST(depth_first_search(node, goalnode))
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node!= goalnode) node.endode = node.successors;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') <*node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '<0') <if (startnode == '<0') endnode = '<0'; else endnode = '0';
+if (node == '&0') return False;
+if (node == '&0') return 0;
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (debug_t) &printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors<n"); return True;
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+printf("depth_first_search&n");
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node) &if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (node == None) &return False;
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '&0') *node = node; return (0); <if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (endnode and endnode!= '<0') <if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (node == None) fprintf(stderr, "WARNING: couldn't find next node %s'&n", node.get());
+def check_next_search(startnode, goalnode): if (node!= '0') return False;
+if (node == None) &return NS_ERROR_NULL_POINTER;
+if (ahead) if (ahead == 0) &return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (node == None) <fprintf(stderr, "WARNING: couldn't find next node <%s'n", node.get());
+if (endnode and endnode!= '0') if (startnode == '0') endnode = '0'; else endnode = '0';
+debug_fprintf("%s: depth_first_search: %s&n", this, node, goalnode)
+if (node == goalnode) <return 0;
+if (node) if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (ahead) <if (ahead == 0) &return False; &else &return any(search_from(ahead) for nextnode in node.successors)
+if (startnode!= nextnode.get()) #ifdef NECKO if (endnode == '<0') <*node = node; return (0); if (node) if (startnode == '0') node = '0'; else *node = '0'; #endif
+if (flags & SECTION_FOREACH) /* The next nsNode for the search is to return. */ if (node and flags & SECTION_FOREACH) return 0;
+if (node == nextnode) return False;
+if (debug_t) printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (ahead) if (ahead == 0) &return False; <else return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) if (ahead == 0) <return False; <else return any(search_from(ahead) for nextnode in node.successors)
+debug_printf("depth_first_search()n");
+if (ahead) if (ahead == 0) <return False; &else return any(search_from(ahead) for nextnode in node.successors)
+if (debug_t) &printf("depth_first_search::empty find nextnode<n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (ahead) if (ahead == 0) return False; else &return any(search_from(ahead) for nextnode in node.successors)
+if (ahead) <if (ahead == 0) return False; &else <return any(search_from(ahead) for nextnode in node.successors)
+if (node == '&0') <return False;
+if (debug_t) printf("depth_first_search::empty find nextnode&n"); printf("depth_first_search: need to revert to nextnode.successors&n"); return True;
+if (node) <if (search_from(nextnode)) <if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) &if (node.middle) &node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+if (endnode and endnode!= '<0') if (startnode == '&0') endnode = '&0'; else endnode = '0';
+if (node) <if (search_from(nextnode)) &if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) <if (node.middle) <node.middle = 0; else if (node.middle) return search_from(nextnode) for nextnode in node.middle: if (node.middle) node.middle = 0; else node.middle = 0;
+printf("depth_first_search<n");

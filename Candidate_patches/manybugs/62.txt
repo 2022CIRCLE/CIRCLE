@@ -1,0 +1,523 @@
+golden:
+if (!_TIFFMergeFields(tif, jpegFields, TIFFArrayCount(jpegFields))) {
+inference:
+if (!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, &jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, NULL))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, jpegFields, &jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields)){
+if (tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, NULL)){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(&jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount())){
+if (!TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), 0)){
+if(!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((jpegFields)))){
+if (!_TIFF_MergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, 0)){
+if (!__TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, NULL)){
+if (!_TIFFMergeField(&tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(jpegFields))){
+if (_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, NULL, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(*jpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_data))){
+if (!(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if ((!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!tif->tif_data){
+if (!_TIFFMergeField(tif, jpegFields, 0)){
+if (!_TIFFMergeField(&tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &jpegFields)){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, *jpegFields, TIFFArrayCount(jpegFields))){
+else if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_fields))){
+if (!_TIFFMergeField(tif, jpegFields, getter_AddRefs(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((int)jpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, jpegFields, sizeof(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TRUE))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, PR_TRUE))){
+if (!_TIFFMergeField(tif, jpeg_fields, TIFFArrayCount(jpeg_fields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, PR_FALSE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(njpegFields))){
+if (!_TIFFMergeField(tif, jpegFields || TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, JPEGArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields) && TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, jpegs, TIFFArrayCount(jpegs))){
+if ((!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayLength(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, _TIFFArrayCount(jpegFields))){
+if (_TIFFMergeField(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, NULL, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFF_ArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields) || TIFFArrayCount(jpegFields)){
+if (_TIFFMergeField(tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jp, TIFFArrayCount(jp))){
+if (tif->tif_data!= NULL){
+if (!_TIFFMergeField(sp, jpegFields, TIFFArrayCount(jpegFields))){
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed");{
+if (!_TIFFMergeField(tif->tif_clientdata, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, false))){
+if (!_TIFFMergeField (tif, jpegFields, TIFFArrayCount (jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, tif->tif_data)){
+if (!get_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TRUE)){
+if (!_TIFFMergeField(tif, tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(ljpegFields))){
+if (!_TIFFMergeField(jpegFields, TIFFArrayCount(jpegFields))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0){
+if (! TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, (int)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif))){
+if (_TIFFMergeField(tif, &jpegFields, TIFFArrayCount(jpegFields))){
+if (!GetTIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, &jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, jpegFields, *jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(mFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif, jpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&jpegFields))){
+if (NS_FAILED(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField((tif)tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!g_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), PR_FALSE)){
+if (!_TIFFMergeField(tif, jpegFields);{
+if (!_TIFFMergeField(tif, jpegFields, (long)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(sp->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(!jpegFields))){
+if (TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, flags))){
+if (!_TIFFMergeField(tif, JPEG_FIELDS, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &tif->tif_data)){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))!= 0){
+if (!_TIFFMergeField(tif, jpegFields, 0, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, len)){
+if (!_TIFFMergeField(tif, jpegFields, (void *)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields));{
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, NULL, NULL))){
+if (&_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), PR_TRUE)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ){
+if (!_TIFFMergeField(tif.tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed");{
+if (!_TIFFMergeField((tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, getter_AddRefs(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(0))){
+if (__TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, ljpegFields, TIFFArrayCount(ljpegFields))){
+if (!_TIFFMergeField(tif, _jpegFields, TIFFArrayCount(_jpegFields))){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(jpegFields))){
+if (!_TIFFMLergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((long)jpegFields))){
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed"); return 0;{
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), false)){
+if (!_TIFFMergeField(ifp, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, (void *)jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, FALSE))){
+if (!_TIFFMergeJPEG(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_data, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount (jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((jpegFields-1)))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, this))){
+if (!_TIFFMergeField(tif, jpegFields, NULL, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArraySize(jpegFields))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, JPEGVGetField())){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0, 0))){
+TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields));{
+if (!_TIFFMergeField(tif, jpegFields, jpegFields[0])){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegType))){
+if (!_TIFFMergeField(tif, jpegFields, list)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &rv))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))  0){
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))!= 0){
+if (!_TIFFMergeField(tif, jpegFields, JPEGVGetField)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(jpegFields), NULL)){
+TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)); if (!tif->tif_data){
+TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL, NULL)){
+if (_TIFFMergeField(tif, jpegFields, jpegFields)){
+if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), nsnull)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL){
+if (!_TIFFMergeField(tif, 0)){
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(jpegFields, 0))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &tif))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields))){
+ret = _TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)); if (ret){
+if (!_TIFFMergeField()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), jpegType)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0xff))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegFields))){
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegArray))){
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0)){
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed");  else{
+if (tif == NULL){
+if (!rv){
+else{
+
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFF_FLAG_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegFields, jpegFields, jpegFlags))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), jpeg_nrstr)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFInitJPEG)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFunc)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || tif->tif_clientdata){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields, &jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, tif->tif_data.tif_flags & TIFF_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeCallback(tif, TIFFMergeCallback, TIFFMergeCallbacks))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!jpegFields.size()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFReadableSize(tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_PtrEntry()){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeFlush(tif->tif_clientdata, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFields, jpegFields->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!jpegFields.size()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFArrayCount(s)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegFields)) && (!tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed");{
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeNode(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFArrayCount(jpegFields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_DATA_PAGE_NAME))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (jpegFields[jpegFields].jsegType == JSEG_CLASS_R_PAGE)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &njpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed")))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), (void *)tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields) &&!jpegFields.mType &&!jpegFields.mArray){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFF_DEFAULT_SET_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &cnt))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpeg_frames))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMerge(tif, jpegInitState, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFObject))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &savep)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFIconLength(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_REMOVE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!jpegFields.get()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_LOOKUPSZ))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, nsnull))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields == NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeNoCallback(tif->tif_clientdata, "TIFFInitJPEG", "Callback error");{
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount(jpegFields, jpegFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, tif->tif_data, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), _TIFFState_IsEmpty())){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (*jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeField(tif, jpegFields, jpegFields.m_len)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFReadOnlyFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields!= NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), (void**)&jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (tif->tif_clientdata->tif_data!= NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, sizeof(tif)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, JPEEG_IN_FILE))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields) &&!_TIFF_MergeJPEG(tif->tif_clientdata, jpegInitJPEG, jpegArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (jpegFields & _JPG_PAREN)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFFlags(tif->tif_clientdata, "TIFFFlags");  else{
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (tif->tif_clientdata == NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields->next)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields, NULL))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &jpegArray)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, nsCRT::memset))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields) &&!_TIFFMergeJPEG(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed");{
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount(jpegFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeReference(tif, jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, sizeof(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &tif))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) <0){
+if (!_TIFFMergeField(tif, getter_AddRefs(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (jpegFields[jpegFields].jsegType == JSEG_CLASS_R_PAGE)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields[0])){
+if (!rv){
+if (!_TIFFMergeField(tif, JPEG_FIELDS, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount(jpegFields, jpegFields, tif->tif_data))){
+if (!_TIFFMergeField (tif, jpegFields, TIFFArrayCount (jpegFields))){
+if (!_TIFFMergeField(tif, jp, TIFFArrayCount(jp))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TRUE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpeg_frames))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeNode(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, getter_AddRefs(jpegFields))){
+else{
+if (!_TIFFMergeField(tif, &jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(ifp, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), (void *)tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount(jpegFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, NULL, TIFFArrayCount(jpegFields))){
+ret = _TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)); if (ret){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount (jpegFields))){
+if (!_TIFFMergeField(tif, &jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, false))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeFlush(tif->tif_clientdata, tif->tif_data)){
+else if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFF_FLAG_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, nsnull))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!jpegFields.get()){
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0)){
+if (!_TIFFMergeField(tif, jpegFields, NULL, jpegFields)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields || TIFFArrayCount(jpegFields))){
+if (tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0xff))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, flags))){
+if (!_TIFFMergeField(tif, jpegFields, 0, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(jpegFields), NULL)){
+if (!_TIFFMergeField(tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(&tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpeg_fields, TIFFArrayCount(jpeg_fields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegFields, jpegFields, jpegFlags))){
+if (!_TIFFMergeField(tif, NULL, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, (void *)jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &njpegFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(njpegFields))){
+if (TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TRUE)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &tif->tif_data)){
+if (NS_FAILED(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, 0)){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))!= 0){
+if (!(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, NULL)){
+if (!TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &jpegArray)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), 0)){
+if (!_TIFFMergeField(sp, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((long)jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayLength(jpegFields))){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFIconLength(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), (void**)&jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, len)){
+if (!_TIFFMergeField(tif, jpegFields, _TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL, NULL)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFReadOnlyFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_fields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), nsnull)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeCallback(tif, TIFFMergeCallback, TIFFMergeCallbacks))){
+if (!_TIFFMergeField(tif, jpegFields) || TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, 0)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, NULL))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), false)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount())){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, PR_FALSE))){
+if (!_TIFFMergeField()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, JPEEG_IN_FILE))){
+if (tif == NULL){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(ljpegFields))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(sp->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (tif->tif_data!= NULL){
+if (_TIFFMergeField(tif->tif_data, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFReadableSize(tif->tif_clientdata)))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &0){
+if ((!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMerge(tif, jpegInitState, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &cnt))){
+if (!_TIFFMergeField(tif, jpegFields, JPEGArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_DATA_PAGE_NAME))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, nsCRT::memset))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0))){
+&if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((jpegFields-1)))){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields, &jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegArrayCount)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(&jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, tif->tif_data, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFFlags(tif->tif_clientdata, "TIFFFlags"); else{
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!jpegFields.size()){
+if (_TIFFMergeField(tif, jpegFields, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, this))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (tif->tif_clientdata->tif_data!= NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFInitJPEG)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFields, jpegFields->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, NULL, NULL))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_PtrEntry()){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(!jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), PR_TRUE)){
+if (!_TIFFMergeJPEG(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, JPEGVGetField)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, jpegFields, list)){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif))){
+if (!tif->tif_data){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_data))){
+<if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, tif->tif_data)){
+if (!_TIFFMergeField(tif, tif->tif_data, TIFFArrayCount(tif))){
+if (_TIFFMergeField(tif, &jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_REMOVE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields == NULL)){
+if (!_TIFFMergeField(tif, ljpegFields, TIFFArrayCount(ljpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (jpegFields & _JPG_PAREN)){
+if (!_TIFFMergeField(tif, jpegFields, JPEGVGetField())){
+if (!_TIFFMergeField(tif.tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || tif->tif_clientdata){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields) &&!jpegFields.mType &&!jpegFields.mArray){
+if (!_TIFFMergeField(tif, jpegFields, tif->tif_data)){
+if (!GetTIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &rv))){
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ){
+if (!_TIFF_MergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), NULL){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0, 0))){
+if (!_TIFFMLergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(jpegFields, TIFFArrayCount(jpegFields))){
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed"); &else{
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed"); <else{
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, 0)){
+if (__TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFFArrayCount(jpegFields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, jpegFields, TIFF_ArrayCount(jpegFields))){
+if (_TIFFMergeField(tif, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegType))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (tif->tif_clientdata == NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, 0)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, sizeof(tif)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFArrayCount(s)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, jpegArray))){
+if (!_TIFFMergeField(tif, jpegFields, (int)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFObject))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(jpegFields, 0))){
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(tif->tif_data))){
+if (!get_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(*jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((int)jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, *jpegFields)){
+if (tif->tif_data == 0){
+TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed"); else{
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFF_LOOKUPSZ))){
+if (!_TIFFMergeField(tif, jpegFields, (void *)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), jpegType)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields)) &&!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), PR_FALSE)){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), &savep)){
+if (!_TIFFMergeField(tif, jpegFields, &jpegFields)){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields) && TIFFArrayCount(jpegFields)){
+if (!_TIFFMergeField(tif, *jpegFields, TIFFArrayCount(jpegFields))){
+if (!__TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_clientdata, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields!= NULL)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, FALSE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(tif, jpegFields))){
+if (!g_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, TIFFErrorExt(tif->tif_clientdata, "TIFFInitJPEG", "Merging JPEG codec-specific tags failed")))){
+if (_TIFFMergeField(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, _jpegFields, TIFFArrayCount(_jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &tif->tif_data)){
+if (! TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFMergeField(tif, jpegFields, jpegFields.m_len)){
+if ((!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, tif->tif_data.tif_flags & TIFF_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(jpegFields, NULL))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) == 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) || (!_TIFFMergeReference(tif, jpegFields))){
+if (!(_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_data, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &jpegFields))){
+if (!_TIFFMergeField(tif, tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!jpegFields.size()){
+if (&_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, jpegFunc)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(mFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), jpeg_nrstr)){
+TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)); if (!tif->tif_data){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, &jpegFields)){
+if(!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, PR_TRUE))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (*jpegFields)){
+if (!_TIFFMergeField(tif, jpegFields, (long)TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields) &&!_TIFF_MergeJPEG(tif->tif_clientdata, jpegInitJPEG, jpegArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, NULL)){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, jpegFields, jpegFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField((tif)tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(&tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif->tif_clientdata, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArraySize(jpegFields))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) && (jpegFields->next)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFFlags(tif->tif_clientdata, "TIFFFlags"); <else{
+if ((_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)))!= 0){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), _TIFFState_IsEmpty())){
+if (!_TIFFMergeField(tif, jpegs, TIFFArrayCount(jpegs))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount((jpegFields)))){
+if (_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields))){
+if (!_TIFFMergeField((tif, jpegFields, TIFFArrayCount(jpegFields)))){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields), TIFF_DEFAULT_SET_FIELDS)){
+if (!_TIFFMergeField(tif, jpegFields, TIFFArrayCount(jpegFields)) ||!_TIFFFlags(tif->tif_clientdata, "TIFFFlags"); &else{

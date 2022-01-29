@@ -1,0 +1,1045 @@
+golden:
+prevnode = node;
+inference:
+#endif
+
+node = nextnode;
+return prevnode;
+return 0;
+return node;
+return null;
+*/
+free(node);
+return nextnode;
+#ifdef DEBUG
+return result;
+return false;
+nsresult rv;
+node = node;
+Node nextnode;
+node = prevnode;
+return ret;
+return (0);
+return -1;
+break;
+return NS_OK;
+return null;
+if (node == null) return null;
+NS_RELEASE(node);
+nextnode = nextnode;
+node.setSuccessor(prevnode);
+return reverse_linked_list(node);
+int i;
+NS_IF_RELEASE(node);
+#else
+assert(node!= null);
+return retval;
+#ifdef REVERSE_LINKED_LIST
+return REVERSE_LINKED_LIST;
+node = null;
+Node nextnode = nextnode;
+return rv;
+return RESTORE_LINKED_LIST;
+return true;
+free(prevnode);
+delete node;
+node = null;
+Node nextnode = node.getSuccessor();
+splx(s);
+#else #endif
+#ifdef DIAGNOSTIC
+Node prevnode = null;
+/* XXX */
+if (!node) return null;
+return null;
+NS_ADDREF_THIS();
+Destroy();
+Node prevnode = null;
+return RETURN_LINKED_LIST;
+int ret;
+Node ret;
+node.setSuccessor(node);
+delete nextnode;
+super(node);
+Node nextnode = null;
+NS_ADDREF(node);
+#endif /* XXX */
+return REFERENCE_LINKED_LIST;
+NS_INIT_ISUPPORTS();
+#else node = nextnode; #endif
+@endif
+node = newnode;
+return (prevnode);
+if (node == null) return 0;
+return RETURSE_LINKED_LIST;
+#ifdef NS_DEBUG
+if (node) return null;
+return true;
+#endif #endif
+NS_INIT_REFCNT();
+return 1;
+return Reverse_LINKED_LIST;
+return super.reverse_linked_list(node);
+return len;
+Node nextnode = node;
+int retval;
+#ifdef INET6 #endif
+#ifdef NODE_LINKED_LIST
+#if 0
+return res;
+return this;
+Recycle();
+return false;
+printf("reverse_linked_listn");
+if (node == null) return -1;
+nextnode = nextnode.getSuccessor();
+#if 0 #endif
+Node prevnode = node;
+node.setSuccessor(prevnode);
+Init();
+Node node = nextnode;
+#ifdef REVERSE_LINKED_LIST #endif
+#ifdef INCLUDE_LINKED_LIST
+if (node) node = nextnode;
+return reverse_linked_list;
+Node retnode;
+assert(node == null);
+prevnode = nextnode;
+node.clear();
+node = nextnode; #endif
+node.getSuccessor();
+#ifdef DEBUG #endif
+continue;
+#endif /* REVERSE_LINKED_LIST */
+#endif #ifdef DEBUG
+Node prevnode = null;
+REVERSE_LINKED_LIST
+Node nextnode = null;
+Node nextnode = null;
+Node reverse_linked_list(node);
+#ifdef DIAGNOSTIC #endif
+Node nextnode = nextnode.getNext();
+case REVERSE_LINKED_LIST:
+POSTCODE(false);
+Node prevnode;
+#ifdef ARGO_DEBUG
+if (node) return 0;
+if (node)  return node;
+Node *node = nextnode;
+newnode = nextnode;
+if (node) break;
+return (reverse_linked_list);
+if (node) return -1;
+Node retval;
+if (node) return node;
+return (reverse_linked_list(node));
+if (!node) return 0;
+Node nextnode = node.getNext();
+NODE_LOCK_ASSERT(node);
+if (node == null) break;
+if (node == null) continue;
+assert(node!= null);
+node.setSuccessor(node);
+if (node)  return 0;
+if (node)  delete node;
+if (node == nextnode) return null;
+#ifdef NO_LINKED_LIST
+if (!node)  return null;
+if(node == null) return null;
+if (node == null) return;
+deprecated_reverse_linked_list(node);
+if (node!= null) return null;
+#ifdef DEVICE_POLLING #endif
+if (node)  return -1;
+if (node == null) return null;
+Node prevnode = node.getSuccessor();
+#ifdef NODE_LINKED_LIST #endif
+if (!node)  return 0;
+if (node == null)  break;
+nsresult rv = NS_OK;
+#ifdef NOISY_LINKED_LIST
+assert(node!= null);
+#ifdef INCLUDE_LINKED_LIST #endif
+if (node == null) node = null;
+if (node!= null) return node;
+if (node == nextnode) return 0;
+if (prevnode == null) return null;
+if (node == null) return NS_OK;
+deprecated_reverse_linked_list(node)
+/* * The --linker failed */
+Node prevnode = n;
+if (reverse_linked_list)  if (!reverse_linked_list)  NS_ERROR("node linked list");  if (reverse_linked_list)  if (reverse_linked_list)  NS_ERROR("node linked list");  else  NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#if defined(DEBUG) printf("Remove_linked_list: Node:%sn", node); #endif
+Node nrp_child(node);
+if (!reverse_linked_list)  if (!node.getSuccessor())  return REV_NOT_IMPLEMENTED;  else  /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+/* XXX Is the link to a link and a link. */ if (!node) return NS_ERROR_NULL_POINTER;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null)  if (NS_SUCCEEDED(reverse_linked_list(node)))  return RETURN_LINKED_LIST;
+/* * Reverse the parent for this node. */ if (node == null)  return -1;
+if (node == null) return NS_ERROR_NULL_POINTER;
+if (node.getSuccessor() == 0) return ((node).mNextNode) = nextnode;
+else if (node)  node.setSuccessor(prevnode);
+if (acquires)  if (!node) return NS_ERROR_NULL_POINTER; if (node)  node.mProps = node; node.mProps = node;  else  node.mProps = node;
+if (node!= null)  /* XXX we can't move to an int */ node = node; return false;
+if ((node).name == null) return null;
+#ifdef USE_XUL
+if (node == null)  return null;
+if (node.isEmpty())  return null;
+if (node.getSuccessor()) node.setSuccessor(node.getSuccessor());
+/* * If we're re-linked, let's re-link it. */ if (node)  Node nextnode = node.getSuccessor(); node = nextnode;
+else  ret = -1;
+if (prevnode) return prevnode;
+node.setSuccessor(presvnode);
+if ((node = null) || (node == null))  return false;
+if (node!= null) return node;
+if (!isFrame) return 0;
+/* XXX - assuming we are in a void */
+#ifdef MAC if (sendmsg == 0)  msg = MessageForWrd(); return msg;  #endif
+#ifdef INCLUDE_IN_ARGS if (node) return NS_ERROR_NULL_POINTER; #endif
+Node prevnode = 0;
+if (reverse_linking_list)  res = reverse_linking_list(reverse_linking_list); return res;
+else  node.setSuccessor(prevnode);
+/* If the linker is already linked, do the reverse linker function. */ if (node)  if (!reverse_linked_list(node))  return Reverse_LINKED_LIST;  return Reverse_LINKED_LIST;
+if (node!= null)  if (node.first == lastnode)  lastnode = nextnode;  else  lastnode = node;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD)  node.flags |= REVERSE_LINKED_LOAD;  #endif
+else if (prevnode) prevnode.GetSuccessor(node);
+if (sched_list) return prevnode;
+/* * The current ifdef hasn't been updated. */ if (node)  null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv))  return rv;
+Node delete[] node;
+if (!presvnode)  nsCOMPtrnsIDOMNode> node;
+Node *lastnode = nextnode;
+if (reverse_linked_list && nextnode!= null)  nextnode = nextnode.getSuccessor();
+return (reverse_linked_list) node;
+return (reverse_linked_list)? 0 : 0;
+#if defined(XP_MAC) if (node)  if (relp.rel) return relp.rel;  #endif
+return reverse_links(node);
+if (node!= null)  if (node.type == eType)  Node* ret = (Node*)node; else ret = (Node*)node;  else  ret = (Node*) ret;  return ret;
+Node nextnode = null; Node nextnode = nextnode.getSuccessor(); node.setSuccessor(prevnode);
+#ifdef XP_MAC if (node == null) return NS_ERROR_OUT_OF_MEMORY; #endif
+#ifdef NO_LINKED_LOCK
+node.cnt++;
+if (node!= null)  Node lastnode;
+#ifdef XP_MAC if (node.getAttribute(node_getter_AddRefs(node)))!= 0) return 0; #endif
+#ifdef REVERSE_LINKED_LIST_CORE_POLLING
+if (node!= null)  node.setSuccessor(node);
+#ifdef USE_REFERENCE
+else  ret = ret;
+node.setRefcount(prevnode);
+if (node) return null;
+node.insert(prevnode);
+return RELINK_LINKED_LIST;
+return RELINKED_LINKED_LIST;
+Node ret = 0;
+if (node == null)  return node;
+if (node.getSuccessor() == null)  nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info)  #ifdef NECKO if (details && details.location!= null)  info.location = details.location; info.location.location = null;   #endif
+return (node);
+node.reverse_link_list = 0;
+Node nrevnode;
+if (node == null)  return 0;
+/* * Recycle the first * linked list. */
+return reverse_linked_list(node, p);
+/* XXX Node LINKED_LIST */
+node.id = node.id;
+if (!presvnode)  Node prevnode = node.getSuccessor();
+if (!list)  return NS_ERROR_NOT_IMPLEMENTED;
+node.setSuccessor(nextnode);
+/* * If the nextnode is a single link, then it's a sched. */ if (node) node.mLink = nextnode;
+if (node == n) return null;
+if (node!= null)  node = nextnode;
+node.assign(NS_SUCCEEDED(remove_links));
+Node ptr = nextnode.getSuccessor(); if (ptr)  ptr = ptr.next;
+Node lastnode = null;
+if (node)  nextnode = node.getSuccessor(); node = nextnode;
+/* * Return the result in this * class. */ if (!sym_linkage("reverse_linked_list", node)) return result;
+if (!element)  return NS_ERROR_NULL_POINTER;
+if (node)  if (node.flags & REVERSE_LINKED_LIST_ABORT)  nsCOMPtrnsIIncomingProgress> io; if (node.io_stats)  nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv;  if (node.io_stats)  nsCOMPtrnsIAtom> atom; rv = null; rv = null;  else  rv = null;
+if (node.getSuccessor() == node.getSuccessor())  node.setSuccessor(node.getSuccessor()); node = node;
+if (reverse_link) return 0;
+Node res;
+#if defined(DEBUG) printf("RETURN_LINKED_LIST: pendingn"); #endif
+else  *node = nextnode; return NS_OK;
+
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+return null;
+return REFERENCE_LINKED_LIST;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(DEBUG) printf("RETURN_LINKED_LIST: pending&n"); #endif
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else node.mProps = node;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; &else lastnode = node;
+/* * The current ifdef hasn't been updated. */ if (node) &null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) return rv;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linking_list) res = reverse_linking_list(reverse_linking_list); return res;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(DEBUG) printf("Remove_linked_list: Node:%s&n", node); #endif
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (!presvnode) <nsCOMPtr&nsIDOMNode> node;
+if (!node) <return 0;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!element) &return NS_ERROR_NULL_POINTER;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; &else &lastnode = node;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(DEBUG) printf("RETURN_LINKED_LIST: pendingn"); #endif
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; else <lastnode = node;
+if (node!= null) </* XXX we can't move to an int */ node = node; return false;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list && nextnode!= null) <nextnode = nextnode.getSuccessor();
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (!presvnode) nsCOMPtr&nsIDOMNode> node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; else <lastnode = node;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; <else &lastnode = node;
+if (node) &return 0;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; &else <lastnode = node;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; &else <lastnode = node;
+printf("reverse_linked_list<n");
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+else <node.setSuccessor(prevnode);
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else &node.mProps = node;
+#ifdef MAC if (sendmsg == 0) msg = MessageForWrd(); return msg; <#endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+return prevnode;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node) &return -1;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; <else <lastnode = node;
+return 0;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+else ret = ret;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (!presvnode) &nsCOMPtrnsIDOMNode> node;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#ifdef MAC if (sendmsg == 0) msg = MessageForWrd(); return msg; &#endif
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* * The current ifdef hasn't been updated. */ if (node) <null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) return rv;
+if ((node = null) || (node == null)) return false;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) node.flags |= REVERSE_LINKED_LOAD; <#endif
+if (!presvnode) Node prevnode = node.getSuccessor();
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) <return 0;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+#ifdef MAC if (sendmsg == 0) &msg = MessageForWrd(); return msg; #endif
+if (!list) return NS_ERROR_NOT_IMPLEMENTED;
+return reverse_linked_list;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; &else &lastnode = node;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; <else lastnode = node;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else node.mProps = node;
+#if defined(XP_MAC) if (node) <if (relp.rel) return relp.rel; #endif
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; else &lastnode = node;
+/* * The current ifdef hasn't been updated. */ if (node) <null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) <return rv;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; else &lastnode = node;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else <node.mProps = node;
+Node ptr = nextnode.getSuccessor(); if (ptr) &ptr = ptr.next;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) node.flags |= REVERSE_LINKED_LOAD; &#endif
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+else <*node = nextnode; return NS_OK;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+/* * Reverse the parent for this node. */ if (node == null) &return -1;
+if (node!= null) Node lastnode;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+return null;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) <node.flags |= REVERSE_LINKED_LOAD; #endif
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node!= null) <node.setSuccessor(node);
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node == null) <break;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; <else <lastnode = node;
+if (!element) <return NS_ERROR_NULL_POINTER;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; &else &lastnode = node;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; <else <lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; else &lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+&#endif
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; &else lastnode = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+#ifdef MAC if (sendmsg == 0) <msg = MessageForWrd(); return msg; &#endif
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; <else lastnode = node;
+else if (node) &node.setSuccessor(prevnode);
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else <node.mProps = node;
+/* * The current ifdef hasn't been updated. */ if (node) &null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) <return rv;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+#if defined(DEBUG) printf("Remove_linked_list: Node:%s<n", node); #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (!element) return NS_ERROR_NULL_POINTER;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+#if defined(XP_MAC) if (node) if (relp.rel) return relp.rel; <#endif
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; <else &lastnode = node;
+if (node!= null) &/* XXX we can't move to an int */ node = node; return false;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; <else &lastnode = node;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (!node) &return 0;
+/* * If we're re-linked, let's re-link it. */ if (node) &Node nextnode = node.getSuccessor(); node = nextnode;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; &else <lastnode = node;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (node!= null) &node.setSuccessor(node);
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) &node.flags |= REVERSE_LINKED_LOAD; <#endif
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.isEmpty()) return null;
+if (!presvnode) <nsCOMPtr<nsIDOMNode> node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+return ret;
+if (node == null) return 0;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; <else lastnode = node;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+#ifdef MAC if (sendmsg == 0) &msg = MessageForWrd(); return msg; &#endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; else <lastnode = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; &else lastnode = node;
+return true;
+if (node == null) &return null;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (reverse_linked_list && nextnode!= null) nextnode = nextnode.getSuccessor();
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.isEmpty()) &return null;
+/* * Reverse the parent for this node. */ if (node == null) <return -1;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; <else <lastnode = node;
+node = nextnode;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &Node lastnode;
+if (node!= null) &node = nextnode;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) node = nextnode;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+<#endif
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#ifdef MAC if (sendmsg == 0) msg = MessageForWrd(); return msg; #endif
+#if defined(DEBUG) printf("Remove_linked_list: Node:%sn", node); #endif
+/* * The current ifdef hasn't been updated. */ if (node) null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) &return rv;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node) &return node;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+else &node.setSuccessor(prevnode);
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (node!= null) node.setSuccessor(node);
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) if (NS_SUCCEEDED(reverse_linked_list(node))) <return RETURN_LINKED_LIST;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; <else lastnode = node;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; <else <lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; else &lastnode = node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) &delete node;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+#ifdef MAC if (sendmsg == 0) &msg = MessageForWrd(); return msg; <#endif
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else <node.mProps = node;
+/* * If we're re-linked, let's re-link it. */ if (node) <Node nextnode = node.getSuccessor(); node = nextnode;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; <else <lastnode = node;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; &else <lastnode = node;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == node.getSuccessor()) <node.setSuccessor(node.getSuccessor()); node = node;
+return RETURSE_LINKED_LIST;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else node.mProps = node;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) if (NS_SUCCEEDED(reverse_linked_list(node))) return RETURN_LINKED_LIST;
+/* * The current ifdef hasn't been updated. */ if (node) null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) return rv;
+return false;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+return res;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (!presvnode) &Node prevnode = node.getSuccessor();
+Node ptr = nextnode.getSuccessor(); if (ptr) ptr = ptr.next;
+if (node) <nextnode = node.getSuccessor(); node = nextnode;
+if (reverse_linking_list) <res = reverse_linking_list(reverse_linking_list); return res;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; else <lastnode = node;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+else if (node) <node.setSuccessor(prevnode);
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; else <lastnode = node;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+#if defined(XP_MAC) if (node) if (relp.rel) return relp.rel; &#endif
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (node) return -1;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; &else <lastnode = node;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; &else &lastnode = node;
+return reverse_linked_list(node);
+if (node) nextnode = node.getSuccessor(); node = nextnode;
+if (node == null) <return node;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node == null) &return node;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; else lastnode = node;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) &if (NS_SUCCEEDED(reverse_linked_list(node))) &return RETURN_LINKED_LIST;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) &if (NS_SUCCEEDED(reverse_linked_list(node))) <return RETURN_LINKED_LIST;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) &if (NS_SUCCEEDED(reverse_linked_list(node))) return RETURN_LINKED_LIST;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; &else &lastnode = node;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) <if (NS_SUCCEEDED(reverse_linked_list(node))) &return RETURN_LINKED_LIST;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node) <return -1;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; else &lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; else <lastnode = node;
+return node;
+return REVERSE_LINKED_LIST;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; &else <lastnode = node;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else <node.mProps = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else node.mProps = node;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; &else <lastnode = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; <else &lastnode = node;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+#if defined(XP_MAC) if (node) &if (relp.rel) return relp.rel; &#endif
+/* * The current ifdef hasn't been updated. */ if (node) &null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) &return rv;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list && nextnode!= null) &nextnode = nextnode.getSuccessor();
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; &else &lastnode = node;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else <node.mProps = node;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* * The current ifdef hasn't been updated. */ if (node) <null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) &return rv;
+if (node == null) <return 0;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; &else &lastnode = node;
+#if defined(XP_MAC) if (node) <if (relp.rel) return relp.rel; &#endif
+if (node.getSuccessor() == node.getSuccessor()) node.setSuccessor(node.getSuccessor()); node = node;
+#if defined(DEBUG) printf("RETURN_LINKED_LIST: pending<n"); #endif
+Node ptr = nextnode.getSuccessor(); if (ptr) <ptr = ptr.next;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; &else lastnode = node;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (!node) <return null;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; <else lastnode = node;
+return (0);
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; &else lastnode = node;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) <node.flags |= REVERSE_LINKED_LOAD; <#endif
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) <if (NS_SUCCEEDED(reverse_linked_list(node))) <return RETURN_LINKED_LIST;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else node.mProps = node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+else <ret = ret;
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+return RETURN_LINKED_LIST;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; <else &lastnode = node;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+return null;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; else lastnode = node;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; else &lastnode = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+return (prevnode);
+if (!presvnode) &nsCOMPtr&nsIDOMNode> node;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+else ret = -1;
+#endif
+if (node == null) <return null;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <Node lastnode;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+else if (node) node.setSuccessor(prevnode);
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; <else <lastnode = node;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; &else &lastnode = node;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node) &nextnode = node.getSuccessor(); node = nextnode;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else &node.mProps = node;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+printf("reverse_linked_listn");
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (!list) <return NS_ERROR_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node == null) break;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else &node.mProps = node;
+return nextnode;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+return result;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) delete node;
+if (!node) return 0;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; <else lastnode = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else &node.mProps = node;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; <else &lastnode = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; &else <lastnode = node;
+if (!presvnode) <nsCOMPtrnsIDOMNode> node;
+if (!node) &return null;
+else <ret = -1;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+return rv;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; <else lastnode = node;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) node.flags |= REVERSE_LINKED_LOAD; #endif
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; return Reverse_LINKED_LIST;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; else lastnode = node;
+/* If the linker is already linked, do the reverse linker function. */ if (node) if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; else &lastnode = node;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#if defined(XP_MAC) if (node) if (relp.rel) return relp.rel; #endif
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; else lastnode = node;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (!node) return null;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; else <lastnode = node;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+else &*node = nextnode; return NS_OK;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; else lastnode = node;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else <node.mProps = node;
+return RESTORE_LINKED_LIST;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+return -1;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(XP_MAC) if (node) &if (relp.rel) return relp.rel; #endif
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!presvnode) &nsCOMPtr<nsIDOMNode> node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.first == lastnode) <lastnode = nextnode; <else &lastnode = node;
+/* * The current ifdef hasn't been updated. */ if (node) null = node; nsresult rv = RETURN_LINKED_NAMESPACE((const Node *)node, &node, null, &node, null); if (NS_FAILED(rv)) <return rv;
+#ifdef MAC if (sendmsg == 0) <msg = MessageForWrd(); return msg; #endif
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; <else &lastnode = node;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else &node.mProps = node;
+return reverse_links(node);
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (!reverse_linked_list) <if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else node.mProps = node;
+if (node.getSuccessor() == null) nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; else lastnode = node;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; <else &lastnode = node;
+if (node) return 0;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; else lastnode = node;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#if defined(XP_MAC) if (node) <if (relp.rel) return relp.rel; <#endif
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else &node.mProps = node;
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; &else lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+/* If the linker is already linked, do the reverse linker function. */ if (node) &if (!reverse_linked_list(node)) &return Reverse_LINKED_LIST; <return Reverse_LINKED_LIST;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; else lastnode = node;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) &node.flags |= REVERSE_LINKED_LOAD; #endif
+printf("reverse_linked_list&n");
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (!presvnode) <Node prevnode = node.getSuccessor();
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else &node.mProps = node;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+#if defined(XP_MAC) if (node) &if (relp.rel) return relp.rel; <#endif
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else node.mProps = node;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; else node.mProps = node;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!presvnode) nsCOMPtr<nsIDOMNode> node;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; &else lastnode = node;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; else &lastnode = node;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; &else lastnode = node;
+/* * Reverse the parent for this node. */ if (node == null) return -1;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; <else <lastnode = node;
+if (node == null) &break;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) if (NS_SUCCEEDED(reverse_linked_list(node))) &return RETURN_LINKED_LIST;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) <return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+else &ret = -1;
+return NS_OK;
+#ifdef MAC if (sendmsg == 0) <msg = MessageForWrd(); return msg; <#endif
+return this;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node == null) &return 0;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) <node = nextnode;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node!= null) &if (node.first == lastnode) lastnode = nextnode; <else <lastnode = node;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else node.mProps = node;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else <ret = (Node*) ret; return ret;
+if (reverse_linked_list) if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if ((node = null) || (node == null)) &return false;
+if (node.getSuccessor() == null) &nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; &else &node.mProps = node;
+else node.setSuccessor(prevnode);
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; <else <node.mProps = node;
+/* If the linker is already linked, do the reverse linker function. */ if (node) <if (!reverse_linked_list(node)) return Reverse_LINKED_LIST; &return Reverse_LINKED_LIST;
+if (reverse_linking_list) &res = reverse_linking_list(reverse_linking_list); return res;
+else *node = nextnode; return NS_OK;
+return super.reverse_linked_list(node);
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else ret = (Node*) ret; return ret;
+if (!list) &return NS_ERROR_NOT_IMPLEMENTED;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+return Reverse_LINKED_LIST;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) <if (node.first == lastnode) &lastnode = nextnode; <else lastnode = node;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+/* This means that this is a different list, which is not allowed in the function */ if (node == null) <if (NS_SUCCEEDED(reverse_linked_list(node))) return RETURN_LINKED_LIST;
+if (!presvnode) nsCOMPtrnsIDOMNode> node;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else &node.mProps = node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) &if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) &nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (!reverse_linked_list) if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; &else ret = (Node*) ret; return ret;
+if (node!= null) if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else &ret = (Node*) ret; return ret;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) <nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; &else &node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); <if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node) return node;
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+else &ret = ret;
+return retval;
+if (reverse_linked_list) &if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; &else &node.mProps = node;
+if (node!= null) /* XXX we can't move to an int */ node = node; return false;
+if (node!= null) &if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; else lastnode = node;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node!= null) if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (!reverse_linked_list) if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; &else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) <nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+return true;
+if (node.getSuccessor() == node.getSuccessor()) &node.setSuccessor(node.getSuccessor()); node = node;
+if (node!= null) <if (node.first == lastnode) <lastnode = nextnode; else &lastnode = node;
+if (node!= null) <if (node.first == lastnode) lastnode = nextnode; &else &lastnode = node;
+if (node!= null) &if (node.first == lastnode) <lastnode = nextnode; &else lastnode = node;
+if (node.getSuccessor() == null) &nsCOMPtr<nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) info.location = details.location; info.location.location = null; #endif
+if (node) &if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) <if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); if (reverse_linked_list) &if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; else <node.mProps = node;
+if (node) <return node;
+if (reverse_linked_list) <if (!reverse_linked_list) &NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (!reverse_linked_list) &if (!node.getSuccessor()) <return REV_NOT_IMPLEMENTED; else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; <else <ret = (Node*) ret; return ret;
+if (acquires) <if (!node) return NS_ERROR_NULL_POINTER; if (node) &node.mProps = node; node.mProps = node; else node.mProps = node;
+if (reverse_linked_list) &if (!reverse_linked_list) &NS_ERROR("node linked list"); if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; &else <lastnode = node;
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) &nsCOMPtrnsIIncomingProgress> io; if (node.io_stats) &nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (node!= null) if (node.first == lastnode) lastnode = nextnode; <else lastnode = node;
+if (reverse_linked_list) <if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (reverse_linked_list) <if (!reverse_linked_list) <NS_ERROR("node linked list"); <if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) node.mProps = node; node.mProps = node; <else <node.mProps = node;
+if (node == null) return null;
+/* * If we're re-linked, let's re-link it. */ if (node) Node nextnode = node.getSuccessor(); node = nextnode;
+if (node!= null) <if (node.type == eType) <Node* ret = (Node*)node; else ret = (Node*)node; else &ret = (Node*) ret; return ret;
+if (node.isEmpty()) <return null;
+if ((node = null) || (node == null)) <return false;
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) &node.flags |= REVERSE_LINKED_LOAD; &#endif
+#if defined(XP_MAC) || defined(XP_MACOSX) if (node && node.flags & REVERSE_LINKED_LOAD) <node.flags |= REVERSE_LINKED_LOAD; &#endif
+if (node.getSuccessor() == null) <nsCOMPtr&nsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) <#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (reverse_linked_list) &if (!reverse_linked_list) <NS_ERROR("node linked list"); if (reverse_linked_list) if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) <if (node.type == eType) Node* ret = (Node*)node; else ret = (Node*)node; else <ret = (Node*) ret; return ret;
+if (reverse_linked_list) if (!reverse_linked_list) NS_ERROR("node linked list"); &if (reverse_linked_list) <if (reverse_linked_list) NS_ERROR("node linked list"); else NS_ERROR("node linked list is not in reverse_linked_list"); return NS_ERROR_FAILURE;
+if (node!= null) &if (node.first == lastnode) &lastnode = nextnode; else <lastnode = node;
+#endif
+if (node) <delete node;
+if (!reverse_linked_list) &if (!node.getSuccessor()) return REV_NOT_IMPLEMENTED; else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (acquires) &if (!node) return NS_ERROR_NULL_POINTER; if (node) <node.mProps = node; node.mProps = node; <else node.mProps = node;
+if (node) if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr&nsIIncomingProgress> io; if (node.io_stats) <nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;
+if (!reverse_linked_list) if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else &/* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (!reverse_linked_list) <if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; &else </* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node!= null) if (node.first == lastnode) &lastnode = nextnode; else <lastnode = node;
+if (node == null) return node;
+if (node!= null) &if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (node!= null) if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; else ret = (Node*) ret; return ret;
+if (node.getSuccessor() == null) nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) &#ifdef NECKO if (details && details.location!= null) <info.location = details.location; info.location.location = null; #endif
+if (node!= null) <if (node.type == eType) &Node* ret = (Node*)node; else ret = (Node*)node; &else &ret = (Node*) ret; return ret;
+if (!reverse_linked_list) &if (!node.getSuccessor()) &return REV_NOT_IMPLEMENTED; <else /* XXX we need to be reverted back in a list to use the reverted_list of nodes in case there are a node, and we do not want the link to be used again. */ return REV_NOT_IMPLEMENTED;
+if (node.getSuccessor() == null) <nsCOMPtrnsIBindInfo> info(do_GetService(kBindInfoIID, &info)); if (!info) #ifdef NECKO if (details && details.location!= null) &info.location = details.location; info.location.location = null; #endif
+if (node) <if (node.flags & REVERSE_LINKED_LIST_ABORT) nsCOMPtr<nsIIncomingProgress> io; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = nsGenericHTMLElement::GetIncomingProgressList(getter_AddRefs(atom)); if (NS_FAILED(rv)) return rv; if (node.io_stats) nsCOMPtrnsIAtom> atom; rv = null; rv = null; else rv = null;

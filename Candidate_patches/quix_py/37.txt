@@ -1,0 +1,365 @@
+golden:
+result = alphabet[i] + result
+inference:
+result = result + i
+result = result + (int) alphabet[i]
+result = result + (unsigned long) alphabet[i]
+result = result + (unsigned char) alphabet[i]
+result = result + string.digits[i]
+result = result + strdup(alpha[i])
+result = result + '0' + alphabet[i]
+result = result + alphabet[i] + '0'
+result = result + string[i]
+result = result + (unsigned int) alphabet[i]
+result = result + num[i]
+result = result + strcmp(alpha[i])
+result = result + alpha[i]
+result = result + str(alpha[i])
+result = result + strlen(alpha[i])
+result = result + alphabet[i];
+result = result + name[i]
+result = result + '0'.get()
+result = result + (int)alpha[i]
+result = result + b[i]
+result = result + bytes[i]
+result = result + (ulong) alphabet[i]
+result = result + alphabet[i] + 1
+result = result + (int)align[i]
+result = result + i;
+result = result + unsigned int[i]
+result = result + (u_long) alphabet[i]
+result = result + to_base[i]
+result = result + '0';
+result += alphabet[i]
+result = result + (unsigned long)alpha[i]
+result = res + alphabet[i]
+result = result + abs(alpha[i])
+result = result + unicode(alpha[i])
+result = result + str[i]
+result = result + index;
+result = result + (unsigned long)align[i]
+result = result + (char *) alphabet[i]
+result = result + (short) alphabet[i]
+result = result + list[i]
+result = result + len;
+result = result + len[i]
+result = result + i + 1
+result = result + '[' + alphabet[i]
+result = result + '0' + i
+result = result + letter[i]
+result = result + strchr(alpha[i])
+result = result + (u_char) alphabet[i]
+result = result + (unsigned long)string[i]
+result = (result + alphabet[i])
+result = result + base[i]
+result = result + (int)number[i]
+result = result + strdup(align[i])
+result = result + byte[i]
+result = result + (int)string[i]
+result = result + literal[i]
+res = result + alphabet[i]
+result = result + digits[i]
+result = result + (u_char *) alphabet[i]
+result = result + '0'
+result = result + alphabet[i + 1]
+result = result + abs(align[i])
+result = result + flags[i]
+result = result + (int)num[i]
+result = result + index[i]
+result = result + alphabet[i] - 1
+result = result + to_base(i)
+result = result + str(algorithm[i])
+result = result + u[i]
+result = result + (char*) alphabet[i]
+result = result + (long) alphabet[i]
+result = result + (byte) alphabet[i]
+result = result + (unsigned long)number[i]
+result = result + int(align[i])
+result = result + buf[i]
+result = result + strtol(alpha[i])
+result = result + alphabet[i - 1]
+result = result + basename[i]
+result = result + list(alpha[i])
+result = result + int(alpha[i])
+result = result + base + i
+result = result + integer[i]
+result = result + letters[i]
+result = result + strchr(i)
+result = '0' + result + alphabet[i]
+result = result + suffixes[i]
+result = result + tmp[i]
+result = result + (int)argument[i]
+result = result;
+result = num + alphabet[i]
+result = result + alphabet[i] + len
+result = result + alphabet[i].digits
+result = result + alphabet[i+1]
+result = result + str(align[i])
+r = result + alphabet[i]
+result = result + enum[i]
+result = to_base(result + i)
+result = result + int[i]
+result = result + (char) alphabet[i]
+result = result + uri[i]
+result = result + suffix[i]
+result = result + 1
+result = result + (unsigned) alphabet[i]
+result = result + strerror(i)
+result = result + alphabet[i] + b
+result = result + (unsigned long)ar[i]
+result = result + unicode(align[i])
+result = result + (int) alpha[i]
+result = result + b.digits[i]
+result = result + strdup(i)
+result = result + ':' + alphabet[i]
+result = result + unsigned long[i]
+result = result + (ulong)alpha[i]
+result = result + (u_long)alpha[i]
+result = result + (u_int) alphabet[i]
+result = result + addr[i]
+result = result + strlen(i)
+result = result + indent[i]
+result = result + unsigned char[i]
+result = result + str(alignment[i])
+result = result + strcmp(align[i])
+result = result + strdup(alpha[i]);
+result = result + strlen(string.digits)
+result = result + int(i)
+result = result + (unsigned *) alphabet[i]
+result = result + ints[i]
+result = result + unsigned int(i)
+result = result + buffer[i]
+result = result + base + alphabet[i]
+result = result + names[i]
+result = result + '.' + alphabet[i]
+result = result + list(alignment[i])
+result = result + index + alphabet[i]
+result = result + verbose[i]
+result = result + prefix + alphabet[i]
+result = result + symbol.digits[i]
+result = result + (unsigned long) alpha[i]
+result = result + chars[i]
+result = result + suffixname[i]
+result = result + (unsigned int)string[i]
+result = result + len
+result = result + (unsigned long)num[i]
+result = result + len + i
+result = result + strlen(alignment)
+result = result + alphabet[i] + len;
+result = result + _alpha[i]
+result = result + strcmp(literal[i])
+result = result + str_digits[i]
+result = result + (int)ar[i]
+result = result + val[i]
+result = result + (int)name[i]
+result = result + char[i]
+result = result + abs[i]
+result = result + int(int)[i]
+result = result + (u_long)align[i]
+result = result + num + i
+result=result + alphabet[i]
+result = result + string.cstr_oneuse()
+result = result + (u_char*) alphabet[i]
+result = result + symbol[i]
+result = result + alphabet[i] + 'n'
+result = result + block[i]
+result = result + font[i]
+result = result + 'n' + alphabet[i]
+result = result + strlen(int)[i]
+result = result + alphabet[i] +''
+result = result + strlen(align[i])
+result = result + '0'[i]
+result = result; result = result + alphabet[i]
+result = result + '[' + i + 1]
+result = result + (unsigned long)arity[i]
+result = result + strcmp(alpha[i]);
+result = result + string.len + i
+result = result + alphabet[i] + string.digits
+result = result + alphabet[i] + '.'
+result = result + (int)entry[i]
+result = result + strdup(int(i))
+result = result + string.digits + i
+result = result + int(int(i))
+result = result + alphabet[i] + sizeof(string)
+result = result + (unsigned int)num[i]
+result = result + '0'.format(i)
+result = result + strcmp(int, i)
+result = result + strlen(alignments)
+result = result + (unsigned long)entry[i]
+result = result + (unsigned long)short[i]
+result = result + alphabet[i] + 1;
+result = result + '0' + i + 1
+result = result + alphabet[i] + ':'
+result = '0' + result + i
+result = result + string.ascii(i)
+result = result + alphabet[i] + ','
+result = result + strlen(alpha[i]);
+result = result + (unsigned char) i
+result = result + '0' + i;
+result = result; result = result + alphabet[i];
+result = result + (unsigned long) alphabet[i];
+result = result + strlen(align) + i
+result = result + strdup(align[i]);
+
+result = result + '0'.join(i)
+result = result + (u_long)number[i]
+result = result + tmplist[i]
+result = result + alphabet[i] + (result? '0' : '0')
+result = result + string.ascii_uppercase[i]
+result = result + (unsigned char*) alphabet[i]
+result = result + int(unsigned int)[i]
+result = result + strcmp(alignment[i])
+result = result + (int)arn[i]
+result = result + str_strlen(i)
+result = result + trunc_digits(ascii_uppercase, i)
+result = result + strlen(string.ascii_uppercase)
+result = result + alphabet[i] + strlen(buf)
+result = result + strdup(alignment[i])
+result = result + '[' + (byte)name + ']'
+result = result + '[';
+result = result + strdup(int(align[i]))
+result = result + strlen(math.digits)
+result = result + (unsigned char*)align[i]
+result = result + intname[i]
+result = result + int(string.ascii_uppercase)[i]
+result = result + strtol(ulong)[i]
+result = result + (unsigned char*)num[i]
+result = result + int_node[i]
+result = result + u.fetch_index(i)
+result = result + int_synonyms[i]
+result = result + strlen(literal[i])
+result = result + '[' + string.digits + i]
+result = result + (unsigned long)ascii(i)
+result = result + c.digits[i]
+result = result + u_int32(alpha[i])
+result = result + string.split(':', 1)[i]
+result = result + strlen(input) + i
+result = result + '0'.join(alpha[i])
+result = result + strdup(ascii_uppercase, i)
+result = result + strdup(strdup(attr[i]))
+result = result + '0'.join(literal[i])
+result = result + strlen(string)
+result = result + '0'; if (i > 0) result = result + '0'; else result = result + '0';
+result = result + strcmp(ascii_uppercase, '0')
+result = result + strtol(ulong[i])
+result = result + strlen(unsigned int) + i
+result = result + (unsigned long)item[i]
+result = result + cp[i]
+result = result + strtol(alignment[i])
+result = result + str_literal[i]
+result = result + strlen(string)[i]
+result = result + strlen(alignment[i])
+result = result + '0'.join(ascii(r))
+result = result + '['; i++; result = result + '0';
+result = result + '0'.to_name(align[i])
+result = result + cstrlen(anchor[i])
+result = result + '0'.join(digits) + '0'.join(name)
+result = result + (int)ascii_uppercase[i]
+result = result + '<0'.join(alpha[i])
+result = result + alphabet[i] + '&0'
+result = result + '0'; if (i > 0) result = result + '&0'; else result = result + '0';
+result = result + '&n' + alphabet[i]
+result = result + '['; i++; result = result + '<0';
+result = result + '&0'; if (i > 0) result = result + '0'; else result = result + '&0';
+result = result + '0'.join(digits) + '0'.join(name)
+result = result + '&0'; if (i > 0) result = result + '<0'; else result = result + '<0';
+result = result + '<0'.join(digits) + '0'.join(name)
+result = result + '<0'; if (i > 0) result = result + '&0'; else result = result + '0';
+result = result + alphabet[i] + 'n'
+result = result + '0'.get()
+result = result + '&0' + alphabet[i]
+result = result + '&0'; if (i > 0) result = result + '&0'; else result = result + '<0';
+result = result + '0'; if (i > 0) result = result + '0'; else result = result + '&0';
+result = result + '&0'; if (i > 0) result = result + '<0'; else result = result + '&0';
+result = result + '&0'.join(digits) + '&0'.join(name)
+result = result + alphabet[i] + (result? '&0' : '<0')
+result = '&0' + result + alphabet[i]
+result = result + '<0';
+result = result + '<0'; if (i > 0) result = result + '<0'; else result = result + '<0';
+result = result + '0'; if (i > 0) result = result + '&0'; else result = result + '<0';
+result = result + '0';
+result = result + alphabet[i] + (result? '0' : '<0')
+result = result + '0' + i + 1
+result = result + '&0' + i + 1
+result = result + alphabet[i] + (result? '&0' : '0')
+result = result + '<0'.get()
+result = result + '&0';
+result = result + '0' + alphabet[i]
+result = result + '&0'.join(alpha[i])
+result = result + '<0'; if (i > 0) result = result + '0'; else result = result + '<0';
+result = result + '<0'.join(literal[i])
+result = result + '['; i++; result = result + '&0';
+result = result + '&0'.get()
+result = result + '<0'; if (i > 0) result = result + '0'; else result = result + '0';
+result = result + '<0'.to_name(align[i])
+result = result + alphabet[i] + (result? '<0' : '0')
+result = result + '0'; if (i > 0) result = result + '<0'; else result = result + '&0';
+result = result + '<0'
+result = result + '0'.join(i)
+result = result + '&0'; if (i > 0) result = result + '&0'; else result = result + '&0';
+result = result + '0'; if (i > 0) result = result + '<0'; else result = result + '0';
+result = result + strcmp(ascii_uppercase, '<0')
+result = result + '0'.join(digits) + '<0'.join(name)
+result = result + '<0' + i
+result = result + '<0'.join(digits) + '<0'.join(name)
+result = result + '0'[i]
+result = result + '0'; if (i > 0) result = result + '0'; else result = result + '<0';
+result = result + '&0'.format(i)
+result = result + '<0'; if (i > 0) result = result + '<0'; else result = result + '0';
+result = result + '0'; if (i > 0) result = result + '<0'; else result = result + '<0';
+result = result + '0' + i;
+result = '<0' + result + i
+result = result + '&0' + i
+result = result + '0'; if (i > 0) result = result + '0'; else result = result + '0';
+result = result + '&0'; if (i > 0) result = result + '0'; else result = result + '<0';
+result = result + alphabet[i] + '0'
+result = result + '0'
+result = result + '0'.to_name(align[i])
+result = result + '&0'
+result = '0' + result + i
+result = '&0' + result + i
+result = result + strcmp(ascii_uppercase, '&0')
+result = result + '&0'.join(ascii(r))
+result = result + '0' + i
+result = result + alphabet[i] + '<0'
+result = result + alphabet[i] + (result? '0' : '0')
+result = result + '<0' + i;
+result = result + '<0'.format(i)
+result = result + alphabet[i] + (result? '<0' : '&0')
+result = result + '0'; if (i > 0) result = result + '&0'; else result = result + '&0';
+result = '<0' + result + alphabet[i]
+result = result + '&0'; if (i > 0) result = result + '&0'; else result = result + '0';
+result = result + '&0'; if (i > 0) result = result + '0'; else result = result + '0';
+result = result + alphabet[i] + (result? '&0' : '&0')
+result = result + '0'.join(alpha[i])
+result = result + '&0'; if (i > 0) result = result + '<0'; else result = result + '0';
+result = '0' + result + alphabet[i]
+result = result + '0'.join(literal[i])
+result = result + '<0'.join(i)
+result = result + '<0'[i]
+result = result + '&0'.join(digits) + '0'.join(name)
+result = result + '0'.join(ascii(r))
+result = result + '<0' + alphabet[i]
+result = result + 'n' + alphabet[i]
+result = result + '&0'.join(i)
+result = result + '&0'.join(literal[i])
+result = result + '<0'; if (i > 0) result = result + '&0'; else result = result + '&0';
+result = result + alphabet[i] + '&n'
+result = result + '&0'.join(digits) + '<0'.join(name)
+result = result + '0'.format(i)
+result = result + '<n' + alphabet[i]
+result = result + alphabet[i] + (result? '0' : '&0')
+result = result + '&0'.to_name(align[i])
+result = result + '<0'; if (i > 0) result = result + '0'; else result = result + '&0';
+result = result + '<0'; if (i > 0) result = result + '<0'; else result = result + '&0';
+result = result + strcmp(ascii_uppercase, '0')
+result = result + '['; i++; result = result + '0';
+result = result + alphabet[i] + (result? '<0' : '<0')
+result = result + '<0' + i + 1
+result = result + '<0'.join(ascii(r))
+result = result + alphabet[i] + '<n'
+result = result + '&0'[i]
+result = result + '<0'.join(digits) + '&0'.join(name)
+result = result + '<0'; if (i > 0) result = result + '&0'; else result = result + '<0';
+result = result + '0'.join(digits) + '&0'.join(name)
+result = result + '&0' + i;

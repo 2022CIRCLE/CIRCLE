@@ -1,0 +1,272 @@
+golden:
+if all(n % p > 0 for p in primes):
+inference:
+if any((n % p > 0) for p in primes):
+if any(n % p >= 0 for p in primes):
+if any(n % p > 0 for p in primes)
+if any(n % n > 0 for p in primes):
+if any(n >= 0 for p in primes):
+if any(n % p > 0) for p in primes:
+if n % p >= 0 for p in primes:
+if any(n > 0 for p in primes):
+if any(n % p > 0 for p in primes - 1):
+if n % p > 0 for p in primes:
+if any(n % p  0 for p in primes):
+if any((n % p) > 0 for p in primes):
+if any(n % np > 0 for p in primes):
+if any((n % p > 0) for (p in primes):
+if (n % p > 0 for p in primes):
+if any (n % p > 0 for p in primes):
+if any(n % p = 0 for p in primes):
+if any(primes % p > 0):
+if any(n % p) > 0 for p in primes:
+if (n % p > 0):
+if any(n % maxp > 0 for p in primes):
+if any(n % p >= 0):
+if any(n % (p) > 0 for p in primes):
+if n % n > 0 for p in primes:
+if any(n % n) > 0 for p in primes:
+if any(n % i > 0 for i in primes):
+if any((n % p > 0) for (p = primes):
+if n % np > 0 for p in primes:
+if any(n % n > 0 for n in primes):
+if any(((n % p > 0) for p in primes)):
+if any([n % p > 0 for p in primes]):
+if any(n % p > -1):
+if (n % p > 0) for (p in primes):
+if any((n + 1) % p > 0 for p in primes):
+if any(n + p > 0 for p in primes):
+if any(n % p + 1) > 0 for p in primes:
+if any(n % p > 0):
+if any(n % s > 0 for p in primes):
+if n % p > 0 for p in primes - 1:
+if (any(n % p > 0 for p in primes)):
+if (n % p > 0) for p in primes:
+if any(n % p > 1):
+if if any(n % p > 0 for p in primes):
+if (n % p > 0)
+if any((n % p > 0 for p in primes)):
+if any(n % (p + 1) > 0 for p in primes):
+if any(n % i > 0 for p in primes):
+if any(n % p > 0 for p in primes):
+if any((n) % p > 0 for p in primes):
+if any(n%p > 0 for p in primes):
+if any(n % p > 0 for p in p_primes):
+if any(n % (p+1) > 0 for p in primes):
+if any(n % np > 0 for np in primes):
+if any(n % (int)p > 0 for p in primes):
+if any(&n % p > 0 for p in primes):
+if any(n % p > 0 for i in primes):
+if any(((n % p) > 0 for p in primes)):
+if any(n * p > 0 for p in primes):
+if any((n% p > 0) for p in primes):
+if any(a % p > 0 for p in primes):
+if any(n % ip > 0 for ip in primes):
+if any(p > 0 for p in primes):
+if n % p  0 for p in primes:
+if any(n % xp > 0 for p in primes):
+if a(n % p > 0 for p in primes):
+if any(m % p > 0 for p in primes):
+if any(n % i) > 0 for p in primes:
+if any(n % max + 1) > 0 for p in primes:
+if n >= 0 for p in primes:
+if any(n % _p > 0 for p in primes):
+if any(n % gp > 0 for p in primes):
+if any(n % (p) p > 0 for p in primes):
+if any(n & 0xff) for p in primes:
+if any(p % n > 0 for p in primes):
+if any(n % n  p > 0 for p in primes):
+if any(P(n) % p > 0 for p in primes):
+if any((int)n % p > 0 for p in primes):
+if any(--n % p > 0 for p in primes):
+if n > 0 for p in primes:
+if any(n % lp > 0 for p in primes):
+if all(n % p > 0 for p in primes):
+if any(n % (ptr) > 0 for p in primes):
+if any(n % ap > 0 for p in primes):
+if any(n) > 0 for p in primes:
+if n % p > 0 for p in primes :
+if any ((n % p > 0) for p in primes):
+if any(n % (p - 1) > 0 for p in primes):
+if any(n % p > 0 for p in primes + 1):
+if any(n % PIDGET(p) > 0 for p in primes):
+if any (n % p > 0) for p in primes:
+if any(n % a > 0 for a in primes):
+if any(n % max > 0 for p in primes):
+if any(n*p > 0 for p in primes):
+if any(n % pp > 0 for p in primes):
+if any(n % n >= 0 for p in primes):
+if any(n - p > 0 for p in primes):
+if any(N % p > 0 for p in primes):
+if any(n % p > 0 for n in primes):
+if any( (n % p > 0) for p in primes):
+if any(n % i) > 0 for i in primes:
+if any(n % (p)p > 0 for p in primes):
+if any(n % p >= -1):
+if any(n % p + 1 > 0 for p in primes):
+if any(n >= p > 0 for p in primes):
+if any(n % p > 0 for p in primes  0):
+if any(n % p == -1):
+if any(n % ap > 0 for ap in primes):
+if any((n-p) % p > 0 for p in primes):
+if any(n % a > 0 for p in primes):
+if any(n-- > 0 for p in primes):
+if any(n % p > 0 for p in primes - n):
+if any(i % p > 0 for i in primes):
+if n % (p) > 0 for p in primes:
+if any(n) % p > 0 for p in primes:
+if any(n % p > 0 for p in primes - 2):
+if any(n % p >= max):
+if any(n % p > 0 for p in prims):
+if any((n % p >= 0) for p in primes):
+if any(n % max + p > 0 for p in primes):
+if n % p > 0 for p in primes  0:
+if any(n % p >= 0) for p in primes:
+if any((void *)n % p > 0 for p in primes):
+if any((n % p + 1) > 0 for p in primes):
+if n  p > 0 for p in primes:
+if any(n % p > 0, primes):
+if n % p > 0 for p in primes  2:
+if any(n % p  0):
+if any((n % p - 1) > 0 for p in primes):
+if any(n % numptr > 0 for p in primes):
+if any(n%p >= 0 for p in primes):
+if any((n%p) > 0 for p in primes):
+if any(n  p > 0 for p in primes):
+if any(n % prec > 0 for p in primes):
+if any(n % p*p > 0 for p in primes):
+if any((n%p) % p > 0 for p in primes):
+if any(-n % p > 0 for p in primes):
+if any(n % d > 0 for p in primes):
+if any(n % p - 1 > 0 for p in primes):
+if any(n % x > 0 for p in primes):
+if /* any(n % p > 0 for p in primes):
+if any(p >= 0 for p in primes):
+if any(n % p > 0)
+if any(np % p > 0 for p in primes):
+if any(n % bp > 0 for p in primes):
+if any(n % p  0) for p in primes:
+if any(n % max) > 0 for p in primes:
+if any([n % p > 0]):
+if any(n % len > 0 for p in primes):
+if any(n % p > 0 for p in p):
+if any(n % pos > 0 for p in primes):
+if any(n & p > 0 for p in primes):
+if primes.any(n % p > 0):
+if any(n % dp > 0 for p in primes):
+if any(n % p > 0 for p in primes - 1);
+if any(((n % p) > 0) for p in primes):
+if n % n >= 0 for p in primes:
+if if any(n % p > 0) for p in primes:
+if any( n % p > 0 for p in primes ):
+if any((n-1) % p > 0 for p in primes):
+if any(n % max_p > 0 for p in primes):
+if any(n % p >> 0 for p in primes):
+if any(n % n % p > 0 for p in primes):
+if any((float)n % p > 0 for p in primes):
+if any((n+1) % p > 0 for p in primes):
+if any((n % p > 0) + 1):
+if p > 0 for p in primes:
+if any(n % p > 0 for p in primes - 1 + 1):
+if any((n % p > 0)):
+if any(n % hp > 0 for hp in primes):
+for p in primes: if any(n % p > 0)
+if any(n % sp > 0 for p in primes):
+if n % i > 0 for p in primes:
+if any(n % p > (int)0) for p in primes:
+if any(n % p > 0 for p in primes - 1:):
+if n % p > 0 for p in primes.iterator():
+if any(n % m > 0 for p in primes):
+if any(n % p > 0) for (p in primes):
+if ANY(n % p > 0 for p in primes)
+if any(n % p > 0 for p in primes) :
+if any(n % p > 0 for p in primes) + 1:
+if any(n % p > MAX_PAGE_SIZE):
+if any(primes[n % p] > 0):
+if any(n % p >= primes):
+if any(n % p >= 1):
+if any(n % 0 > 0 for p in primes):
+if any(n % p > max):
+if any(n % p > 0)  for p in primes:
+if any((n % p > 0) * n):
+if any((n % p > 0) and primes):
+if any(n % p > 0 for p in primes  2):
+if any(n % p > 0 for p in pme):
+if any(n % p  n):
+if any(n % p > 0 for p in _primes):
+if any(n % p > 0 for p in primes - 1e-1):
+if any(n % p > 0 for p in primes and n % p > 0):
+if any(n % p > 0 for p in primes and n >= 0):
+if any(n % p > 0 for p in primes and (n % p % p % p)):
+if any(n % p > 0 for p in primes - 1: n == 0):
+if any(n % p > 0 for p in primes and (*(n % p > 0))):
+if any(n % p > 0 for p in primes and!((p = 0) and (*p = -1))):
+if any(n % p > 0 for p in primes and n >= max):
+if any(n % p > 0 for p in primes and ((n % p >= 0)? n : -1)):
+if any(n % p > 0 for p in primes - 1  5):
+if any(n % p > 0 for p in primes and n  n and (n % p > 0)):
+if any(n % n p > 0 for p in primes):
+if any(n % p &= 0 for p in primes):
+if n % p > 0 for p in primes <0:
+if any(n % p > 0 for p in primes &0):
+if any(n % <p> 0 for p in primes):
+if any(n % p <0):
+if any(n % p > 0 for p in primes <0):
+if n % p > 0 for p in primes <2:
+if any(n % p &0):
+if any(n % p <0) for p in primes:
+if any(n % p > 0) &for p in primes:
+if n <p > 0 for p in primes:
+if any(n % p &0 for p in primes):
+if any(n % p > 0 for p in primes)
+if any(n <p > 0 for p in primes):
+if ANY(n % p > 0 for p in primes)
+if any(n % &p > 0 for p in primes):
+if any(n p > 0 for p in primes):
+if (n % p > 0)
+if any(n % <p > 0 for p in primes):
+if any(n % p > 0) for p in primes:
+if any(n % p <0 for p in primes):
+if n p > 0 for p in primes:
+if any(n % p> 0 for p in primes):
+if any(n % p&> 0 for p in primes):
+if n % p > 0 for p in primes 0:
+if any(n % p <n):
+if any(n % &p<> 0 for p in primes):
+if any(n % p 0) for p in primes:
+if any(n % p > 0 for p in primes and n n and (n % p > 0)):
+if any(n % p > 0 for p in primes and n <n and (n % p > 0)):
+if any(n % p <= 0 for p in primes):
+if any(n % p > 0) <for p in primes:
+if any(n % p > 0 for p in primes &2):
+if any(n % <p<> 0 for p in primes):
+if any(n % p > 0 for p in primes - 1 5):
+if n &p > 0 for p in primes:
+if n % p > 0 for p in primes &0:
+if any(n % p > 0 for p in primes - 1 &5):
+if any(n % p n):
+if any(n % &p&> 0 for p in primes):
+if any(n % p > 0)
+if n % p > 0 for p in primes &2:
+if n % p 0 for p in primes:
+if any(n % p 0 for p in primes):
+if any(n % p > 0 for p in primes 0):
+if any(n % p > 0 for p in primes)
+if n % p &0 for p in primes:
+if any(n % p > 0 for p in primes 2):
+if n % p > 0 for p in primes 2:
+if any(n % p 0):
+if any(n % n &p > 0 for p in primes):
+if any(n % p > 0 for p in primes <2):
+if any(n % <p&> 0 for p in primes):
+if any(n % p &n):
+if any(n % p > 0 for p in primes - 1 <5):
+if any(n % p<> 0 for p in primes):
+if any(n % &p> 0 for p in primes):
+if any(n % n <p > 0 for p in primes):
+if any(n % p > 0 for p in primes):
+if any(n % p > 0 for p in primes and n &n and (n % p > 0)):
+if any(n % p &0) for p in primes:
+if any(n % p = 0 for p in primes):
+if n % p <0 for p in primes:
+if any(n &p > 0 for p in primes):

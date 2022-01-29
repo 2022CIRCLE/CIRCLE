@@ -1,0 +1,278 @@
+golden:
+return depth == 0
+inference:
+return (True)
+return (False)
+return (True)
+return (False)
+return (True);
+return 0;
+return 1;
+return (False);
+return False;
+return True;
+return is_valid_parenthesization
+return (0);
+return (True)
+return (True);
+return (False)
+return True;
+return paren == '0'
+return(False)
+return rv;
+
+return (T_TRUE)
+return is_TRUE
+return paren == '('
+return retval;
+return 1
+return is_valid_parenthesization;
+return False;
+return parens[0];
+return;
+return (EIF_TRUE);
+return(True)
+return EIF_TRUE
+return parens;
+return (True) parens;
+return (T_TRUE);
+return ret;
+return parens[0]
+return is_parenthesization
+return (-1);
+return (EIF_TRUE)
+return(False);
+return False
+return True
+return -1
+return False
+return -1;
+return False
+return paren;
+return is_parenthesization_false
+return (1);
+return is_true;
+return is_True
+ret = True;
+return is_valid_parenthesization()
+return is_true
+return paren!= '0'
+return is_false
+return (True) parens
+return result;
+return (Throwable)True
+return (T_FALSE)
+return (True);
+return(False)
+return False;
+return parens == '0'
+return (EINVAL);
+return paren == '0';
+return(True)
+result = True;
+return True;
+return parens[depth]
+return parens[depth - 1]
+return paren  0;
+return is_FALSE
+break;
+return PZ_TRUE
+return is_parenthesization;
+return parens.is_valid;
+return (Empty())
+return parens[-1]
+return NS_OK;
+return (False);
+return 0
+goto out;
+return (WasTrue)
+return (False);
+return parens[1]
+return paren_is_valid;
+return (EIF_FALSE)
+return paren == '*'
+return (!parens)
+return ParseEmpty()
+return: True
+return is_valid_parent_hesization
+return paren + 1
+return parens  0;
+return (EX_TRUE);
+return False;
+return PAREN_TRUE
+return (True) paren
+ret = True; return ret;
+return is_TRUE;
+return (too_long)True
+return has_parenthesization
+goto done;
+return DEF_TRUE
+return
+return (rv == True)
+return parens == 0;
+return(True);
+return retval
+return paren!= 0
+goto ret;
+return parens[depth];
+return is_parenthesization(depth)
+goto fail;
+return True
+return(0);
+return (EIF_FALSE);
+raise NotImplementedException();
+return parens == None;
+return is_val
+return True;
+return (EX_TRUE)
+return (Empty)True
+goto cleanup;
+return(True);
+return is_False
+return EIF_TRUE;
+return (True)parens;
+return (!False)
+return parens.is_valid();
+return EIF_FALSE
+return 2;
+return parens[1];
+else return (False)
+return result
+else return False
+return paren == '(';
+return paren == ''
+return (Throwable) True
+return TAILQ_FALSE;
+return (is_valid_parenthesization)
+return paren == 'n'
+retval = True;
+return (T_FALSE);
+return parens!= 0;
+return (True)(0);
+return (int)True
+return (TRY_FALSE);
+return (Throwable)True
+return (YES);
+return (TRY_FALSE)
+return PAREN_TRUE;
+return DEBUG
+return TAILQ_FALSE
+return (False) parens;
+return paren.is_valid()
+continue;
+return (True)!parens;
+return parens!= 0
+return paren == 'a'
+return (True) paren;
+return parens == None
+return PARENS_TRUE
+return paren.is_valid;
+return (ret == True)
+return (True) parens;
+return paren_is_valid()
+ret = True;
+return paren.is_valid();
+return is_parenthesizationTrue
+return paren == None
+return (EINVAL)True
+return paren == '|'
+return paren!= '('
+return paren!= None
+return paren.is_valid;
+return (False) parens;
+return paren == '_'
+return parens[0][1]
+return parens[0].is_valid;
+return paren2 == '0'
+return paren_is_valid(depth)
+return is_valid_parenthesization ()
+return parens!= None;
+return is_exact_parenthesization
+return paren == '/'
+return paren1 == '0'
+return parens == '('
+return (1)
+return paren == '>'
+return (EXT_TRUE);
+return is_parenthesization: True
+return paren = 0;
+return parens? True : True
+return paren == ':'
+return is_valid_parenthesization(parens)
+return is_parenthesization_true
+return paren.is_valid_parenthesization()
+return parens.is_valid_parenthesization;
+return parens[0]? True : True
+return paren.is_valid_parenthesization()
+return is_parenthesization(parens)
+return parens[0]? True : True
+return paren.is_valid_parenthesization;
+return paren == '(': depth -= 1 if depth  0) return False
+return is_valid_parenthesization (parens)
+return parens[0] == '0'
+return parens[0]? True : False
+return paren_is_valid_parenthesization (parens)
+return paren_is_valid_parenthesization(depth)
+return paren_is_valid_parenthesization(parens)
+return parens[-1] == '0'
+return parens[parens[parens.size]-1] == '0'
+return parens[0] == '0';
+return parens[parens.length - 1]
+return paren.is_valid_parenthesization
+return parens[parens[parens.size]-1] == '0'
+return parens &0;
+return paren == '&'
+&return (False)
+return parens[-1] == '<0'
+return paren <0;
+return paren == '(': depth -= 1 if depth <0) return False
+return parens[0] == '&0';
+return paren!= '&0'
+return paren == '<0';
+return parens <0;
+&return True;
+return parens[-1] == '&0'
+return paren == '&n'
+return paren == '(': depth -= 1 if depth 0) return False
+return paren2 == '&0'
+return paren == '<0'
+<return (False)
+return True;
+return parens[0] == '0'
+return paren1 == '<0'
+return paren == '<'
+return paren1 == '&0'
+return parens[-1] == '0'
+return paren == '0'
+return paren!= '0'
+return parens 0;
+return parens[0] == '<0'
+return paren == ''
+return paren == '0';
+return parens[parens[parens.size]-1] == '<0'
+return paren2 == '<0'
+return paren == '<n'
+&return True;
+return paren == '&0'
+return paren &= 0;
+<return True;
+return parens[0] == '&0'
+return paren == 'n'
+return (False)
+return paren 0;
+return paren2 == '0'
+return parens == '&0'
+<return True;
+return parens[parens[parens.size]-1] == '&0'
+return parens == '<0'
+return parens == '0'
+return paren &0;
+return paren = 0;
+return parens[0] == '<0';
+return parens[0] == '0';
+return paren == '&0';
+return True;
+return paren1 == '0'
+return paren <= 0;
+return paren!= '<0'
+return paren == '(': depth -= 1 if depth &0) return False

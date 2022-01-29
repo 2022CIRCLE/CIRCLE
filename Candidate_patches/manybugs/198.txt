@@ -1,0 +1,803 @@
+golden:
+PyThreadState *_Py_Finalizing = NULL;
+inference:
+#endif
+return 0;
+return (0);
+
+static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+initsigs(void);
+/* Needed by import.c */
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+_PyUnicode_Init(void);
+_PyFaulthandler_Init(void);
+#endif /* WITH_THREAD */
+return;
+static
+static void call_py_exitfuncs(void);
+initfsencoding(PyInterpreterState *interp);
+void call_py_exitfuncs(void);
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+#ifdef WITH_THREAD
+/* Needed by parser.c */
+return -1;
+int _PyFaulthandler_Init(void);
+static void initsigs(void);
+static static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static
+_PyLong_Init(void);
+void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+/* XXX */
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static
+initsite(void);
+free(perrdetail);
+err_free(perrdetail *);
+break;
+return PR_FALSE;
+run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+@endif
+#ifdef WITH_THREAD #endif
+static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void);
+splx(s);
+/* Needed by sysmodule.c */
+*/
+return NULL;
+_PyFaulthandler_Fini(void);
+static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void);
+static void _PyFaulthandler_Init(void); static void _PyFaulthandler_Fini(void);
+#ifdef DEBUG
+static initsigs(void);
+static void _PyUnicode_Init(void);
+int _PyLong_Init(void);
+static static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+/* * Needed by import.c */
+return NS_OK;
+static void _PyUnicode_Init(void); static void _PyUnicode_Fini(void);
+/* needed by import.c */
+int _PyUnicode_Init(void);
+void _PyUnicode_Init(void);
+initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+void _PyFaulthandler_Init(void);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *);
+int Py_DebugFlag;
+static void _PyFaulthandler_Init(void);
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static
+void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+return 1;
+int Py_DebugFlag; /* Needed by import.c */
+static static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *);
+initstdio(void);
+/*
+static void err_free(perrdetail *); static void initsigs(void);
+static initfsencoding(PyInterpreterState *interp);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *);
+static int _PyFaulthandler_Init(void);
+static void
+Init();
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *)
+static void call_py_init(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static int _PyFaulthandler_Init(void); static void _PyFaulthandler_Fini(void);
+return TRUE;
+int Py_QuietFlag;
+initsigs();
+static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void
+/* NOTREACHED */
+int Py_InteractiveFlag;
+#ifdef HAVE_THREAD
+_PyUnicode_Fini(void);
+static void #endif
+free(interp);
+static void call_py_exitfuncs(void); static void call_py_exitfuncs(void);
+#else
+/* Needed by import.c */ int Py_QuietFlag;
+PZ_UNLOCK(interp);
+void initsigs(void);
+@ifdef WITH_THREAD
+int Py_Flag;
+free(perrdetail *);
+#else initfsencoding(PyInterpreterState *interp); #endif
+static int _PyUnicode_Init(void);
+/* Needed by import.c */ int Py_QuietFlag; /* Needed by import.c */
+exit(1);
+static void _PyUnicode_Init(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+Py_DebugFlag = 0;
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *)
+_Py_Faulthandler_Init(void);
+static initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+int Py_QuietFlag; /* Needed by import.c */
+/* needed by parser.c */
+_PyUnicode_Init(void); _PyUnicode_Fini(void);
+static void flush_io(void);
+int Py_VerboseFlag;
+_PyGILState_Init(PyInterpreterState *, PyThreadState *);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void
+int Py_InteractiveFlag; /* Needed by import.c */
+static void err_free(perrdetail *);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *),
+else _PyUnicode_Init(void);
+Py_DebugFlag;
+static void call_py_exitfuncs(void); void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static
+static int initstdio(void);
+int Py_VerboseFlag; /* Needed by import.c */
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void
+static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void);
+static int initflag;
+_PyFaulthandler_Init(void); _PyFaulthandler_Fini(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *)
+static void _PyLong_Init(void); static void _PyLong_Fini(void);
+initio(void);
+_PyPyFaulthandler_Init(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *),
+static int _PyUnicode_Init(void); static void _PyUnicode_Fini(void);
+static static void call_py_exitfuncs(void);
+static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void);
+continue;
+static void _PyGILState_Init(void); static void _PyGILState_Fini(void);
+else _PyFaulthandler_Init(void);
+_PyLong_Init(void); _PyLong_Fini(void);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *);
+int _PyFaulthandler_Fini(void);
+extern void call_py_exitfuncs(void);
+static int _PyLong_Init(void);
+#ifdef WITH_THREAD /* Needed by import.c */
+void _PyLong_Init(void);
+/* Needed by import.c */ int Py_InteractiveFlag;
+static int initfsencoding(PyInterpreterState *interp);
+/* NEEDED by import.c */
+/* Needed by import.c */ int Py_InteractiveFlag; /* Needed by import.c */
+int Py_Long_Init(void);
+_PyGILState_Init(void);
+if (!interp) return;
+/* * Needed by parser.c */
+static void _PyLong_Init(void);
+extern void _PyUnicode_Init(void); extern void _PyUnicode_Fini(void);
+#ifdef HAVE_THREAD #endif
+#ifdef DIAGNOSTIC
+PZ_UNLOCK();
+Py_InteractiveFlag = 0;
+initfsencode(PyInterpreterState *interp);
+/* XXX needed by import.c */
+_PyUnicode_Init();
+static void _PyGILState_Init(void);
+err_init(perrdetail *);
+else
+int
+static void _PyFaulthandler_Fini(void);
+int initstdio(void);
+int Py_Flag; /* Needed by import.c */
+/* * Needed by sysmodule.c */
+/* Needed by imported.c */
+static int flags;
+void _PyFaulthandler_Fini(void);
+static void err_init(perrdetail *);
+#ifdef WITH_THREAD /* Needed by parser.c */
+int _PyGILState_Init(void);
+initsigs(void); initsigs(void);
+int Py_DebugFlag; /* Needed by parser.c */
+_PyFaulthandler_Init(void); static void _PyFaulthandler_Fini(void);
+static void initsigs(void); static void call_py_exitfuncs(void);
+void err_free(perrdetail *);
+#ifdef ON_THREAD
+_Py_Unicode_Init(void);
+PY_LOCK_ASSERT();
+Py_DebugFlag = Py_DebugFlag;
+static PyUnicode_Init(void);
+/* Needed by import.c */ /* Needed by import.c */
+_PyFaulthandler_Init();
+static static void initsigs(void);
+err_free(perrdetail);
+void _PyGILState_Init(void);
+_PyDebugFlag = 0;
+int _PyDebugFlag;
+static void call_py_init(void);
+#endif /* WITH_THREAD*/
+static int initsigs(void);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+/* Runs unlocked tys on */
+void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+static initfsencoding(PyInterpreterState *interp); static initsite(void); static initinitstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void
+/* If no module is loaded, it's still locked in the factory. */ static init_io(void); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exit
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyXarena *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+_Py_Log_Init(void);
+/* _PyFaulthandler_Init(void);
+static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void
+if (needed_thread_setup_py_is_busy)  /* Needed by import.c */ _PySupport_Init(void); /* Needed by import.c */ _PySupport_Fini(void);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode())  /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0)  /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE)  /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* needed by parser.c */ int Py_InteractiveFlag; /* Needed by import.c */ int Py_InteractiveFlag; /* Needed by sysmodule.c */
+/* Check that there is a directory to keep track of the current directory. */ if (!dialog_is_open(&sd_mode, -1, PAGE_LONG))  return;
+_PyClient_Fini_Fini(void);
+static void _Py_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void _Py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+if ((i == 0) && ((i  0) || (i > 0)) )  if (*i == -1)  _PyGILState_Init(void);  else  _PyGILState_Fini(void);
+_PyGILState_Init(PyInterpreterState *, PyThreadState *); _PyGILState_Fini(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule())  if (is_exit_sysmodule())  /* It's not possible to find a local script. */  if (is_exit_sysmodule())  /* We need to find the module's system and start at this time */ if (is_exit_sysmodule())  /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule())  /* Needed by sysmodule.c */ if (is_exit_sysmodule())  /* Needed by sysmodule.c */ if (is_exit_sysmodule())  /* Needed by sysmodule.c */ if (is_exit_s
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+int Py_HostFlag;
+/* XXX - This should be for the * newer *, for convenience. If the return flag is not present, just notify us about the other. */ _PyGLinio_Unicode_Init(void); /* XXX */
+/* Not defined yet */
+void call_py_init(void);
+int _PyMoveDummy = 0; int _PyMoveCancel = 1;
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+static int ret = 0; static int fd_IsEmpty(void); static int ret = 0; static int ret = 0; static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyObject *, PyCompilerFlags *
+_Py_Giant = PR_FALSE;
+static int _Py_Long_Init(void); static int _Py_Long_Fini(void); static int _Py_Long_Fini(void); static int _Py_Long_Fini(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static int Py_VerboseFlag; /* Needed by import.c */ int Py_InteractiveFlag; static void flush_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyObject *, PyObject *, PyCompilerFlags *); static PyObject *run_pyc_file(FILE *, const char *, PyObject
+if (args == 0)  if (args == 1) args = 0; return (0);
+static void _PyIdCallback_Init(void); static void _PyIdCallback_Init(void); static void _PyIdCallback_Init(void); static void _PyIdCallback_Init(void); static void _PyIdCallback_Init(void); static void _PyIdCallback_Init(void); static void _PyIdCallback_Fini(void);
+/* Needed by import.c */ int Py_QuietFlag; /* Needed by import.c */ int Py_InteractiveFlag; /* Needed by import.c */
+_PyIFpy_init_restore(f);
+/* * Needed by parser.c */ int Py_QuietFlag; /* Needed by import.c */ int Py_InteractiveFlag; /* Needed by sysmodule.c */ int Py_Long_Flag; /* Needed by import.c */
+static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void
+static void _Py_Faulthandler_Fini(void);
+static void call_py_exitfuncs(void); static void call_py_debug_init(void); static void call_py_init(void); static void call_py_init(void); static void call_py_debug_flag; static void call_py_debug_init(void); static void call_py_debug_Flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag; static void call_py_debug_flag;
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+/* PY_COMPILE_SCSITEM_FAILURE */
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+/* * XXX We need to avoid a _PyFaulthandler call which is just to prevent us from getting over to use the Py_Faulthandler() function. */ int Py_EmptyFlag; /* Needed by import.c */ int Py_QuietFlag; /* Needed by import.c */ int Py_InactiveFlag; /* Needed by import.c */ int Py_ImportsFlag; /* Needed by import.c */
+static Py_Run_Focus_init(void);
+static initty(); static int n, i;
+/* * Don't return */
+static int _PyFixed_Init(void);
+static int _PyIsBuf_Init(void);
+init_lock(void);
+/* If nothing has been done, this might be really an error, but not sure. */ if (py_PyFaulthandler_Init(void))  /* Get py_Faulthandler_Fini() */ static int Py_FdIsInteractive(); /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Flag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL))  return -1;  if (path!= NULL)  return -1;
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+/* Not yet implemented */
+static void _PyDropFlag = 0; static void _PyDropFlag = 0; static void _PyDropFlag = 0; static void _PyDropFlag = 0;
+static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void
+static int flush_io(void); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_p
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+void _PyGiantFini(void);
+/* Resolve it as a fd, since _py_file_flags are the fd and the fd must be loaded. */ init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterState *interp); static init_fsencoding(PyInterpreterS
+initfs_io(p); static void flush_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+/* * The caller can only go with a static void */
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+/* Check if we have an sysmodule on any platforms */ _PyFaulthandler_Init(void);
+static initfsencoding(PyInterpreterState *interp); static initfsdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_s
+int debugflag; /* Needed by import.c */ int debugflag; /* Needed by import.c */ int _PyLogInitFlag;
+_PyXPY_INTERNAL_INT (void);
+if (ifdef WND_FRAME!= Py_Flag)  if (ifdef _CX_SYNC)  /* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+int isn'tnode;
+/* This is not necessary for alloc. */
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized())  if (!perrdetail) err_init(perrdetail);  else  if (!perrdetail) err_free(perrdetail);
+/* Needed by parser.c */ int Py_VioletFlag; /* Needed by sysmodule.c */ int Py_IntModType; /* Needed by sysmodule.c */ int Py_StandardFlag; /* Needed by sysmodule.c */ int Py_Arena = 0;
+static initfsencoding(PyInterpreterState *interp); static initsite(void); static initfsencoding(PyInterpreterState *interp); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py
+static initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py
+/* * To enable init for the user to free the system. */ static int initsite(void); static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs
+static int fsencoding;
+static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void
+initend_event(py_entry_event, aEvent);
+static int Py_Long_Init(void); static int Py_Long_Fini(void); static void PyLong_Fini(void); static int Py_VoidFlag;
+static void _PyReturn_free(return); static void
+static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static initfsencoding(PyInterpreterState *interp); static void flush_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, Py_Flags); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+static initfsencoding(PyInterpreterState *interp); static initsite(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void);
+static initsite(void); static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+/* This isn't all right here */ _PyPyFaulthandler_Init(void);
+/* * Allocate the following to the '0' path for */ int *op = Py_Op;
+/* * Restore the encoding */ _Py_fnstrs_equals(ENXI_FNSISTIC_INTR, env); /* Get the encoding and the initial encoding and initialized by the encoding of a C /c file name. */
+_PyLong_Init(void); void PyLong_Fini(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+init_unlocked(&py_ty);
+initsave_shutdown(void);
+static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void
+/* * See if we've got the py_commands. */
+static void call_py_exitfuncs(void); static void call_py_flags(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_ex
+static Py_Flags_Exit(void); static void _PyXPC_Init(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Init(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _PyXPC_Fini(void); static void _
+int _PyVariants_Init(void);
+/* We've got a time to call the call_py_fnx() function. */ if (py_get_timeout_is_interactive()) return;
+if (interp->flags & PY_UNIX_FLOAT)  /* XXX - don't know what to do */ return (FALSE);
+static int _PyCloseInit(void); static int _PyClose_Init(void); static void _PyClose_Fini(void);
+static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+if (perrdetail == 0)  int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);  else  int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+static int initfsencoding(PyInterpreterState *interp); static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+void _Py_debug_init(void);
+void _PyUNIOS_Fini(void);
+_PyGiant_Uninit(void);
+static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_init(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py
+static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_
+void initp(void);
+static init_exit_flag; static init_exit_flag = 0; static void init_exit_flags = 0; static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_
+static int _PyMember_Init(void); static void _PyMember_Init(void); static void _PyMember_Fini(void);
+/* Not done in the PY module? */ initsite(void);
+static int _PyFaulthandler_Init(void); static int _PyFaulthandler_Fini(void);
+/* We need to check if we're doing a switch */
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+/* Recycle */
+static int initfsencoding(PyInterpreterState *interp); static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_th
+static void _PyImportsFini(void); static void _PyImportsFini(void);
+static int doseq;
+/* if _PyByname_Exit() is ignored */
+static init_flag = init_flag; static init_flag_delay = init_flag & 0xffffffff; static init_flag_delay = init_flag | 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+static int initfsencoding(PyInterpreterState *interp); static void flush_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_
+static int _PyGif_Stop(void); static int _PyGif_Stop(void); static int _PyGif_Stop(void);
+static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void);
+static void *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_
+static initfsencoding(PyInterpreterState *interp); static initsite(void); static initfsfd_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(
+/* * Make sure a synchronized init. */ initsite(void); static init_fsencoding(PyInterpreterState *interp); static init_fsencode(void); static init_io(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_py_
+/* Get backwards mode, */ if (init_mode)  /* Set the code to n (XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+#ifdef FORWARD_XP_SYSTEM_INIT(void) #endif
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyCompilerFlags *, PyArena *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+if (!_PyFaulthandler_Init(void)) _PyFaulthandler_Init(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exit
+static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void);
+static void run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exit
+/* Run 0' to get it on sysmodule */ static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+static init_flag = PR_FALSE; static init_flags = PR_FALSE; static init_flags = 0; static init_flags = PR_FALSE;
+static int initfsencoding(PyInterpreterState *interp); static initfsencode(PyInterpreterState *interp); static int initstdio(void); static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyCompilerFlags *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+int _PyLong_Init(void); static void PyLong_Fini(void); static void _PyLong_Fini(void);
+int _PyGinde_Init(void); static void _PyGinde_Fini(void); static void _PyGinde_Init(void); static void _PyGinde_Fini(void); static void _PyGinde_Init(void); static void _PyGinde_Fini(void);
+/* Set up the script: */
+static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call
+static int _PyUnicode_Init(void); static int _PyUnicode_Fini(void); static int _PyFaulthandler_Init(void);
+
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; <if (path!= NULL) &return -1;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* Get backwards mode, */ if (init_mode) </* Set the code to &n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; <if (path!= NULL) &return -1;
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+/* Get backwards mode, */ if (init_mode) </* Set the code to n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; &if (path!= NULL) return -1;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+/* * Allocate the following to the '0' path for */ int *op = Py_Op;
+if (args == 0) if (args == 1) args = 0; return (0);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; <if (path!= NULL) <return -1;
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* If nothing has been done, this might be really an error, but not sure. */ if (py_PyFaulthandler_Init(void)) </* Get py_Faulthandler_Fini() */ static int Py_FdIsInteractive(); /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Flag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+if (needed_thread_setup_py_is_busy) /* Needed by import.c */ _PySupport_Init(void); /* Needed by import.c */ _PySupport_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* Get backwards mode, */ if (init_mode) /* Set the code to &n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+/* Get backwards mode, */ if (init_mode) </* Set the code to n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+/* Get backwards mode, */ if (init_mode) &/* Set the code to &n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+/* Get backwards mode, */ if (init_mode) /* Set the code to n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; &if (path!= NULL) <return -1;
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; &if (path!= NULL) <return -1;
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; if (path!= NULL) <return -1;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; <if (path!= NULL) <return -1;
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; if (path!= NULL) &return -1;
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; <if (path!= NULL) &return -1;
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; if (path!= NULL) &return -1;
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+/* Get backwards mode, */ if (init_mode) </* Set the code to <n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+/* Get backwards mode, */ if (init_mode) /* Set the code to n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; &if (path!= NULL) <return -1;
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* If nothing has been done, this might be really an error, but not sure. */ if (py_PyFaulthandler_Init(void)) &/* Get py_Faulthandler_Fini() */ static int Py_FdIsInteractive(); /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Flag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+if (args == 0) <if (args == 1) args = 0; return (0);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* Run 0' to get it on sysmodule */ static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* Get backwards mode, */ if (init_mode) </* Set the code to &n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; if (path!= NULL) <return -1;
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; if (path!= NULL) return -1;
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* Get backwards mode, */ if (init_mode) /* Set the code to <n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; if (path!= NULL) <return -1;
+/* Get backwards mode, */ if (init_mode) &/* Set the code to n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* Get backwards mode, */ if (init_mode) </* Set the code to <n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (interp->flags & PY_UNIX_FLOAT) &/* XXX - don't know what to do */ return (FALSE);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* Get backwards mode, */ if (init_mode) /* Set the code to &n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* Check that there is a directory to keep track of the current directory. */ if (!dialog_is_open(&sd_mode, -1, PAGE_LONG)) return;
+/* Run &0' to get it on sysmodule */ static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+/* Get backwards mode, */ if (init_mode) /* Set the code to &n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; &if (path!= NULL) return -1;
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* Check that there is a directory to keep track of the current directory. */ if (!dialog_is_open(&sd_mode, -1, PAGE_LONG)) &return;
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; &if (path!= NULL) &return -1;
+/* Get backwards mode, */ if (init_mode) /* Set the code to <n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; &if (path!= NULL) &return -1;
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; if (path!= NULL) return -1;
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* Get backwards mode, */ if (init_mode) </* Set the code to n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; <if (path!= NULL) return -1;
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; &if (path!= NULL) &return -1;
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* Get backwards mode, */ if (init_mode) </* Set the code to <n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+/* Get backwards mode, */ if (init_mode) &/* Set the code to <n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* Get backwards mode, */ if (init_mode) /* Set the code to n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) &/* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+/* Check that there is a directory to keep track of the current directory. */ if (!dialog_is_open(&sd_mode, -1, PAGE_LONG)) <return;
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (needed_thread_setup_py_is_busy) &/* Needed by import.c */ _PySupport_Init(void); /* Needed by import.c */ _PySupport_Fini(void);
+/* Get backwards mode, */ if (init_mode) &/* Set the code to <n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; <if (path!= NULL) <return -1;
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) &return -1; <if (path!= NULL) return -1;
+return (0);
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* Get backwards mode, */ if (init_mode) &/* Set the code to &n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else <if (!perrdetail) err_free(perrdetail);
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) /* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* Get backwards mode, */ if (init_mode) /* Set the code to <n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* Get backwards mode, */ if (init_mode) &/* Set the code to n(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) /* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+if (args == 0) &if (args == 1) args = 0; return (0);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY<nnn */
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (interp->flags & PY_UNIX_FLOAT) /* XXX - don't know what to do */ return (FALSE);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; &if (path!= NULL) return -1;
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) return -1; if (path!= NULL) &return -1;
+if (perrdetail == 0) <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); &else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+/* Run <0' to get it on sysmodule */ static PyObject *run_mod(mod_ty, const char *, PyObject *, PyObject *, PyArena *); static PyObject *run_pyc_file(FILE *, const char *, PyObject *, PyObject *, PyCompilerFlags *); static void err_input(perrdetail *); static void err_free(perrdetail *); static void initsigs(void); static void call_py_exitfuncs(void); static void wait_for_thread_shutdown(void); static void call_ll_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static void call_py_exitfuncs(void); static
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (perrdetail == 0) &int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); <else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FYnnn */
+/* * Allocate the following to the '&0' path for */ int *op = Py_Op;
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+if (needed_thread_setup_py_is_busy) </* Needed by import.c */ _PySupport_Init(void); /* Needed by import.c */ _PySupport_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) /* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) </* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) /* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) </* It's not possible to find a local script. */ if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) &/* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+/* Get backwards mode, */ if (init_mode) &/* Set the code to <n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY<nnn */
+/* Get backwards mode, */ if (init_mode) &/* Set the code to &n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; <if (path!= NULL) return -1;
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i &0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); <else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); else _PyGILState_Fini(void);
+/* * Init the user dummy and run the module with a newer one, * or a newer one with a newer code. */ if (dummy && _PyGetUnicode()) </* * The only need to be implemented at the beginning of the line. */ if (dummy && _PyGetLong_Init(dummy)!= 0) </* Needed by import.c */ if (py_Buffer_flag & PY_STATUS_FORCE) &/* a new _py_status_flag & PY_STATUS_FREELINE */ return;
+return 0;
+if (ifdef WND_FRAME!= Py_Flag) &if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i &0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=&py_cx_FY&nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ &if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) /* It's not possible to find a local script. */ &if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if (perrdetail == 0) int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void); else <int _Py_Wrong_Init(void); void _Py_Wrong_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY<nnn */
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) &/* PY_PY_CX_FY_FRAME=py_cx_FYnnn */
+/* If nothing has been done, this might be really an error, but not sure. */ if (py_PyFaulthandler_Init(void)) /* Get py_Faulthandler_Fini() */ static int Py_FdIsInteractive(); /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Flag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */ static int Py_Semiz_Flag; /* Needed by import.c */ static int Py_CBlockingFlag; /* Needed by import.c */
+/* ** Remove any references to the map 'c' and 'l'. The path has to be the destination of the map. */ if ((path!= NULL) || (path!= NULL)) <return -1; if (path!= NULL) return -1;
+if ((i == 0) && ((i <0) || (i > 0)) ) if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+/* Get backwards mode, */ if (init_mode) </* Set the code to &n&(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) &if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); &else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) _PyGILState_Init(void); <else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else <if (!perrdetail) err_free(perrdetail);
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) /* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=<py_cx_FY&nnn */
+if ((i == 0) && ((i <0) || (i > 0)) ) &if (*i == -1) _PyGILState_Init(void); &else _PyGILState_Fini(void);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) </* It's not possible to find a local script. */ <if (is_exit_sysmodule()) &/* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+if (ifdef WND_FRAME!= Py_Flag) if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=py_cx_FY&nnn */
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) &_PyGILState_Init(void); else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) if (*i == -1) <_PyGILState_Init(void); else _PyGILState_Fini(void);
+if ((i == 0) && ((i 0) || (i > 0)) ) &if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+if ((i == 0) && ((i <0) || (i > 0)) ) <if (*i == -1) <_PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+/* * Allocate the following to the '<0' path for */ int *op = Py_Op;
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); <else <if (!perrdetail) err_free(perrdetail);
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) <if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ if (is_exit_sysmodule()) /* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+/* This is a useful feature, we can do this here. */ if (is_init_sysmodule()) if (is_exit_sysmodule()) &/* It's not possible to find a local script. */ <if (is_exit_sysmodule()) </* We need to find the module's system and start at this time */ if (is_exit_sysmodule()) /* the platform we're initialized by a remote module. */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_sysmodule()) /* Needed by sysmodule.c */ if (is_exit_s
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i &0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); &else _PyGILState_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) &if (!perrdetail) err_init(perrdetail); else if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '<0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); <else &if (!perrdetail) err_free(perrdetail);
+if (interp->flags & PY_UNIX_FLOAT) </* XXX - don't know what to do */ return (FALSE);
+if (ifdef WND_FRAME!= Py_Flag) <if (ifdef _CX_SYNC) </* PY_PY_CX_FY_FRAME=&py_cx_FYnnn */
+/* Get backwards mode, */ if (init_mode) &/* Set the code to n<(XXX!= NULL) */ _PyUnicode_Init(void); _PyUnicode_Fini(void); _PyUnicode_Fini(void);
+#ifdef XP_MAC if (perrdetail!= '&0' && _PyPy_CurrentInstance->IsInitialized()) if (!perrdetail) err_init(perrdetail); else &if (!perrdetail) err_free(perrdetail);
+#ifdef XP_MAC if (perrdetail!= '0' && _PyPy_CurrentInstance->IsInitialized()) <if (!perrdetail) err_init(perrdetail); &else if (!perrdetail) err_free(perrdetail);
+if ((i == 0) && ((i 0) || (i > 0)) ) <if (*i == -1) &_PyGILState_Init(void); <else _PyGILState_Fini(void);

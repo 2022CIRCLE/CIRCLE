@@ -1,0 +1,438 @@
+golden:
+if (srv_sock->is_ssl) { cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));}
+inference:
+
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)
+cgi_env_add(&env, "HTTPS", "on");
+cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl)  cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl) cgi_env_add(&env, "HTTPS");
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, "HTTPS", "on");
+cgi_env_add(env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("htps"), CONST_STR_LEN("on"));
+/* cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")); */
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")))
+srv_sock->is_ssl = 0;
+if (sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), NULL);
+if (srv_sock->is_ssl) cgi_env_add(&env, "HTTPS", "on");
+cgi_env_add(&env, CONST_STR_LEN("html"), CONST_STR_LEN("on"));
+log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), 0);
+cgi_env_add(&srv, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, ConST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+cgi_env_add(&env, 0, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("https"), CONST_STR_LEN("https"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on");
+cgi_env_add(&env, srv_sock->is_ssl);
+cgi_env_add(&env, &con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, NULL, NULL);
+if (srv_sock->is_ssl) return -1;
+if (srv_sock->is_ssl)  cgi_env_add(&env, NULL, NULL);
+cgi_env_add(&env, NULL);
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("ON"));
+env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("On"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS").get(), CONST_STR_LEN("on").get());
+if (srv_sock->is_ssl) break;
+cgi_env_add(&env, M_HTTPS, M_ON);
+cgi_env_add(&env, 0, NULL);
+cgi_env_add(&env, __STR_LEN("HTTPS"), __STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS", "on"));
+cgi_env_add(&env, 0, 0);
+if (srv_sock->is_ssl) cgi_env_add(&env, NULL, NULL);
+cgi_env_add(&env,CONST_STR_LEN("HTTPS"),CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), ConST_STR_LEN("on"));
+cgi_env_add(&env, &CONST_STR_LEN("HTTPS"), &CONST_STR_LEN("on"));
+cgi_env_add(&env, 0);
+cgi_env_add(&env, CONST_STR_LEN("on"));
+(void)srv_sock->is_ssl;
+cgi_env_add(&env, CONST_STR_LEN("https"), CONST_STR_LEN("on"));
+cgi_env_add(srv, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, "HTTPS", CONST_STR_LEN("on"));
+cgi_env_add(&cgi_env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env,CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("env"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTP"), CONST_STR_LEN("on"));
+cgi_env_add(&srv_sock->is_ssl, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, &CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_Str_LEN("HTTPS"), CONST_STR_LEN("on"));
+srv_sock->is_ssl = NULL;
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, NULL);
+if (srv_sock->is_ssl)  cgi_env_add(&env, NULL);
+if (ch->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, NULL);
+cgi_env_add(&env, CONST_STR_LEN("host"), CONST_STR_LEN("host"));
+cgi_env_add(&env, M_STR_LEN("HTTPS"), M_STR_LEN("on"));
+cgi_env_add(&conv, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add (&env, CONST_STR_LEN ("HTTPS"), CONST_STR_LEN ("on"));
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))) return -1;
+cgi_env_add(&env, CONST_STR_LEN("failed"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")); return -1;
+else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, B_STR_LEN("HTTPS"), B_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS", CONST_STR_LEN("on"));
+cgi_env_add(&env, ConST_STR_LEN("HTTPS"), ConST_STR_LEN("on"));
+cgi_env_add (&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, M_CONST_STR_LEN("HTTPS"), M_CONST_STR_LEN("on"));
+cgi_env_add(&env, 0, "HTTPS");
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN(" on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_Str_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS").get(), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HOST"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HHTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, 0);
+srv_sock->is_ssl = srv_sock->is_ssl;
+if (is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno));
+cgi_env_add(&env, INST_STR_LEN("HTTPS"), INST_STR_LEN("on"));
+cgi_env_add(&env, CONST_CSTR_LEN("HTTPS"), CONST_CSTR_LEN("on"));
+cgi_env_add(srv_sock->is_ssl, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+/* cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));*/
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), 0, 0);
+cgi_env_add(&env, 0, srv_sock->is_ssl);
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), 1);
+cgi_env_add(&env, con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, 0);
+srv_sock->is_ssl = &env;
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, NULL);
+cgi_env_add(&env, CONST_STR_LEN("(HTTPS)"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("host"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, M_HTTPS, M_ON);
+srv_sock->is_ssl = 1;
+if (srv_sock) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+srv_sock->is_ssl = PR_FALSE;
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"),CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0);
+if (srv_sock->is_ssl)  cgi_env_add(&env, srv_sock->is_ssl);
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, 0);
+cgi_env_add(&env, 1);
+if (srv_sock->is_ssl) continue;
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, "HTTPS");
+cgi_env_add(&env, 0, 0, NULL);
+cgi_env_add(&env, CONST_STR_LEN("HttpS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, &srv_sock->is_ssl);
+cgi_env_add(&env, 0, 0, 0);
+else  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("http:
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, 0, NULL);
+srv_sock->is_ssl = PR_TRUE;
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), 0, NULL);
+cgi_env_add(&env, CONST_STR_LEN("");
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, 0, 0);
+cgi_env_add(&env, NULL, NULL, NULL);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))
+if (srv_sock->is_ssl) cgi_env_add(&env, M_HTTPS, M_ON);
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")); #endif
+return -1;
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, 0, 0, 0);
+if (!srv_sock->is_ssl) return -1;
+b2[INET6_ADDRSTRLEN + 1];
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on").get());
+cgi_env_add(&env, CONST_STR_LEN("On"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("on"));
+if (is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), PR_FALSE);
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), p);
+env = srv_sock->is_ssl;
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on));
+int i;
+cgi_env_add(&env, M_HTTPS_LEN, M_ON);
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0);
+cgi_env_add(&env, 0, NULL, NULL);
+cgi_env_add(&env, b2[INET6_ADDRSTRLEN + 1]);
+p = srv_sock->is_ssl;
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS", "on"));
+srv_sock->is_ssl = -1;
+(void) srv_sock->is_ssl;
+srv_sock->is_ssl = CONST_STR_LEN("HTTPS");
+if (srv_sock->is_ssl) cgi_env_add(&env, srv_sock->is_ssl);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == 0)
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == 0) return -1;
+cgi_env_add(&env, CONST_STR_LEN("off"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("http:
+cgi_env_add(&env, "HTTPS", "on")
+cgi_env_add(&env, CONST_STR_LEN("failed"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), PR_TRUE);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == -1)
+cgi_env_add(&env, 0, 0, "HTTPS");
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, 0);
+if (srv_sock->is_ssl)  cgi_env_add(&env, 0, CONST_STR_LEN("HTTPS"));
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= 0)
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), NULL);
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, NULL);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == -1) return -1;
+CONST_STR_LEN("HTTPS");
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), "on");
+if (srv_sock)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+#endif
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), CONST_STR_LEN("on"));
+splx(s);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1)
+break;
+nsresult rv;
+fork = 0;
+i = 0;
+struct stat st;
+/* XXX */
+errno = 0;
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, &con, &con);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1)  /* fix the env file */ if (cgi_handler->used!= 1)  /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1;   if (pipe(to_cgi_fds))  log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!(pipe(to_cgi_fds) && pipe(from_cgi_fds))) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("https"), CONST_STR_LEN("https"));
+if (srv_sock->is_ssl && con.socks)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && con!= NULL)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && p->p_flags & IPSEC_HOSTS)  cgi_env_add(&env, p->p_flags, p->p_on);
+if (srv_sock->is_ssl) cgi_env_add(&env,'','');
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("hosts"), CONST_STR_LEN("hosts"));
+if (srv_sock->is_ssl &&!srv_sock->is_b)  log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HOSTS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HOST"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"), CONST_STR_LEN("hpt"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("hp"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, srv_sock->is_ssl, srv_sock->is_ssl);
+if (srv_sock->is_ssl)  cgi_env_add(&env, &con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && srv_sock->is_remote)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!ptr)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!b2->b2_next)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && srv_sock->opt)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")))
+if (srv_sock->is_ssl &&!srv_sock->failed)  cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl)  cgi_env_add(&env, CONST_STR_LEN("hosts"), CONST_STR_LEN("hosts"));
+
+if (srv_sock->is_ssl && con.socks) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, 0);
+if (srv_sock->is_ssl) &cgi_env_add(&env, NULL, NULL);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, 0, 0, 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, NULL);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && con!= NULL) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) cgi_env_add(&env, srv_sock->is_ssl, srv_sock->is_ssl);
+if (srv_sock->is_ssl)
+<else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")))
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, &con, &con);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= 0)
+if (is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS", "on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, 0, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), NULL);
+if (srv_sock->is_ssl &&!b2->b2_next) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, srv_sock->is_ssl);
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), NULL);
+else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, srv_sock->is_ssl, srv_sock->is_ssl);
+if (srv_sock->is_ssl) cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl) &cgi_env_add(&env, "HTTPS");
+if (srv_sock) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && srv_sock->is_remote) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!srv_sock->failed) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, M_HTTPS, M_ON);
+if (srv_sock->is_ssl) cgi_env_add(&env, &con, &con);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!b2->b2_next) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, NULL);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+&else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && con!= NULL) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HOSTS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && p->p_flags & IPSEC_HOSTS) cgi_env_add(&env, p->p_flags, p->p_on);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && srv_sock->opt) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, "HTTPS");
+if (srv_sock) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0);
+if (srv_sock->is_ssl) cgi_env_add(&env, &con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+&else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, NULL);
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, 0);
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!ptr) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && p->p_flags & IPSEC_HOSTS) &cgi_env_add(&env, p->p_flags, p->p_on);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("http:
+if (srv_sock->is_ssl) <cgi_env_add(&env, srv_sock->is_ssl, srv_sock->is_ssl);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!srv_sock->is_b) log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, 0, NULL);
+if (srv_sock->is_ssl &&!srv_sock->failed) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, &con, &con);
+if (srv_sock->is_ssl) cgi_env_add(&env, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, &con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!srv_sock->is_b) <log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+if (srv_sock->is_ssl) cgi_env_add(&env, "HTTPS", "on");
+if (srv_sock->is_ssl) cgi_env_add(&env, 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")))
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+<else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, M_HTTPS, M_ON);
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == -1)
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("http:
+if (srv_sock->is_ssl) &cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0);
+if (srv_sock->is_ssl && con.socks) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && p->p_flags & IPSEC_HOSTS) <cgi_env_add(&env, p->p_flags, p->p_on);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, M_HTTPS, M_ON);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, "HTTPS");
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, 0, NULL);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("hosts"), CONST_STR_LEN("hosts"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, 0, 0, 0);
+&else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+&else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, 0);
+if (is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("hosts"), CONST_STR_LEN("hosts"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), "on");
+&cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && con!= NULL) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl &&!srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+&else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS", "on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HOSTS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, "HTTPS");
+log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, 0);
+if (srv_sock->is_ssl && srv_sock->is_remote) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0, 0, 0);
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), "on");
+if (srv_sock->is_ssl &&!srv_sock->is_b) &log_error_write(srv, __FILE__, __LINE__, "ss", "pipe failed:", strerror(errno)); return -1;
+<else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && srv_sock->opt) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) cgi_env_add(&env, NULL, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, 0);
+&else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, srv_sock->is_ssl);
+if (srv_sock->is_ssl) <cgi_env_add(&env, &con, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS", "on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), "on");
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+<else <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, 0);
+if (srv_sock->is_ssl) <cgi_env_add(&env, "HTTPS");
+cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && srv_sock->is_remote) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, NULL);
+if (srv_sock->is_ssl) &cgi_env_add(&env, "HTTPS", "on");
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!ptr) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!ptr) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, NULL, NULL);
+<cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, "HTTPS", "on");
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("http:
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on")) == 0)
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) <cgi_env_add(&env, srv_sock->is_ssl);
+else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HOSTS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, 0, 0, 0);
+if (srv_sock->is_ssl) &cgi_env_add(&env, NULL);
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("hosts"), CONST_STR_LEN("hosts"));
+if (srv_sock->is_ssl) cgi_env_add(&env, "HTTPS");
+if (srv_sock->is_ssl) cgi_env_add(&env, CONST_STR_LEN("HTTPS"));
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) &/* fix the env file */ if (cgi_handler->used!= 1) &/* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1)
+if (srv_sock->is_ssl) &cgi_env_add(&env, 0, 0, 0);
+if (srv_sock->is_ssl &&!b2->b2_next) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+<else &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) &cgi_env_add(&env, CONST_STR_LEN("HTTPS"), 0, NULL);
+<else cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && srv_sock->opt) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) cgi_env_add(&env, 0, 0, 0);
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) </* fix the env file */ if (cgi_handler->used!= 1) </* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; &<if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl && cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"))!= -1) /* fix the env file */ if (cgi_handler->used!= 1) /* fix the exec file */ log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(errno)); return -1; <&if (pipe(to_cgi_fds)) log_error_write(srv, __FILE__, __LINE__, "sbss", "stat for cgi-handler", cgi_handler, "failed:", strerror(err
+if (srv_sock->is_ssl &&!srv_sock->failed) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl && con.socks) cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));
+if (srv_sock->is_ssl) <cgi_env_add(&env, CONST_STR_LEN("HTTPS"), CONST_STR_LEN("on"));

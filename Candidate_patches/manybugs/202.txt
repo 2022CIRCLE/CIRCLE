@@ -1,0 +1,646 @@
+golden:
+unsigned char byte;
+inference:
+Py_AddPendingCall(checksignals_witharg, NULL);
+#endif
+
+return;
+Py_ADDPendingCall(checksignals_witharg, NULL);
+return 0;
+return (0);
+if (is_tripped) return;
+Py_AddPendingCall(checksignals_witharg, 0);
+is_tripped = 1;
+break;
+Py_AddCall(checksignals_witharg, NULL);
+Py_AddPendingCall(checksignals_witharg);
+return 1;
+Py_AddPendingCall(checksignals_witharg, -1);
+*/
+Py_ADD_PendingCall(checksignals_witharg, NULL);
+Py_addPendingCall(checksignals_witharg, NULL);
+return -1;
+Py_AddPendingCall(checksignals, NULL);
+if (!is_tripped) return;
+Py_PendingCall(checksignals_witharg, NULL);
+Py_AddPendingCall(signals_witharg, NULL);
+else Py_AddPendingCall(checksignals_witharg, NULL);
+Py_AddAddPendingCall(checksignals_witharg, NULL);
+if (is_tripped) break;
+if (is_tripped == 0) return;
+Py_ADD_Call(checksignals_witharg, NULL);
+return false;
+Py_AddPendingCall(check_signals_witharg, NULL);
+#ifdef DEBUG
+@endif
+is_tripped = 0;
+return NULL;
+Py_AddPendingCall(checksignals_witharg, null);
+free(sig_num);
+Py_AddPendingCall(checksignals_witharg, 1);
+splx(s);
+Py_AddLongCall(checksignals_witharg, NULL);
+return is_tripped;
+PZ_AddPendingCall(checksignals_witharg, NULL);
+Py_FreePendingCall(checksignals_witharg, NULL);
+Py_AddPendingCall(checks_witharg, NULL);
+Py_AddPendingCall(checksignals_witharg, 0, NULL);
+Py_FreeCall(checksignals_witharg, NULL);
+Py_AddPendingCall(Checksignals_witharg, NULL);
+return TRUE;
+if (is_tripped == -1) return;
+Py_AddPendingCall(witharg, NULL);
+#else return; #endif
+Py_ADD_CALL(checksignals_witharg, NULL);
+Py_ADDPendingCall(checksignals_witharg, 0);
+Py_AddPendingCall(checksignals_witharg, NULL)
+Py_AddPendingCall(checksignals_witharg, NUL);
+write(wakeup_fd, "0", 1);
+return (1);
+PY_ADDPendingCall(checksignals_witharg, NULL);
+.tripped = 1;
+Py_AddPendingCall(CheckSignals(), NULL);
+Py_ADDCALL(checksignals_witharg, NULL);
+if(is_tripped) return;
+#if 0
+return(0);
+has_tripped = 1;
+else return;
+Py_AddPendingCall( checksignals_witharg, NULL);
+Py_GetPendingCall(checksignals_witharg, NULL);
+is_tripped = 2;
+Py_AddPendingCall(checksignals_witharg, FALSE);
+Py_ADDPendingCall(checksignals_witharg);
+Py_AddLock(checksignals_witharg, NULL);
+Py_RELEASE(sig_num);
+#ifdef DIAGNOSTIC
+else is_tripped = 1;
+int sig_num;
+return (-1);
+if (is_tripped!= -1) return;
+checksignals_witharg = NULL;
+Py_AddPendingCall(CheckSignals_witharg, NULL);
+Py_AddPendingCall(handlers_witharg, NULL);
+return (sig_num);
+return true;
+PZ_Destroy();
+PZ_RELEASE(sig_num);
+Py_AddPendingCall(checksignals_witharg, -1)
+if (!checksignals_witharg) return;
+/* XXX */
+if (is_tripped) is_tripped = 1;
+if (wakeup_fd == -1) return;
+if (is_tripped == 0) break;
+PZ_ADDPendingCall(checksignals_witharg, NULL);
+sig_num = 0;
+Py_AddRefCall(checksignals_witharg, NULL);
+Py_AddPendingCall(wakeup_fd, NULL);
+Py_AddPendingCall(checksignals_witharg, TRUE);
+if (is_tripped!= 0) return;
+Py_AddPendingCall(checksignedals_witharg, NULL);
+Py_DestroyCall(checksignals_witharg, NULL);
+Py_AddIgnoreCall(checksignals_witharg, NULL);
+Py_ADDPendingCall(checksignals_witharg, -1);
+sig_num = sig_num;
+Py_AddPendingCall(checksignals_witharg, 0, 0);
+Py_FlushCall(checksignals_witharg, NULL);
+Py_AddPendingCall(checksignal_witharg, NULL);
+if (is_tripped == -1) break;
+if (is_tripped == 1) return;
+Py_RELEASE(checksignals_witharg);
+Py_AddPendingCall(&checksignals_witharg, NULL);
+is_tripped = -1;
+Py_AddPendingSignals(checksignals_witharg, NULL);
+checksignals_witharg = 1;
+else if (is_tripped) return;
+if (!wakeup_fd) return;
+if (is_tripped == NULL) return;
+if (wakeup_fd!= -1) return;
+Py_ADDPendingCall(checksignals, NULL);
+Py_AddPendingCall(checksignals_Witharg, NULL);
+Py_AddPendingCall(checksignals_witharg)
+#endif return;
+Py_AddPendingCall(checksignals_witharg; NULL);
+Py_AddPendingCall(checksignals_witharg, false);
+#ifdef NS_DEBUG
+if (is_tripped == 0)  return;
+checksignals_witharg;
+Py_AddPendingCall (checksignals_witharg, NULL);
+Py_AddPendingCall(checksigals_witharg, NULL);
+if (is_tripped) continue;
+int i;
+continue;
+Py_ADDPendingCall(signals_witharg, NULL);
+if (is_tripped)
+if (is_tripped) return 0;
+if (wakeup_fd!= -1) break;
+Py_AddPendingCall(checksignals->witharg, NULL);
+Py_AddCall(checksignals_witharg, 0);
+Py_RemoveCall(checksignals_witharg, NULL);
+if (wakeup_fd == NULL) return;
+Py_AddPendingCall(checksignals_withoutarg, NULL);
+POSTCODE(POSTCODE);
+if (sig_num == -1) return;
+Py_Lock(checksignals_witharg);
+if (!is_tripped)  return;
+if (is_tripped!= -1) break;
+if (is_tripped)  return;
+Py_AddPendingCall(checksignals_witharg++, NULL);
+Py_AddPendingCall(checksignals), NULL);
+if (!is_tripped) break;
+Py_AddPendingCall(checksignals_num, NULL);
+PZ_UNLOCK_GIANT();
+PZ_RELEASE(checksignals_witharg);
+Py_AddPendingLock(checksignals_witharg, NULL);
+Py_AddPendingCall(checksignals_witharg, 2);
+checksignals_witharg = 0;
+Py_AddPendingCall(checksignals_witharg, None);
+Py_Lock(checksignals_witharg, NULL);
+Py_AddPendingCall(checksignals_witharg1, NULL);
+sig_num = 1;
+Py_AddPendingCall(checksignals_fd, NULL);
+Py_AddPendingCall();
+else  return;
+if(is_tripped == 0) return;
+Py_AddPendingCall(fd, NULL);
+Py_ADDPendingCall(checksignals_witharg, null);
+#ifdef XP_MAC
+Py_AddPendingCall(trysignals_witharg, NULL);
+Py_ADDPendingCall(check_signals_witharg, NULL);
+sig_fd = NULL;
+#endif /* XXX */
+Py_AddPendingCall(is_tripped, NULL);
+#ifdef INET6 #endif
+Py_AddPendingCall(quicksignals_witharg, NULL);
+Py_AddSingleCall(checksignals_witharg, NULL);
+Py_AddPendingCall(waitsignals_witharg, NULL);
+if (is_tripped!= 0) break;
+Py_AddPendingCall(CheckSignalsWitharg, NULL);
+Py_ADDPendingCall(Checksignals_witharg, NULL);
+Py_AddPendingCall(checksignals)
+#ifdef ARGO_DEBUG
+Py_AddPendingCall(checksignals_fromarg, NULL);
+Py_AddPendingCall(sig_num, NULL);
+Py_AddPendingCall(checksignals_witharg,NULL);
+Py_AddPendingCall(checksignals_witharg, 1, NULL);
+Py_ADDPendingCall(checks_witharg, NULL);
+Py_AddPendingCall(checkignals_witharg, NULL);
+if (wakeup_fd == -1) break;
+if (is_tripped == -1)  return;
+if(is_tripped == -1) return;
+Py_AddPendingCall(checksignals_withargp, NULL);
+/* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+if (!signal_fd || is_tripped) return;
+/* Default XXX should do a break if necessary */ if (!IsTrue()) return;
+if (is_tripped && sig_num  sig_num)  return;
+if (sig_num == -1)  *sig_num = 0; return;
+#if defined(__PY__) &&!defined(__PY__)) return; #endif
+/* Set.tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+if (is_tripped)  Py_AddPendingCall(checksignals_witharg, NULL);
+if (get_sig_p(sig_num) == -1) return;
+#if defined(XP_MAC) || defined(XP_MACOSX) /* * Set hash key to be zeroed */ if (ns_siginfo && (ks_signal)) Py_ADD_CHUNK_LOCK(&sig_num); else Py_Add_CHUNK_LOCK(&sig_num);
+#ifdef PZ_PANIC if ((msg->no_status & PZ_PANIC)!= 0) return; #endif
+/* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1;
+if (!wakeup_fd)  /* Free the signal that has changed. */ return;
+if ((is_tripped &&!is_tripped)) return;
+if (is_tripped && is_tripped)  Py_AddPendingCall(checksignals_witharg, NULL);
+return (return);
+if (! is_tripped) return;
+/* Return the time out. */
+/* We know about any'signals' of'signals' when it is a signal, and is the one we can't set */
+/* Set.tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */
+if (pair)  pair->n_syserrcode = pair->n_syserrcode;
+/* if (i!= -1 && i!= -1)  /* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1)  Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef NECKO if (is_tripped!= NULL) return; #endif
+if (checksignals_witharg == -1) return;
+/* XXX Check if this is the "true" type of the test */ Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+#ifdef DEBUG if (is_tripped == -1)  LOG(LOG_ERR, "Unable to get lock-freed signal value");  #endif
+/* * We do not need to remove the signal flags before calling the.tripped. */
+/* If we are moving in checksignals, then then move it in checksignals for freesignals. */
+if (symbol_to_sig!= 0) return;
+if (is_tripped && Py_AddPendingCall(checksignals_witharg, NULL)!= -1)  Py_AddPendingCall(checksignals_witharg, NULL);
+if (sig_num == -1)  LOG(LOG_ERR, "%s: not a sig_num" % sig_num); return;
+if (p == NULL) return;
+if (!candidate) return;
+if (do_exit_flags) return;
+return; /* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */
+Py_PushRemoveEventListener(checksignals_witharg, &rv);
+/* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+#if defined(DEBUG_SIGKERN) if (destroys) return;
+if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1)  /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL)  /* The.tripped character is not clear */ if (sig_num = sizeof sig_num)  /* This is the signal with. */ sig_num = sizeof sig_num;  else  /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num;  /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef SYS_WARNING_IF_PY if (sig_num > 0) return;
+if (!si_node) return;
+if (is_tripped == 0)  /* * We should set a sig_num and then return the sig_num. */ break;
+/* Set up, remove and resetting the sigsignal. */ Py_AddPendingCall(checksignals_witharg, NULL);
+return (sync_restore_signal(sig_num));
+if (!(is_tripped &&!IsPending)) return;
+/* If it's up, we get it here. */ return; /* XXX: if it's up, and we got it out, we don't know what to do with * the name. */ return; /* Return: if it's up, then make sure we don't get any name, which is a safe name. */ return; /* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+#ifdef __GNUC__ /* XXX: The first bit has been added in %x for %s in %x. */ if (!SINK_EXP_IN_SIGNULL) return;
+if (is_tripped && (getctx() >= 1))  *savectx = NULL;
+return(nsnull);
+#ifdef USE_INET6 if (serial_cp_timer)  /* If it is free, this is not safe. */ s = "reg->ip -ip -ip -cp -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0))  /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0))  /* * __sync returns a log signal */ if ((*__sync)!= 0)  /* * Delete the handlers. */ if ((*__sync)!= 0)  /* __sync returns a log signal */ if ((*__sync)!= 0)  /* Delete the handlers. */ if ((*__sync)!= 0)  /* * Delete the handle
+/* Turn the 0x8000 to 0, */
+if (checksignals_witharg) Py_AddPendingCall(checksignals_witharg, NULL);
+if (wakeup_fd == NULL)  *wakeup_fd = NULL; return (0);
+return (trunc_stack_length() >= 0);
+if (restore_signals_witharg) Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+if (wakeup_fd == -1) write(wakeup_fd, "0", 1);
+if (is_tripped == -1) write(wakeup_fd, "0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0')  /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3')  Py_AddPendingCall(checksignals_witharg, NULL);  else  if (!PendingCall(checksignals_witharg, NULL))  return;
+/* Turn off sig nums */ nums = 0;
+if (slot_name == '/') return;
+/* * This is a signal, * since it is free. This is used for rpy. */ if (is_tripped == -1) break;
+if (!hash) return;
+/* If a call has been made without a call, we have to ensure a call is * cleared. */ if (!return_empty())  return;
+/* Write a signal and a caller with a set ofsignals */ if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+if (signals_witharg!= -1) write(signals_witharg, "0", 1);
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL)  /* No more signals. */ if ((db_GetMessage(&select->select))!= NULL)  /* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+if (wrap_fd!= -1) write(wakeup_fd, "0", 1);
+
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* If it's up, we get it here. */ return; /* XXX: if it's up, and we got it out, we don't know what to do with * the name. */ return; /* Return: if it's up, then make sure we don't get any name, which is a safe name. */ return; /* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* if (i!= -1 && i!= -1) </* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG if (is_tripped == -1) &LOG(LOG_ERR, "Unable to get lock-freed signal value"); &#endif
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped) &Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+/* Write a signal and a caller with a set ofsignals */ if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) /* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) &/* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped && sig_num <sig_num) return;
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) </* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) </* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+/* if (i!= -1 && i!= -1) &/* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) <Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (wrap_fd!= -1) write(wakeup_fd, "&0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* if (i!= -1 && i!= -1) &/* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) &Py_AddPendingCall(checksignals_witharg, NULL);
+/* if (i!= -1 && i!= -1) /* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) &Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (wakeup_fd == -1) write(wakeup_fd, "<0", 1);
+if (is_tripped && sig_num sig_num) <return;
+#ifdef DEBUG if (is_tripped == -1) &LOG(LOG_ERR, "Unable to get lock-freed signal value"); <#endif
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+write(wakeup_fd, "0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* XXX Check if this is the "true" type of the test */ Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+if (is_tripped == 0) </* * We should set a sig_num and then return the sig_num. */ break;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (pair) pair->n_syserrcode = pair->n_syserrcode;
+if (is_tripped) Py_AddPendingCall(checksignals_witharg, NULL);
+if (is_tripped && is_tripped) Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* If a call has been made without a call, we have to ensure a call is * cleared. */ if (!return_empty()) <return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+<else return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* if (i!= -1 && i!= -1) </* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) <Py_AddPendingCall(checksignals_witharg, NULL);
+if (is_tripped && sig_num &sig_num) return;
+/* If it's up, we get it here. */ return; /* XXX: if it's up, and we got it out, we don't know what to do with * the name. */ return; /* Return: if it's up, then make sure we don't get any name, which is a safe name. */ return; /* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef USE_INET6 if (serial_cp_timer) /* If it is free, this is not safe. */ s = "reg->ip -ip -ip -cp -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -
+if (is_tripped && (getctx() >= 1)) *savectx = NULL;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* if (i!= -1 && i!= -1) </* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) &Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (!is_tripped) &return;
+if (is_tripped && Py_AddPendingCall(checksignals_witharg, NULL)!= -1) &Py_AddPendingCall(checksignals_witharg, NULL);
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped && sig_num sig_num) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (sig_num == -1) <*sig_num = 0; return;
+/* Write a signal and a caller with a set ofsignals */ if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return NULL;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (is_tripped == 0) /* * We should set a sig_num and then return the sig_num. */ break;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+<else <return;
+#ifdef USE_INET6 if (serial_cp_timer) </* If it is free, this is not safe. */ s = "reg->ip -ip -ip -cp -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -
+/* if (i!= -1 && i!= -1) /* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) <Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (sig_num == -1) &*sig_num = 0; return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped == -1) write(wakeup_fd, "0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG if (is_tripped == -1) LOG(LOG_ERR, "Unable to get lock-freed signal value"); &#endif
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped && sig_num <sig_num) &return;
+if (sig_num == -1) LOG(LOG_ERR, "%s: not a sig_num" % sig_num); return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+else <return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped == -1) &return;
+if (is_tripped && (getctx() >= 1)) &*savectx = NULL;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped == -1) write(wakeup_fd, "&0", 1);
+if (!is_tripped) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+if (is_tripped && sig_num <sig_num) <return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (wakeup_fd == -1) write(wakeup_fd, "0", 1);
+break;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (pair) <pair->n_syserrcode = pair->n_syserrcode;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped && is_tripped) &Py_AddPendingCall(checksignals_witharg, NULL);
+if (is_tripped == 0) &return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+<else &return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (is_tripped) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+else return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (is_tripped == -1) <return;
+if (signals_witharg!= -1) write(signals_witharg, "<0", 1);
+/* if (i!= -1 && i!= -1) &/* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (is_tripped && (getctx() >= 1)) <*savectx = NULL;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* XXX Check if this is the "true" type of the test */ Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* If a call has been made without a call, we have to ensure a call is * cleared. */ if (!return_empty()) &return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+&if (is_tripped) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* if (i!= -1 && i!= -1) /* if we have a function, * then the object should be a "_sync" handler * id */ if (id!= -1) Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* Write a signal and a caller with a set ofsignals */ if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (wakeup_fd == NULL) *wakeup_fd = NULL; return (0);
+&else return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+else &return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return -1;
+if (sig_num == -1) *sig_num = 0; return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (!is_tripped) <return;
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) /* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) </* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (signals_witharg!= -1) write(signals_witharg, "0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (wrap_fd!= -1) write(wakeup_fd, "0", 1);
+if (wakeup_fd == NULL) &*wakeup_fd = NULL; return (0);
+#ifdef DEBUG if (is_tripped == -1) LOG(LOG_ERR, "Unable to get lock-freed signal value"); <#endif
+/* If it's up, we get it here. */ return; /* XXX: if it's up, and we got it out, we don't know what to do with * the name. */ return; /* Return: if it's up, then make sure we don't get any name, which is a safe name. */ return; /* Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) &/* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) /* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (signals_witharg!= -1) write(signals_witharg, "&0", 1);
+if (is_tripped && Py_AddPendingCall(checksignals_witharg, NULL)!= -1) Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG if (is_tripped == -1) <LOG(LOG_ERR, "Unable to get lock-freed signal value"); &#endif
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG if (is_tripped == -1) LOG(LOG_ERR, "Unable to get lock-freed signal value"); #endif
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped) &return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (!wakeup_fd) /* Free the signal that has changed. */ return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Set is_tripped after setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+return (0);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped == 0) <return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (wakeup_fd!= -1) write(wakeup_fd, "&0", 1);
+return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped == 0) &/* * We should set a sig_num and then return the sig_num. */ break;
+if (is_tripped && Py_AddPendingCall(checksignals_witharg, NULL)!= -1) <Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (wakeup_fd == -1) write(wakeup_fd, "&0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) /* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) /* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (sig_num == -1) <LOG(LOG_ERR, "%s: not a sig_num" % sig_num); return;
+<if (is_tripped) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG if (is_tripped == -1) <LOG(LOG_ERR, "Unable to get lock-freed signal value"); <#endif
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef USE_INET6 if (serial_cp_timer) &/* If it is free, this is not safe. */ s = "reg->ip -ip -ip -cp -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -ip -
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+if (sig_num == -1) &LOG(LOG_ERR, "%s: not a sig_num" % sig_num); return;
+if (is_tripped && is_tripped) <Py_AddPendingCall(checksignals_witharg, NULL);
+return TRUE;
+if (wrap_fd!= -1) write(wakeup_fd, "<0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+&else &return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) &/* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) </* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+if (!wakeup_fd) &/* Free the signal that has changed. */ return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+if (is_tripped && sig_num &sig_num) <return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+write(wakeup_fd, "&0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped && sig_num &sig_num) &return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); else <if (!PendingCall(checksignals_witharg, NULL)) return;
+/* If a call has been made without a call, we have to ensure a call is * cleared. */ if (!return_empty()) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (is_tripped == -1) write(wakeup_fd, "<0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+write(wakeup_fd, "<0", 1);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped == -1) return;
+if (pair) &pair->n_syserrcode = pair->n_syserrcode;
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num = sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+return 0;
+if (is_tripped == 0) return;
+if (is_tripped && sig_num sig_num) &return;
+/* XXX Check if this is the "true" type of the test */ Py_AddPendingCall(checksignals_witharg, NULL); if (wakeup_fd!= -1) write(wakeup_fd, "0", 1);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) &/* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+if (!wakeup_fd) </* Free the signal that has changed. */ return;
+#ifdef DEBUG if (is_tripped == -1) &LOG(LOG_ERR, "Unable to get lock-freed signal value"); #endif
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) </* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) /* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) </* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) </* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped) <Py_AddPendingCall(checksignals_witharg, NULL);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') /* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); <else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) </* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) &/* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+if (wakeup_fd == NULL) <*wakeup_fd = NULL; return (0);
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return 1;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) </* * Delete the handlers. */ if ((*__sync)!= 0) /* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+if (is_tripped) <return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) &/* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') &Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) </* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) </* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); else if (!PendingCall(checksignals_witharg, NULL)) return;
+&else <return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) /* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) /* * __sync returns a log signal */ if ((*__sync)!= 0) /* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') </* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') <Py_AddPendingCall(checksignals_witharg, NULL); &else if (!PendingCall(checksignals_witharg, NULL)) return;
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) </* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num = sizeof sig_num) &/* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) &/* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num &= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+#ifdef DEBUG if (is_tripped == -1) <LOG(LOG_ERR, "Unable to get lock-freed signal value"); #endif
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); &else &if (!PendingCall(checksignals_witharg, NULL)) return;
+/* No more signs, set the handlers, or not * a log message. */ if (select!= NULL) &/* No more signals. */ if ((db_GetMessage(&select->select))!= NULL) &/* * Use PyErr_CheckSignals() for this test */ is_tripped = 1; Py_AddPendingCall(checksignals_witharg, NULL);
+#ifdef DEBUG_VOL_WATCH_DEBUG if (sig_num == -1) /* We have to test to make sure the.tripped, and.tripped, but we need a.tripped and */ if (SIG_TYPE_MASK == NULL) /* The.tripped character is not clear */ if (sig_num <= sizeof sig_num) /* This is the signal with. */ sig_num = sizeof sig_num; else /* This is the symbol in.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sizeof sig_num; /* Set the symbol in.tripped before setting.tripped, as it gets cleared in PyErr_CheckSignals() before.tripped. */ sig_num = sig_num; /* Set the symbol in.tripped after setting
+if (wakeup_fd!= -1) write(wakeup_fd, "<0", 1);
+return; /* If the device got passed the 'in' step. */ if ((fd & '0') == '0') &/* If the device has passed the's' step, it's only passed the device when we're trying to call '2' */ if (fd!= '3') Py_AddPendingCall(checksignals_witharg, NULL); <else <if (!PendingCall(checksignals_witharg, NULL)) return;
+/* * Use __sync to free up the sig signal */ if (((*__sync) && (*__sync)!= 0)) </* * Delete the handlers. */ if (!((*__sync) && (*__sync)!= 0)) &/* * __sync returns a log signal */ if ((*__sync)!= 0) &/* * Delete the handlers. */ if ((*__sync)!= 0) &/* __sync returns a log signal */ if ((*__sync)!= 0) /* Delete the handlers. */ if ((*__sync)!= 0) /* * Delete the handle

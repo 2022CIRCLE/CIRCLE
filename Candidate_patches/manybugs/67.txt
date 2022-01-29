@@ -1,0 +1,485 @@
+golden:
+if (!_TIFFMergeFields(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) {
+inference:
+if (!_TIFFMergeField(tif, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, _TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, logLuvFields)){
+if (!_TIFFMergeField(&tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields)){
+if (tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TRUE))){
+if (!_TIFFMergeField(tif->tif_clientdata, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if(!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, tif->tif_data)){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(LogLuvFields))){
+if (!__TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount())){
+if (!_TIFFMergeField(&tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields)){
+if (!_TIFF_MergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogLuvFields)){
+if (!_TIFFMergeField(sp, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount( LogLuvFields))){
+if (!tif->tif_data){
+if (!_TIFFMergeField(tif, logLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, &LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields) && TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, 0)){
+if (!_TIFFMergeField(tif->tif_data, LogLuvFields, LogLuvFields)){
+else if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL, NULL))){
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, &tif->tif_data)){
+if (!_TIFFMergeField((void*)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFF_ArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, NULL, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TRUE)){
+if (!(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, _LogLuvFields, TIFFArrayCount(_LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0){
+if (!_TIFFMergeField(tif, LogFields, LogArrayCount(LogFields))){
+TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if ((!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PR_TRUE))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if ((!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, false))){
+if (!_TIFFMergeField(tif, logLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0, 0))){
+if (__TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(_LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), TRUE)){
+if (!_TIFFMergeField(tif, LogLuvFields, TRUEArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))!= 0){
+if (!_TIFFMergeField(tif, LogLuvFields, LogFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount())){
+if (!_TIFFMergeField(tif, LogLuvFields, getter_AddRefs(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &rv))){
+if (!_TIFFMergeField(ifp, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields || TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PR_FALSE))){
+if (tif->tif_data!= NULL){
+if (!_TIFFMergeField(tif, LogLuvFields | LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, false)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFTableCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, FALSE))){
+if (!_TIFFMergeField(tif, LogLuvFields) || TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), false)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), 0){
+if (!_TIFFMergeField(tif, LogLiteralFields, TIFFArrayCount(LogLiteralFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, flags))){
+if (NS_FAILED(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField((void *)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!__TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 1))){
+if (!_TIFFMergeField(tif, LogLuvFields);{
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, len)){
+if (!_TIFFMergeField(tif, LogLogLuvFields, TIFFArrayCount(LogLogLuvFields))){
+if (!_TIFFMergeField(p, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields);{
+if (!_TIFFMergeField (tif, LogLuvFields, TIFFArrayCount (LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, flags)){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, module)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayLength(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, logFields)){
+if (!GetTIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField((tif)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif.tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields? LogLuvFields : LogLuvFields)){
+if (_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LOGLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, log)){
+if (&_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), PR_TRUE)){
+if (!get_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, logluvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), PR_FALSE)){
+if (!_TIFFMergeField(tif, LogLuvFields, __TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, &TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogLuvFields, TIFFArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), module)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields) ) ){
+if (!_TIFFMergeField(tif, LogInitFields, TIFFArrayCount(LogInitFields))){
+if (!_TIFFMergeField(th, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, _TIFFArrayCount(LogLuvFields))){
+if (! TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, flags)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields));{
+if (!_TIFFMergeField(tif, LogLuvFields, _LogLuvFields)){
+if (TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, (void *)TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, LogLuvFields, &logLuvFields)){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))!= 0){
+if (tif->tif_data == NULL) goto bad;{
+if (!_TIFFMergeField(tif, LogLuvFields, TIFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(_logLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogFields)){
+if (*_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0)){
+if ((tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)))!= NULL){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL, 0))){
+if (!_TIFFMergeField(tif, LogLuvFields, &LogLuvFields)){
+if (_TIFFMergeField(tif, LogLuvFields, logLuvFields)){
+TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields));{
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFFieldCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), flags)){
+if (_TIFFMergeField(tif, LogLuvFields) == 0){
+TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)); if (!tif->tif_data){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(logFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL)){
+TIFFErrorExt(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed");{
+if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, sp))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), NULL, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &ret))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &tif))){
+if (!_TIFFMergeField(tif, LogLuvFields){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0xff))){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, getter_AddRefs(tif))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), &sp)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && module){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PRUint32))){
+ret = _TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)); if (ret){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0)){
+if (!_TIFFMergeField()){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, LogLuvFields))){
+if (tif == NULL){
+if (!tif->tif_data == NULL){
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+else{
+
+if (!rv){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) || (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFCount(&tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, _Get_node_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, _TIFFInitSGILog)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_data!= NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &module))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields) && (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &_TIFFMergeField(tif->tif_data, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (isDisabled())){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, (struct tag *)tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeSIlog(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed"); return 0;  if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp->sp->sp_client))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif->tif_data, module, "Merging SGILog codec-specific tags failed"); return 0;  /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)); if (tif->tif_data == NULL) goto bad; sp = (LogLuvState*) tif->tif_data; _TIFFmemset((void*)sp, 0, sizeof (*sp)); sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_dataf{
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_data.tif_flags & TIFF_F_RUL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF_MAX_LABELS))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeNode(tif, _tif_locale)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_SplimpDecodeState(tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &savefile))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFFunc))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp->sp_file, NULL))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!tif->tif_data){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, _TIFFFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &(_TIFF_ALLOC_FILENO_FILES || _TIFF_ALLOC_FILENO_FILES || _TIFF_ALLOC_READ_FILENO_FILES))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &_LuvFields->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeRef(tif->tif_data, module, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFMemoryLength))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif->tif_data, module, "Merging SGILog codec-specific tags failed");{
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, _logLuvFields, __FILE__)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen))))))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFProtocol))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) || (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (!tif->tif_clientdata, module, "TIFFMergeField(%s)", tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, __PARSE__))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFStart))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeFinishFuncss(tif->tif_clientdata, module, "Init SGILog");{
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sel_adj))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields) &&!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields, &_TIFFErrorExt(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed");)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, LogLuvState_mnt))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF_INT_START))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFStart))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, _TIFFFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayLength(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && module){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), NULL)){
+if (!rv){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogInitFields, TIFFArrayCount(LogInitFields))){
+if (_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogFields))){
+ret = _TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)); if (ret){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp->sp->sp_client))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &_TIFFMergeField(tif->tif_data, TIFFArrayCount(LogLuvFields)))){
+if (_TIFFMergeField(tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+else{
+if (!_TIFFMergeField(tif, LogFields, LogFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &tif->tif_data))){
+if ((!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))) && (tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), NULL, NULL)){
+if (tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeSIlog(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed"); return 0; if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif.tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, LogLuvFields, flags)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif->tif_data, module, "Merging SGILog codec-specific tags failed"); return 0; </* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)); if (tif->tif_data == NULL) goto bad; sp = (LogLuvState*) tif->tif_data; _TIFFmemset((void*)sp, 0, sizeof (*sp)); sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_dataf{
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields) || TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif->tif_data, module, "Merging SGILog codec-specific tags failed"); return 0; &/* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)); if (tif->tif_data == NULL) goto bad; sp = (LogLuvState*) tif->tif_data; _TIFFmemset((void*)sp, 0, sizeof (*sp)); sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_dataf{
+if (!_TIFFMergeField(tif, logLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF_MAX_LABELS))){
+if (NS_FAILED(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!tif->tif_data == NULL){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &(_TIFF_ALLOC_FILENO_FILES || _TIFF_ALLOC_FILENO_FILES || _TIFF_ALLOC_READ_FILENO_FILES))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL, NULL))){
+if (!GetTIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, &tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PR_TRUE))){
+if (!_TIFFMergeField(tif, LogLuvFields, NULL, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TRUE))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif->tif_data, module, "Merging SGILog codec-specific tags failed"); return 0; /* * Allocate state block so tag methods have storage to record values. */ tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)); if (tif->tif_data == NULL) goto bad; sp = (LogLuvState*) tif->tif_data; _TIFFmemset((void*)sp, 0, sizeof (*sp)); sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_datafmt = SGILOGDATAFMT_UNKNOWN; sp->user_dataf{
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, _logLuvFields, __FILE__)){
+if (!_TIFFMergeField(&tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, LogLuvFields, log)){
+if (_TIFFMergeField(tif, LogLuvFields)){
+if ((!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp))){
+if (!_TIFFMergeField(tif, LogLuvFields, &logLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, logFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0xff))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFMemoryLength))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LOGLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(&tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, LogLuvFields)){
+if (!__TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLiteralFields, TIFFArrayCount(LogLiteralFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), PR_TRUE)){
+if (!_TIFFMergeField(tif, LogLuvFields, tif->tif_data)){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), flags)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount())){
+if (_TIFFMergeField(tif, LogLuvFields, _TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, logLuvFields)){
+if (_TIFFMergeField(tif, LogLuvFields) == 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(_LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, _TIFFArrayCount(LogLuvFields))){
+<if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) == 0)){
+if (!_TIFFMergeField()){
+if (tif == NULL){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields) && (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, flags)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), PR_FALSE)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+if (tif->tif_data!= NULL){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (!tif->tif_clientdata, module, "TIFFMergeField(%s)", tif->tif_data)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields) && TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, FALSE))){
+if (!_TIFFMergeField(tif, LogLuvFields, len)){
+if ((tif->tif_data = (uint8*) _TIFFmalloc(sizeof (LogLuvState)))!= NULL){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &_LuvFields->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFF_ArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF))){
+if (!_TIFFMergeField(tif, LogLuvFields, getter_AddRefs(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLogLuvFields, TIFFArrayCount(LogLogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, flags))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &module))){
+else if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, false)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_SplimpDecodeState(tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, tif->tif_data)){
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!TIFFMergeField(tif, LogLuvFields, LogLuvFields)){
+&if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 1))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &rv))){
+if (!__TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) || (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(tif->tif_data))){
+if (!(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_data.tif_flags & TIFF_F_RUL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeNode(tif, _tif_locale)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, tif->tif_data)){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if (!tif->tif_data){
+if (!TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogFields)){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogLuvFields))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))!= 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), module)){
+if (!_TIFFMergeField(tif, &LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TRUE)){
+if (!_TIFFMergeField(tif->tif_data, LogLuvFields, LogLuvFields)){
+if (! TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField((void *)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount( LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeSIlog(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed"); return 0; <if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), false)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &tif))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, LogLuvState_mnt))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sel_adj))){
+if (!_TIFFMergeField(tif, LogFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, module)){
+if (_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)); if (!tif->tif_data){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0, 0))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, __PARSE__))){
+if (!_TIFFMergeField(tif, LogLuvFields | LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFFunc))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, getter_AddRefs(tif))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), TRUE)){
+if (!_TIFFMergeField(tif, LogLuvFields? LogLuvFields : LogLuvFields)){
+if (TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, sp))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_data == NULL)){
+if (!_TIFFMergeField(tif, _LogLuvFields, TIFFArrayCount(_LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, LogLuvFields, &TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields) &&!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PRUint32))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL, 0))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, LogLuvFields, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, __TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif->tif_data, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields || TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeRef(tif->tif_data, module, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFProtocol))){
+if (_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, (struct tag *)tif->tif_clientdata)){
+if (!get_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, &tif->tif_data)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields) ) ){
+if (__TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (tif->tif_data == 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &savefile))){
+if (!_TIFFMergeField(tif, LogLuvFields, _LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, _Get_node_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_data!= NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFCount(&tif->tif_data))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (isDisabled())){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &sp->sp_file, NULL))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), 0){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields, &_TIFFErrorExt(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed");)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFTableCount(LogLuvFields))){
+if(!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ){
+if (!_TIFFMergeField(tif, LogLuvFields){
+if (!_TIFFMergeField (tif, LogLuvFields, TIFFArrayCount (LogLuvFields))){
+if (!_TIFFMergeField(tif, logLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, NULL)){
+if (!_TIFFMergeField(p, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(logLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, _TIFFInitSGILog)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) || (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(TIFFArrayCount(LogLuvFields)))){
+if (!_TIFF_MergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(_logLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, TIFFArrayCount(LogLuvFields, TIFF_INT_START))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen))))))){
+if ((_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))!= 0){
+if (!_TIFFMergeField(tif, LogLuvFields, logluvFields)){
+if (!(_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, false))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), 0)){
+if (!_TIFFMergeField(sp, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFFieldCount(LogLuvFields))){
+if (*_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, LogLuvFields, TIFFArrayCount(LogFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0))){
+if (!_TIFFMergeField(th, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL))){
+if (!_TIFFMergeField((tif)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!_TIFFMergeField(tif, LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) &&!tif->tif_data){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, &ret))){
+if (!_TIFFMergeField(ifp, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField((void*)tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif->tif_clientdata, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount())){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields), &sp)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, PR_FALSE))){
+if (!_TIFFMergeField(tif, LogLuvFields, (void *)TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogFields, TIFFArrayCount(logFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, &LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, 0)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields, NULL)){
+TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeSIlog(tif->tif_clientdata, module, "Merging SGILog codec-specific tags failed"); return 0; &if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) && (tif->tif_clientdata)){
+if (&_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, LogLuvFields, NULL)){
+if (!_TIFFMergeField(tif, LogLuvFields, TRUEArrayCount(LogLuvFields))){
+if (!_TIFFMergeField(tif, LogLuvFields, TIFFArrayCount(LogLuvFields)) ||!_TIFFMergeField(tif, LogLuvFields)){
+if (_TIFFMergeField(tif, LogLuvFields, logLuvFields)){

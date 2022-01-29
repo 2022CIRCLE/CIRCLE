@@ -1,0 +1,301 @@
+golden:
+const TIFFField* TIFFFieldWithTag(TIFF* tif, uint32 tag)
+inference:
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+_TIFFFieldWithTag(TIFF* tif, uint32 tag)
+_TIFFFieldWithTag(TIFF* tif, uint32 tag) const
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag()
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRUint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, uint32 tag)
+static const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY)
+_TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(PRUint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRUint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif) const
+const TIFFFieldInfo* TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* aTif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(tif, tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(tif, uint32 tag)
+_TIFFFieldWithTag(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag (TIFF* tif, uint32 tag)
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int tag)
+inline TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(tif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned int32 tag)
+const TIFFFieldInfo* _TIFFField(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* a, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, size_t tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF** tif)
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag() const
+const TIFFFieldInfo* _TIFFFieldWithTag(tif, tag) const
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF& tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(tif, uint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(PRInt32 tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(PRInt32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* p, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const char* tag)
+_TIFFFieldWithTag(TIFF* tif, int32 tag)
+const TIFFFieldInfo *_TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, int32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF)
+_TIFFFieldWithTag(TIFF* tif, TIFF_ANY)
+_TIFFFieldWithTag(TIFF* tif, PRUint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF * tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRUnichar* tag)
+TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const _TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, Uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*& tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned long tag)
+_TIFFFieldWithTag(TIFF* tag)
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned int tag)
+_TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const
+const TIFFFieldInfo* _TIFFFieldWithTag(void)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* s, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif, uint32 tag )
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRUint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* i, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32)
+TIFFFieldInfo* _TIFFFieldWithTag()
+TIFFFieldInfo *_TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, TIFF_ANY)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned int32 tag)
+_TIFFField(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, Uint32 tag)
+CONST TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF** tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(Uint32 tag)
+static TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, UINt32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, uint32 tag) const
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint64 tag)
+_TIFFFieldWithTag(TIFF *tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* *tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, PRUint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRBool tag)
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF *tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldwithTag(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRInt32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, int32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, int flags)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF& tif)
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, uint32 tag) const
+_TIFFField(TIFF* tif, uint32 tag) const
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, TIFF_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, UInt32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, uint32 tag) const
+_TIFFFieldWithTag(TIFF*tif, uint32 tag)
+const TIFFFieldInfo* TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif)
+const TIFF_FieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(int tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint16 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* &tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 flags)
+const TIFFFieldInfo* TIFFFieldWithTag()
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, uint32 tag) const
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned long tag)
+_TIFFFieldWithTag(TIFF* tif) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif);
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY* tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF& tag)
+_TIFFFieldWithTag(TIFF* tif, int32 tag) const
+const TIFFFieldInfo* TIFFField(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif, int32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const int32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, UINT32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, PRUint32 tag)
+const TIFFFieldInfo** _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, size_t tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, unsigned int tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 *tag)
+TIFFFieldInfo* _TIFFField(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, long tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tifp, uint32 tag)
+const TIFFFieldInfo * _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+void TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif )
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF *tif, TIFF *uint32 tag)
+const TIFFFieldInfo* _TIFFField(TIFF* tif, uint32 tag) const
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, int32 tag)
+_TIFFFieldWithTag(TIFF* tif, const uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(tif, tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, UINt32 tag)
+NS_IMETHOD _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFField[](TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* aTag, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32_tag)
+_TIFFFieldWithTag(TIFF* tif, int tag)
+_TIFFFieldWithTag(TIFF*tif, uint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag);
+const TIFFFieldInfo* _TIFFFieldWithTag(PRUint32 tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* fip)
+TIFFFieldInfo* _TIFFFieldWithTag (TIFF* tif, uint32 tag)
+TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, uint32 tag) const
+const TIFFFieldInfo* TIFFFieldInfo* _TIFFFieldWithTag()
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF_ANY)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag( TIFF* tif, PRUint32 tag)
+_TIFFFieldWithTag()
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* it, uint32 tag)
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tif, PRUint32 tag)
+_TIFFFieldWithTag (TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFFT* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF_ANY, uint32 tag)
+const TIFFFieldInfo* *_TIFFFieldWithTag(TIFF* tif, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, PRUnichar* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, const uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* token, uint32 tag)
+TIFFFieldInfo* TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(PRInt32 tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tag, TIFF_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIF* tif, uint32 tag)
+const TIFFFieldInfo* TIFFFieldWithTag(TIFF* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* th, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif )
+const TIFFFieldInfo* _TIFFField(TIFF* tif, TIFF_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* if, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF*tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(PRUint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, u_int32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const char* tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* data, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* int, uint32 tag)
+TIFFFieldInfo* _TIFFFieldWithTag(tif, uint32 tag)
+nsTIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* this, uint32 tag)
+const TIFFFieldInfo* TIFFField(TIFF* tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, Uint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* newtif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* ifp, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY, int tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, int flags)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ISO-8859-1)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_LONG)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_EXPECTED)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 aName)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 id)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, void *error)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ANY) const
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, void *str)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const uint32_t tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, uint32_t *tif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip)  TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/  return (fip);  const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY_NOTICE)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, struct sockaddr* sockaddr)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY_LENGTH)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_NOT_FOUND)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRInt32& aResult)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ISO-8859-1, TIFF_ISO-8859-1)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_INET6::tif)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo* aTif, int32 aTag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo*& tag)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, tag, TIFF_ANY); if (!fip)  TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, void* aClone)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, int i)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo* tif_type, const TIFFFieldInfo* tif_type)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, int id)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tp)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_IFILER_ANY)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, int new)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32 lint)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo* aTif)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY); if (!fip)  TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32 uvp)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo* tif, uint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32* i)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 id, TIFFFieldInfo* id)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32* p)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32 type)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY_CLASS)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 ap, int flags)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo*& a)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ASSERT)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_PAGE_MAX)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, PRUint32 i)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_ANY_TIFF)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, uint32 type)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip)  TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY, PRUint32 tag)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, uint8 s)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY, TIFF_ANY); if (!fip)  TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ASYNC)
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, TIFF_FIRST_GENERIC)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY);
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, const TIFFFieldInfo* _TIFFFieldInfo(tif->tif_clientdata, TIFF_ANY))
+const TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag, void* aProc)
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, TIFF_ANY, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif->tif_clientdata, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); &const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ <return (fip); const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ &return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, uint32 tag) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) <TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);
+TIFFFieldInfo* _TIFFFieldWithTag(TIFF* tif, TIFF_ANY) const TIFFFieldInfo* fip = _TIFFFindFieldInfo(tif, tag, TIFF_ANY); if (!fip) &TIFFErrorExt(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag); assert(fip!= NULL); /*NOTREACHED*/ return (fip); <const TIFFFieldInfo* fip = _TIFFFieldInfo(tif->tif_clientdata, "TIFFFieldWithTag", "Internal error, unknown tag 0x%x", (unsigned int) tag);

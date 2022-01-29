@@ -1,0 +1,271 @@
+golden:
+<extra_id_0>
+inference:
+
+g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0)
+g_slice_free(fragment_data, key->frame);
+GLIB_CHECK_VERSION(2,10,0);
+#endif
+GLIB_CHECK_VERSION(2,10,0) g_slice_free(fragment_data, fd_head);
+g_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0) if(key->frame == fd_head->reassembled_in)
+g_slice_free(fragment_data);
+g_free_fragment_data(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); #endif
+g_slice_free_fragment_data(fragment_data, fd_head);
+g_free_fragment_data(fragment_data);
+GLIB_CHECK_VERSION(3,10,0)
+g_slice_free(fragment_data, key->fd_head);
+g_slice_free(fragment_data, fd_head);  #endif
+GLIB_CHECK_VERSION(2,10,0,0)
+GLIB_CHECK_VERSION(2,10,0); g_slice_free(fragment_data, fd_head);
+#endif /* GLIB_CHECK_VERSION(2,10,0) */
+g_slice_free(fragment_data, GLIB_CHECK_VERSION(2,10,0));
+g_slice_free (fragment_data, fd_head);
+g_slice_free(fragment_data, GLIB_CHECK_VERSION);
+GLIB_CHECK_VERSION(1,10,0)
+g_slice_free_fragment_data(fragment_data);
+g_slice_free(fragment_data, key->head);
+free(fragment_data, fd_head);
+GLIB_CHECK_VERSION();
+GLIB_CHECK_VERSION(2,10,0) g_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head, NULL);
+GLIB_CHECK_VERSION(2,5,0)
+g_slice_free(fragment_data, fd_head, 0);
+g_free(fragment_data);
+GLIB_CHECK_VERSION(1);
+if(key->frame == fd_head->reassembled_in)
+g_slice_free(fragment_data, fd_head->reassembled_in);
+g_slice_free(fragment_data, fd_head); GLIB_CHECK_VERSION(2,10,0);
+g_slice_free(fragment_data, key->frame->reassembled_in);
+g_free(fragment_data, key->frame);
+g_slice_free(fragment_data, key->frame, fd_head);
+g_slice_free(fragment_data, fd_head); GLIB_CHECK_VERSION(2,10,0)
+g_free_fragment_data(fragment_data, key->frame);
+GLIB_CHECK_VERSION(4,10,0)
+GLIB_CHECK_VERSION(3);
+g_slice_free_fragment_data(fragment_data, key->frame);
+if (g_slice_free(fragment_data, fd_head))
+g_slice_free(fragment_data, fd_head); g_slice_free(fragment_data);
+GLIB_CHECK_VERSION(2);
+GLIB_CHECK_VERSION2(2,10,0);
+# endif
+gl_slice_free(fragment_data, fd_head);
+/* g_slice_free(fragment_data, fd_head); */
+GLIB_CHECK_VERSION(2,10, 0)
+g_slice_free(fragment_data, key->frame); #endif
+key->frame = fd_head->reassembled_in;
+#ifdef GLIB_CHECK_VERSION(2,10,0)
+g_slice_free(fragment_data, fd_data);
+GLIB_CHECK_VERSION(2,10,0) g_slice_free(fragment_data, key->frame);
+g_slice_free(fragment_data, fd_head); endif
+g_slice_free(fragment_data, key);
+g_slice_free(fragment_data, fd_head, key->frame);
+break;
+gslice_free(fragment_data, fd_head);
+g_set_fragment_data(fragment_data);
+GLIB_CHECK_VERSION(5);
+GLIB_CHECK_VERSION(3,10,0) g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(3,5,0)
+GLIB_CHECK_VERSION(2,10);
+else g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(3,10,0);
+GLIB_CHECK_VERSION(2,20,0)
+return GLIB_CHECK_VERSION(2,10,0);
+g_slice_free(fragment_data, 0, fd_head);
+GLIB_CHECK_VERSION(2,10,1);
+GLIB_CHECK_VERSION(2,10)
+g_slice_free(fragment_data, fd_head->fd_head);
+g_slice_free(fragment_data, fd_head, GLIB_CHECK_VERSION);
+endif
+return g_slice_free(fragment_data, fd_head);
+GLOB_CHECK_VERSION(2,10,0)
+g_slice_free(fragment_data, key_head);
+key->frame = key->fd_head->reassembled_in;
+g_set_fragment_data(fragment_data, fd_head);
+g_slice_free(fragment_data, &fd_head);
+g_slice_free(fragment_data, fd_head, sizeof(fragment_data));
+GLIB_CHECK_VERSION(1,5,0)
+m_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head, fd_head);
+GLIB_CHECK_VERSION(1,10,0);
+GLIB_CHECK_VERSION(6,10,0)
+GLIB_CHECK_VERSION(2,10,0) if (key->frame == fd_head->reassembled_in)
+g_slice_free(fragment_data, g_head);
+g_slice_free(fragment_data, 0);
+g_slice_free(fragment_data, fragment_head);
+g_slice_free(fragment_data.get(), fd_head);
+if (key->frame == fd_head->reassembled_in)
+(void) g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) free(fragment_data, fd_head);
+g_slice_free(fragment_data,fd_head);
+GLIB_CHECK_VERSION(1,2,10,0)
+GLIB_CHECK_VERSION(8,10,0)
+GLIB_CHECK_VERSION(2,10,0); if(key->frame == fd_head->reassembled_in)
+g_slice_free(fragment_data, key->reassembled_in);
+GLIB_CHECK_VERSION(5,5,0)
+if (fragment_data)  g_slice_free(fragment_data, fd_head);
+g_free_fragments(fragment_data, fd_head);
+if (fragment_data) g_slice_free(fragment_data, fd_head);
+(void)g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,1)
+g_slice_free_fragment(fragment_data, fd_head);
+GLIB_CHECK_VERSION2(2,10,0)
+splx(s);
+GLIB_CHECK_VERSION(2,10,0) g_free_fragment_data(fragment_data);
+#ifdef DEBUG
+GLIB_CHECK_VERSION(0);
+GLIB_CHECK_VERSION(3,10,0) if(key->frame == fd_head->reassembled_in)
+gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, gpointer value);
+if (key->frame == fd_head->reassembled_in) free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(4,5,0)
+g_slice_release(fragment_data, fd_head);
+#endif /* GLIB_CHECK_VERSION */
+g_slice_free(fragment_data, fd_head); break;
+g_free(fragment_data, fd_head); g_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0) g_free(fragment_data);
+g_slice_free(fragment_data, sizeof(fragment_data), fd_head);
+g_slice_free(fragment_data, key->fragment_data);
+GLIB_CHECK_VERSION(5,10,0)
+GLIB_CHECK_VERSION(2,10,0,0);
+const g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); g_free(fragment_data);
+GLIB_CHECK_VERSION(4);
+g_remove_fragment_data(fragment_data);
+(void) GLIB_CHECK_VERSION(2,10,0)
+GLIB_CHECK_VERSION(0)
+g_slice_free(fragment_data, fd_head); # endif
+g_clear_fragment_data();
+g_slice_free(fragment_data, fd_head); g_slice_free(fd_head);
+return 0;
+else  g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head, 0, 0);
+g_slice_free(fragment_data, NULL);
+GLIB_CHECK_VERSION(2,10,0); #endif
+GLIB_CHECK_VERSION(2,10,0,0,0)
+return key->frame->reassembled_in;
+free(fragment_data);
+GLIB_CHECK_VERSION(2,10,0) == fd_head->reassembled_in;
+if (fd_head)  g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data,fragment_head);
+#if 0
+if(key->frame)  g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); free(fragment_data, fd_head);
+GLB_CHECK_VERSION(2,10,0)
+GLIB_CHECK_VERSION(4)
+if (key->frame)  g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, len);
+m_free(fragment_data);
+GLIB_CHECK_VERSION(2,10,0) g_slice_free(fragment_data);
+GLIB_CHECK_VERSION(1)
+g_slice_free();
+if(key->frame == fd_head->reassembled_in)  free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head->fragment_data);
+g_slice_free(fragment_data, GLIB_CHECK_VERSION, fd_head);
+xfree(fragment_data);
+gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value);
+free_fragment_data(fragment_data);
+/* XXX */
+if(key->frame == fd_head->reassembled_in) g_slice_free(fragment_data);
+g_slice_free(fragment_data, key->frame); GLIB_CHECK_VERSION(2,10,0);
+gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0);
+g_slice_free(fragment_data, key->frame); g_slice_free(fragment_data);
+#if defined(GLIB_CHECK_VERSION) || defined(GLIB_CHECK_VERSION)
+fd_head = key->frame;
+g_slice_free(fragment_data); g_slice_free(fragment_data);
+g_slice_free_fragment_data(fragment_data, fd_head); #endif
+gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, key->frame);
+g_slice_free(fragment_data, key->frame); GLIB_CHECK_VERSION(2,10,0)
+gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0, 0);
+g_slice_free(fragment_data, fd_head); free(fragment_data);
+GLIB_CHECK_VERSION(2,10,0); g_slice_free(fragment_data, key->frame);
+GLIB_CHECK_VERSION(2,10,0)  free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+/* Get freed by "reassemble_cleanup().". */
+if(key->frame == fd_head->reassembled_in)  g_slice_free(fragment_data, fd_head);
+/* * If we can't have a new container, then remove it. */ if (fragment_data == fd_head->reassembled_in)  g_slice_free(fragment_data, fd_head);
+if(!g_flags ||!g_flags) g_slice_free(fragment_data, fd_head);
+if (key->frame == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+if(g_frame == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+/* * For each reassembled-packet hash table entry, free the fragment data to which the value refers. * (Preglib 2.10:The actual value structures get freed by "reassemble_cleanup()".) * http://www.wireshark.org/lists/wireshark-dev/200910/msg00074.html */ static gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0, key->frame); static gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0, key->frame); static gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0, key->frame); static gbooleanfree_all_reassembled_fragments(gpointer key_arg, gpointer value, 0, key->frame); static gbooleanfree_all_reassembled_fragments(gpointer key_arg, g
+if (glb_check_version(2,10,0) == fd_head->reassembled_in)  g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0))  g_slice_free(fragment_data, fd_head);  g_slice_free(fragment_data, fd_head);
+
+if (fragment_data) g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) g_slice_free(fragment_data, fd_head); &g_slice_free(fragment_data, fd_head);
+else g_slice_free(fragment_data, fd_head);
+if (fragment_data) &g_slice_free(fragment_data, fd_head);
+if (fragment_data) g_slice_free(fragment_data, fd_head);
+g_slice_free_fragment_data(fragment_data, fd_head);
+&g_slice_free(fragment_data, fd_head);
+if (key->frame) <g_slice_free(fragment_data, fd_head);
+if(key->frame) &g_slice_free(fragment_data, fd_head);
+&#endif
+/* * If we can't have a new container, then remove it. */ if (fragment_data == fd_head->reassembled_in) <g_slice_free(fragment_data, fd_head);
+<else <g_slice_free(fragment_data, fd_head);
+<else g_slice_free(fragment_data, fd_head);
+<g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) <g_slice_free(fragment_data, fd_head); &g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) g_slice_free(fragment_data, fd_head); <g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in)
+else &g_slice_free(fragment_data, fd_head);
+<else &g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); &#endif
+if (key->frame) &g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); <#endif
+if(key->frame) g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) g_slice_free(fragment_data, fd_head); g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) &g_slice_free(fragment_data, fd_head); &g_slice_free(fragment_data, fd_head);
+&else &g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0) &free(fragment_data, fd_head);
+&else g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); #endif
+else &g_slice_free(fragment_data, fd_head);
+<else &g_slice_free(fragment_data, fd_head);
+if (fragment_data) <g_slice_free(fragment_data, fd_head);
+else g_slice_free(fragment_data, fd_head);
+<else <g_slice_free(fragment_data, fd_head);
+g_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); #endif
+if (key->frame) g_slice_free(fragment_data, fd_head);
+if (glb_check_version(2,10,0) == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+if (fragment_data) &g_slice_free(fragment_data, fd_head);
+if (fd_head) <g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0) free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); &#endif
+if (glib_CHECK_VERSION(2,10,0)) &g_slice_free(fragment_data, fd_head); g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) &g_slice_free(fragment_data, fd_head); <g_slice_free(fragment_data, fd_head);
+/* * If we can't have a new container, then remove it. */ if (fragment_data == fd_head->reassembled_in) &g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) &g_slice_free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) <g_slice_free(fragment_data, fd_head); g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head); <#endif
+#endif
+if(key->frame == fd_head->reassembled_in) &free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) <free(fragment_data, fd_head);
+if (glb_check_version(2,10,0) == fd_head->reassembled_in) <g_slice_free(fragment_data, fd_head);
+&else &g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0)
+if (fd_head) g_slice_free(fragment_data, fd_head);
+/* * If we can't have a new container, then remove it. */ if (fragment_data == fd_head->reassembled_in) g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, key->frame);
+<g_slice_free(fragment_data, fd_head);
+&else <g_slice_free(fragment_data, fd_head);
+if (glb_check_version(2,10,0) == fd_head->reassembled_in) &g_slice_free(fragment_data, fd_head);
+GLIB_CHECK_VERSION(2,10,0) <free(fragment_data, fd_head);
+if (glib_CHECK_VERSION(2,10,0)) <g_slice_free(fragment_data, fd_head); <g_slice_free(fragment_data, fd_head);
+g_slice_free(fragment_data, fd_head);
+if(key->frame) <g_slice_free(fragment_data, fd_head);
+if (fragment_data) <g_slice_free(fragment_data, fd_head);
+<else g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) free(fragment_data, fd_head);
+&else g_slice_free(fragment_data, fd_head);
+else <g_slice_free(fragment_data, fd_head);
+if(key->frame == fd_head->reassembled_in) <g_slice_free(fragment_data, fd_head);
+else <g_slice_free(fragment_data, fd_head);
+if (fd_head) &g_slice_free(fragment_data, fd_head);
+<#endif
+&g_slice_free(fragment_data, fd_head);
+&else <g_slice_free(fragment_data, fd_head);

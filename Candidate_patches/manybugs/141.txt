@@ -1,0 +1,535 @@
+golden:
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O|O!", &id, dom_document_class_entry, &nodep, dom_node_class_entry) == FAILURE) {
+inference:
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zd_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (!zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters (ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zero_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get_this(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __unused, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), get_this(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters("O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zval_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (z_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == NULL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis()), "O", &id, dom_document_class_entry) == FAILURE){
+if (zdoc_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zope_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_TRUE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() && getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zeta_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id, dom_document_class_entry) == 0){
+if(zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, 0) == FAILURE){
+if (zend_parse_method_parameters (ZEND_NUM_ARGS() TSRMLS_CC, getThis (), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == PR_FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, GetThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zet_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zh_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), NULL, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == -1){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == NULL){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis()) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), NULL, &id, dom_document_class_entry) == FAILURE){
+if (zdb_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, DOM_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __user, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "o", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zs_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, NULL) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), GetThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS())){
+if (dom_document_class_entry == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __P("O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == EINVAL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), 'O', &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zdep_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS())) == FAILURE){
+if (zend_parse_method_parameters(this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS()) == FAILURE){
+if (zend_parse_method_parameters(CSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+else if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (cent_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", 0, &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O"), &id, dom_document_class_entry) == FAILURE){
+if (zd_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id, dom_document_class_entry) == 0){
+if (zend_get_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(){
+if (zd_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __user__, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __func__, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if ( zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() tsr, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(zero, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis()) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == -1){
+if (zend_parse_method_parameters (TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (&zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &uid, dom_document_class_entry) == FAILURE){
+if (ZEND_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zsig_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "o", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", getIID(), dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", get_id(), dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id) == FAILURE){
+if (zend_parse_method_parameters(PZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ztest_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)  0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, xmlDocPtr, intern) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEXT_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, DOM_document_class_entry) == 0){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zsa_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, PR_FAILURE) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), get This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), 0, "O", &id, dom_document_class_entry) == FAILURE){
+if (zout_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TRUE, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), PR_FALSE, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC)), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), _("O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get_This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == EINVAL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, xmlDocPtr) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(zval, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(NULL, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters( ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_class_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)!= 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts, "O", &id, dom_document_class_entry) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (!zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (do_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_FAILURE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS( TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zoned_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)==FAILURE){
+if (zed_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis()), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", id, dom_document_class_entry) == 0){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 1){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) = FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zsrc_out_enabled(temp_out, ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id >= 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, 0) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id->id_reg->id == id->id->id_reg->id_reg->id_reg->id_reg->id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, X_LINK_DEBUG) == FAILURE){
+if (zset_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (oid == xmlDocPtr)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, doc_props) == FAILURE){
+if (ZEND_ARGS(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, dom_document_type_entry) == FAILURE && dom_document_propsptr){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, &flags) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, xmlDocPtr) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!IsXML(id)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!save_class){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!(caddr->xml_flags & Z_ROOT)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!(IsHTMLEntryHandler(id))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!id){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, f) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, dom_document_class_name) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id  id){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (intern->document)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, xmlDocPtr, intern) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &zval) == FAILURE){
+if (zsrc_doc_obj->flags == DOM_DOCUMENT_ERROR){
+if (ZEND_NUM_ARGS(DOM_DOC_SET_ARGS)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!mem){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xmlDocPtr == '0'))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &return) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ts) TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, nsnull) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && ((m_obj = id->nsGenericHTMLElement()) == id->nsGenericHTMLElement())){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, &err) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRML_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zstrlen(dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRDLCS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (ZEND_NUM_ARGS(tsrc, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_TRUE) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, dom_document_class_value) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE ||!m_debug){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id == '0'){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || getThis() == NULL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, cp) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(tsrl_c, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, std::flags) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, NULL) == FAILURE){
+if (zval == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(), &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (!intern->document)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE && mem){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || ((uintptr_t)id == 0) || (uintptr_t)id == 0)){
+if (ZEND_NUM_ARGS(TEMPLATE_STRING("O"), &id, dom_document_class_entry) == FAILURE){
+if (ztb_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && (intern->document)){
+if (zval->xml_type == XML_TYPE_XML){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xml_destroy_string(id)!= NULL)){
+if (ZEND_ARGS(ts) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &ret) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, snprintf(stderr)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!dom_document_class_type){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&! DOM_SUCCEEDED(DOM_GET_OBJ(docp, id, xmlDocPtr, intern))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(XML_CLASS_TO_JS) TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ZEND_NUM_ARGS(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!intern->document){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, gett_file_name()) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(DOM_STREAM_ELEMENT_C)&ts) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, ap->ap) == FAILURE){
+if (zlib_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(DOM_STDOUT_CSTRING_STRING)&id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, res_data) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) && (getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), 0, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || getThis() == NULL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, dom_document_class_name) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), NULL, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == 0){
+if (ZEND_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id >= 0){
+if (zend_parse_class_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zdep_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis()) == FAILURE){
+if (zsrc_out_enabled(temp_out, ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, std::flags) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) &= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!(caddr->xml_flags & Z_ROOT)){
+if (!zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!dom_document_class_type){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == -1){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRDLCS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zh_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id) == FAILURE){
+if (zend_get_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (dom_document_class_entry == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xmlDocPtr == '&0'))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, nsnull) == 0){
+if (ZEND_NUM_ARGS(TEMPLATE_STRING("O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (oid == xmlDocPtr)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ztb_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __func__, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zd_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == -1){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!save_class){
+if (zlib_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, gett_file_name()) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, NULL) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, cp) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) = FAILURE){
+if (zd_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 1){
+if ( zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, xmlDocPtr, intern) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id->id_reg->id == id->id->id_reg->id_reg->id_reg->id_reg->id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE && mem){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "o", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TRUE, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, res_data) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, DOM_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, PR_FAILURE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (!intern->document)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE ||!m_debug){
+if (zval_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == NULL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xmlDocPtr == '<0'))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && (intern->document)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_TRUE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(tsrl_c, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == 0){
+if (zend_parse_method_parameters(TZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (&zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!(caddr->xml_flags & <Z_ROOT)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __P("O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS())){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))!= FAILURE){
+if (zsrc_doc_obj->flags == DOM_DOCUMENT_ERROR){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis()), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &uid, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(DOM_STREAM_ELEMENT_C)&ts) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == PR_FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id &id){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) && (getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), "O", &id, dom_document_class_entry) == FAILURE){
+if (!zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)){
+if (zout_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zed_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, &flags) == FAILURE){
+if (z_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == EINVAL){
+if (zend_parse_method_parameters(zero, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, &err) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __user__, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id)) == FAILURE){
+if (zdb_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(), &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ts) TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSSRML_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis()) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC)), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(NULL, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis()), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!id){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xml_destroy_string(id)!= NULL)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (intern->document)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), 'O', &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, PR_FAILURE) == FAILURE){
+if (zero_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id == '&0'){
+if (zend_parse_method_parameters (TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters (ZEND_NUM_ARGS() TSRMLS_CC, getThis (), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, xmlDocPtr) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &zval) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &return) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, X_LINK_DEBUG) == FAILURE){
+if (zend_parse_method_parameters(TZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && ((m_obj = id->nsGenericHTMLElement()) == id->nsGenericHTMLElement())){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(XML_CLASS_TO_JS) TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS())) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry)!= 0){
+if (cent_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zd_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!mem){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getthis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, 0) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, doc_props) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters (ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (ZEND_ARGS(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || ((uintptr_t)id == 0) || (uintptr_t)id == 0)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id) == 0){
+if (ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters("O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters( ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", getIID(), dom_document_class_entry) == FAILURE){
+if (ztest_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id == '<0'){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "o", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_TRUE) == FAILURE){
+if (zval == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, DOM_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)==FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), GetThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, &ret) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get_This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() tsr, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+else if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zope_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&! DOM_SUCCEEDED(DOM_GET_OBJ(docp, id, xmlDocPtr, intern))){
+if (zset_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", 0, &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(DOM_STDOUT_CSTRING_STRING)&id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), get This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (zsa_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) <0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, ap->ap) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE || (xmlDocPtr == '0'))){
+if(zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __user, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (ZEND_NUM_ARGS(DOM_DOC_SET_ARGS)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", id, dom_document_class_entry) == FAILURE){
+if (do_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(TSSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id id){
+if (ZEND_ARGS(ts) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, GetThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS( TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS()) == FAILURE){
+if (zs_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) &0){
+if (ZEND_NUM_ARGS(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!intern->document){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), get_this(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, dom_document_type_entry) == FAILURE && dom_document_propsptr){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!(IsHTMLEntryHandler(id))){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get_this(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getthis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O") == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, NULL) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), PR_FALSE, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zval->xml_type == XML_TYPE_XML){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE && id <id){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() __unused, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(PZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, DOM_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry)!= FAILURE){
+if (ZEND_NUM_ARGS(tsrc, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) <= FAILURE){
+if (zend_parse_method_parameters(CSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, 0) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, xmlDocPtr, intern) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC, getThis(), "O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(zval, "O", &id, dom_document_class_entry) == FAILURE){
+if (zeta_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == EINVAL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zoned_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zdoc_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), NULL, &id, dom_document_class_entry) == FAILURE){
+if (zet_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) 0){
+if (zend_parse_method_parameters(ZEXT_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, xmlDocPtr) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), _("O"), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry, PR_FALSE) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE ||!IsXML(id)){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == NULL){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() && getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() ts, "O", &id, dom_document_class_entry) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zsig_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), this, "O", &id, dom_document_class_entry) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(TSRMLS_CC), getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, get This(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", get_id(), dom_document_class_entry) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry) == FAILURE || id == '0'){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, snprintf(stderr)) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, dom_document_class_value) == FAILURE){
+if (zed_parse_method_parameters(ZEND_NUM_ARGS(), getThis(), "O", &id, dom_document_class_entry, f) == FAILURE){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), "O", &id, dom_document_class_entry) == FAILURE &&!(caddr->xml_flags & &Z_ROOT)){
+if (zstrlen(dom_document_class_entry) == 0){
+if (zend_parse_method_parameters(ZEND_NUM_ARGS() TSRMLS_CC, getThis(), &id, dom_document_class_entry) == 0){

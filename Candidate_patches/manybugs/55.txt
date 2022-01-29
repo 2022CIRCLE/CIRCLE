@@ -1,0 +1,524 @@
+golden:
+if ((fip = TIFFFieldWithTag(tif, tag)))
+inference:
+if ((fip = TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))!= 0)
+if (_TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, tag, 0)))
+if ((ip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = Fax3VFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))  0)
+if ((fip = _TIFFFieldWithTag(tif)))
+if ((fip = _TIFFFieldWithTag(tif, tag, PR_TRUE)))
+if ((sp = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, NULL)))
+if ((fip = _TIFFFieldWithTag(fip, tag)))
+if (fip = TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, &tag)))
+if (fip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(ap, tag)))
+if (_TIFFFieldWithTag(tag))
+fip = _TIFFFieldWithTag(tif, tag); if (fip)
+if ((fip = _FieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))!= -1)
+if ((fip = _TIFFFieldWithTag(tif, tag)) == 0)
+if (ip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, tag, int)))
+if ((fip = _TIFFFieldWithTag(&tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, flags)))
+if ((sip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = TIFFField(tif, tag)))
+if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3)
+if ((fip = _TIFFFieldWithTag(tag)))
+if ((fip = _TIFFFieldWithTag(p, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, ap)))
+if ((tag = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))!= NULL)
+if ((fp = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif->tif_dir, tag)))
+if (_TIFFFieldWithTag(tif, tag) == 0)
+if ((p = _TIFFFieldWithTag(tif, tag)))
+if (fip = _TIFFFieldWithTag(tag))
+if ((fip = _TIFFFieldWithTag(tif, tag, p)))
+if ((fip = _TIFFFieldWithTag(tag))!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag)) == -1)
+if ((fip = _TIFFFieldWithTag(tif))!= 0)
+if ((fip = _TIFFFieldWithTag(sp, tag)))
+if ((tif = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(ifp, tag)))
+if ((fip = _TIFF_FieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(name, tag)))
+if ((ap = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, va_list)))
+if ((fip = _TIFFField_WithTag(tif, tag)))
+if ((ifip = _TIFFFieldWithTag(tif, tag)))
+else if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(uint32, tag)))
+if (!(fip = _TIFFFieldWithTag(tif, tag)))
+if (fip = _TIFFFieldWithTag(tif, tag, 0))
+if ((fip = _TIFFFieldWithTag(tif, tag, i)))
+if ((fip = _TIFFFieldWithTag(int, tag)))
+if ((fip = __TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(s, tag)))
+if (_TIFFFieldWithTag(tif))
+if ((fip = _TIFFFieldWithTag((int)tif, tag)))
+if ((fip = _TIFFFieldWithTag(i, tag)))
+if ((buf = _TIFFFieldWithTag(tif, tag)))
+if ((&fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFField(tif, tag))!= 0)
+if ((fip = _TIFFFieldWithTag(buf, tag)))
+if (!_TIFFFieldWithTag(tif, tag))
+if ((fip=_TIFFFieldWithTag(tif, tag)))
+if ((sp->fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = TIFFFieldwithTag(tif, tag)))
+if ((Fip = _TIFFFieldWithTag(tif, tag)))
+if ( (fip = _TIFFFieldWithTag(tif, tag)) )
+if ((fip = TIFFFIeldWithTag(tif, tag)))
+if (_TIFFFieldWithTag(tif, tag) == -1)
+if (_TIFFFieldWithTag(tif, tag)!= 0)
+if ((fip = _TIFFFieldWithTag(tag, tif)))
+if ((fip = _TIFFFieldWithTag((unsigned long)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tag, 0)))
+if ((fip = _TIFFFieldWithTag(&tag)))
+if ((fip = _TIFFFieldWithTag(tif, name)))
+if ((fip = _TEXTIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldsWithTag(tif, tag)))
+if ((fip = FILE_TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &sp)))
+if ((fip = TIFFFieldWithTag(tag)))
+if (((fip = TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, sp)))
+if ((fip = _IFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, FALSE)))
+if ((fip = _TIFFFieldWithTag(tif, tag, ret)))
+if ((fip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldInTag(tif, tag)))
+if ((fip = _TIFFField(tif)))
+if ((fip = Fax3TIFFFieldWithTag(tif, tag)))
+if (p = _TIFFFieldWithTag(tif, tag))
+if ((i = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFField_with_tag(tif, tag)))
+if ((fip = TIFF_FieldWithTag(tif, tag)))
+if ((fip = TIFFFieldWithTag(tif, tag))!= 0)
+if (fip = _TIFFFieldWithTag(tif))
+fip = _TIFFFieldWithTag(tif, tag); if ((fip = fip))
+if ((fip = _TIFFFieldWithTag(str, tag)))
+if (__func__ == _TIFFFieldWithTag(tif, tag))
+if ((fip = Fax3VField(tif, tag)))
+if ((fip = _TIFFFieldWithTag(dev, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tif_dir)))
+if ((fip = Fax3VSetField(tif, tag)))
+if ((ifp = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, dummy)))
+if (ifip = _TIFFFieldWithTag(tif, tag))
+if ((_TIFFFieldWithTag(tif, tag))!= 0)
+if ((ret = _TIFFFieldWithTag(tif, tag)))
+if (sip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(&tif->tif_dir)))
+if ((fip = _TIFFFieldWithTag(tif, tag, v)))
+if ((*fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldAndTag(tif, tag)))
+if ((vp = _TIFFFieldWithTag(tif, tag)))
+if (fip = _TIFFFieldWithTag(tif, tag, NULL))
+if ((fip = &_TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag.get())))
+if ((fip = _TIFFFieldWithTag(tif, tag, &rv)))
+if ((sfip = _TIFFFieldWithTag(tif, tag)))
+if ((!fip = _TIFFFieldWithTag(tif, tag)))
+if (_TIFFField(tif, tag))
+if ((lfip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _FIELD_TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, name)))
+if ((fip = _TIFFFieldWithTag(*tif, tag)))
+if ((fip = _TIFFFieldWithTag (tif, tag)))
+if ((fip = _TIFFFieldwithTag(tif, tag))!= 0)
+if ((fip = _TIFFFieldWithTag(tag))  0)
+if ((fip = _TIFFFieldWithTag(tag, ap)))
+if ((lip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &ap)))
+if ((fip = TIFF_FIELD(tif, tag)))
+if ((fip = FIELD_TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, 0, 0)))
+if ((fip = _TIFFFieldWithTag(ip, tag)))
+if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX4)
+if ((fip = _TIFFFieldWithTag(tag, p)))
+if ((fip = _TIFFFieldWithTag(tif, *tag)))
+if (((fip = TIFFFieldWithTag(tif, tag))))
+if ((fip = _TIFFFieldWithTag(tif, tag, fp)))
+if (fip = _TIFFFieldWithTag(tif, tag, PR_TRUE))
+if ((name = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFField(tif, tag, 0)))
+if ((fip = _TIFFFieldNameWithTag(tif, tag)))
+if ((fip = _XTIFFFieldWithTag(tif, tag)))
+if (&fip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(fip)))
+if ((bip = _TIFFFieldWithTag(tif, tag)))
+if (!fip = _TIFFFieldWithTag(tif, tag))
+if ((wip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, type)))
+if ((fip = _TIFFFieldWithTag(name)))
+if ((fip = _TIFFFieldWithTag(tif, tag))  1)
+if ( (fip = _TIFFFieldWithTag(tif, tag)))
+sip = _TIFFFieldWithTag(tif, tag); if (sip)
+if (sp->fip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, ap, tag)))
+if ((fip = _TIFFFieldWithTag(tag, uint32_t)))
+fip = _TIFFFieldWithTag(tif, tag); if (fip!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag, &ret)))
+if ((fip = _TIFFFieldWithTag(tif))  0)
+if ((fip = _TIFFFieldWithTag(tif, tag.td_name)))
+if (_TIFFFieldWithTag(fip, tag))
+if ((fip = _TIFFFieldWithTag(tif, tag)) == NULL)
+if ((fip = _TIFFFieldWithTag(tif, tag, fd)))
+switch (tag)
+if((fip = _TIFFFieldWithTag(tif, tag))!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag), &fip))
+if ((fip = _TIFFFieldWithTag(tif)) == 0)
+fip = _TIFFFieldWithTag(tif, tag); if (!fip)
+if ((fip = _TIFFFieldWithTag(tif, tag), 0))
+if (fip = _TIFFFieldWithTag(tif, tag, ap))
+if ((fip = _TIFFFieldWithTag(tif, tag, v3)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) > 0)
+if ((fip = _TIFFFieldWithTag(tif, tag, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag), PR_TRUE))
+if ((fip = _TIFFFieldWithTag(tif, tag, cnt)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) = 0)
+if ((fip = _TIFFFieldWithTag(tif, tag)) >= 0)
+fip = _TIFFFieldWithTag(tif, tag); if (fip == 0)
+if (!fip)
+if ((fip = _TIFFFieldWithTag(tif))!= -1)
+if ((fip = _TIFFFieldWithTag(tif, tag) == 0))
+fip = _TIFFFieldWithTag(tif, tag); if (fip == NULL)
+if ((fip = _TIFFFieldWithTag(tif, tag, fn)))
+if ((fip = _TIFFFieldWithTag(tif, tag, id)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (fip->flags & TIFF_FLAG_SIZE) == 0)
+if ((fip = _TIFFFieldWithTag((unsigned char*)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) &&!mtx_freem)
+if ((fip = _TIFFFieldWithTag(tif, tag)))  sp->mode = (int) va_arg(ap, int); return 1; /*NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /*NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression =
+if ((fip = _TIFFFieldWithTag((uint8_t)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, ap->flags)))
+if ((fip = _TIFFFieldWithTag(tif, tag, tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3)))
+if ((fip = _TIFFFieldWithTag(tif, tag, tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3))
+if ((fip = _TIFFFieldWithTag(tif, tag, uint32_t)))
+if ((fip = _TIFFFieldWithTag(tif, tag, _DEBUG_TIFF_END)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) || (fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag((uint32)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &sb)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) || ((fip = _TIFFFieldWithTag(tif, tag)))!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag, &strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen(strlen))))))!= 0))))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  /* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag)))  sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag)))  #endif
+if ((fip = _TIFFFieldWithTag(tif, tag)))  if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3)  sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag)))  if (sp->vsetparent!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag)) &&!(sp->vsetparent == 0))
+if ((fip = _TIFFFieldWithTag(tif, tag, &tif->tif_dir)))
+if ((fip = _TIFFFieldWithTag(tag)) && ((fip = _TIFFFieldWithTag(tif, tag)))!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag, &rb)))
+if ((fip = _TIFFFieldWithTag(tif, tag, fd, ap)))
+if ((fip = _TIFFFieldWithTag(tif, tag, PR_FALSE)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif  if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tag, &sp)))
+if ((fip = _TIFFFieldWithTag(tif, tag, sizeof(fip))))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  if ((sp->flags & TC_PAGES_FAXP!= 0))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag, &misc)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG)  /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)))  /* Note that the default case is * the end of a char * (strlen(tif->tif_dir.td_compression)) */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (sp->flags & TIFF_DEBUG))
+if ((fip = _TIFFFieldWithTag(tif, tag, vsetparent)))
+if ((fip = _TIFFFieldWithTag(tag, tif->tif_dir.td_compression)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  fc = _TIFFFieldWithTag(tif, tag); if (fc)
+if ((fip = _TIFFFieldWithTag(tif, tag, ctxt)))
+if ((fip = _TIFFFieldWithTag(tif, tag, tif->tif_dir.td_compression == COMPRESSION_CCITTFAX4)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag)))  #ifdef __GNUC__
+if ((fip = _TIFFFieldWithTag(tif, tag)) &&!fip)
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (!(tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3)))
+if ((fip = _TIFFFieldWithTag(tag, &ap->ap->tif_dir.td_compression)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &m)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (fip == 0))
+if ((fip = _TIFFFieldWithTag(tif, tag, &ctxt)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) || ((fip = _FieldWithTag(tif, tag))))
+if ((fip = _TIFFFieldWithTag(tif, tag, _Ptr_t)))
+if ((fip = _TIFFFieldWithTag(tif, tag, ap->vsetparent)))
+if ((fip = _TIFFFieldWithTag(tif, tag, nsnull)))
+if ((fip = _TIFFFieldWithTag((uint32_t)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  #ifdef INET6 #endif /*INET6 */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, sp->s_rtlen)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  sp->mode = 0; /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag((tif_name)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tag, fip)))
+if ((fip = _TIFFFieldWithTag((uint16_t)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag, _t*)0))
+if ((fip = _TIFFFieldWithTag(tag, i)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) || (fip->tag_num == -1))
+if ((fip = _TIFFFieldWithTag(tif, tag, fsrc_num)))
+if ((fip = _TIFFFieldWithTag(tag, &isi)))
+if ((fip = _TIFFFieldWithTag((caddr_t)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tag, __P([], __P([])))))
+if ((fip = _TIFFFieldWithTag(tif, tag, flat)))
+if ((fip = _TIFFFieldWithTag((tif_data)tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && fip->flags)
+if ((fip = _TIFFFieldWithTag(tif, tag, sizeof(tif->tif_dir)))
+if ((fip = _TIFFFieldWithTag(tif, tag, sizeof(tif->tif_dir))))
+if ((fip = _TIFFFieldWithTag(tag, sp->sp->fid)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &fip->fi_info)))
+if ((fip = _TIFFFieldWithTag(tif, tag, io_max)))
+if ((fip = _TIFFFieldWithTag(tif, tag, &tif->tif_dir.td_compression)))
+if ((fip = _TIFFFieldWithTag(tif, tag)))  sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_com
+if ((fip = _TIFFFieldWithTag(tag)))  if ((tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_
+if ((fip = _TIFFFieldWithTag(tif, tag, &sp->tif_dir.td_compression)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0' || tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag, sizeof(tif))))
+<if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) &1)
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag))) if ((sp->flags & TC_PAGES_FAXP!= 0))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef __GNUC__
+if ((fip = _TIFFFieldWithTag(tif, tag))) if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tag))) <if ((tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_com
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef __GNUC__
+if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = (int) va_arg(ap, int); return 1; /*NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /*NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tag))) if ((tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &if ((sp->flags & TC_PAGES_FAXP!= 0))
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '<0' || tag == '&0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = (int) va_arg(ap, int); return 1; /*NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /*NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression =
+if ((fip = _TIFFFieldWithTag(tif, tag)) 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = 0; /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+&if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) <sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) <sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '&0' || tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '&0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = (int) va_arg(ap, int); return 1; /*NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /*NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #endif
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) &sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) if (sp->vsetparent!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif)) 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '&0' || tag == '<0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) <sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <fc = _TIFFFieldWithTag(tif, tag); if (fc)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_com
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tag)) &0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* Note that the default case is * the end of a char * (strlen(tif->tif_dir.td_compression)) */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif)) <0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_com
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#endif
+if ((fip = _TIFFFieldWithTag(tif)) &0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = 0; /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) &= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) <if (sp->vsetparent!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <if ((sp->flags & TC_PAGES_FAXP!= 0))
+if ((fip = _TIFFFieldWithTag(tif, tag))) if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) &sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '<0' || tag == '<0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if (_TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, tag)) <= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if (fip = _TIFFFieldWithTag(tif, tag))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) <1)
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef INET6 #endif /*INET6 */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '<0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) = 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tag)) <0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef __GNUC__
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0' || tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) <sp->mode = 0; /* NB: pseudo tag */
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tag)) 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef INET6 #endif /*INET6 */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* Note that the default case is * the end of a char * (strlen(tif->tif_dir.td_compression)) */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tag))) &if ((tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GROUP4OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '&0' || tag == '&0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) fc = _TIFFFieldWithTag(tif, tag); if (fc)
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) &fc = _TIFFFieldWithTag(tif, tag); if (fc)
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef INET6 #endif /*INET6 */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0' || tag == '&0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '0' || tag == '<0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) &if (sp->vsetparent!= 0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif &if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* Note that the default case is * the end of a char * (strlen(tif->tif_dir.td_compression)) */ if ((fip = _TIFFFieldWithTag(tif, tag)))
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)<n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) <0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)&n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) </* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) &0)
+if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if (fip->flags & TIFF_DEBUG) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) &/* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip = _TIFFFieldWithTag(tif, tag))) /* NB: pseudo tag */ if ((fip =
+if ((fip = _TIFFFieldWithTag(tif, tag)) && (tag == '<0' || tag == '0'))
+if ((fip = _TIFFFieldWithTag(tif, tag))) </* * Check for a full PID file name. */ if ((fip = _TIFFFieldWithTag(tif, tag))) &sp->mode = (int) va_arg(ap, int); return 1; /* NB: pseudo tag */ case TIFFTAG_FAXFILLFUNC: DecoderState(tif)->fill = va_arg(ap, TIFFFaxFunc); return 1; /* NB: pseudo tag */ case TIFFTAG_GROUP3OPTIONS: /* XXX: avoid reading options if compression mismatches. */ if (tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_GRO
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#endif
+if ((fip = _TIFFFieldWithTag(tif, tag))) <#ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)n");
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)<n"); #endif <if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");
+if ((fip = _TIFFFieldWithTag(tif, tag)) 1)
+if ((fip = _TIFFFieldWithTag(tif, tag))) &if (*tif->tif_dir.td_compression == COMPRESSION_CCITTFAX3) &sp->groupoptions = (uint32) va_arg(ap, uint32); break; case TIFFTAG_BADFAXLINES: sp->badfaxlines = (uint32) va_arg(ap, uint32); break; case TIFFTAG_CLEANFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_CONSECUTIVEBADFAXDATA: sp->cleanfaxdata = (uint16) va_arg(ap, uint16_vap); break; case TIFFTAG_REQUEST_TTY: sp->mode = (int) va_arg(ap, int);
+if ((fip = _TIFFFieldWithTag(tif, tag))) #ifdef DEBUG if (_DEBUG_TYPE(tif->tif_dir)!= 0) printf("fip = _TIFFFieldWithTag(tif, tag)n"); #endif if (_DEBUG_TYPE(tif)) printf("fip = _TIFFFieldWithTag(tif, tag)&n");

@@ -1,0 +1,843 @@
+golden:
+for (fd_head = value; fd_head != NULL; fd_head = fd_head->next) {
+inference:
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd){
+for (fd = value; fd!= NULL; fd = tmp_fd)  tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd); tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd)  tmpfd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd=fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd = fd_head->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd);{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = tmp_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd){
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  fd_fd = fd_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd)  tmp_fd=fd->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd)  tmp_h = fd_h->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd){
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_head = value && fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL, fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (v = value; v!= NULL; v = tmp_fd)  v = v->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd->next){
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd)  tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h)  tmp_h = fd_h->next;{
+for (fd_head = value; fd_head!= NULL && fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value, fd_head!= NULL, fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmpfd)  tmpfd = fd_fd->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd)  tmp_fd = fd_entry->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd)  tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = value->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd)  tmp_h=fd_h->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == NULL)  tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd)  tmp_hash = fd_hash->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd_head = fd_head->next;{
+for (fd_head = value.get(); fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value - 1; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next)  tmp_fd=fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd)  fd = fd->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_fd)  tmp_id = fd_id->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd)  tmp_fd = tmp_fd->next;{
+for (v = value; v!= NULL; v = tmp_fd)  tmp_fd = v->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd)  tmp_len = fd_len->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h)  tmp_h=fd_h->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd)  tmp_fd = fd_len->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd=fd_head->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd)  tmp_c = fd_c->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd)  tmp_end = fd_end->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd); fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd){
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = 0)  tmp_fd = fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_id)  tmp_id = fd_id->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = (long)fd_head->next;{
+for (fd_head = value || fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd); tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head.next;{
+for (fd_head = value == NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (i = value; i!= NULL; i++)  tmp_fd = i->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = &tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd), tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd); tmp_fd = fd_fd->next;{
+for (fd_name = value; fd_name!= NULL; fd_name = tmp_fd)  tmp_fd = fd_name->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd)  tmpfd=fd_head->next;{
+for (fd_head = value (); fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=tmp_fd->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd)  tmp_fd=fd_entry->next;{
+for (fd_head = value: fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd)  tmp = fd->next;{
+for (i = value; i  tmp_fd; i++)  tmp_fd = i->next;{
+for (fd_fd=value; fd_fd!= NULL; fd_fd=tmp_fd)  tmp_fd=fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=tmp_head->next;{
+for (fd_body = value; fd_body!= NULL; fd_body = tmp_fd)  tmp_fd = fd_body->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head;{
+for (fd_head = value; fd_head!= tmp_fd)  tmp_fd = fd_head->next;{
+for (p_fd = value; p_fd!= NULL; p_fd = tmp_fd)  p_fd = p_fd->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd )  tmp_fd = fd_head->next;{
+for (fd_key = value; fd_key!= NULL; fd_key = tmp_key)  tmp_key = fd_key->next;{
+for (fd_head = value == NULL; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_hash)  tmp_hash = fd_hash->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; tmp_fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (; fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for ((fd_head = value); fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd.next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd_head->next;{
+for (p = value; p!= NULL; p = tmp_fd)  p = p->next;{
+for (fd_type = value; fd_type!= NULL; fd_type = tmp_fd)  tmp_fd = fd_type->next;{
+for (fd_head = value; fd_head!= NULL; fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = NULL)  tmp_fd = fd_head->next;{
+for (v = value; v!= NULL; v = tmp_v)  v = v->next;{
+for (fd_p = value; fd_p!= NULL; fd_p = tmp_fd)  tmp_p = fd_p->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = strdup(tmp_fd))  tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = tmp_fd->next;{
+while (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; (void)fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (value = value; value!= NULL; value = tmp_fd)  tmp_fd = value->next;{
+for (tmp_fd = value; tmp_fd!= NULL)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '0')  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_h = tmp_fd)  tmp_fd = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_head = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd_head->tmp_fd;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd)  tmp_fd = fd_c->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= -1; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = fd_head; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd)  tmp_hash=fd_hash->next;{
+for (fd_head; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd);{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == -1)  tmp_fd = fd_head->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd)  tmp_fd = fd_end->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = NULL)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  fd_fd=fd_head->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = value->next)  tmp_fd = value->next;{
+for (fd_next = value; fd_next!= NULL; fd_next = tmp_fd)  tmp_fd = fd_next->next;{
+for (fd_head = value!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd){
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = (int)fd_head->next;{
+for (fd_head = value; (fd_head!= NULL; fd_head = tmp_fd))  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  (void) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = (int) tmp_fd)  tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_head = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; (fd_head!= NULL); fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd); tmp_fd = fd_head->next;{
+for (fd_head = value); fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=value->next;{
+fd_head = value; fd_head!= NULL; fd_head = tmp_fd;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == 0)  tmp_fd = fd_head->next;{
+for (fd_addr = value; fd_addr!= NULL; fd_addr = tmp_fd)  tmp_addr = fd_addr->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd.next;{
+for ((fd_head = value; fd_head!= NULL; fd_head = tmp_fd))  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = (u_long)fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd++)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head = NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (tmp_fd = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = pkg_fd)  tmp_fd = pkg_fd->next;{
+for (tmp_fd=value->next)  tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) (void)  tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = value->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->tmp_fd;{
+for (fd_head = value; fd_head!= NULL;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next; break;{
+/* for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd)  tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)  tmp_fd=fd_head->next;  else{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd)  tmp_fd = fd_fd.next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = fd_head->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = n)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = fd_head->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, int tmp_p, int tmp_p = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = 0)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, value->tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_len = 0)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=fd_head->next)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next)  tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, p)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next)  tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; icr_fd->num_cr; i++)  tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = nsnull)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = 0)  tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_flags)  tmp_fd = fd_head->next;{
+for (i = value; i!= NULL; i++) tmp_fd = i->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = (int) tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->tmp_fd;{
+for (fd_head = value; fd_head!= tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) &tmp_fd=fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) (void) &tmp_fd = fd_head->next;{
+for (fd_head = value); fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) &tmp_h = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = 0) &tmp_fd = fd_head->next;{
+for (fd_key = value; fd_key!= NULL; fd_key = tmp_key) tmp_key = fd_key->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = fd_head->next) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) &tmpfd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) <tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head.next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == NULL) <tmp_fd = fd_head->next;{
+for (value = value; value!= NULL; value = tmp_fd) <tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next; break;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = &tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) (void) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_id) <tmp_id = fd_id->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head;{
+for (fd_head = value; fd_head!= NULL; fd_h = tmp_fd) tmp_fd = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd){
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = tmp_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, value->tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (value = value; value!= NULL; value = tmp_fd) tmp_fd = value->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd->next){
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '0') <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &tmp_fd=fd->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) tmp_hash=fd_hash->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd->next;{
+for (i = value; i &tmp_fd; i++) tmp_fd = i->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd.next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) &tmpfd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd->next) &tmp_fd = fd_head->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) &tmp_len = fd_len->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd = tmp_fd) &tmp_fd = fd_head->next;{
+for ((fd_head = value; fd_head!= NULL; fd_head = tmp_fd)) tmp_fd = fd_head->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd ) tmp_fd = fd_head->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) tmp_len = fd_len->next;{
+for (fd_body = value; fd_body!= NULL; fd_body = tmp_fd) &tmp_fd = fd_body->next;{
+for (fd_addr = value; fd_addr!= NULL; fd_addr = tmp_fd) <tmp_addr = fd_addr->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = n) <tmp_fd = fd_head->next;{
+/* for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+while (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = (int) tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=value->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) <tmp_len = fd_len->next;{
+for (fd_next = value; fd_next!= NULL; fd_next = tmp_fd) &tmp_fd = fd_next->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next; else{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head.next;{
+for (v = value; v!= NULL; v = tmp_fd) &v = v->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (i = value; i <tmp_fd; i++) tmp_fd = i->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=tmp_head->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=fd_head->next) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = pkg_fd) tmp_fd = pkg_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_head = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_len = 0) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd){
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = value->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_hash) <tmp_hash = fd_hash->next;{
+for (fd_head = value; fd_head!= -1; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = fd_head->next) tmp_fd = fd_head->next;{
+for (fd_head = value); fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next; <else{
+for (fd_head = value == NULL; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) &tmp_hash=fd_hash->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) tmp_fd=fd_entry->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=tmp_head->next;{
+while (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = 0) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL, fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_type = value; fd_type!= NULL; fd_type = tmp_fd) <tmp_fd = fd_type->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, p) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = strdup(tmp_fd)) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd.next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = (int) tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_hash) tmp_hash = fd_hash->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmpfd = fd_head->next;{
+for (fd_head = value; fd_head = NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '<0') <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd = fd_head->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; icr_fd->num_cr; i++) &tmp_fd=fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_fd) <tmp_id = fd_id->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <fd = fd->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) <tmp_h = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, int tmp_p, int tmp_p = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head = NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) tmp_hash = fd_hash->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd=fd_head->next;{
+for (fd_head = value; (void)fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL, fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, value->tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = fd_head->next) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = nsnull) tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) tmp_h=fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL && fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd_head = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = tmp_head->next;{
+for (fd_key = value; fd_key!= NULL; fd_key = tmp_key) &tmp_key = fd_key->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) <tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_head = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=fd_head->next) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next; <else{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL, fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_body = value; fd_body!= NULL; fd_body = tmp_fd) <tmp_fd = fd_body->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '&0') tmp_fd = fd_head->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd_fd->next;{
+for (fd_head = value (); fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (; fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) <tmp_fd = fd_entry->next;{
+for (fd_head = value == NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i<cr_fd->num_cr; i++) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i<cr_fd->num_cr; i++) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '0') &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmpfd) <tmpfd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) tmp_fd = fd_head->next;{
+for (fd_type = value; fd_type!= NULL; fd_type = tmp_fd) &tmp_fd = fd_type->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '<0') &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) &tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == -1) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_next) tmp_fd = fd_head->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) &tmp_fd = fd_len->next;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd=fd_fd->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd=fd_head->next;{
+for (fd_head = value; (void)fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) tmp_fd = fd_end->next;{
+for ((fd_head = value; fd_head!= NULL; fd_head = tmp_fd)) <tmp_fd = fd_head->next;{
+for (fd_head = value; (fd_head!= NULL); fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_fd = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) tmp_c = fd_c->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd.next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head.next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = NULL) <tmp_fd = fd_head->next;{
+for (v = value; v!= NULL; v = tmp_v) &v = v->next;{
+for (fd_head = value; (fd_head!= NULL); fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = &tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) <tmp_fd=fd_entry->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <fd_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd.next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd = tmp_fd->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value: fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value - 1; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=tmp_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= -1; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == 0) &tmp_fd = fd_head->next;{
+for (i = value; i!= NULL; i++) &tmp_fd = i->next;{
+for (fd_head = value; (void)fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmpfd) &tmpfd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_next) &tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) <tmp_h=fd_h->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_hash) &tmp_hash = fd_hash->next;{
+for (fd_head = value: fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL) <tmp_fd = tmp_fd->next;{
+for (fd_head; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next; &else{
+for (i = value; i &tmp_fd; i++) &tmp_fd = i->next;{
+for (v = value; v!= NULL; v = tmp_fd) <tmp_fd = v->next;{
+for ((fd_head = value); fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd->next) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for ((fd_head = value); fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next; &else{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = 0) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) <tmp_fd = tmp_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) fd_fd = fd_fd->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value == NULL; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = pkg_fd) &tmp_fd = pkg_fd->next;{
+for (; fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <(void) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = nsnull) &tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) <tmp_h = fd_h->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_id) &tmp_id = fd_id->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = &tmp_fd) &tmp_fd = fd_head->next;{
+for (tmp_fd = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) <tmp_end = fd_end->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) <tmp_fd = fd_head->next;{
+for (value = value; value!= NULL; value = tmp_fd) &tmp_fd = value->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd=fd_fd->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) tmp_fd = fd_entry->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head->next) tmp_fd = fd_head->next;{
+for (fd_head = value.get(); fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd=fd_head->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) tmp_h = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = 0) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = 0) &tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_head = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i&cr_fd->num_cr; i++) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == NULL) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_fd->next;{
+/* for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_head->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd ) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = fd_head->next) tmp_fd = fd_head->next;{
+for (fd_head = fd_head; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next; break;{
+for (fd_head = value; fd_head!= NULL && fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_flags) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd_head = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; tmp_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == -1) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = 0) tmp_fd = fd_head->next;{
+for (v = value; v!= NULL; v = tmp_fd) &tmp_fd = v->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd_fd.next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmpfd = fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_head->next;{
+for (v = value; v!= NULL; v = tmp_fd) <v = v->next;{
+for (fd_head = value; (fd_head!= NULL; fd_head = tmp_fd)) <tmp_fd = fd_head->next;{
+for (fd_head = value; (fd_head!= NULL; fd_head = tmp_fd)) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == 0) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = NULL) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->tmp_fd;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (tmp_fd=value->next) tmp_fd=tmp_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &tmp = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_head = fd_head->next;{
+for (fd_head = value (); fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = (u_long)fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) <tmp_h=fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head->next) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = NULL) &tmp_fd = fd_head->next;{
+for (p = value; p!= NULL; p = tmp_fd) &p = p->next;{
+for (fd_p = value; fd_p!= NULL; fd_p = tmp_fd) &tmp_p = fd_p->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <tmp = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, int tmp_p, int tmp_p = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = (u_long)fd_head->next;{
+for (fd_head = value || fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value); fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = n) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = (int)fd_head->next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) <tmpfd = fd_head->next;{
+for (p_fd = value; p_fd!= NULL; p_fd = tmp_fd) &p_fd = p_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = (long)fd_head->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) &tmp_fd = fd_entry->next;{
+for (fd_p = value; fd_p!= NULL; fd_p = tmp_fd) <tmp_p = fd_p->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = pkg_fd) <tmp_fd = pkg_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = value->next;{
+for (fd_head = value - 1; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) <tmp_fd = fd_len->next;{
+for (fd_head = value || fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = (long)fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) fd_fd=fd_head->next;{
+for (fd_addr = value; fd_addr!= NULL; fd_addr = tmp_fd) &tmp_addr = fd_addr->next;{
+for (; fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = fd_head->next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head->next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = fd_head->next) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) <tmp_fd = fd_head->next;{
+for (fd_entry = value; fd_entry!= NULL; fd_entry = tmp_fd) &tmp_fd=fd_entry->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == -1) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = 0) &tmp_fd = fd_head->next;{
+for (fd_type = value; fd_type!= NULL; fd_type = tmp_fd) tmp_fd = fd_type->next;{
+for (v = value; v!= NULL; v = tmp_fd) v = v->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head;{
+for (fd_head = value; fd_head = NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) &tmp_fd=fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) &tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head->next) &tmp_fd = fd_head->next;{
+for (fd_name = value; fd_name!= NULL; fd_name = tmp_fd) &tmp_fd = fd_name->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd->next) <tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->tmp_fd;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == 0) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = value->next) <tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = strdup(tmp_fd)) &tmp_fd = fd_head->next;{
+for (fd_head = fd_head; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) <tmp_hash = fd_hash->next;{
+for (i = value; i <tmp_fd; i++) &tmp_fd = i->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd++) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->tmp_fd;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) tmpfd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd=fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd == NULL) &tmp_fd = fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_fd) &tmp_id = fd_id->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) tmp_fd = fd->next;{
+for (fd_body = value; fd_body!= NULL; fd_body = tmp_fd) tmp_fd = fd_body->next;{
+for (fd_head = value, fd_head!= NULL, fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_flags) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = value->next) tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = (int)fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; icr_fd->num_cr; i++) tmp_fd=fd_head->next;{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) <tmp_fd=fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head->next) <tmp_fd = fd_head->next;{
+for (p_fd = value; p_fd!= NULL; p_fd = tmp_fd) p_fd = p_fd->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (v = value; v!= NULL; v = tmp_v) v = v->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) tmp_fd = tmp_fd->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i&cr_fd->num_cr; i++) &tmp_fd=fd_head->next;{
+for (fd_head = value; (fd_head!= NULL); fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->tmp_fd;{
+for (p_fd = value; p_fd!= NULL; p_fd = tmp_fd) <p_fd = p_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next; else{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_len = 0) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i<cr_fd->num_cr; i++) tmp_fd=fd_head->next;{
+for (v = value; v!= NULL; v = tmp_fd) tmp_fd = v->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; (fd_head!= NULL; fd_head = tmp_fd)) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd = tmp_fd->next;{
+for (fd_head = value.get(); fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (i = value; i <tmp_fd; i++) <tmp_fd = i->next;{
+/* for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=tmp_fd->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) tmp_end = fd_end->next;{
+for (fd_addr = value; fd_addr!= NULL; fd_addr = tmp_fd) tmp_addr = fd_addr->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) <tmpfd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, p) <tmp_fd = fd_head->next;{
+for (fd_head; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_h = tmp_fd) <tmp_fd = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_next) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value - 1; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = NULL) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) tmp_fd = fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) &tmp_h=fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd++) &tmp_fd = fd_head->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) <tmp_fd = fd_c->next;{
+for (fd_head = value, fd_head!= NULL, fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) &tmp_fd = fd_end->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)&tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= 0; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) tmpfd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, p) &tmp_fd = fd_head->next;{
+for (fd_fd=value; fd_fd!= NULL; fd_fd=tmp_fd) &tmp_fd=fd_fd->next;{
+for (p = value; p!= NULL; p = tmp_fd) p = p->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) fd = fd_fd->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) &tmp_h=fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=tmp_fd->next) tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd); tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_next) <tmp_fd = fd_head->next;{
+for (fd_key = value; fd_key!= NULL; fd_key = tmp_key) <tmp_key = fd_key->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = 0) <tmp_fd = fd_head->next;{
+for (fd_name = value; fd_name!= NULL; fd_name = tmp_fd) tmp_fd = fd_name->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->tmp_fd;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value && fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '&0'; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_head = value == NULL; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = value->next) &tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = NULL) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= nsnull; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) tmp_h=fd_h->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) <tmp_fd = fd->next;{
+for (i = value; i!= NULL; i++) <tmp_fd = i->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; icr_fd->num_cr; i++) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_fd = n) tmp_fd = fd_head->next;{
+for (fd_head = value, fd_head!= NULL, fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd) tmp_fd = tmp_fd->next;{
+for (tmp_fd = value; tmp_fd!= NULL) &tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=value->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_h) tmp_h = fd_h->next;{
+for (fd_head = fd_head; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_len = value; fd_len!= NULL; fd_len = tmp_fd) tmp_fd = fd_len->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) tmp_fd = fd->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) tmp_fd=tmp_fd->next;{
+for (fd_head = value (); fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd=fd_head->next) tmp_fd = tmp_fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) tmp = fd->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) &tmp_end = fd_end->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_next) tmp_fd = fd_head->next;{
+for ((fd_head = value); fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value: fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) tmp_fd=fd->next;{
+for (fd_end = value; fd_end!= NULL; fd_end = tmp_fd) <tmp_fd = fd_end->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) (void) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, i=0; i&cr_fd->num_cr; i++) <tmp_fd=fd_head->next;{
+for (tmp_fd = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &(void) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next; else{
+for (fd_p = value; fd_p!= NULL; fd_p = tmp_fd) tmp_p = fd_p->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head->next) <tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) <tmp_hash=fd_hash->next;{
+for (tmp_fd = value; tmp_fd!= NULL) tmp_fd = tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) tmp_fd = fd_head->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd){
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) tmp_fd = fd_c->next;{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_len = 0) tmp_fd = fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_id) tmp_id = fd_id->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) tmpfd=fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) &tmp_fd=tmp_fd->next;{
+while (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (i = value; i tmp_fd; i++) <tmp_fd = i->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmpfd) <tmpfd=fd_head->next;{
+for(fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_fd.next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &tmp_fd = fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_hash = value; fd_hash!= NULL; fd_hash = tmp_fd) &tmp_hash = fd_hash->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value && fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmpfd) tmpfd = fd_fd->next;{
+for (fd_head = value.get(); fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)<tmp_fd = fd_head->next;{
+for (tmp_fd = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = tmp_fd->next;{
+for (i = value; i tmp_fd; i++) &tmp_fd = i->next;{
+for (tmp_fd = value; tmp_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = value->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = (int)fd_head->next;{
+for (i = value; i tmp_fd; i++) tmp_fd = i->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) &tmp_c = fd_c->next;{
+for (fd_head = value; fd_head!= NULL && fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd)tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (p = value; p!= NULL; p = tmp_fd) <p = p->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = (u_long)fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) &tmp_fd = tmp_fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &fd = fd_fd->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=fd.next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd){
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &fd_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '<0') tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= -1; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=value->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &fd_fd = fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd++) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd_head = fd_head->next;{
+for (fd_head = value && fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value || fd_head!= NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '<0'; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_h = value; fd_h!= NULL; fd_h = tmp_fd) &tmp_h = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for (tmp_fd = value; tmp_fd!= NULL; tmp_fd = tmp_fd) <tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; tmp_fd = tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd_flags) &tmp_fd = fd_head->next;{
+for (fd_fd=value; fd_fd!= NULL; fd_fd=tmp_fd) <tmp_fd=fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, value->tmp_fd) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next; &else{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, tmp_fd = tmp_fd->next) &tmp_fd = fd_head->next;{
+for (fd_next = value; fd_next!= NULL; fd_next = tmp_fd) tmp_fd = fd_next->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; tmp_fd = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= '0'; fd_head = tmp_fd) tmp_fd=fd_head->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) &tmp_fd = fd_c->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd->next) <tmp_fd=fd_head->next;{
+for (tmp_fd=value->next) <tmp_fd=tmp_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_head) &tmp_fd = fd_head->next;{
+for (fd_head = value == NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (i = value; i &tmp_fd; i++) <tmp_fd = i->next;{
+for (fd_head = value, fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) &tmp_fd=tmp_fd->next;{
+for ( fd_head = value; fd_head!= NULL; fd_head = tmp_fd ) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head;{
+for (fd_head = value!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = nsnull) <tmp_fd = fd_head->next;{
+for (fd_fd=value; fd_fd!= NULL; fd_fd=tmp_fd) tmp_fd=fd_fd->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd = (long)fd_head->next;{
+for (fd_id = value; fd_id!= NULL; fd_id = tmp_fd) tmp_id = fd_id->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd_head->next; break;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, fd_head = 0) <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) tmp_fd = fd->next;{
+for (fd = value; fd!= NULL; fd = tmp_fd) &fd = fd->next;{
+for (fd_fd = value; fd_fd!= NULL; fd_fd = tmp_fd) <tmp_fd = fd_fd.next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '&0') <tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '0') tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = '&0') &tmp_fd = fd_head->next;{
+for ((fd_head = value; fd_head!= NULL; fd_head = tmp_fd)) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_h = tmp_fd) &tmp_fd = fd_h->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd, int tmp_p, int tmp_p = tmp_fd) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd_head->next; <else{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) <tmp_fd=fd_head->next;{
+for (fd_c = value; fd_c!= NULL; fd_c = tmp_fd) <tmp_c = fd_c->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd = NULL) &tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_fd = tmp_fd) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = strdup(tmp_fd)) tmp_fd = fd_head->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = fd_head) &tmp_fd = fd_head->next;{
+for (fd_name = value; fd_name!= NULL; fd_name = tmp_fd) <tmp_fd = fd_name->next;{
+for (fd_head = value; fd_head!= NULL; fd_head = tmp_fd) <tmp_fd=fd.next;{
+for (fd_next = value; fd_next!= NULL; fd_next = tmp_fd) <tmp_fd = fd_next->next;{
+for (v = value; v!= NULL; v = tmp_v) <v = v->next;{
+for (fd_head=value; fd_head!= NULL; fd_head=tmp_fd) &tmp_fd=fd_head->next;{
+for (fd_head = value == NULL; fd_head = tmp_fd) <tmp_fd = fd_head->next;{
+for (tmp_fd=value->next) &tmp_fd=tmp_fd->next;{
+for (fd_head=value; fd_head!=NULL; fd_head=tmp_fd) &tmp_fd=fd_head->next;{

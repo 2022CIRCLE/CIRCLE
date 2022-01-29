@@ -1,0 +1,503 @@
+golden:
+group_by_node[node] = group_by_node[u]
+inference:
+group_by_node[node].update(node)
+group_by_node[node].update(node[u])
+group_by_vertex[node].update(group_by_vertex[u])
+
+group_by_node[node].update(weight_by_node[u])
+group_by_node[node].update(&group_by_node[u])
+group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u].get())
+group_by_node[v].update(group_by_node[u])
+group_by_node[node].add(group_by_node[u])
+mst_node[node].update(group_by_node[u])
+group_by_node[node].update((group_by_node[u]))
+group_by_node[node].update(mst_edges[u])
+group_by_node[node].update(group_by_node[i])
+group_by_node[node].update(new_node[u])
+group_by_node[node].update (group_by_node[u])
+int group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[e])
+group_by_node[node].update(group_by_node[v])
+group_by_node[node].update([group_by_node[u]])
+group_by_node[node].update(group_by_node[u].next)
+new_node[node].update(group_by_node[u])
+mst_edges[node].update(group_by_node[u])
+group_by_node[node].update(addr)
+group_by_node[i].update(group_by_node[u])
+group_by_node[node].update(node.get())
+group_by_node[node].update(i)
+group_by_node[node].update(v)
+new_group_by_node[node].update(group_by_node[u])
+group_by_node[u].update(node)
+group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(u)
+group_by_node[node].update(group_by_node[node])
+group_by_node[node].update( group_by_node[u] )
+group_by_node[node].update(group_by_node[u], v)
+group_by_node[node].update(group_by_node[u]) + 1
+group_by_node[node].update(group_by_node[u]);
+node.update(group_by_node[u])
+group_by_node[node].update(*group_by_node[u])
+group_by_node[node].update(l)
+update(group_by_node[u])
+mst_edges.update(group_by_node[u])
+group_by_node[node].update(element[u])
+group_by_node[node].update(group_by_node[u], key)
+group_by_node[node].update(p)
+node_update(group_by_node[u])
+u.update(group_by_node[u])
+new_node.update(group_by_node[u])
+nu = group_by_node[node].update(group_by_node[u])
+group_by_node[node].nupdate(group_by_node[u])
+group_by_node[node].update(a)
+group_by_node[node].update(key)
+group_by_node[node].update(node[v])
+group_by_node[node].set(group_by_node[u])
+&group_by_node[node].update(group_by_node[u])
+group_by_node[i].update(group_by_node[i])
+group_by_node[node].update(n)
+node.update(group_by_node[u])
+group_by_node[vertex].update(group_by_node[u])
+l[node].update(group_by_node[u])
+group_by_node[node].update(ep)
+group_by_node[node].setupdate(group_by_node[u])
+v.update(group_by_node[u])
+group_by_node[node].update(group_by_node[u], u)
+group_by_node[node].update(element)
+group_by_node[node].update(group[u])
+group[node].update(group[u])
+group_by_node[node].update(new_node)
+n = group_by_node[node].update(n)
+group_by_node[node].update(group_by_vertex[u])
+group_by_node[node].update(value)
+group_by_node[node].update(group_by_node[u+1])
+group_by_node[node].update();
+set(group_by_node[node])
+group_by_node[node].update(group_by_node[a])
+group_by_node[node].update(group_by_node[u], node)
+group_by_node[node].update(group_by_node[h])
+group_by_node[node].update(this)
+group_by_node[node].m_update(group_by_node[u])
+group_by_node[node].invalidate(group_by_node[u])
+a[node].update(a[u])
+group_by_node[node].update(edge)
+group_by_node[node].update(index)
+group_by_node[node].remove(group_by_node[u])
+group_by_tree[node].update(group_by_tree[u])
+group_by_node[a].update(group_by_node[u])
+groups[node].update(groups[u])
+group_by_node[node] = group_by_node[u];
+super.update(group_by_node[u])
+group_by_node[node].update(mst_edges)
+group_by_node[node].update(group_by_node[v]))
+group_by_node[node].update(group_by_node[v], u)
+group_by_node[node]._update(group_by_node[u])
+group_by_node[node].update(group_by_node[k])
+group_by_node[lnk].update(group_by_node[u])
+group_by_node[node].update(node);
+group_by_node[node].update(group_by_node[v].get())
+group_by_node[node].remove(group_by_node[u]);
+group_by_node[l].update(group_by_node[u])
+group_by_node[node].updateElement(group_by_node[u])
+group_by_node[node].update(group_by_node[key])
+group_by_node[node].update(child)
+group_by_node[node].update(group_by_node[u]))
+group_by_node[node+1].update(group_by_node[u])
+node[node].update(group_by_node[u])
+mst_edges.add(group_by_node[node])
+group_by_node.update(group_by_node[u])
+group_by_node[node].advance(group_by_node[u])
+group_by_node[node].update(ns)
+group_by_node[node].update(weight)
+group_by_node[node].update(None)
+group_by_list[node].update(group_by_list[u])
+group_by_node[node].update(group_by_node[d])
+group_by_node[node].update(group_by_node[c])
+group_by_node[node].update(group_by_node[v]) + 1
+u.update(group_by_node[u])
+group_by_node[node].set(group_by_node[u]);
+a[node].update(group_by_node[u])
+group_by_node[node].update(node, u)
+group_by_node[node].update(group_by_node[p])
+group_by_node[node].update(group_by_node[s])
+group_by_node[node].update(mst_node[u])
+group_by_node[node].addElement(group_by_node[u])
+group_by_node[node].update(weight_node[u])
+group_by_node[node].add(group_by_node[u]);
+group_by_node[node].update(None)
+group_by_node[node].update(e.get())
+group_by_node[node].update(parent_node[u])
+group_by_node[node].update(group_by_node[u], 0)
+group_by_node[node].update(type)
+group_by_node[node].update(a[u])
+group_by_node[node].update(this.group_by_node[u])
+group_by_node[node].next = group_by_node[u];
+new = group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(e)
+group_by_node[node].update( group_by_node[u])
+group_by_node[node].update(vector)
+group_by_node[node].update(node.next)
+group_by_node[ node].update(group_by_node[u])
+group_by_node[node].delete(group_by_node[u])
+group_by_node[node].update(a, u)
+group_by_node[node].update(group_by_node[u].v)
+group_by_node[node].update(group)
+group_by_node[node].update(group_by_node[u].size())
+group_by_node[node].update(group_by_node[v], v)
+group_by_node[node].update(id)
+group_by_node[node].update(--group_by_node[u])
+group_by_node[node].update(mst_edges[v])
+group_by_node[node].update(group_by_node[u], this)
+group_by_node[node].update(s)
+group_by_node[node].update(r)
+group_by_node[u].update(node[u])
+group_by_node[node].update(group_by_node[l])
+group_by_node[node].update(group_by_node[u]+1)
+group_by_node[node].update(groups[u])
+group_by_node[p].update(group_by_node[u])
+group_by_node[node].update(group_by_node[r])
+group_by_node[node].update(addr[u])
+result = group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(current_node[u])
+group_by_node[node].setdefault(u, u);
+add_node(group_by_node[node], u)
+group_by_node[node].update([])
+mst_edges.add(node)
+group_by_node[node].update(group_by_node[y])
+set = group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u], None)
+group_by_node[node].update(group_by_node[u], a)
+group_by_node[node].update(group_by_node[index])
+group_by_node[node].update(el)
+group_by_node[node].update(group_by_node[u], i)
+group_by_node[node].update(element_node[u])
+set_node(group_by_node[node])
+add_node(group_by_node[node])
+group_by_node[node].update(group_by_node[j])
+group_by_node[node].update(group_by_node[u].u)
+group_by_node[node].update(group_by_node[u]).get()
+group_by_node[node].update(group_by_node[t])
+group_by_node[node].update(group_by_node[v], key)
+group_by_node[node].update(group_by_node[u] + 1);
+group_by_node[node].update(node_node[u])
+group_by_node[node].update(old_node[u])
+group_by_node[node].update(group_by_node[v], node)
+group_by_node[node].update(group_by_node[v].next)
+group_by_node[node].update(node_by_node[u])
+group_by_node[node].update(group_by_node[u], p)
+p = group_by_node[node].update(p)
+group_by_node[node].update(group_by_node[u].item)
+group_by_node[node].update(ptr)
+group_by_node[node].update(first_node[u])
+group_by_node[node].update(group_by_node[ep])
+group_by_node[node].update(group_by_node[u].key)
+group_by_node[node].update(group_by_node[u], True)
+group_by_node[node].update(group_by_node[u].first)
+set_node(group_by_node[node], u)
+group_by_node[a].update(group_by_node[a])
+group_by_node[node].elementAt(u)
+group_by_node[node].update(group_by_node[u]) - u;
+group_by_node[node].update(group_by_node[u]).m_loops = 1
+group_by_node[node].update(group_by_node[u], mst_edges)
+group_by_node[node].update(group_by_node[v])  0
+mst_edges.add(group_by_node[node].update(group_by_node[u]))
+if (group_by_node[node].update(group_by_node[u])!= -1)  mst_edges.add(edge)  if (node == mst_edges)  mst_edges.add(node)  return mst_edges;
+group_by_node[node].update(group_by_node[u]) - 1
+group_by_node[node].update(group_by_node[u].update())
+ap.update(group_by_node[u])
+group_by_node[node].update(group_by_node[node].get())
+if (node[node]) group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].is_current()) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) and (href)!= None
+group_by_node[node].update(group_by_node[u], mst_edges[v])
+group_by_node[node].update(group_by_node[u]).next()
+if (group_by_node[node].mst_vertex) group_by_node[node].mst_vertex = mst_vertex_equivalent; else group_by_node[node].mst_vertex = mst_vertex_equivalent;
+group_by_node[node].update(group_by_node[u], &group_by_node[u])
+/* groups the group by node. */ group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].type == id) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u], 0, 0)
+group_by_node[node].update(group_by_node[u]) and (node.disabled == 0))
+group_by_node[node].update(group_by_node[v], key=key)
+c = group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]))  mst_edges.add(edge)
+if (node) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u], node_offset)
+mst_edges.add(node) group_by_node[u].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) or (group_by_node[node].m_type == m_type)
+rv = group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) - ((mst_edges_t)mst_edges[u]) /* new weight */
+if (node[node].get()!= 0) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) + group_by_node[u].segments[0]
+group_by_node[node].update(group_by_node[u]) and (((group_by_node[u].__unused__))!= 0)
+group_by_node[node].update((caddr_t)group_by_node[u])
+group_by_node[node].update(advance(mst_edges))
+group_by_node[node].update(group_by_node[u]) or None
+if (group_by_node[node].update(group_by_node[u])) return mst_edges;
+ns_group_by_node[node].update(ns_group_by_node[u])
+group_by_node[node].update(group_by_node[u].lh_first)
+mst_edges[node] = group_by_node[u];
+group_by_node[node].update(group_by_node[node].elementAt(u))
+group_by_node[node].update(e_node)
+group_by_node[node].update(group_by_node[u] - 1)
+if (group_by_node[node].size() == 0)  group_by_node[node].setdefault(v, v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (node == None) group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]))
+group_by_node[node].update(group_by_node[u], key=node.get())
+n = group_by_node[node].update(group_by_node[u]) if (n == -1) return  0;
+group_by_node[node].update(group_by_node[u]? 0 : 0)
+n = group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]), mst_edges.add(edge)
+group_by_node[node].update(group_by_node[u].update(group_by_node[v]))
+group_by_node[node].update((int)group_by_node[u])
+if (group_by_node[node].has_key(u)) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) - (group_by_node[u].size() - group_by_node[u].size())
+group_by_node[node].update(group_by_node[u].node_set)
+group_by_node[node].update(group_by_node[u]) - u /* pointer to the end of the node's entry */
+group_by_node[node].update(group_by_node[u]) or (node == node)
+group_by_node[node].update(((group_by_node[u]1)))
+group_by_node[node].update(group_by_node[u].m_element)
+if (group_by_node[node].update(group_by_node[u])  0)  mst_edges.add(edge)
+if (group_by_node[node].update(group_by_node[u]))  group_by_node[node].update(group_by_node[u])  else group_by_node[node].update(group_by_node[u])
+u[node].update(group_by_node[u])
+if ((group_by_node[node]) == None)  group_by_node[node].update(group_by_node[u])  0;
+group_by_node[node].update(group_by_node[u]) and (node == None))
+if (node.get()!= node.get()) group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u]) and group_by_node[node].isassignable()
+group_by_node[node].update(group_by_node[node.ptr_oneuse()])
+group_by_node[node].update([a.id, a.id])
+group_by_node[node].update(group_by_node[u]) /* nodp in the list */
+group_by_node[node].update(group_by_node[u], &group_by_node[v])
+if (group_by_node[node].mu_symbol!= '/') group_by_node[node].mu_symbol = ';'; else group_by_node[node].mu_symbol = '';
+group_by_node[node].update(group_by_node[u].m__first)
+if (group_by_node[node].update(group_by_node[u]))  int i;
+group_by_node[node].update(group_by_node[u]) or!group_by_node[u][0]
+group_by_node[node].update(group_by_node[u]).update(&group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+n = group_by_node[node].update(group_by_node[u]) if (n == -1) return &0;
+if (group_by_node[node].update(group_by_node[u])) &int i;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+group_by_node[node].setdefault(u, u<);
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) <group_by_node[node].update(group_by_node[u]) <else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].setdefault(u, <u);
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+n = group_by_node[node].update(group_by_node[u]) if (n == -1) return <0;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]) <0) <mst_edges.add(edge)
+if (group_by_node[node].update(group_by_node[u])) <group_by_node[node].update(group_by_node[u]) &else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])) &group_by_node[node].update(group_by_node[u]) &else group_by_node[node].update(group_by_node[u])
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u]) <0) mst_edges.add(edge)
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].setdefault(u, &u<);
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+group_by_node[node].update(((group_by_node[u]1)))
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) <0;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])) <mst_edges.add(edge)
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) group_by_node[node].update(group_by_node[u]) <else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) &group_by_node[node].update(group_by_node[u]) else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u]) <0) &mst_edges.add(edge)
+group_by_node[node].update(group_by_node[u]);
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].mu_symbol!= '/') group_by_node[node].mu_symbol = ';'; else group_by_node[node].mu_symbol = '';
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[v]) &0
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(group_by_node[v]) <0
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) <group_by_node[node].update(group_by_node[u]) else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].update(group_by_node[u]) &0) &mst_edges.add(edge)
+group_by_node[node].setdefault(u, u);
+group_by_node[node].update(group_by_node[v]) 0
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u]) 0) &mst_edges.add(edge)
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]) &0) mst_edges.add(edge)
+if ((group_by_node[node]) == None) group_by_node[node].update(group_by_node[u]) <0;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])) &group_by_node[node].update(group_by_node[u]) <else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]) 0) mst_edges.add(edge)
+if (group_by_node[node].update(group_by_node[u])) &mst_edges.add(edge)
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+group_by_node[node].setdefault(u, &u&);
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) int i;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])) mst_edges.add(edge)
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u]) &0) <mst_edges.add(edge)
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u]) 0) <mst_edges.add(edge)
+if (group_by_node[node].mu_symbol!= '/') group_by_node[node].mu_symbol = ';'; else group_by_node[node].mu_symbol = '<';
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+group_by_node[node].update(((group_by_node[u]&1)))
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) <0;
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) <0;
+group_by_node[node].setdefault(u, <u&);
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].setdefault(u, <u<);
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) &0;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) <0;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) <mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+group_by_node[node].setdefault(u, &u);
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].setdefault(u, u&);
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v<) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+group_by_node[node].update(((group_by_node[u]<1)))
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, &v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])) <int i;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if ((group_by_node[node]) == None) <group_by_node[node].update(group_by_node[u]) <0;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v<) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v&) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, <v<) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+n = group_by_node[node].update(group_by_node[u]) if (n == -1) return 0;
+if (group_by_node[node].update(group_by_node[u])) group_by_node[node].update(group_by_node[u]) else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) &mst_edges.add(edge) &if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) &if (node == mst_edges) <mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) group_by_node[node].setdefault(v, v) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, v) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, &v&) = &group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if ((group_by_node[node]) == None) &group_by_node[node].update(group_by_node[u]) 0;
+if (group_by_node[node].update(group_by_node[u])) group_by_node[node].update(group_by_node[u]) &else group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) <if (node == mst_edges) mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, <v&) = <group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].update(group_by_node[u])!= -1) mst_edges.add(edge) <if (node == mst_edges) &mst_edges.add(node) &return mst_edges;
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) &group_by_node[node].setdefault(v, <v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])
+if (group_by_node[node].mu_symbol!= '/') group_by_node[node].mu_symbol = ';'; else group_by_node[node].mu_symbol = '&';
+if (group_by_node[node].update(group_by_node[u])!= -1) <mst_edges.add(edge) if (node == mst_edges) &mst_edges.add(node) <return mst_edges;
+if (group_by_node[node].size() == 0) <group_by_node[node].setdefault(v, &v) = group_by_node[v]; group_by_node[node].update(group_by_node[u])

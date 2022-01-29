@@ -1,0 +1,418 @@
+golden:
+return [1] + (len(digit_list) - 1) * [0] + [1]
+inference:
+return digit_list[1] + (len(digit_list)) * [0] + digit_list[1]
+return (digit_list[1] + (len(digit_list)) * [0] + [1])
+return digit_list[1] + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list) - 1) * [0] + [1]
+return [len(digit_list) + 1] + (len(digit_list)) * [0] + [1]
+return [2] + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list) + 1) * [0] + [1]
+return [1] + (len(digit_list))
+return (digit_list)[1] + (len(digit_list)) * [0] + [1]
+return [] + (len(digit_list)) * [0] + [1]
+return [1] + ((long)len(digit_list)) * [0] + [1]
+return [len(digit_list) + 1]
+return [2] + (len(digit_list)) * [0] + [2]
+return [len(digit_list) + 1] * [0] + [1]
+return [1] + (len(digit_list)) * 0 + [1]
+return (digit_list) [1] + (len(digit_list)) * [0] + [1]
+return [i] + (len(digit_list)) * [0] + [i]
+return digit_list + (len(digit_list)) * [0] + [1]
+return digit_list[1] + (len(digit_list)) * [0] + digit_list[0]
+return [1] + (len(digit_list)) * [0] + [1]
+return [digit_list] + (len(digit_list)) * [0] + [digit_list]
+return [3] + (len(digit_list)) * [0] + [3]
+return [1] + (len(digit_list)) * [0] + [1];
+return [1] + ((int)len(digit_list)) * [0] + [1]
+return [1] + len(digit_list) * [0] + [1]
+return [1] + (len (digit_list)) * [0] + [1]
+return [1] + (len(digit_list)-1) * [0] + [1]
+return [4] + (len(digit_list)) * [0] + [4]
+return [len(digit_list)] + (len(digit_list)) * [0] + [1]
+return [len(digit_list)) * [0] + [len(digit_list)]
+return [1] + (len(digit_list)+1) * [0] + [1]
+return [-1] + (len(digit_list)) * [0] + [-1]
+return digit_list[digit_list] + (len(digit_list)) * [0] + [1]
+return [len(digit_list)) * [0] + [1]
+return [1] + (digit_list) * [0] + [1]
+return (digit_list + (len(digit_list)) * [0] + [1])
+return [1] + (len(digit_list)) * digit_list[0] + [1]
+return [1] + (len(digit_list)) * 1 + [1]
+return [0] + (len(digit_list)) * [1]
+return [1] + (len(digit_list)) * 2 + [1]
+return [1] + (len(digit_list)) + 1;
+return ([1] + (len(digit_list)) * [0] + [1])
+return 1 + (len(digit_list)) * [0] + 1
+return [result] + (len(digit_list)) * [0] + [result]
+return (digit_list) + (len(digit_list)) * [0] + [1]
+return digit_list[1] + (len(digit_list)) * digit_list[0] + [1]
+return [1] - (len(digit_list)) * [0] + [1]
+return [0] + (len(digit_list))
+return [1] + (len(digit_list)) * [0] + 1
+return [high_mid] + (len(digit_list)) * [0] + [high_mid]
+break;
+return digit_list[i] + (len(digit_list)) * [0] + digit_list[i]
+return [1] + (len(digit_list)) * [0];
+return [1] + (len(digit_list)) * (len(digit_list) - 1) + [1]
+return digit_list[0] + (len(digit_list)) * [0] + digit_list[1]
+return [len(digit_list)];
+return [int] + (len(digit_list)) * [0] + [int]
+return [5] + (len(digit_list)) * [0] + [5]
+return [1] + ((u_long)len(digit_list)) * [0] + [1]
+return [long] + (len(digit_list)) * [0] + [long]
+return [0] + (len(digit_list)) * [0] + [1]
+return result + (len(digit_list)) * [0] + [1]
+return [1] + (long)len(digit_list) * [0] + [1]
+return [1) + (len(digit_list)) * [0] + [1]
+return [unsigned long] + (len(digit_list)) * [0] + [unsigned long]
+return sizeof(digit_list) + (len(digit_list)) * [0] + [1]
+return [1] + ((unsigned long)len(digit_list)) * [0] + [1]
+return [1] + ((len(digit_list)) - 1) * [0] + [1]
+return [ret] + (len(digit_list)) * [0] + [ret]
+return [6] + (len(digit_list)) * [0] + [6]
+return (digit_list[0] + (len(digit_list)))
+return [False] + (len(digit_list)) * [0] + [False]
+return [1] + len(digit_list)
+return [len(digit_list) + 1] + (len(digit_list) + 1);
+return [1] + len(digit_list) + 1;
+return digit_list[len(digit_list)];
+return [key] + (len(digit_list)) * [0] + [key]
+result = [1] + (len(digit_list)) * [0] + [1]; return result;
+return [high_mid] + (len(digit_list)) * [0] + [1]
+return [high_mid + (len(digit_list)) * [0] + [high_mid]
+return digit_list[0] + (len(digit_list)) * [0] + [1]
+return (digit_list[high_mid] + (len(digit_list)) * [0] + [1])
+return digits[1] + (len(digit_list)) * [0] + digits[1]
+return [1] + digit_list[0] + [1]
+return digit_list[1] + (len(digit_list)) * [0] + 1
+return [1] + (len(digit_list)) * len + 1
+return digit_list[0] + (len(digit_list))
+return [False] + (len(digit_list)) * [0] + [False]
+return 1 + (len(digit_list)) * [0] + [1]
+return digit_list + (len(digit_list)) * digit_list + [1]
+
+return high_mid + (len(digit_list)) * [0] + low_mid
+return [16] + (len(digit_list)) * [0] + [16]
+return [1] + (len(digit_list)) * digit_list[low_mid] + [1]
+return + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list)) + 1
+return [len(digit_list)]
+return [L] + (len(digit_list)) * [0] + [L]
+return digit_list[0] + digit_list[1]
+return [1] + (len(digit_list)) * 4 + [1]
+return [digit_list + (len(digit_list)) * [0] + [digit_list + 1]
+return [high_mid + (len(digit_list)) * [0] + [1]
+return digit_list + (len(digit_list)) * [0] + digit_list[0]
+return next_palindrome(digit_list) * [0] + next_palindrome(digit_list)
+return [1] + (len(digit_list)) * [0]
+return digit_list + (len(digit_list)) * [0] + digit_list[1]
+return [digit_list + (len(digit_list)) * [0] + [digit_list]
+return (digit_list[1] + (len(digit_list)) * [0] + [1]);
+return [1] + (len(digit_list)) + [0] + [1]
+return high_mid + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list))*[0] + [1]
+return next_palindrome(digit_list)
+return (digit_list[low_mid] + (len(digit_list)) * [0] + [1])
+return [1] + (len(digit_list)) * len;
+return [1] + ((len(digit_list) - 1)) * [0] + [1]
+return [1] + (len(digit_list)) * [0] + [0]
+return [1] + (len(digit_list)) * 2 + [0] + [1]
+return [2] + (len(digit_list)) * [0] + [3]
+return len(digit_list) + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list)) * 16 + [1]
+return [len(digit_list)+1] + (len(digit_list)) * [0] + [1]
+return [len(digit_list)-1] + (len(digit_list)-1) * [0] + [1]
+return [len(digit_list) - 1] * [0] + [1]
+return 0;
+return [1024] + (len(digit_list)) * [0] + [1024]
+return [-1] + (len(digit_list)) * [0] + [1]
+return [1] + (digit_list[len(digit_list)]) * [0] + [1]
+return [1] + (len(digit_list)) * ((int)0) + [1]
+return digit_list[len(digit_list)-1] + (len(digit_list)-1);
+return [i] + (len(digit_list)) * [i] + [i]
+return (digit_list[0] + len(digit_list))
+return [1] + len(digit_list) + 1
+return [1] + (len(digit_list)) * [0] + [1] + 1
+return [1] + (len(digit_list)) * [0] + 1;
+return [1] + (len(digit_list)) * digit_list[1] + [1]
+return [3] + (len(digit_list)) * [0] + [1]
+return (digit_list[digit_list] + (len(digit_list)) * [0] + [1])
+return [len(digit_list)-1] + (len(digit_list)) * [0] + [1]
+return (digit_list[1]) + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list)) * 1 + [0] + [1]
+return low_mid + (len(digit_list)) * [0] + low_mid
+return [len(digit_list)-1] + (len(digit_list)-1);
+return [1] + (len(digit_list)) *  [0] + [1]
+return [1] + (len(digit_list)) * (int)[0] + [1]
+return [len(digit_list) + 1] * [0] + [len(digit_list) + 1]
+return (digit_list[1] + (len(digit_list)) * [0] + [1]
+return result;
+return (len(digit_list) + 1) * [0] + (len(digit_list) + 1)
+return [len(digit_list)-1) + (len(digit_list)-1) * [0] + [1]
+return [1] + (len(digit_list)) * digit_list[high_mid] + [1]
+return [1] + (len(digit_list)) * [0] + [2]
+return [0] + (len(digit_list)) * [1] + (len(digit_list) - 1)
+return len;
+return digit_list;
+return digit_list[1] + (len(digit_list))
+return (digit_list[0] + (len(digit_list)) * [0] + [1])
+return digit_list[1] + (len(digit_list)) * [0] + digit_list[2]
+return [1] + (len(digit_list)) * [0] + [1] + '0'
+return [1] + (len(digit_list)) * [0] + '0'
+return [len(digit_list)+1] + (len(digit_list)+1) * [0] + [1]
+return digit_list[high_mid] + (len(digit_list)) * [0] + [1]
+return digit_list[i] + (len(digit_list)) * [0] + [i]
+return [0] + (len(digit_list)) * [1] + (len(digit_list))
+return [low_mid] + (len(digit_list)) * [0] + [low_mid]
+return [len(digit_list) + 1] + (len(digit_list)) * [0] + [0]
+return [1] + (len(digit_list)) * ((long)0) + [1]
+return [low_mid] + (len(digit_list)) * [0] + [high_mid]
+return (len(digit_list)) * [0] + (len(digit_list) - 1)
+return digit_list + (len(digit_list)) * [0] + digit_list + 1
+return [1] + (len(digit_list)) * [0] + (len(digit_list) - 1)
+return len(digit_list) + (len(digit_list)) * [0] + len(digit_list)
+/* return [1] + (len(digit_list)) * [0] + [1] */
+return digit_list[0] + (len(digit_list)) * digit_list[1]
+return (digit_list[1] + (len(digit_list))) * [0] + [1]
+return digit_list + (len(digit_list)) * [0] + digit_list[low_mid]
+return digit_list[low_mid] + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list)) * sizeof(digit_list) + [1]
+return [1] + (len(digit_list)) * [len(digit_list)] + [1]
+goto out;
+return [1] + (len(digit_list)) * (len(digit_list)-1) + [1]
+return (digit_list[i] + (len(digit_list)) * [0] + [1])
+return [len(digit_list)] + (len(digit_list)) * [0] + [0]
+return [len(digit_list)-1] + (len(digit_list)+1) * [0] + [1]
+return digit_list[2] + (len(digit_list)) * [0] + [1]
+return digit_list[1] + (len(digit_list)) * [0] + [1];
+return [0] + (len(digit_list)) * [len(digit_list)] + [1]
+return [1] + (len(digit_list)) * (len(digit_list) + 1) + [1]
+return digit_list[len(digit_list)] + digit_list[len(digit_list)]
+return digit_list[1] + (len(digit_list)) * digit_list[1] + [1]
+return digit_list + (len(digit_list)) * [0] + digit_list[high_mid]
+return digit_list[len(digit_list) - 1] + (digit_list[0] + [1])
+return digit_list[0] + (len(digit_list)) * [0] + digit_list[0]
+return int(digit_list) + (len(digit_list)) * [0] + int(digit_list)
+return [len(digit_list)] + (len(digit_list) - 1) * [0] + [1]
+return [1] + (len(digit_list)) * [0] + [1] + len(digit_list)
+return [len(digit_list)) + (len(digit_list)) * [0] + [1]
+return digit_list[2] + (len(digit_list)) * [0] + digit_list[1]
+return [1] + (len(digit_list)) * [0] + (len(digit_list) + 1)
+return [1] + ((int)len(digit_list)) * [0] + (int)[1]
+return [digit_list[1]] + (len(digit_list)) * [0] + [digit_list[1]]
+return (digit_list[0] + 1]) * [0] + (digit_list[1] + (digit_list[0] - 1])) * (digit_list[1] + (digit_list[0] + (digit_list[1] + (digit_list[0] - 1])) + digit_list[0])
+return [1] + ((len(digit_list))  1) * [0] + [1]
+return [1] + (len(digit_list)) * (long)0 + [1]
+return [1] + (len(digit_list)) * ((long)0) + ((long)0) + ((int)0) + ((int)0) + ((int)0) + ((int)0) + ((int)0) + ((int)0) + ((int)0) + ((int)0))
+return [1] + (len(digit_list)) * [0] + (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int) (int)
+return [(unsigned long)0] + (len(digit_list)) * [0] + (unsigned long)1]
+return [0] + (len(digit_list)) * (digit_list[low_mid] - 1) + 1
+return (digit_list[len(digit_list) - 1) * [0] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)) + (digit_list[len(digit_list) - 1)) + (digit_list[len(digit_list) - 1) + (digit_list[len(digit_list) - 1)) + (digit_list[len(digit_list) -
+return (digit_list)[1] + (len(digit_list)) * [0] + (digit_list[0] + (digit_list[1] - 1)) * [0] + [1]
+return [len(digit_list) - 1] + (len(digit_list)) * [0] + [len(digit_list) - 1]
+return (digit_list)[len(digit_list)];
+return (digit_list[0] + (len(digit_list))) * digit_list[0] + digit_list[1]
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid  0 or high_mid  0)
+return [1] + (len(digit_list)) * [0] + [1] + (short)((short)(len(digit_list) - 1)) * [0] + (short)((short)((short)((short)((short)((short)((short)((short)((short)((short)((short)((pair)))))) * [0] + [1]))
+return digit_list[len(digit_list)-1] + (digit_list[len(digit_list)-1]) * [0] + [digit_list[len(digit_list)-1]]
+return ((digit_list[1] + (len(digit_list))) * [0] + (digit_list[1] + (len(digit_list))))
+return [(digit_list[0] + len(digit_list))) + ((digit_list[1] + len(digit_list))) * [0] + ((digit_list[0] + len(digit_list)) - 1);
+return [len(digit_list) + (digit_list[0] + (len(digit_list)))] + [1]
+return [digit_list[len(digit_list)-1] + (len(digit_list)-1) * [0] + [digit_list[len(digit_list)-1]]
+return [1] + (len(digit_list)) * len + len + 1
+return [1] + (len(digit_list)) * (int)(low_mid - 1) + [1]
+return digit_list[digit_list] + (len(digit_list)) * [0] + digit_list[digit_list]
+return (digit_list[1] + (len(digit_list)) * [0] + (len(digit_list)) * [1]
+return [1] + (len(digit_list)) * [0] + [1] + (len(digit_list) - 1)
+return [1] + (len(digit_list)) * ((long)len(digit_list)) + [1]
+return [1] + ((len(digit_list)) + 1) * [0] + ((long)[1])
+return (digit_list) + (len(digit_list)) * [0] + (digit_list[0] - 1])
+return digit_list[len(digit_list)] + (digit_list[len(digit_list)] * [0] + [1])
+return [len(digit_list) - 1] + (len(digit_list)) * [0] + [1]
+return (digit_list[1] + (len(digit_list)) * [0] + (digit_list[1] + (digit_list[0])) * [0] + [1])
+return [1] + (len(digit_list)) * [0] + [1] + (digit_list[high_mid] == '0')
+return (digit_list[digit_list]) * [0] + (digit_list[digit_list]+3)
+return (digit_list) [1] + (len(digit_list)) * [0] + (digit_list[low_mid] + 1)
+return digit_list[0] + (len(digit_list)) * (len(digit_list) - 1) + (len(digit_list) - 1) + (digit_list[0] + (digit_list[0] - 1) + (digit_list[1] - 1) + digit_list[1]) + (digit_list[0] - 1) + (digit_list[1] - 1) + (digit_list[1] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[1] - 1) + (digit_list[0] - 1) + (digit_list[1] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[0] - 1) + (digit_list[1] - 1) + (digit_list[1]
+return [1] + (len(digit_list)) * ((u_long)0) + [1]
+return [LEN(digit_list) + 1] + (len(digit_list)) * [0] + [LEN(digit_list) + 1]
+return (digit_list[len(digit_list)+1]) * (digit_list[len(digit_list)+1] + [1])
+return [1] + (len(digit_list)) * (int)0] + [1]
+return ((digit_list[digit_list]) == None)? ((int)len(digit_list)) : 0; return ((digit_list[digit_list]) + ((int)len(digit_list))) * ((int)len(digit_list) + 1);
+return [1] + (len(digit_list)) * [1] + (d_offset - 1 + d_offset)
+return [len(digit_list)] + (digit_list[low_mid] * 2 + [1])
+return (digit_list[0] + (len(digit_list))) * [0] + (digit_list[1] + digit_list[0] + digit_list[1]))
+return (digit_list[1]) + (len(digit_list)) * [0] + (digit_list[1] + (digit_list[0]))
+return [1] + ((len(digit_list) - 1)  len) * [0] + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) - 1 + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)
+return digit_list + (len(digit_list)) * digit_list + digit_list
+return digit_list + (len(digit_list)) * digit_list[digit_list] + digit_list[digit_list]
+return digit_list[len(digit_list)-1] + (digit_list[len(digit_list)-1] + (digit_list[len(digit_list)-1])) * [0] + [digit_list[len(digit_list)-1] + [digit_list[len(digit_list)-1]]
+return [digit_list[digit_list] + (len(digit_list)) * [0] + [digit_list[digit_list] + [1]]
+return (digit_list[len(digit_list)-1] + len(digit_list)) * ((long)0) + ((long)1) + len(digit_list))
+return ((len(digit_list) + 1) * (len(digit_list) + 1)) + ((len(digit_list) + 1)) + ((len(digit_list) + 1)) * (len(digit_list) + 1)
+return [1] + (len(digit_list)) + 1 * [0] + [1]
+return [len(digit_list)] + (len(digit_list)) * [0] + [len(digit_list)]
+return [len(digit_list) + 1] + (len(digit_list)) * [0] + [len(digit_list)]
+return [1] + (len(digit_list)) * [0] + [1] + (low_mid - len(digit_list))
+return [len(digit_list)) + (len(digit_list)) * [0] + [len(digit_list)]
+return [1] + (len(digit_list)) * [0] + ((len(digit_list) - 1))  0? [1] : 0;
+return digit_list[0] + digit_list[1] + (len(digit_list)) * digit_list[0] + digit_list[1]
+return [len(digit_list)) + 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+return [digit_list[i] + (len(digit_list)) * [0] + [digit_list[i]]
+return (digit_list)[1] + (len(digit_list)) * [0] + (digit_list[0] + (digit_list[1] + (digit_list[0])))
+return [1] + (len(digit_list)) * [0] + [1] + cflags
+return [1] + (len(digit_list)) * nsCRT::free(digit_list) + nsCRT::free(digit_list) + nsCRT::free(digit_list) + nsCRT::free(digit_list) + nsCRT::free(digit_list)
+return [len(digit_list)) + 1 + (len(digit_list)) * [0] + [1]
+return (digit_list[0] + (len(digit_list)) * 0)
+return (digit_list[len(digit_list) - 1]) * (digit_list[len(digit_list) - 1]) + (digit_list[len(digit_list) - 1]) + (digit_list[len(digit_list) - 1]) + [0] + [1]
+return [len(digit_list)) * ((high_mid + low_mid) / 2 + 1);
+return [len(digit_list)] + (digit_list[low_mid]) * [0] + [1]
+return [len(digit_list) + 1] + (len(digit_list)) * [0] + [len(digit_list) + 1]
+return [digit_list[len(digit_list)+1]]
+return [(int)len(digit_list)) * [0] + (int)len(digit_list)
+return (digit_list[1] + (len(digit_list)) * [0] + (digit_list[0] + (digit_list[1] - 1)))
+return (digit_list[digit_list[digit_list[digit_list]] + 1) * (len(digit_list[digit_list]) - 1) + (len(digit_list[digit_list]) - 1) + (digit_list[digit_list]] + 1)
+return digit_list[len(digit_list) - 1] + (digit_list[len(digit_list) - 1]) * [0] + (digit_list[len(digit_list) - 1] + 1)
+return [1] + (len(digit_list)) * d;
+return [1] + (len(digit_list)) * (low_mid - 1) + [1]
+return [L(-1) + (len(digit_list)) * [0] + [L(-1) + [L(-1) + [L(-1)])
+return (digit_list)[1] + (len(digit_list)) * [0] + (digit_list[0] + (digit_list[1] - 1))
+return (digit_list)[1] + (len(digit_list)) * [0] + (digit_list[0] + (digit_list[1] + 1))
+return [(len(digit_list)) + (len(digit_list)) * [0] + (len(digit_list) + 1)]
+return [1] + ((digit_list[1]  '0')) * [0] + (digit_list[0]  '0'))
+return [1] + (len(digit_list)) * (long)len(digit_list) + [1]
+return digit_list[len(digit_list)] + 1 + (digit_list[len(digit_list)]) * [0] + [digit_list[len(digit_list)] + 1]
+return (digit_list[0]) + (len(digit_list)) * [0] + (digit_list[1] - 1);
+return [1] + (len(digit_list)) * [0] + [1] + (digit_list[0] + digit_list[1])
+return digit_list[0] + (len(digit_list)) * [0] + (digit_list[1] + 1);
+return [1] + (len(digit_list)) * [0] + (digit_list[low_mid] + len(digit_list))
+return [1] + (len(digit_list)) * [1] + (len(digit_list) - 1)
+return [digit_list[high_mid]] + (len(digit_list)) * [0] + [digit_list[low_mid]]
+return [1] + (len(digit_list)) * ((int)len(digit_list) - 1) * ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) * ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1)) * ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1) + ((int)len(digit_list) - 1)) * ((int)len(digit_list) + (
+return [(int)(len(digit_list)) * [0] + (int)(len(digit_list)) * [1]
+return [len(digit_list)] + (digit_list[0] + [1])
+return (digit_list[digit_list])[1] + (len(digit_list)) * [0] + [1]
+return [1] + (len(digit_list)) * (int)0 + (int)1
+return (digit_list[0] + len(digit_list)) * len;
+return [(len(digit_list)) * [0] + (len(digit_list)) + (len(digit_list)) + 1]
+return [1] + (len(digit_list)) * len + 2 + 1
+return [1] + (len(digit_list)) * (long)0] + [1]
+return [digit_list[0]] + (len(digit_list)) * [0] + [digit_list[0]]
+return digit_list[0] + (len(digit_list)) * (high_mid - 1) + 1
+return [digit_list[i] + (len(digit_list)) * [0] + [digit_list[i] + [1]]
+return (digit_list[len(digit_list) - 1) + (len(digit_list)) * [0] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] - (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1))) + (digit_list[len(digit_list) - 1] - (digit_list[len(digit_list) - 1)) + (digit_list[len(digit_list) - 1)] + (digit_list[len(digit_list) - 1)) + (digit_list[len(digit_list) - 1)) +
+return [1] + (len(digit_list)) * (int) [0] + [1]
+return [digit_list[0] + digit_list[1]] + (len(digit_list)) * [0] + digit_list[1]
+return ((len(digit_list)) == 0)? digit_list[low_mid] : [1] + (len(digit_list)) * [0] + [1]
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((len(digit_list) - 1) len) * [0] + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) - 1 + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] &'<0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid <0 or high_mid 0)
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] &'<0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid <0 or high_mid &0)
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] '&0'))
+return [1] + (len(digit_list)) * [0] + [1] + '0'
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] <'&0'))
+return [1] + (len(digit_list)) * [0] + [1]
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] '&0'))
+return [1] + (len(digit_list)) * [0] + ((len(digit_list) - 1)) <0? [1] : 0;
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] '&0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] '&0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] '0'))
+return [1] + ((len(digit_list)) <1) * [0] + [1]
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((len(digit_list) - 1) <len) * [0] + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) - 1 + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] '&0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] '&0'))
+return [1] + (len(digit_list)) * [0] + [1] + '&0'
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] &'0'))
+return [1] + (len(digit_list)) * [0] + [1] + '<0'
+return [1] + ((len(digit_list)) &1) * [0] + [1]
+return [1] + (len(digit_list)) * [0] + '0'
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] &'0'))
+return [1] + (len(digit_list)) * [0] + ((len(digit_list) - 1)) &0? [1] : 0;
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] <'0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid &0 or high_mid 0)
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] '0'))
+return [1] + (len(digit_list)) * [0] + [1] + (digit_list[high_mid] == '<0')
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] <'&0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid &0 or high_mid &0)
+return [1] + ((len(digit_list)) 1) * [0] + [1]
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] &'<0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid &0 or high_mid <0)
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] '0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid 0 or high_mid <0)
+return [1] + ((digit_list[1] <'&0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] '&0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] <'0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid <0 or high_mid <0)
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] &'&0'))
+return [1] + (len(digit_list)) * <[0] + [1]
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] '&0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] &'&0'))
+return [1] + (len(digit_list)) * &[0] + [1]
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] '&0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid 0 or high_mid &0)
+return [1] + ((len(digit_list) - 1) &len) * [0] + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) - 1 + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)]) + ((digit_list[len(digit_list) - 1)
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] '<0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] '0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] <'0'))
+return [1] + (len(digit_list)) * [0] + '&0'
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] <'<0'))
+return [1] + (len(digit_list)) * [0] + [1] + (digit_list[high_mid] == '0')
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] &'0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] <'<0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] &'&0'))
+return [1] + (len(digit_list)) * [0] + [1] + (high_mid 0 or high_mid 0)
+return [1] + (len(digit_list)) * [0] + [1] + (digit_list[high_mid] == '&0')
+return [1] + ((digit_list[1] <'<0')) * [0] + (digit_list[0] &'0'))
+return [1] + (len(digit_list)) * [0] + '<0'
+return [1] + (len(digit_list)) * [0] + ((len(digit_list) - 1)) 0? [1] : 0;
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] &'0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] <'&0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] &'&0'))
+return [1] + ((digit_list[1] &'&0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] &'<0')) * [0] + (digit_list[0] <'0'))
+return [1] + ((digit_list[1] '<0')) * [0] + (digit_list[0] &'<0'))
+return [1] + ((digit_list[1] '0')) * [0] + (digit_list[0] '&0'))
+return [1] + ((digit_list[1] <'0')) * [0] + (digit_list[0] <'<0'))

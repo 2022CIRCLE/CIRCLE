@@ -1,0 +1,995 @@
+golden:
+if (_Py_Finalizing && tstate != _Py_Finalizing) { drop_gil(tstate); PyThread_exit_thread(); assert(0);  /* unreachable */ }
+inference:
+#endif
+
+return 0;
+return (0);
+PyThread_exit_thread();
+PyThreadState_Swap(tstate);
+tstate = NULL;
+errno = errno;
+PyEval_RestoreThread(tstate);
+PyThread_Exit_thread();
+errno = err;
+return;
+break;
+return -1;
+int err = errno;
+splx(s);
+return NULL;
+return errno;
+int errno = errno;
+#ifdef DEBUG
+Pythread_exit_thread();
+free(tstate);
+Py_ExitThread();
+Py_Lock(tstate);
+PyEval_Swap(tstate);
+if (tstate == NULL) return;
+Py_ThreadState_Swap(tstate);
+PyThreadState_RestoreThread(tstate);
+Py_Eval_RestoreThread(tstate);
+if (gil_created()) return;
+*/
+/* XXX */
+PZ_UNLOCK_GIANT();
+Py_DestroyThread(tstate);
+PZ_RELEASE(tstate);
+return (errno);
+Py_DestroyThread();
+if (gil_created())
+if (!gil_created()) return;
+PyThread_Swap(tstate);
+#ifdef DIAGNOSTIC
+return PR_FALSE;
+free_gil(tstate);
+PZ_UNLOCK(tstate);
+Py_Thread_Exit_thread();
+gil_created();
+PY_UNLOCK_GIANT();
+return err;
+return ret;
+#ifdef HAVE_THREAD
+return NS_OK;
+tstate = _Py_Finalizing;
+err = errno;
+PY_UNLOCK(tstate);
+return (err);
+Py_IF_RELEASE(tstate);
+tstate = tstate;
+*tstate = NULL;
+PyTHread_exit_thread();
+PY_LOCK_ASSERT();
+PyEval_DestroyThread(tstate);
+Py_UNLOCK_GIANT();
+PythreadState_Swap(tstate);
+return _Py_Finalizing;
+/* _Py_Finalizing is protected by the GIL */
+Py_Thread_exit_thread();
+@endif
+if (!gil_created())  return;
+return rv;
+Py_DestroyThreads();
+int errno;
+Py_UNLOCK(tstate);
+continue;
+return 1;
+PZ_DestroyThread(tstate);
+Py_ClearThreads();
+Py_RestoreThread(tstate);
+PyEval_RestoreThread();
+int errno = err;
+return (error);
+/* unreachable */
+Py_Swap(tstate);
+drop_gil(tstate);
+Py_Free(tstate);
+PyThread_stop_thread();
+PyThreadState_Swap(tstate); #endif
+return result;
+_Py_Finalizing = _Py_Finalizing;
+#else
+PyThreadState_Swap();
+PyThread_RestoreThread(tstate);
+int err;
+return false;
+PyThread_restore_thread(tstate);
+else  errno = err;
+PyThread_restore_thread();
+#ifdef WITH_THREAD
+PyThreadState_Swap(tstate); return (0);
+Py_Thread_Swap(tstate);
+if (gil_created()) break;
+PyThread_clear_threads();
+PY_LOCK_ASSERT(tstate);
+PZ_DestroyThread();
+int err = 0;
+return PyEval_RestoreThread(tstate);
+PZ_UNLOCK();
+if (!tstate) return;
+else
+Py_Py_RestoreThread(tstate);
+PyEval_DestroyThread();
+return 0; #endif
+PyThread_exit_thread(); #endif
+PyThread_release_thread();
+PyThread_exit_thread(); assert(0);
+*errno = errno;
+Py_Eval_Swap(tstate);
+Py_Shutdown();
+#ifdef NULL
+else return;
+Py_Py_Swap(tstate);
+Py_FreeThread(tstate);
+PyThreadState_Destroy(tstate);
+PyThreadState_Exit_thread();
+PyThread_Exit_Thread();
+else  PyThreadState_Swap(tstate);
+Py_LOCK_ASSERT();
+Py_ExitThread(tstate);
+PyEval_FreeThread(tstate);
+Py_Py_Finalize();
+Py_Thread_RestoreThread(tstate);
+if (tstate == NULL) break;
+PyThread_swap_thread(tstate);
+PyThread_swap(tstate);
+PyThreadState_Swap(pstate);
+else  PyThread_exit_thread();
+_Py_Finalizing = 0;
+PyThread_destroy_thread();
+PyThreadState_Swap(tstate)
+PyThread_DestroyThread();
+if (tstate!= _Py_Finalizing) return;
+PyThread_free_thread();
+*errno = err;
+PyThreadState_Swap(thread);
+else  errno = errno;
+PyThreadState_Swap (tstate);
+PyThread_exit_thread(tstate);
+err = err;
+if (gil_created())  break;
+if (gil_created())  return;
+if (gil_created()) return 0;
+PyEval_ExitThread();
+Py_Py_Finalize(tstate);
+PyThreadState_Swap(&tstate);
+gil_create_thread();
+#ifdef _Py_Finalizing
+if (tstate!= _Py_Finalizing)
+#ifdef PMAP_DEBUG
+PyThreadState_Swap(tstate, 0);
+PyThread_clear_thread();
+PyThreadState_Swap(tstate); return;
+int err = err;
+PyThreadState_Swap(tstate); return 0;
+Py_Eval_RestoreThread();
+Py_Py_DestroyThread();
+PyThread_RestoreThread();
+if (errno == 0) return;
+Py_DestroyThreadState();
+PyEval_RestoreThread(&tstate);
+Py_LOCK_ASSERT(tstate);
+Py_Py_DestroyThread(tstate);
+Py_Eval_DestroyThread(tstate);
+PyThreadState_Restore(tstate);
+if(tstate == NULL) return;
+PyEval_ClearThreads();
+if (tstate == NULL)  return;
+PyThread_delete_thread(tstate);
+if (gil_created())  return 0;
+PyThreadState_Swap_thread(tstate);
+#endif /* PyEval_RestoreThread */
+PyThreadState_Swap(tstate); break;
+if (tstate!= _Py_Finalizing) break;
+Py_FatalError(_Py_Finalizing);
+Py_FatalError("PyEval_RestoreThread: NULL tstate");
+else  return 0;
+return (-1);
+Py_FatalError("PyEval_RestoreThread: %s", tstate);
+#ifdef MALLOC /* XXX */ Py_Thread_Py_Finalize_spinlock();
+Py_Deadlock(stack);
+Py_FatalError("PyEval_RestoreThread: %s" _Py_Finalizing)
+if (gil_created())  int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty)  if (gil_created())  gil_RemoveFlags();  else  if (pythread_empty && pythread_empty)  PyThread_exit_thread();  #endif
+/* XXX should be called with XXX */
+Py_Py_Exit(tstate);
+if (tstate!= _Py_Finalizing)  PyThread_exit_thread();
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+if ((!gil_created()))  Py_FatalError("PyEval_RestoreThread: NULL tstate"); return;
+/* * XXX should make sure that this is a recursive time */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  PY_Destroy_thread();
+if (pythread_set_func(tstate, NULL))  return pythread_set_func(tstate, NULL);
+PyThread_unlock(&thread);
+Py_FatalError("PyEval_RestoreThread: NO tstate");
+if (_Py_Finalizing && _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread();
+/* * If a _Py_Py_Finalizing is the result of the PyEval_Destroythread and _Py_Finalizing is the result, and _Py_Finalizing is the result of _Py_Finalizing * and _Py_Finalizing is a result, it is the end of the process * which has the real_path is the result of the.. version. */ if ((tstate!= _Py_Finalizing) && (_Py_Finalizing && (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing)
+Py_Unlock(&stack);
+Py_Swap_to_thread(tstate);
+if (gil_created())  Py_FatalError("PyEval_RestoreThread: NULL tstate");
+Py_FatalError("PyEval_RestoreThread: NO TEST!");
+if (!gil_created())  break;
+if (tstate!= _Py_Finalizing)  break;
+gil_DestroyThread();
+/* If we can't run it, set up threads. */ if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing)  _Py_Finalizing = _Py_Finalizing; return;
+if (!_Py_Finalizing)  return;
+else  Py_Stop_Threads();
+Py_Swap();
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+/* * If the message can be tstate a.tstate we are returning, use tstate and tstate. */ if (gil_created())
+Py_ClearRestoreThreads();
+if (gil_created())  int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */  errno = err;
+/* * Restore the EXT thread. */ if (tstate == NULL) Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Remove pythreads. */ if (pythreads.is_threads_removed())  pythreads.set_flags(gil_created());
+Py_Init();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+PyThreadState_Swap(tstate); /* unreachable */
+if (!gil_created())  err = errno;
+Py_FatalError("PyEval_RestoreThread: PY_Finalizing is protected by the GIL */
+#ifdef XP_MAC if (gil_created())  /* * PyEval_RestoreThread: NULL tstate, return. */ Py_FatalError("PyEval_RestoreThread: NULL tstate");
+Py_Init(tstate);
+Py_Eval_PyEval_RestoreThread(tstate);
+/* * This is a fix for PY_PY_RX_SAILX/_Py_RX_SAILX_SAILX */ if ((gil_created()) == 0)  /* _Py_RX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX
+if (tstate == NULL) Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created())  int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+if (gil_created())  /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+#ifdef XP_MAC if (gil_created())  int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */
+else  Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created())  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread();  errno = err;
+if (strncmp(str, "--id") == 0)  PyThread_exit_thread();
+Py_ClearError("PyEval_RestoreThread: NUL tstate");
+Py_SwapThread_Finish(tstate);
+if (pythread_delete(tstate))  /* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate))  Py_Destroy(tstate);
+if ((pythread_deactivate(&pythread_deactivate, pythread_deactivate))!= 0)  Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate);
+gx_unlock(&gx_unlock);
+Py_Error("PyEval_RestoreThread: %s", _Py_Finalizing);
+if ((!_Py_Finalizing || _Py_Finalizing && tstate!= _Py_Finalizing))  free_gil(tstate); PyThread_exit_thread();
+if ((tstate && _Py_Finalizing)!= _Py_Finalizing)  break;
+/* * XXX */
+Py_Lock(&gil);
+if (_Py_Finalizing && tstate!= _Py_Finalizing)  free_gil(tstate);
+PyThread_unlock(&pythreads);
+Py_FatalError("PyEval_RestoreThread: %s", _Py_Finalizing);
+Py_Py_FinishError("PyEval_RestoreThread: NSS%s", _Py_Finalizing, tstate);
+if (gil_created())  /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); /* unreachable */  errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing)  free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+/* * The new xnthread has to be kept away. */ if (get__nthread__() == 0)  /* XXX */ PyThread_exit_thread(); return (0);
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled())  if (gil_created())  if (_Py_Thread_Enabled())  drop_gil(tstate); PyThread_exit_thread();   else  /* unreachable */
+/* PyEval_RestoreThread: PyEval_RestoreThread: */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+#ifdef INLINE_THREAD if (gil_created())  if (_Py_Finalizing && tstate!= _Py_Finalizing)  err = errno; goto exit;  #endif
+/* If we cannot handle a "initialization" is enabled, then leave %s. */ if (gil_created())  Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+else  /* * Ignore it here... */ if (gil_created())  if (_Py_Finalizing && tstate!= _Py_Finalizing)  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread();  else  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread();  else  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && tstate!= _Py_Finalizing)  tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+Py_Py_Lock(tstate);
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing)  if (_Py_Finalizing && tstate!= _Py_Finalizing)  drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */  errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing)  py_Py_CloseThread();
+/* remove it */ if ((_Py_Finalizing && tstate!= _Py_Finalizing) || (_Py_Finalizing && tstate!= _Py_Finalizing))  errno = err;
+Py_UNLOCK_THREAD(thread);
+if ((tstate == NULL) || (tstate == NULL))  Py_FatalError("PyEval_RestoreThread: NULL tstate");
+Py_ClearThread();
+Py_Cancel(rcv);
+Py_FatalError("PyEval_RestoreThread: NO_THREAD");
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing)  if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing)  gil_release_thread();
+
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else <PyThread_exit_thread();
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+else <Py_Stop_Threads();
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; &#endif
+if (gil_created()) &break;
+if (gil_created()) <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+&else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (!_Py_Finalizing) return;
+else errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+errno = errno;
+if ((!_Py_Finalizing || _Py_Finalizing && tstate!= _Py_Finalizing)) free_gil(tstate); PyThread_exit_thread();
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#endif
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+<else &PyThread_exit_thread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+&else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if ((!gil_created())) <Py_FatalError("PyEval_RestoreThread: NULL tstate"); return;
+if (tstate == NULL) <return;
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+else <errno = err;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (tstate == NULL) &return;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else <return 0;
+/* If we cannot handle a "initialization" is enabled, then leave %s. */ if (gil_created()) Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if ((pythread_deactivate(&pythread_deactivate, pythread_deactivate))!= 0) <Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate);
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * The new xnthread has to be kept away. */ if (get__nthread__() == 0) /* XXX */ PyThread_exit_thread(); return (0);
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (strncmp(str, "--id") == 0) &PyThread_exit_thread();
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) free_gil(tstate);
+else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+&else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+&#endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (pythread_set_func(tstate, NULL)) <return pythread_set_func(tstate, NULL);
+if (gil_created()) return 0;
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+else <PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) <return 0;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; #endif
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &gil_release_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (strncmp(str, "--id") == 0) <PyThread_exit_thread();
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+if ((!_Py_Finalizing || _Py_Finalizing && tstate!= _Py_Finalizing)) &free_gil(tstate); PyThread_exit_thread();
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) gil_release_thread();
+else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &py_Py_CloseThread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+else PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; <#endif
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* remove it */ if ((_Py_Finalizing && tstate!= _Py_Finalizing) || (_Py_Finalizing && tstate!= _Py_Finalizing)) errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <free_gil(tstate);
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+&else &errno = err;
+if (tstate!= _Py_Finalizing) break;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+<else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+&else return 0;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+&else <PyThread_exit_thread();
+if ((tstate == NULL) || (tstate == NULL)) Py_FatalError("PyEval_RestoreThread: NULL tstate");
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) &return 0;
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+else errno = errno;
+&else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+else &errno = errno;
+else &PyThreadState_Swap(tstate);
+/* * Remove pythreads. */ if (pythreads.is_threads_removed()) pythreads.set_flags(gil_created());
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * If the message can be tstate a.tstate we are returning, use tstate and tstate. */ if (gil_created())
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); errno = err;
+&else &Py_Stop_Threads();
+if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* If we can't run it, set up threads. */ if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &_Py_Finalizing = _Py_Finalizing; return;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+&else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+else <PyThreadState_Swap(tstate);
+#ifdef XP_MAC if (gil_created()) </* * PyEval_RestoreThread: NULL tstate, return. */ Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (pythread_delete(tstate)) </* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) &Py_Destroy(tstate);
+&else &return 0;
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+<else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; <#endif
+else <return 0;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* * XXX should make sure that this is a recursive time */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &PY_Destroy_thread();
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+&else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* remove it */ if ((_Py_Finalizing && tstate!= _Py_Finalizing) || (_Py_Finalizing && tstate!= _Py_Finalizing)) &errno = err;
+/* * XXX should make sure that this is a recursive time */ if (_Py_Finalizing && tstate!= _Py_Finalizing) PY_Destroy_thread();
+<else <Py_Stop_Threads();
+if (!gil_created()) break;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; &#endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (!_Py_Finalizing) &return;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else PyThread_exit_thread();
+<else &PyThreadState_Swap(tstate);
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+else <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+else PyThreadState_Swap(tstate);
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) py_Py_CloseThread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) return;
+else &PyThreadState_Swap(tstate);
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+else Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; &#endif
+&else Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+<else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) &if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <gil_release_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+<else Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Remove pythreads. */ if (pythreads.is_threads_removed()) &pythreads.set_flags(gil_created());
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+&else <Py_Stop_Threads();
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+else &return 0;
+if (pythread_delete(tstate)) </* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) Py_Destroy(tstate);
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+if (!gil_created()) &err = errno;
+if (strncmp(str, "--id") == 0) PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+&else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (tstate!= _Py_Finalizing) &PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+return;
+&else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <py_Py_CloseThread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; <#endif
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (!_Py_Finalizing) <return;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; #endif
+&else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (!gil_created()) <break;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * Remove pythreads. */ if (pythreads.is_threads_removed()) <pythreads.set_flags(gil_created());
+<else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else <PyThreadState_Swap(tstate);
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) &if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &gil_release_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else <PyThreadState_Swap(tstate);
+if (gil_created()) <return;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+return 0;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; <#endif
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if ((pythread_deactivate(&pythread_deactivate, pythread_deactivate))!= 0) &Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate);
+/* * This is a fix for PY_PY_RX_SAILX/_Py_RX_SAILX_SAILX */ if ((gil_created()) == 0) </* _Py_RX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX
+#ifdef XP_MAC if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */
+else return 0;
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (pythread_delete(tstate)) &/* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) <Py_Destroy(tstate);
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) &return;
+&else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+else PyThreadState_Swap(tstate);
+<else return 0;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else Py_Stop_Threads();
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; <#endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else <return 0;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+PyThread_exit_thread();
+errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+<else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (pythread_delete(tstate)) /* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) <Py_Destroy(tstate);
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else <errno = errno;
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; &#endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &PyThread_exit_thread();
+Py_ThreadState_Swap(tstate);
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+<else &PyThread_exit_thread();
+else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+&else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+<else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; &#endif
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; #endif
+<else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread();
+else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (tstate!= _Py_Finalizing) PyThread_exit_thread();
+/* * XXX should make sure that this is a recursive time */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <PY_Destroy_thread();
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+&else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+&else <errno = err;
+#ifdef XP_MAC if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; &#endif
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if ((tstate && _Py_Finalizing)!= _Py_Finalizing) &break;
+if (!gil_created()) <return;
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; &#endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * The new xnthread has to be kept away. */ if (get__nthread__() == 0) &/* XXX */ PyThread_exit_thread(); return (0);
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; #endif
+/* If we can't run it, set up threads. */ if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) _Py_Finalizing = _Py_Finalizing; return;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+<else <PyThread_exit_thread();
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+if (gil_created()) &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if ((tstate && _Py_Finalizing)!= _Py_Finalizing) break;
+<else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) <if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &gil_release_thread();
+<else PyThreadState_Swap(tstate);
+else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+PyThreadState_Swap(tstate);
+#ifdef XP_MAC if (gil_created()) &/* * PyEval_RestoreThread: NULL tstate, return. */ Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * This is a fix for PY_PY_RX_SAILX/_Py_RX_SAILX_SAILX */ if ((gil_created()) == 0) /* _Py_RX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (pythread_delete(tstate)) </* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) <Py_Destroy(tstate);
+/* If we cannot handle a "initialization" is enabled, then leave %s. */ if (gil_created()) &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; #endif
+else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+return (0);
+<else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+&else &PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (tstate == NULL) return;
+if (tstate!= _Py_Finalizing) &break;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); <else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+if ((tstate == NULL) || (tstate == NULL)) &Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; <#endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created())
+/* If we can't run it, set up threads. */ if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <_Py_Finalizing = _Py_Finalizing; return;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (pythread_delete(tstate)) /* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) &Py_Destroy(tstate);
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else &Py_Stop_Threads();
+else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) <if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <gil_release_thread();
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; #endif
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) <if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) gil_release_thread();
+&else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else &PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) &gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+<else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef XP_MAC if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; <#endif
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<else <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* remove it */ if ((_Py_Finalizing && tstate!= _Py_Finalizing) || (_Py_Finalizing && tstate!= _Py_Finalizing)) <errno = err;
+&else PyThreadState_Swap(tstate);
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) <if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+<else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+<else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (!gil_created()) &break;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if ((tstate && _Py_Finalizing)!= _Py_Finalizing) <break;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+&else /* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+<else &return 0;
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+else &errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &Py_Stop_Threads();
+if (tstate!= _Py_Finalizing) <PyThread_exit_thread();
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+&else <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+<else </* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if ((tstate == NULL) || (tstate == NULL)) <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+&else <PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+return errno;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <free_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if ((!_Py_Finalizing || _Py_Finalizing && tstate!= _Py_Finalizing)) <free_gil(tstate); PyThread_exit_thread();
+<else Py_Stop_Threads();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+else <PyThread_exit_thread();
+<else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+&else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (_Py_Finalizing && _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+&else /* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; &#endif
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+&else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) &gil_RemoveFlags(); &else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (!gil_created()) <err = errno;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if ((!gil_created())) Py_FatalError("PyEval_RestoreThread: NULL tstate"); return;
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (!gil_created()) &return;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) <gil_release_thread();
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+<else &errno = err;
+if (!gil_created()) return;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &free_gil(tstate);
+if (pythread_delete(tstate)) /* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) Py_Destroy(tstate);
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) err = errno; goto exit; &#endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); &else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+&else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (pythread_delete(tstate)) &/* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) &Py_Destroy(tstate);
+#ifdef DEBUG_DEAD if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing!= _Py_Finalizing) &if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) gil_release_thread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (!gil_created()) err = errno;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+<else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+&else &PyThread_exit_thread();
+#ifdef XP_MAC if (gil_created()) /* * PyEval_RestoreThread: NULL tstate, return. */ Py_FatalError("PyEval_RestoreThread: NULL tstate");
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* If we cannot handle a "initialization" is enabled, then leave %s. */ if (gil_created()) <Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+<else PyThread_exit_thread();
+/* * We must be careful that this is a state. */ if (_Py_Finalizing && _Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) <if (gil_created()) <gil_RemoveFlags(); else if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); &errno = err;
+if (gil_created()) break;
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) <if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+else Py_Stop_Threads();
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; #endif
+/* * This is a fix for PY_PY_RX_SAILX/_Py_RX_SAILX_SAILX */ if ((gil_created()) == 0) &/* _Py_RX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX_SAILX
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); errno = err;
+if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+&else &/* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+else <PyThreadState_Swap(tstate);
+#ifdef INLINE_THREAD if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; #endif
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+if (pythread_set_func(tstate, NULL)) return pythread_set_func(tstate, NULL);
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) </* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ &errno = err;
+if (gil_created()) <int err = errno; take_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) gil_RemoveFlags(); <else &if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) <tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ &errno = err;
+if (pythread_set_func(tstate, NULL)) &return pythread_set_func(tstate, NULL);
+/* * _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+<else PyThread_exit_thread();
+<else errno = err;
+if (tstate!= _Py_Finalizing) <break;
+else /* * Ignore it here... */ if (gil_created()) <if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if ((!gil_created())) &Py_FatalError("PyEval_RestoreThread: NULL tstate"); return;
+if (gil_created()) &/* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; #endif
+<else &/* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) &if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) /* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ <errno = err;
+&else </* * Ignore it here... */ if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); errno = err;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <err = errno; goto exit; <#endif
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) <if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) if (_Py_Thread_Enabled()) &drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) Py_FatalError("PyEval_RestoreThread: NULL tstate");
+if (gil_created()) <break;
+if (pythread_delete(tstate)) &/* XXX pythread_delete (afd.tc_dev) */ if (_Py_Destroy(tstate)) Py_Destroy(tstate);
+/* XXX we can use _Py_Finalizing for _Py_Finalizing. */ if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+&else &PyThreadState_Swap(tstate);
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); &else /* unreachable */
+/* * The new xnthread has to be kept away. */ if (get__nthread__() == 0) </* XXX */ PyThread_exit_thread(); return (0);
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); else /* unreachable */
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef INLINE_THREAD if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &err = errno; goto exit; <#endif
+if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); <errno = err;
+if (gil_created()) </* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) <drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) if (gil_created()) <gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) <gil_RemoveFlags(); <else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (_Py_Finalizing && tstate!= _Py_Finalizing) &tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if ((pythread_deactivate(&pythread_deactivate, pythread_deactivate))!= 0) Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate); Py_Thread_deactivate(&pythread_deactivate);
+if (_Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing && _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (_Py_Finalizing && _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */
+/* * Restore the thread so that it can be stored again. */ if (_Py_Thread_Enabled()) &if (gil_created()) &if (_Py_Thread_Enabled()) <drop_gil(tstate); PyThread_exit_thread(); <else /* unreachable */
+&else </* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+if (gil_created()) /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ errno = err;
+if (gil_created()) &/* * Get the name of the thread */ tstate = tstate; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) &drop_gil(tstate); PyThread_exit_thread(); /* unreachable */ errno = err;
+if (_Py_Finalizing && tstate!= _Py_Finalizing) tstate = _Py_Finalizing; /* _Py_Finalizing is protected by the GIL */ if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<else <errno = err;
+<else &/* * Ignore it here... */ if (gil_created()) &if (_Py_Finalizing && tstate!= _Py_Finalizing) <if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread(); else if (_Py_Finalizing && tstate!= _Py_Finalizing) drop_gil(tstate); PyThread_exit_thread();
+else PyThread_exit_thread();
+&else errno = err;
+#ifdef REQUEST_ERRNO if (!pythread_empty) &if (gil_created()) &gil_RemoveFlags(); &else <if (pythread_empty && pythread_empty) PyThread_exit_thread(); #endif
+if (gil_created()) int err = errno; take_gil(tstate); PyThread_exit_thread(); assert(0); /* unreachable */ <errno = err;
+<#endif

@@ -1,0 +1,466 @@
+golden:
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + l, '/'))) {
+inference:
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(req->uri_raw + 1, '/'))){
+if (null == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7, '/'))){
+if (NULL == (sl = strchr(REQUEST_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL == (sl = strchr(REQ_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strchr(BUF_STR(uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(NULL, '/'))){
+if (NULL == sl){
+if (NULL == (sl = strchr(req->uri_raw + 8, '/'))){
+if (NULL == (strcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strdup(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (!NULL){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strchr(BUF_STR(&req->uri_raw) + 7, '/'))){
+if (NULL == (l = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 5, '/'))){
+if (NULL == (sl = strchr(BUF_STR(request.uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + '/'))){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(req->uri_raw + 7, '/'))){
+if (NULL == (buffer_is_empty(req->uri_raw))){
+if (NULL!= (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + '/'))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (strdup(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(_BUF_STR(req->uri_raw) + 7, '/'))){
+if (req->uri_raw == NULL){
+if (node == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 1, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw), '/'))){
+if (NULL == ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if(NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == NULL){
+if (NULL == (sl = strchr(req->uri_raw + 4, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 10, '/'))){
+if (NULL == (sl = strlcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(srv->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 6, '/'))){
+if (NULL == (strchr(req->uri_raw + 1, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), "/"))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 9, '/'))){
+if (req->uri_raw->ptr[0] == '/'){
+if (NULL == (sl = strchr(BUF_STR(request->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = unicode(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7, "/"))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 3, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw, '/')))){
+if (NULL == (sl = strchr(req->uri_raw + 7, "/"))){
+if (buffer_is_empty(req->uri_raw)){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (strchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 6, '/'))){
+else if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (buffer_is_empty(req->uri_raw)){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(NULL) + 7, '/')){
+if (NULL == (sl = strchr(BUF_STR(srv) + 7, '/'))){
+if (NULL == (sl = strchr(RUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(uri) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 0, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 + '/'))){
+if (NULL == (chr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, "/"))){
+if (NULL == (sl = strchr (BUF_STR (req->uri_raw) + 7, '/'))){
+if ((NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(GET_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '0'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (strchr(req->uri_raw, '/'))){
+if (NULL == (ptr = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(req->uri_raw) + 1, '/')){
+if (NULL == (sl = buf_string(req->uri_raw + 7, '/'))){
+if (sl == NULL){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw), "/"))){
+if (NULL == (strchr(REQUEST_STR(req->uri_raw) + 7, '/'))){
+if (nu == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (req->uri_raw->ptr[0] == '/')){
+if (NULL == (sl = strrchr(req->uri_raw + 7, '/'))){
+if (NULL == (url = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))!= 0){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 8, '/'))){
+if (nl == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(PR_FALSE(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strrchr(req->uri_raw + 1, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strchr (BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(uri_raw) + 7, '/'))){
+if (NULL == (strchr(REQ_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BuF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), 0, '/'))){
+if (NULL == (strlen(buf_string(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6, "/"))){
+if (NULL == (sl = strchr(PR_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 5, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strlen(BuF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(READ_STR(req->uri_raw) + 7, '/'))){
+if (next == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw+7) + 7, '/'))){
+if (NULL == (strchr(req->uri_raw + 8, '/'))){
+if (nul == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) == 0){
+if (null == (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (&NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL!= (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (i = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (str = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(NULL(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, NULL))){
+if (!NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(req->uri_raw, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (strchr(buf_string(req->uri_raw) + 7, '/'))){
+if (ni == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if ((NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (NULL == (strcasecmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 2, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '.'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strchr(BUF_STR(uri->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(url) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(i) + 7, '/'))){
+if (sl == '/'){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 6, '/'))){
+if (NULL == (sl = strchr(BUF_STR (req->uri_raw) + 7, '/'))){
+if (NULL == (sl = BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strrchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw)+1, '/'))){
+if (NULL == (sl = strlen(req->uri_raw), '/')){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 7, "/"))){
+if (sl == strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) == -1){
+if (NULL == strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))!= NULL){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 3, "/"))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if (NULL == (sl = strchr(0, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw), "/"))){
+if (NULL == ((strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (NULL == (sl = strlchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (strchr(BUF_STR(req->uri_raw) + 7, '/')) == 0){
+if (NULL == (sl = strchr((char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!strncmp(buf_string(req->uri_raw, "http"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(sl->get_name() == '/')){
+if (NULL == (sl = strchr((char **)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr((u_char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + i, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 - 1))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(!sl)){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!m_mvp){
+if (NULL == (sl = strchr(buf_str(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!((con->request.uri == NULL) &&!((con->request.uri == NULL) &&!((con->request.uri == NULL) &&!((con->request.uri == NULL) && ((con->request.uri == NULL) &&!(con->request.uri == NULL)) && ((con->request.uri == NULL) && ((con->request.uri == NULL) || (con->request.uri == NULL) || (con->request.uri == NULL)) && ((con->request.uri == NULL) || (con->request.uri == NULL))) && ((con->request.uri == NULL) || (con->{
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(NULL), '0')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && req->type == HTTP_VERIFY_V3){
+if (NULL == (sl = strchr(req->uri_raw + 7 * '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL!= NULL){
+if (NULL == (sl = strrchr(req->uri_raw + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == NULL){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!buffer_is_empty(req->uri_raw->ptr[0])){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!sl.exists()){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!sl){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!con->request.uri){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!buffer_is_empty(con->request.uri, req->uri_raw)){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 - 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL!= '/'){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7 + 1, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7, '/')){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(ptrlen(sl)  7)){
+if (NULL == (sl = strchr(buf_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr((const char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(buf_value(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr((int)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw, '/')))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))!= 0){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6))){
+if (NULL == (sl = strchr(0, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(RUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 - 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6, '/'))){
+if (NULL == (strchr(req->uri_raw + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 3, '/'))){
+if (!NULL){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strchr(BUF_STR (req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 3, "/"))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, "/"))){
+if (NULL == (strchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL == (sl = strchr (BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), "/"))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!strncmp(buf_string(req->uri_raw, "http"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 + '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '.'))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw), "/"))){
+if (NULL == (sl = strchr(NULL, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) == 0){
+if (NULL == (strlen(req->uri_raw) + 1, '/')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL!= '/'){
+if (NULL == sl){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == NULL){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 9, '/'))){
+if (NULL == (sl = strdup(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!buffer_is_empty(con->request.uri, req->uri_raw)){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (strcasecmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 2, '/'))){
+if (NULL == (strchr(req->uri_raw + 8, '/'))){
+if (NULL == (sl = strchr(_BUF_STR(req->uri_raw) + 7, '/'))){
+if (nl == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (!NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7, '/')){
+if (NULL == (sl = strrchr(req->uri_raw + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+else if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(REQ_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && req->type == HTTP_VERIFY_V3){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strlen(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + i, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 4, '/'))){
+if (NULL == strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7, "/"))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if (node == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strlchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!buffer_is_empty(req->uri_raw->ptr[0])){
+if (NULL == (sl = buf_string(req->uri_raw + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw), '/'))){
+if(NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL!= NULL){
+if (&NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(buf_string(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(NULL), '&0')){
+if (NULL == (i = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(ptrlen(sl) 7)){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 10, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8))){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if (NULL == (sl = strlen(BuF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(REQUEST_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(buf_string(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw), '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(BUF_STR(uri) + 7, '/'))){
+if (NULL == (strchr(REQ_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(uri->uri_raw) + 7, '/'))){
+if (strchr(BUF_STR(req->uri_raw) + 7, '/')) == 0){
+if (NULL == (sl = strchr(BUF_STR(srv) + 7, '/'))){
+if (sl == '/'){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) == -1){
+if (NULL!= (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (buffer_is_empty(req->uri_raw)){
+if (NULL == (sl = strchr(BUF_STR(url) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw, '/'))){
+if (NULL == (sl = strchr(BUF_STR(uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 6, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw)+1, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (buffer_is_empty(req->uri_raw))){
+if (NULL == (strrchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 0, '/'))){
+if (NULL == (str = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (l = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (chr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(READ_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '<0'))){
+if ((NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (NULL == (strchr(req->uri_raw, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!con->request.uri){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(req->uri_raw + 1, '/'))){
+if (NULL == (sl = strchr(buf_str(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 2, "/"))){
+if (NULL == (strchr(buf_string(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(request->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(NULL), '<0')){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, "/"))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '&0'))){
+if (ni == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 7))){
+if (NULL == (sl = strchr((char **)BUF_STR(req->uri_raw) + 7, '/'))){
+if (sl == strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 8, '/'))){
+if (NULL == (sl = strchr(BUF_STR(&req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '0'))){
+if (NULL == (sl = strchr(req->uri_raw + 7 * '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 8, '/'))){
+if (nu == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = strchr(GET_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 4, '/'))){
+if (NULL == (sl = strchr(buf_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (req->uri_raw->ptr[0] == '/')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7 - 1))){
+if (NULL == (sl = strchr(BUF_STR(srv->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(sl->get_name() == '/')){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 6, "/"))){
+if (NULL == (sl = strlcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strlen(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strrchr(req->uri_raw + 2, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 6, '/'))){
+if (NULL == (strchr(REQUEST_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw), "/"))){
+if (req->uri_raw == NULL){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, NULL))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (strchr(BuF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) && NULL == (sl = strchr(NULL), '0')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!m_mvp){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), 0, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/')){
+if (NULL == (strcmp(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr((u_char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(!sl)){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 6, '/'))){
+if (NULL == (sl = strchr((char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 3, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7 + 1, '/'))){
+if ((NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strdup(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!sl){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + '/'))){
+if (NULL == (sl = strchr(BUF_STR(request.uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/')) &&!sl.exists()){
+if (NULL == (sl = strchr(PR_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(NULL) + 7, '/')){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 7, '/'))){
+if (next == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 1, "/"))){
+if (NULL == (sl = strncmp(BUF_STR(req->uri_raw) + 7, "/"))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(ptrlen(sl) &7)){
+if (sl == NULL){
+if (NULL == NULL){
+if (NULL == (sl = strrchr(req->uri_raw, '/'))){
+if (null == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strchr(req->uri_raw + '/'))){
+if (NULL == (sl = strchr(req->uri_raw + 5, '/'))){
+if (NULL == (sl = unicode(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BuF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (sl = strchr(BUF_STR(i) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7), '/')){
+if (NULL == (sl = strrchr(req->uri_raw + 1, '/'))){
+if (NULL == (sl = strchr(buf_value(req->uri_raw) + 7, '/'))){
+if ((sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))!= NULL){
+if (NULL == (sl = strchr(req->uri_raw + 2, '/'))){
+if (NULL == (ptr = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strrchr(BUF_STR(req->uri_raw) + 7, '/')) &&!(ptrlen(sl) <7)){
+if (null == (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (buffer_is_empty(req->uri_raw)){
+if (NULL == (strchr(req->uri_raw + 1, '/'))){
+if (NULL == (sl = strchr((int)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (strncmp(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == (strlen(req->uri_raw) + 7, '/'))){
+if (NULL == (url = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr((const char *)BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 8, '/'))){
+if (NULL == (sl = strchr(NULL(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr (BUF_STR (req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL == ((strchr(BUF_STR(req->uri_raw) + 7, '/')))){
+if (nul == (sl = strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(req->uri_raw), '/')){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw) + 5, '/'))){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw), '/'))){
+if (NULL == (sl = BUF_STR(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strchr(PR_FALSE(req->uri_raw) + 7, '/'))){
+if (NULL == (sl = strlen(BUF_STR(req->uri_raw) + 1, '/'))){
+if (NULL!= (strchr(BUF_STR(req->uri_raw) + 7, '/'))){
+if (req->uri_raw->ptr[0] == '/'){
+if (NULL == (sl = strchr(BUF_STR(req->uri_raw+7) + 7, '/'))){

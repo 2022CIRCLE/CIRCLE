@@ -1,0 +1,375 @@
+golden:
+/* #5057: if v is unicode, there might be differences between wide and narrow builds in cases like '\U00012345'[0]. Wide builds will return a non-BMP char, whereas narrow builds will return a surrogate. In both the cases skip the optimization in order to produce compatible pycs. */ if (newconst != NULL && PyUnicode_Check(v) && PyUnicode_Check(newconst)) { Py_UNICODE ch = PyUnicode_AS_UNICODE(newconst)[0]; #ifdef Py_UNICODE_WIDE if (ch > 0xFFFF) { #else if (ch >= 0xD800 && ch <= 0xDFFF) { #endif  Py_DECREF(newconst);  return 0; } }
+inference:
+break;
+#endif
+default: break;
+
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break;
+break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+return newconst;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break;
+break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_MULTIPLY: newconst = PyNumber_Multiply(v, w); break;
+break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+return 0;
+newconst = PyNumber_Multiply(v, w); break;
+break; case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break;
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_DEBUG:
+break; default: break;
+case BINARY_SUBSCR: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Flush(v, w); break;
+newconst = PyNumber_Add(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_END: newconst = PyNumber_End(v, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_REFERENCE: newconst = PyNumber_Referent(v, w); break;
+return (0);
+break; case BINARY_MULTIPLY: newconst = PyNumber_Multiply(v, w); break;
+return;
+newconst = PyNumber_Remainder(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+newconst = PyNumber_Subtract(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_Add(v, w); break;
+case BINARY_SET: newconst = PyNumber_Set(v, w); break;
+case BINARY_LINK: newconst = PyNumber_Link(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Add(v, w); break;
+case BINARY_POWER: newconst = PyNumber_Power(v, w, Py_None); break;
+case BINARY_SHIFT: newconst = PyNumber_Remainder(v, w); break;
+return result;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+break; break;
+case BINARY_DIVIDE: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Multiply(v, w); break;
+break; case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break;
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Flush(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Add(v, w); break;
+case BINARY_UNLOCK: newconst = PyNumber_Unlock(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(V, w); break;
+case BINARY_ADD: newconst = PyNumber_Remainder(v, w); break;
+default: return;
+break; case BINARY_SUBSCR: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_FLOOR_FLOOR: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_OBJECT: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Add(v, w); break;
+case BINARY_RUNNING: newconst = PyNumber_Running(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_GENERIC: newconst = PyNumber_Generic(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_FIXUP: newconst = PyNumber_Fixup(v, w); break;
+case BINARY_WRITE: newconst = PyNumber_Write(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_SIZE: newconst = PyNumber_Size(v, w); break;
+case BINARY_FLOOR_FLOOR: newconst = PyNumber_Flush(v, w); break;
+newconst = PyNumber_Multiply(v, w);
+case BINARY_PUBLIC: newconst = PyNumber_PUBLIC(v, w); break;
+default: newconst = PyNumber_Add(v, w); break;
+case BINARY_RETURN: newconst = PyNumber_Return(v, w); break;
+default:
+default: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_Stop(v, w); break;
+break; case BINARY_END: newconst = PyNumber_End(v, w); break;
+newconst = PyNumber_TrueDivide(v, w); break;
+case BINARY_DEBUG: newconst = PyNumber_Debug(v, w); break;
+break; case BINARY_REFERENCE: newconst = PyNumber_Referent(v, w); break;
+case BINARY_SUBSCR: break;
+case BINARY_INT: newconst = PyNumber_Int(v, w); break;
+newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_Lshift(v, w); break;
+break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_REG: newconst = PyNumber_Reg(v, w); break;
+case BINARY_SUBTRACT:
+break; case BINARY_DEBUG:
+case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break;
+case BINARY_STATUS: newconst = PyNumber_Status(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v,w); break;
+case BINARY_SHIFT: newconst = PyNumber_Subtract(v, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_LINK: newconst = PyNumber_Link(v, w); break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break;
+case BINARY_SET: newconst = PyNumber_Set(v, w); break; case BINARY_SET: newconst = PyNumber_Set(v, w); break;
+case BINARY_VERSION: newconst = PyNumber_Version(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_THREAD: newconst = PyNumber_ThREAD(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_SHIFT(v, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_Add(v, w); break;
+case BINARY_POINTER: newconst = PyNumber_PoINTER(v, w); break;
+break; case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break;
+break; case BINARY_SET: newconst = PyNumber_Set(v, w); break;
+newconst = PyNumber_Add(v, w);
+case BINARY_TRUE_DIVIDE: newconst = PyNumber_TrueDivide(v, w); break;
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Add(v, w); break;
+case BINARY_DEBUG: break;
+case BINARY_DEBUG: newconst = PyNumber_Debugger(v, w); break;
+case BINARY_EMPTY: newconst = PyNumber_EMPTY(v, w); break;
+break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+default: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_SIZE: newconst = PyNumber_SiZE(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v,w); break;
+case BINARY_FLOOR: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_CONTRACT: newconst = PyNumber_ContraCT(v, w); break;
+break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Multiply(v, w); break;
+break; case BINARY_SHIFT: newconst = PyNumber_Remainder(v, w); break;
+break; case BINARY_FLOOR_FLOOR: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_MODULO: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_DIVide(v, w); break;
+case BINARY_FLOOR_DIVIDE:
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w);
+case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+default: break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(V, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_Remainder(v, w); break;
+else break;
+case BINARY_LOAD: newconst = PyNumber_Lshift(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Flip(v, w); break;
+case BINARY_THREAD: newconst = PyNumber_Thread(v, w); break;
+case BINARY_TRUE_DIVIDE: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Lshift(v, w); break;
+return break;
+case BINARY_UNKNOWN: newconst = PyNumber_UnkNOWN(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_PREFIX: newconst = PyNumber_PpreFIX(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_TrueDivide(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_TrueDivide(v, w); break;
+break; case BINARY_FIXUP: newconst = PyNumber_Fixup(v, w); break;
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_MAX: newconst = PyNumber_Max(v, w); break;
+case BINARY_READ: newconst = PyNumber_Read(v, w); break;
+break; case BINARY_FLOOR_FLOOR: newconst = PyNumber_Flush(v, w); break;
+case BINARY_MULTI_DIVIDE: newconst = PyNumber_Multiply(v, w); break;
+case BINARY_FLOOR_FLOOR: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_FLOOR_SHIFT: newconst = PyNumber_FloorDivide(v, w); break;
+return -1;
+case BINARY_END: newconst = PyNumber_End(v, w); break; case BINARY_END: newconst = PyNumber_End(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+return NULL;
+case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Remainder(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR_Xor: newconst = PyNumber_Xor(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Add(v, w); break;
+break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+return null;
+case BINARY_FLOOR_FLOW: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FloorDivide(v,w); break;
+free(v);
+free(w);
+case BINARY_MULTIPLY: newconst = PyNumber_Multiply(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FlushDIVide(v, w); break;
+break; case BINARY_SET: newconst = PyNumber_Set(v, w); break; case BINARY_SET: newconst = PyNumber_Set(v, w); break;
+break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break;
+case BINARY_UNLOCK: newconst = PyNumber_Unlock(v, w); break; case BINARY_UNLOCK: newconst = PyNumber_Unlock(v, w); break;
+break; case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_FLOOR_SHIFT: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_ADD: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Add(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Add(v, w); break;
+break; case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+*/
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_YOR: newconst = PyNumber_Yor(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+continue;
+case BINARY_RUNNING: newconst = PyNumber_Running(v, w); break; case BINARY_RUNNING: newconst = PyNumber_Running(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Lshift(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_TRUE_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR_XOR: newconst = PyNumber_Xor(v, w); break;
+break; case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_LOOR_DIVIDE: newconst = PyNumber_Lshift(v, w); break; case BINARY_BODY_DIVIDE: newconst = PyNumber_Byte(v, w); break; case BINARY_CODE_NONE: newconst = PyNumber_Code(v, w); break; case BINARY_BODY_DATA: newconst = PyNumber_Byte(v, w); break; case BINARY_BODY_DIVIDE: newconst = PyNumber_Byte(v, w); break; case BINARY_BODY_MINI: newconst = PyNumber_Byte(v, w); break; case BINARY_BODY_INP: newconst = PyNumber_Byte(v, w); break; case BINARY
+case BINARY_LOOP: newconst = PyNumber_FloorDivide(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Undispatch(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_LUN_UNKNOWN: newconst = PyNumber_GetUnkLun(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_LEN: newconst = PyNumber_Left(v, w); break; case BINARY_LEN: newconst = PyNumber_Light(v, w); break; case BINARY_LEN: newconst = PyNumber_Light(v, w); break; case BINARY_LEN_ADD: newconst = PyNumber_Left(v, w); break; case BINARY_LEN_ADD: newconst = PyNumber_Top(v, w); break; case BINARY_LEN_ADD: newconst = PyNumber_Top(v, w); break; case BINARY_LEN_ADD: newconst = PyNumber_Top(v, w); break; case BINARY_LEN_ADD: newconst = PyNumber_Bottom(v, w); break; case BINARY
+break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_UnknownExtra(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_UnknownExtra(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_UnknownExtra(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_AssignWithConversion(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_AssignWithConversion(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_AssignWithConversion(v, w); break; case BINARY_AUTOTYPE_PYNODE: newconst = PyNumber_AssignWithConversion(
+case BINARY_LEFT_GROUP: newconst = PyNumber_IntElement(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_MODULE: newconst = PyNumber_Add(v, w); break; case BINARY_LEN: newconst = PyNumber_Lnblk(v, w); break; case BINARY_SHIFT: newconst = PyNumber_Lnblk(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_NBOOT: newconst = PyNumber_Number_Number_Number_Number(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Number_Number(v, w); break; case BINARY_FLOATER: newconst = PyNumber_Floater(v, w); break; case BINARY_
+case BINARY_EXT: break; case BINARY_WATCH: newconst = PyNumber_NewWATCH(v, w); break;
+case BINARY_LIMIT: newconst = PyNumber_Limit(v, w); break; case BINARY_SIZE_INLINE: newconst = PyNumber_Reinit(v, w); break; case BINARY_NONE_INT: newconst = PyNumber_Add(v, w); break; case BINARY_NONE_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_NONE_INTER: newconst = PyNumber_GetItem(v, w); break; case BINARY_NONE_END: newconst = PyNumber_Init(v, w); break; case BINARY_NONE_INTER: newconst = PyNumber_Init(v, w); break; case BINARY_NONE_INTER: newconst = PyNumber_Init(v, w); break; case BINARY_NONE_SUBTRACT: newconst = Py
+case BINARY_TOOL_MASK: newconst = PyNumber_Toul_MASK(v, w); break; case BINARY_TOOL_MINIMUM: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MSK: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MASK: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MASK: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MSK: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MASK: newconst = PyNumber_ToulMult(v, w); break; case BINARY_TOOL_MSK: newconst = PyNumber_ToulM
+break; case BINARY_RETURN_NAME: newconst = PyNumber_Return(v, w); break;
+case BINARY_INTERVAL: newconst = PyNumber_Interval(v, w); break; case BINARY_INTERVAL: newconst = PyNumber_Integer(v, w); break;
+case BINARY_USE_NUMBER_DEBUG:
+case BINARY_RXD: newconst = PyNumber_RxDXD(v, w); break; case BINARY_BXY: newconst = PyNumber_BxYD(v, w); break; case BINARY_BYTE_MASK: newconst = PyNumber_ByteTransform(v, w); break; case BINARY_BYTE_MSK: newconst = PyNumber_ByteTransform(v, w); break; case BINARY_BYTE_MASK: newconst = PyNumber_ByteTransform(v, w); break; case BINARY_BYTE_MASK: newconst = PyNumber_ByteTransform(v, w); break; case BINARY_BYTE_MASK: newconst = PyNumber_ByteTransform(v, w); break; case BINARY_BYTE_MASK: newconst = PyNumb
+break; case BINARY_WORD_NO_CLONE: newconst = PyNumber_Coord(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_MULTIPLY: newconst = PyNumber_MultPly(v, w); break; case BINARY_VOPLY: newconst = PyNumber_Votate(v, w); break; case BINARY_PLY: newconst = PyNumber_PlyInt(v, w); break; case BINARY_VOVE_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_VOPLY: newconst = PyNumber_Votate(v, w); break; case BINARY_VOPY: newconst = PyNumber_V
+case BINARY_SHIFT: newconst = PyNumber_Symbol(v, w); break; case BINARY_SHIFT: newconst = PyNumber_Symbol(v, w); break;
+case BINARY_STRICT: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyNumber_Trimp(v, w); break; case BINARY_SET_STYLE: newconst = PyN
+case BINARY_FULLNO: newconst = PyNumber_GetItem(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_STATUS: newconst = PyNumber_StopInitialize(v, w); break; case BINARY_TYPE_REQUIRED: newconst = PyNumber_SetName(v, w); break; case BINARY_TYPE_REQUIRED: newconst = PyNumber_SetName(v, w); break; case BINARY_TYPE_REQUIRED: newconst = PyNumber_GetSameInstance(v, w); break; case BINARY_TYPE_REQUIRED: newconst = PyNumber_GetSameInstance(v, w); break; case BINARY_TYPE_REQUIRED: newconst = PyNumber_GetSameInstance(v
+case BINARY_BUFSTOT: newconst = PyNumber_Bustot(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICSHIFT(v, w); break; case BINARY_TRAPICSHIFT: newconst = PyNumber_TrapICS
+case BINARY_FIXUP_ADD: newconst = PyNumber_Fixup_Add(v, w); break; case BINARY_FIXUP_FRAME_DIVIDE: newconst = PyNumber_FlushUpDivide(v, w); break; case BINARY_FIXUP_ADD: newconst = PyNumber_FixupFolder(v, w); break; case BINARY_FIXUP_PX_DIVIDE: newconst = PyNumber_Px_DIVIDE(v, w); break; case BINARY_FIXUP_FLOW: newconst = PyNumber_FlushUpFolder(v, w); break; case BINARY_FIXUP_PX_DIVIDE: newconst = PyNumber_FlashUpFolder(v, w); break; case BINARY_FIXUP_BUSY: newconst = PyNumber_FlashUpFolder(v, w); break
+case BINARY_INTERPRET: newconst = PyNumber_Interpt(v, w); break; case BINARY_UNCOMPLETE: newconst = PyNumber_Uncomplet(v, w); break;
+case BINARY_FULL: newconst = PyNumber_GetFlush(v, w); break; case BINARY_VIDEO: newconst = PyNumber_VideOf(v, w); break;
+case BINARY_CONTENT_EVENT: newconst = PyNumber_Containment(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_LOOP: newconst = PyNumber_Floo(v, w); break;
+break; case BINARY_LAST_INLINE: newconst = PyNumber_TurnInline(v, w); break; case BINARY_END_INLINE: newconst = PyNumber_ThreeInline(v, w); break; case BINARY_END_INLINE: newconst = PyNumber_ThreeInline(v, w); break;
+case BINARY_COLD_BINARY: newconst = PyNumber_Close(v, w); break;
+case BINARY_INHERIT: newconst = PyNumber_Inherit(v, w); break; case BINARY_PROTECT: newconst = PyNumber_ProtECT(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_UnSpec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC: newconst = PyNumber_Unspec(v, w); break; case BINARY_UNSPEC:
+break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Unswap(v, w); break;
+case BINARY_EXIT_BAIN: newconst = PyNumber_Insert(v, w); break;
+case BINARY_FLOOR_FLOOR: newconst = PyNumber_FixedLoop(v, w); break; case BINARY_INTERPRET_DIVIDE: newconst = PyNumber_InitFloorDivide(v, w); break; case BINARY_INTERPRET_ADD: newconst = PyNumber_FixedFloorDivide(v, w); break;
+break; case BINARY_READ_ON_SW: newconst = PyNumber_WasWrite(v, w); break; case BINARY_READ_ON_SW: newconst = PyNumber_WasWrite(v, w); break; case BINARY_READ_ON_SW: newconst = PyNumber_WasWrite(v, w); break;
+case BINARY_FIX_BODY: newconst = PyNumber_GetFixedByRow(v, w); break;
+case BINARY_NO_ENURE: newconst = PyNumber_NoPrevEnable(v, w); break; case BINARY_CONTENT_DIVIDE: newconst = PyNumber_ContainingContent(v, w); break; case BINARY_TOPEND: newconst = PyNumber_Topend(v, w); break;
+break; case BINARY_BUFFER_DIVIDE: newconst = PyNumber_GetSplimpPly(v, w); break;
+break; case BINARY_COMBOUND: newconst = PyNumber_ComboxingComponent(v, w); break; case BINARY_SYSCODE_OF: newconst = PyNumber_Subtract(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Subtract(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Split(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Split(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Split(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Split(v, w); break; case BINARY_SYSCONT: newconst = PyNumber_Split(v, w); break; case BINARY_SYSCONT: newconst = PyNumb
+case BINARY_OBJECT: newconst = PyNumber_BindObject(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Split(v, w); break; case BINARY_ITEM: newconst = PyNumber_Item(v, w); break; case BINARY_ENABOR: newconst = PyNumber_Reload(v, w); break; case BINARY_INTERNO: newconst = PyNumber_Split(v, w); break; case BINARY_INTERNO: newconst = PyNumber_Item(v, w); break; case BINARY_INTERNO_INTERNO: newconst = PyNumber_Inflate(v, w); break; case BINARY_INTERNO: newconst = PyNumber_Inflate(v, w); break; case BINARY_INTERNO: newconst = PyNumber_Inflate(
+case BINARY_UNSUPPORTED: newconst = PyNumber_UnsupportED(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumber_Unsupported(v, w); break; case BINARY_UNSUPPORTED: newconst = PyNumb
+break; case BINARY_LINKED: newconst = PyNumber_Linked(v, w); break;
+break; case BINARY_FULLNO_CTRUE: newconst = PyNumber_Subtract(v, w); break; case BINARY_FRAME_CREATIVE: newconst = PyNumber_FullNoCTRate(v, w); break;
+case BINARY_SIZE_STRING: newconst = PyNumber_Size(v, w); break; case BINARY_VARIABLE: newconst = PyNumber_Variable(v, w); break;
+case BINARY_PUTTY_PRE: newconst = PyNumber_Pretchy(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Pretchy(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Pretchy(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Pretchy(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Pretchy(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_PrityField(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Requirequirequirequires(v, w); break; case BINARY_PUTTY_PRE: newconst = PyNumber_Re
+case BINARY_POP: newconst = PyNumber_Pool(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_BUFFER_PAGE: newconst = PyNumber_BufFrame(v, w); break;
+case BINARY_TO_DEFAULT: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_UNIT: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_DISPATCH: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_STRICT: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_INTEG: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_INTEG: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_INTEG: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_INTEG: newconst = PyNumber_FromArray(v, w); break; case BINARY_TO_INTEG: newconst = PyN
+case BINARY_IGNORE: newconst = PyItem_Increment(v, w); break; case BINARY_SECONDARY: newconst = PyItem_Add(v, w); break; case BINARY_LIMIT: newconst = PyItem_Add(v, w); break; case BINARY_LENGTH: newconst = PyItem_Add(v, w); break; case BINARY_LENGTH: newconst = PyItem_Add(v, w); break; case BINARY_LOOKUP: newconst = PyItem_Add(v, w); break; case BINARY_BOOPUP: newconst = PyItem_Boolup(v, w); break; case BINARY_BOOPUP: newconst = PyItem_Boolup(v, w); break; case BINARY_BOOPUP_MASK: newconst = PyItem_Boolup(v, w); break; case BINARY
+case BINARY_ITEM_EVENT: newconst = PyNumber_ItemEvent(v, w); break;
+case BINARY_FULL_DIVIDE: newconst = PyNumber_Multiply(v, w); break;
+break; case BINARY_LOOKUP: newconst = PyNumber_Llowup(v, w); break; case BINARY_UNSETPATH: newconst = PyNumber_UnsetUp(v, w); break; case BINARY_SETUP_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_SETUP_XOR: newconst = PyNumber_Setup(v, w); break; case BINARY_SETUP_PATH: newconst = PyNumber_Setup(v, w); break; case BINARY_SETUP_DIVIDE: newconst = PyNumber_Getup(v, w); break; case BINARY_SETUP_RIVE: newconst = PyNumber_Getup(v, w); break; case BINARY_SETUP_FLOOR_DIVIDE: newconst = PyNumber_Getup(v, w); break; case BINARY_SETUP_
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_INTEGER: newconst = PyNumber_IntergDivide(v, w); break;
+case BINARY_DOUBLE: newconst = PyNumber_Double(v, w); break; case BINARY_END: newconst = PyNumber_Double(v, w); break; case BINARY_INTEGER_DIVIDE: newconst = PyNumber_Filter(v, w); break; case BINARY_LINENAME: newconst = PyNumber_LineNumber(v, w); break;
+case BINARY_NONE: newconst = PyNumber_None(v, w); break;
+case BINARY_FUNCTION: newconst = PyNumber_Fucition(v, w); break;
+case BINARY_BODY_POWER: newconst = PyNumber_GetBody(v, w); break;
+case BINARY_SWAP_CONSTR: newconst = PyNumber_SwapContext(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapContext(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapConstructor(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapConstructor(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapConstructor(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapConstructor(v, w); break; case BINARY_SWAP_CONSTRUCTOR: newconst = PyNumber_SwapConstructor(v, w); break
+case BINARY_LOOKUP_LOAD: newconst = PyNumber_GetOnLshift(v, w); break;
+break; case BINARY_TO_USAGE: newconst = PyNumber_To_USAGE(v, w); break;
+break; case BINARY_RELIGHT: newconst = PyNumber_RRleight(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SkiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SkiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SkiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_Si
+case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_VDITOR: newconst = PyNumber_Vdior(v, w); break;
+case BINARY_MULTIPLY: newconst = PyNumber_MultPly(v, w); break; case BINARY_CONFRET: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET_LAST: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET_DATE: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET: newconst = PyNumber_ConfRET(v, w); break; case BINARY_CONFRET: newconst =
+case BINARY_LOOPSHIFT: newconst = PyNumber_FloorDivide(v, w); break; case BINARY_NOXYFORWARD: newconst = PyNumber_Pool(v, w); break;
+case BINARY_LIMP: newconst = PyNumber_Lips(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+case BINARY_SIZE_READ: newconst = PyNumber_SIZE_READ(v, w); break;
+case BINARY_PUTFLOOR: newconst = PyNumber_PufFloor(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PufFloor(v, w); break; case BINARY_PUTTLEAD: newconst = PyNumber_PutLetter(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PutLetter(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PutLetter(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PutLetter(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PutLetter(v, w); break; case BINARY_PUTFLOOR: newconst = PyNumber_PutLetter(v, w); break
+case BINARY_SHIFT: newconst = PyNumber_Sshuffle(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_ITEM: newconst = PyNumber_Item(v, w); break;
+case BINARY_DO_LOADER_DIVIDE: newconst = PyNumber_DoAssign(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_DoAssign(v, w); break; case BINARY_SOFT_DIVIDE: newconst = PyNumber_Solow(v, w); break; case BINARY_CORE_DIVIDE: newconst = PyNumber_GetCoorDIVIDE(v, w); break; case BINARY_CA_RE: newconst = PyNumber_CoorDIVIDE(v, w); break; case BINARY_CA_RETURN: newconst = PyNumber_CoorDIVIDE(v, w); break; case BINARY_CA_RETURN: newconst = PyNumber_CreateByDIVIDE(v, w); break; case BINARY_CA_RETURN: newconst = PyNumber_Cre
+case BINARY_FUNCTION: newconst = PyNumber_Fuction(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_SOFT: newconst = PyNumber_Sinf(v, w); break; case BINARY_SOFTSHORT: newconst = PyNumber_Sinif(v, w); break; case BINARY_SOFTSHORT: newconst = PyNumber_Sink(v, w); break; case BINARY_SOFTSHORT: newconst = PyNumber_Sink(
+case BINARY_DEVICE: newconst = PyNumber_DEVICE(v, w); break;
+break; case BINARY_UNUSED: newconst = PyNumber_UnUSED(v, w); break; case BINARY_ENTRY_STATIC: newconst = PyNumber_EntryState(v, w); break; case BINARY_INT: newconst = PyNumber_IntElement(v, w); break;
+break; case BINARY_COLD: newconst = PyNumber_COLD(v, w); break; case BINARY_SIZE: newconst = PyNumber_Size(v, w); break; case BINARY_MAX_DIVIDE: newconst = PyNumber_MaxSize(v, w); break;
+case BINARY_SOFTINT1: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT2: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT3: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT3: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT3: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT4: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT4: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT4: newconst = PyNumber_Sibling(v, w); break; case BINARY_SOFTINT4: newconst = Py
+case BINARY_READ_ON: newconst = PyNumber_Assert(v, w); break; case BINARY_READ_ON_ON: newconst = PyNumber_Assert(v, w); break;
+case BINARY_LITTOP: newconst = PyNumber_Ltonpx(v, w); break;
+case BINARY_DOUBLE: newconst = PyNumber_SetDown(v, w); break; case BINARY_DOUBLE_DRIVE: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUP: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD: newconst = PyNumber_SetDown(v, w); break; case BINARY_LOOKUPDEAD
+case BINARY_USER_DEBUG: newconst = PyNumber_SaveDual(v, w); break;
+case BINARY_MODULE_MUTEX_ADD: newconst = PyNumber_Mutex_Add(v, w); break; case BINARY_MODULE_MUTEX_ADD: newconst = PyNumber_Mutex_Add(v, w); break; case BINARY_MODULE_MUTEX_ADD: newconst = PyNumber_Mutex_Add(v, w); break; case BINARY_MODULE_DIVIDE: newconst = PyNumber_Mutex_Add(v, w); break; case BINARY_MODULE_DIVIDE: newconst = PyNumber_Mutex_Add(v, w); break; case BINARY_MODULE_X_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_MODULE_SUBSCR: newconst = PyNumber_Mutex_Add(v, w); break;
+break; case BINARY_NEVER_P: newconst = PyNumber_New(v, w); break; case BINARY_NEVER_P: newconst = PyNumber_New(v, w); break;
+break; case BINARY_REFERENCE: newconst = PyNumber_Referent(v, w); break; case BINARY_EXTRA_SIZE: newconst = PyNumber_EXTRA_SIZE(v, w); break; case BINARY_LIZE_DIVIDE: newconst = PyNumber_LittleDIVIDE(v, w); break; case BINARY_NEXTRA_SIZE: newconst = PyNumber_Nixel(v, w); break; case BINARY_NEXTRA_DIVIDE: newconst = PyNumber_Nocese(v, w); break; case BINARY_NEXTRA_SHIFT: newconst = PyNumber_Nocese(v, w); break; case BINARY_NEXTRA_DIVIDE: newconst = PyNumber_Nocese(v, w); break; case BINARY_NEXTRA_DIVIDE: newconst = Py
+case BINARY_OPPATE: newconst = PyNumber_Oppate(v, w); break; case BINARY_REPORT_OBSERVER: newconst = PyNumber_ReportInner(v, w); break; case BINARY_IS_IGNORE: newconst = PyNumber_IS_IGNORE(v, w); break; case BINARY_REVER_IGNORE: newconst = PyNumber_Severe(v, w); break; case BINARY_REPORT_IGNORE: newconst = PyNumber_IndORE(v, w); break; case BINARY_REPORT_IGNORE: newconst = PyNumber_IndORE(v, w); break; case BINARY_REPORT_IGNORE: newconst = PyNumber_Report_IGNORE(v, w); break; case BINARY_REPORT_IGNORE: newconst = PyNumber_Report_IGNORE(v
+case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst = PyNumber_Add(v, w); break; case BINARY_AUTOSET: newconst
+break; case BINARY_BODY_MANAGER: newconst = PyNumber_Body(v, w); break;
+case BINARY_NOBJECT: newconst = PyNumber_Nobjject(v, w); break;
+case BINARY_SOFT: newconst = PyNumber_Solow(v, w); break;
+case BINARY_XOR_EXCEPTION: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR_EXCEPTION: newconst = PyNumber_Xor(v, w); break;
+case BINARY_CONF: newconst = PyNumber_Conf(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_FIX_C: newconst = PyNumber_Fix_C(v, w); break; case BINARY_FAX_EXTRACT: newconst = PyNumber_Reg(v, w); break;
+case BINARY_PUTTIPLY: newconst = PyNumber_TrueDivide(v, w); break;
+case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_MULTI_DIVIDE: newconst = PyNumber_MultIntElement(v, w); break; case BINARY_NULLIVE: newconst = PyNumber_NULLIVE(v, w); break; case BINARY_DOUBLE: newconst = PyNumber_OulVeLive(v, w); break; case BINARY_BOOLOC: newconst = PyNumber_BoolOC(v, w); break; case BINARY_BOOLOC: newconst = PyNumber_BoolOC(v, w); break; case BINARY_BOOLOC_POOLOC: newconst = PyNumber_BoolOC(v, w); break; case BINARY_BOOLOC: newconst = PyNumber_BoolOC(v, w);
+case BINARY_PAGE_DEBUG: newconst = PyNumber_GetItem(v, w); break;
+case BINARY_LOCALE: newconst = PyNumber_Llcash(v, w); break; case BINARY_DOCUMENT: newconst = PyNumber_Document(); break; case BINARY_SHORTLEVEL: newconst = PyNumber_ShortleVEL(v, w); break; case BINARY_WATCHED: newconst = PyNumber_WATCHED(v, w); break; case BINARY_OWN: newconst = PyNumber_Color(v, w); break; case BINARY_OPEN: newconst = PyNumber_Color(v, w); break; case BINARY_OFFSET: newconst = PyNumber_Color(v, w); break; case BINARY_OWN_FLOOR_LAST: newconst = PyNumber_Subtract(v, w); break; case BINARY_OWN_STRACT: newconst = PyNumber_
+case BINARY_DEBUG: newconst = PyNumber_Debugger(v, w); break; case BINARY_FLOOR_DEBUG: newconst = PyNumber_FlushDivide(v, w); break; case BINARY_XOR_ENUMERATOR: newconst = PyNumber_Xor(v, w); break; case BINARY_OR_GENERIC: newconst = PyNumber_Or_Generic(v, w); break; case BINARY_OR_INTERPRET: newconst = PyNumber_Interpt(v, w); break; case BINARY_TYPE: newconst = PyNumber_GetType(v, w); break; case BINARY_TYPE_DIVIDE: newconst = PyNumber_Lshift(v, w); break; case BINARY_TYPE_DIVIDE: newconst = PyNumber_Add(v, w); break; case BINARY_TYPE
+case BINARY_WATCH: newconst = PyNumber_WATCH(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_TOOP_INCR: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_TOOP_INCR: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_INDEC: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_INCR: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_INDEC: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_INDEC: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_INDEC: newconst = PyNumber_GetInc(v, w); break; case BINARY_TOOP_ENDEC: newconst = PyNumber_GetInc(v, w); break; case BINARY
+case BINARY_WAVE_IN_B: newconst = PyNumber_Wve_In(v, w); break; case BINARY_VENDOR_INTERVAL: newconst = PyNumber_Vendor(v, w); break; case BINARY_TAVE_OUT_OBSERVER: newconst = PyNumber_TuteVendor(v, w); break; case BINARY_TABLE_LENGTH: newconst = PyNumber_TileVendor(v, w); break; case BINARY_TABLE_ENTRY_INTERVAL: newconst = PyNumber_TileVendor(v, w); break; case BINARY_TABLE_ENTRY_IN_END: newconst = PyNumber_TileVendor(v, w); break; case BINARY_TABLE_CELL_SET: newconst = PyNumber_CellState(v, w); break; case BINARY_TABLE_INTERVAL
+case BINARY_LHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_NONE: newconst = PyNumber_NoneTrans(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Subtract(v, w); break; case BINARY_NONE_BOOLOC: newconst = PyNumber_Free(v, w); break;
+case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Remainder(v, w); break; case BINARY_MODULO: newconst = PyNumber_Add(v, w); break; case BINARY_FOTHBOARD: newconst = PyNumber_Add(v, w); break; case BINARY_OWTHBOARD_STRING: newconst = PyNumber_Remainder(v, w); break; case BINARY_OWTHBOARD_STRING: newconst = PyNumber_Wody(v, w); break; case BINARY_OWTHBOARD_STRING: newconst = PyNumber_Owthoard(v, w); break; case BINARY_ORTHORE_STRING: newconst = PyNumber_IntOfBox(v, w); break; case BINARY_ORTH
+case BINARY_BOOLEAN: newconst = PyNumber_BOOLEAN(v, w); break; case BINARY_BOOLEAN: newconst = PyNumber_BOOLEAN(v, w); break;
+break; case BINARY_SUBSCR: newconst = PyNumber_Spin(v, w); break; case BINARY_CLOSURE: newconst = PyNumber_Close(v, w); break;
+case BINARY_LIMIT: newconst = PyNumber_Splimit(v, w); break; case BINARY_REFERENCES: newconst = PyNumber_References(v, w); break;
+break; case BINARY_INTERPRET: newconst = PyNumber_Interpt(v, w); break;
+case BINARY_STATUS: newconst = PyNumber_IntSubtract(v, w); break; case BINARY_STATUS: newconst = PyNumber_StopSubtract(v, w); break;
+break; case BINARY_INLINE: newconst = PyNumber_Inline(v, w); break; case BINARY_INLINE_HREAD: newconst = PyNumber_Inline(v, w); break; case BINARY_OUTLINE_NEW: newconst = PyNumber_Outline(v, w); break; case BINARY_OUTLINE_ENABLED: newconst = PyNumber_Outline(v, w); break; case BINARY_OUTLINE_ENABLED: newconst = PyNumber_Inline(v, w); break; case BINARY_OUTLINE_ENABLED: newconst = PyNumber_Outline(v, w); break; case BINARY_OUTLINE_ENABLED: newconst = PyNumber_Outline(v, w); break; case BINARY_OUTLINE_ENABLED: newconst = PyNumber_Inline(v, w); break; case BINARY_OUTLINE_ENABLE
+case BINARY_SHIFT: newconst = PyNumber_Stop(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break;
+break; case BINARY_UNSPEC: newconst = PyNumber_UnSpec(v, w); break;
+case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_TYPE_XOR: newconst = PyNumber_Xor(v, w); break;
+case BINARY_LITT: newconst = PyNumber_LIt(v, w); break; case BINARY_V3: newconst = PyNumber_V3(v, w); break;
+break; case BINARY_BUFFER_TYPE: newconst = PyNumber_FixedProperty(v, w); break;
+break; case BINARY_FIX_DIVIDE: newconst = PyNumber_FixedDIVIDE(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_FixedDIVIDE(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_FLAG_DIVIDE: newconst = PyNumber_FlipedDIVIDE(v, w); break; case BINARY_MAX_COUNT: newconst = PyNumber_MarxedDIVIDE(v, w); break; case BINARY_MAX_COUNT: newconst = PyNumber_MarxedDIVIDE(v, w); break; case BINARY_MAX_COUNT: newconst = PyNumber_MarxedDIVIDE(v, w); break; case BINARY_MAX_COUNT: newconst = PyNumb
+case BINARY_SIZE: newconst = PyNumber_Size(v, w); break; case BINARY_SIZE_END: newconst = PyNumber_Size(v, w); break; case BINARY_STATUS: newconst = PyNumber_Symbol(v, w); break; case BINARY_STATUS_DEV: newconst = PyNumber_Symbol(v, w); break;
+case BINARY_CLOT: newconst = PyNumber_Set(v, w); break; case BINARY_BODY_INHERIT: newconst = PyNumber_Set(v, w); break; case BINARY_POINT_INHERIT: newconst = PyNumber_Set(v, w); break;
+case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_LOCKING: newconst = PyNumber_Ltop(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Subtract(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_YOR: newconst = PyNumber_Yor(v, w); break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break; case BINARY_LINK: newconst = PyNumber_Link(v, w); break; case BINARY_LINK: newconst =
+break; case BINARY_READ_INVALID: newconst = PyNumber_Return(v, w); break; case BINARY_READ_UNCONDITION: newconst = PyNumber_Return(v, w); break; case BINARY_READ_UNCONDITION: newconst = PyNumber_Return(v, w); break; case BINARY_READ_INVALID: newconst = PyNumber_Return(v, w); break; case BINARY_READ_INVALID: newconst = PyNumber_Return(v, w); break; case BINARY_READ_INVALID: newconst = PyNumber_Return(v, w); break; case BINARY_READ_INST: newconst = PyNumber_Return(v, w); break; case BINARY_READ_INVALID: newconst = PyNumber_Return(v, w); break; case B
+case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_BUTTON: newconst = PyNumber_Buple(v, w); break; case BINARY_MAX: newconst = PyNumber_MaxX(v, w); break;
+break; case BINARY_NONE_UPDATE_UNSERVICE: newconst = PyNumber_New(v, w); break;
+break; case BINARY_ROUTE: newconst = PyNumber_Round(v, w); break; case BINARY_REFERENCES: newconst = PyNumber_Referent(v, w); break; case BINARY_ROUTE_SUPPORT: newconst = PyNumber_Round(v, w); break; case BINARY_ROUTE_BACK: newconst = PyNumber_Round(v, w); break; case BINARY_ROUTE_SUBSCR: newconst = PyNumber_Round(v, w); break; case BINARY_ROUTE_ADD: newconst = PyNumber_Round(v, w); break; case BINARY_ROUTE_SUBTRACT: newconst = PyNumber_Remainder(v, w); break; case BINARY_ROUTE_SUBTRACT: newconst = PyNumber_Rule(v, w); break; case BINARY_
+case BINARY_READ_COMPLETION: newconst = PyNumber_Remainder(v, w); break;
+case BINARY_USER_LHEAD: newconst = PyNumber_ClearUserHash(v, w); break; case BINARY_USER_BAND: newconst = PyNumber_ClearUserHash(v, w); break;
+break; case BINARY_BODY: newconst = PyNumber_Subtract(v, w); break; case BINARY_BODY_TTY: newconst = PyNumber_FloorDivide(v, w); break;
+case BINARY_HOST: newconst = PyNumber_Host(v, w); break; case BINARY_SIZE: newconst = PyNumber_Size(v, w); break;
+break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_Lshift(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case BINARY_INTSIZE: newconst = PyNumber_IntSiZE(v, w); break; case B
+case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_PREFIX: newconst = PyNumber_Ppref(v, w); break; case BINARY_EXT: newconst = PyNumber_EXT(v, w); break; case BINARY_POPER: newconst = PyNumber_OpPref(v, w); break;
+case BINARY_LOC_DIVIDE: newconst = PyNumber_LocationDvi(v, w); break; case BINARY_LOC_FLOOR: newconst = PyNumber_LocationDvi(v, w); break; case BINARY_LOC_FLOOR: newconst = PyNumber_FLOORDivide(v, w); break; case BINARY_LOC_SHIFT: newconst = PyNumber_FloorDivide(v, w); break; case BINARY_LOC_RGB: newconst = PyNumber_LocationDvi(v, w); break; case BINARY_LOC_GROUP: newconst = PyNumber_LocationDvi(v, w); break; case BINARY_LOC_DVI: newconst = PyNumber_LocationDvi(v, w); break; case BINARY_LOC_ISO: newconst =
+case BINARY_NEEDGIANT: newconst = PyNumber_GetNaN(v, w); break;
+case BINARY_SHIFT: newconst = PyNumber_Splice(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break;
+break; case BINARY_LOCATION: newconst = PyNumber_FloorDivide(v, w); break; case BINARY_OBSERVER: newconst = PyNumber_List(v, w); break; case BINARY_OBSERVER_NAME: newconst = PyNumber_List(v, w); break; case BINARY_OBSERVER_NAME_EXTENDED: newconst = PyNumber_GetItem(v, w); break;
+case BINARY_LW: newconst = PyNumber_LWw(v, w); break;
+case BINARY_ENUM_HASH: newconst = PyNumber_Set(v, w); break;
+case BINARY_TRACE_EXTRACT: newconst = PyNumber_TraceElement(v, w); break;
+break; case BINARY_MODULO: newconst = PyNumber_MoveSmall(v, w); break; case BINARY_LOBALIAS: newconst = PyNumber_Remainder(v, w); break; case BINARY_COMBUG: newconst = PyNumber_Combug(v, w); break; case BINARY_LINESHIFT: newconst = PyNumber_LinesHitop(v, w); break; case BINARY_LINESHIFT: newconst = PyNumber_Combug(v, w); break; case BINARY_LINESHIFT: newconst = PyNumber_Combug(v, w); break; case BINARY_LINESHIFT: newconst = PyNumber_Combug(v, w); break; case BINARY_LINESHIFT: newconst = PyNumber_Combug(v, w); break; case BINARY_LINESHIFT: new
+case BINARY_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_LONG: newconst = PyNumber_Lshift(v, w); break; case BINARY_FLAG_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_SHIFT_FLAG_SHIFT: newconst = PyNumber_Split(v, w); break; case BINARY_LONG_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_LONG_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FLOORDivide(v, w); break; case BINARY_LONG_SHIFT: newconst = PyNumber_Lshift(v, w); break; case BINARY
+case BINARY_PROD: newconst = PyNumber_Prod(v, w); break; case BINARY_PROD: newconst = PyNumber_Prod(v, w); break;
+case BINARY_UNLOCK: break; case BINARY_UNLOCK_XOR: break; case BINARY_UNLOCK_YOR: break; case BINARY_UNLOCK_XOR: break;
+case BINARY_PROSYNC: newconst = PyNumber_Prosync(v, w); break;
+case BINARY_UNFORMED: newconst = PyNumber_Unformified(v, w); break; case BINARY_UNEXPECTED: newconst = PyNumber_UnexpECTED(v, w); break; case BINARY_SXP: newconst = PyNumber_SxP(v, w); break;
+case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Multiply(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Remainder(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_ROUTE_
+break; case BINARY_CLUSTER_NONE: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: newconst = PyNumber_Cluster(v, w); break; case BINARY_Cluster_None: new
+case BINARY_ITEM_READ: newconst = PyNumber_Item_Read(v, w); break; case BINARY_EXTRA_BLOCK: newconst = PyNumber_Reallocate(v, w); break;
+case BINARY_TRACE_DIVIDE: newconst = PyNumber_TraceDIVide(v, w); break;
+break; case BINARY_FIXED: newconst = PyNumber_FixedDivision(v, w); break;
+case BINARY_LEN: newconst = PyNumber_Left(v, w); break;
+case BINARY_BUF_DIVIDE: newconst = PyNumber_Buf(v, w); break; case BINARY_FUB_READ: newconst = PyNumber_Remainder(v, w); break; case BINARY_FUB_SYNC: newconst = PyNumber_SyNC(v, w); break;
+case BINARY_LEFT_LSHAFT: newconst = PyNumber_Count(v, w); break;
+case BINARY_STATUS: newconst = PyNumber_StopTargets(v, w); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyNumber_Size(); break; case BINARY_SIZE_INCOMPLETE: newconst = PyN
+case BINARY_COST_DIVIDE: newconst = PyNumber_COST_DIVIDE(v, w); break; case BINARY_COST_DIVIDE: newconst = PyNumber_COST_DIVIDE(v, w); break;
+case BINARY_READ: newconst = PyNumber_Rw(v, w); break; case BINARY_ADD: newconst = PyNumber_Rew(v, w); break;
+case BINARY_NEEDGIANT: newconst = PyNumber_Next(v, w); break; case BINARY_KEYWORD: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYBOLD: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYCORE: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYSHIFT: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYCORE: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYSHIFT: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYSHIFT: newconst = PyNumber_NoElement(v, w); break; case BINARY_KEYCORE: newconst =
+case BINARY_DOUBLE: newconst = PyNumber_DoubleIndent(v, w); break; case BINARY_POINTER: newconst = PyNumber_PaintedDivide(v, w); break;
+case BINARY_OBASIS: newconst = PyNumber_ObjSize(v, w); break;
+case BINARY_STATIC: newconst = PyNumber_STATIC(v, w); break;
+case BINARY_CANNULL: newconst = PyNumber_CANNULL(v, w); break;
+case BINARY_INTERPRET: newconst = PyNumber_Int(v, w); break; case BINARY_INTR_DIVIDE: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET_DIVIDE: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET_DEBUG: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET_DIVIDE: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET_CREATE: newconst = PyNumber_Int(v, w); break; case BINARY_INTERPRET_CREATE
+case BINARY_NOT_ENUMERATE: newconst = PyNumber_NodeDif(v, w); break;
+case BINARY_CLOCK: newconst = PyNumber_CLOCK(v, w); break; case BINARY_ADD: newconst = PyNumber_CLOCK(v, w); break; case BINARY_TIMEOUT: newconst = PyNumber_TIMEOUT(v, w); break;
+case BINARY_REFIX: newconst = PyNumber_Refresh(v, w); break;
+case BINARY_USE_SCI: newconst = PyNumber_SaveSc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_SaveSc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_SaveSc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_SaveSc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_SaveSc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_Sc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_Sc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber_Sc(v, w); break; case BINARY_USE_SCI: newconst = PyNumber
+case BINARY_EXT: newconst = PyNumber_Int(v, w); break; case BINARY_SUBTRACT: newconst = PyNumber_Subtract(v, w); break; case BINARY_COMPLETE: newconst = PyNumber_Complet(v, w); break; case BINARY_SIZE: newconst = PyNumber_Size(v, w); break; case BINARY_COMPLETE: newconst = PyNumber_ListSize(v, w); break; case BINARY_UNFORMATE: newconst = PyNumber_Unformate(v, w); break; case BINARY_SIZE_SIZE: newconst = PyNumber_Unformate(v, w); break; case BINARY_RESTORE: newconst = PyNumber_ReStore(v, w); break; case BINARY_REACHER: newconst = PyNumber_Delete(v
+case BINARY_BUF_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+break; case BINARY_NONE: newconst = PyNumber_None(v, w); break;
+case BINARY_BIG_DIVIDE: newconst = PyNumber_Subtract(v, w); break;
+case BINARY_LOOKUP: newconst = PyNumber_Lshift(v, w); break;
+break; case BINARY_LENGTH: newconst = PyNumber_Length(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Length(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Flush(v, w); break; case BINARY_LINKAGE: newconst = PyNumber_Linkage(v, w); break; case BINARY_LINKAGE_I: newconst = PyNumber_Linkage(v, w); break; case BINARY_LINKAGE_IXIT: newconst = PyNumber_Linkage(v, w); break; case BINARY_LINKAGE_IO: newconst = PyNumber_Linkage(v, w); break; case BINARY_LINKAGE_IS_BODY: newconst = PyNumber_Linkage(v, w); break; case BINARY_LINKAGE_IS_
+case BINARY_XOR_XOR: newconst = PyNumber_Xor(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SHIFT(v, w); break; case BINARY_MAXXOR: newconst = PyNumber_MathXor(v, w); break; case BINARY_MAXXOR: newconst = PyNumber_MathXor(v, w); break; case BINARY_MAXYOR: newconst = PyNumber_MathXor(v, w); break; case BINARY_MAXXOR: newconst = PyNumber_MathXor(v, w); break; case BINARY_MAXXOR: newconst = PyNumber_MathYor(v, w); break; case BINARY_MAXXOR: new
+case BINARY_INTEL_CALL: newconst = PyNumber_GetInlineContext(v, w); break;
+break; case BINARY_READ_ENABLE: newconst = PyNumber_ReadVariable(v, w); break; case BINARY_READ_DEV: newconst = PyNumber_ReadReadVariable(v, w); break; case BINARY_READ_HEAD: newconst = PyNumber_ReReadReadRead(v, w); break; case BINARY_READ_HEAD: newconst = PyNumber_ReReadReadReadReadRead(v, w); break; case BINARY_READ_LENGTH: newconst = PyNumber_ReReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadReadRead
+case BINARY_CALLOUT: newconst = PyNumber_Callout(v, w); break; case BINARY_BUBTRACT: newconst = PyNumber_Callout(v, w); break;
+break; case BINARY_VOP_VENDOR: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_NONE: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w); break; case BINARY_VENDOR_None: newconst = PyNumber_Vendor(v, w
+case BINARY_BINARY: newconst = PyNumber_Rebase(v, w); break; case BINARY_END: newconst = PyNumber_Delete(v, w); break; case BINARY_BINARY_REPORT: newconst = PyNumber_RemoveElement(v, w); break; case BINARY_PAREND_ENTRY: newconst = PyNumber_Parend_Element(v, w); break; case BINARY_SPARE_ENTRY: newconst = PyNumber_Support(v, w); break; case BINARY_SPARE_END: newconst = PyNumber_Paration(v, w); break; case BINARY_SPARE_ENABLE: newconst = PyNumber_Support(v, w); break; case BINARY_SPARE_BIN: newconst = PyNumber_Support(v, w); break; case BINARY_SPARE_END:
+case BINARY_SHIFT: newconst = PyNumber_SiFT(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SHIFT(v, w); break; case BINARY_ADD: newconst = PyNumber_Add(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_FloorDivide(v, w); break; case BINARY_SUBSCR: newconst = PyNumber_Subtract(v, w); break; case BINARY_NEVER: newconst = PyNumber_NeverFormat(v, w); break; case BINARY_SHIFT: newconst = PyNumber_SetMetaData(v, w); break; case BINARY_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_NEVER_
+break; case BINARY_UNLOCK: newconst = PyNumber_Unload(v, w); break; case BINARY_REPORT: newconst = PyNumber_Report(v, w); break; case BINARY_DIVIDE: newconst = PyNumber_DIVIDE(v, w); break; case BINARY_UNLOCK: newconst = PyNumber_Report(v, w); break; case BINARY_FLOOR_DIVIDE: newconst = PyNumber_Report(v, w); break; case BINARY_UNLOCK: newconst = PyNumber_Report(v, w); break; case BINARY_UNLOCK_ANY: newconst = PyNumber_Report(v, w); break; case BINARY_UNLOCK_FLOW: newconst = PyNumber_Report(v, w); break; case BINARY_UNLOCK_DADD: newconst = PyNumb
+case BINARY_TOH: newconst = PyNumber_ToH(v, w); break;
+case BINARY_FIXED_DIVIDE: newconst = PyNumber_FixedDIVIDE(v, w); break;
+case BINARY_CANCEL: newconst = PyNumber_Constant(v, w); break; case BINARY_SET: newconst = PyNumber_Set(v, w); break;
+
+default: break;
+break;
+<break;
+break;
+&break;
+default:

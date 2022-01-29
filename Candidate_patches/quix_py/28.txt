@@ -1,0 +1,841 @@
+golden:
+prevnode = node
+inference:
+#endif
+
+return prevnode;
+node.successor = prevnode;
+node = nextnode;
+return 0;
+free(node);
+*/
+return node;
+return -1;
+return nextnode;
+break;
+printf("reverse_linked_listn");
+node.successor = nextnode;
+return None;
+splx(s);
+#ifdef DEBUG
+return result;
+int i;
+return (0);
+node.successor = node;
+NS_RELEASE(node);
+super(node);
+NS_IF_RELEASE(node);
+return NS_OK;
+node.next = nextnode;
+nextnode = nextnode;
+node.successor = prevnode
+node.successor = node.successor;
+prevnode = nextnode;
+node.successor = success;
+node.successor = 0;
+node.nextnode = nextnode;
+nsresult rv;
+deprecated_reverse_linked_list(node)
+return False;
+#else
+node = prevnode;
+node = nextnode
+if (node) node = nextnode;
+if (node) return prevnode;
+#ifdef DIAGNOSTIC
+return ret;
+/* XXX */
+continue;
+delnode;
+NS_ADDREF(node);
+return False;
+return revert_linked_list(node);
+return rv;
+free(node.successor);
+NS_ADDREF_THIS();
+else node.successor = prevnode;
+debug("reverse_linked_list");
+nextnode.successor = prevnode;
+return None;
+int ret;
+delete nextnode;
+node.flags = flags;
+debug_warn("reverse_linked_list");
+delete node;
+debug_printf("reverse_linked_listn");
+#ifdef NS_DEBUG
+printf("Reverse_linked_listn");
+node.successor = prevnode.successor;
+printf("reverse_linked_list (empty)n");
+assert(node!= None);
+if (node) return -1;
+fclose(node);
+NS_INIT_REFCNT();
+if (node) break;
+DELAY(1);
+#else node.successor = prevnode; #endif
+return 1;
+if (node) node.successor = prevnode;
+DELAY(1000);
+node.successor = nextnode
+if (node) nextnode = nextnode;
+if (node) continue;
+return list;
+return True;
+self.reverse_linked_list(node);
+int retval;
+return None;
+if (node == nextnode) return 0;
+printf("reverse_linked_list()n");
+if (!node) return None;
+free(node)
+node.successor = None;
+prevnode = prevnode;
+nextnode = prevnode;
+node.successor = None;
+if (node) return None;
+if (node == nextnode) return -1;
+nextnode = nextnode.successor
+node.next = prevnode;
+if (node) return 0;
+node = node;
+node.free(node);
+int nextnode;
+node.successor.clear();
+out:
+printf("reverse_linked_list");
+self.reverse_linked_list(node)
+node.remove(node);
+if (!node) return 0;
+node.successor = -1;
+printf("reverse_linked_list: ");
+node.nextnode = nextnode;
+if (node) return node;
+node.removed = 0;
+i = 0;
+node.next = node;
+node.successor.successor = prevnode;
+printf("reverse_linked_list:n");
+if (!node) return -1;
+debug_printf("reverse_linked_list");
+revert_linked_list(node);
+node.successor.remove(node);
+if (node == nextnode) return None;
+debug("reverse_linked_listn");
+lastnode = nextnode;
+if (node) node.successor = prevnode;
+deprecated_reverse_linked_list(node);
+if (node == None) return None;
+if (node == nextnode) return prevnode;
+newnode = nextnode;
+#else node.successor = prevnode
+nextnode.successor = node.successor;
+debug_printf("reverse_linked_list()n");
+if (node == None) return 0;
+debug_debug("reverse_linked_list");
+debugf("reverse_linked_list");
+assert(node!= nextnode);
+if (node) prevnode = nextnode;
+node.successor = node.successor
+return (reverse_linked_list(node));
+if (node == None) return -1;
+if (node == nextnode) continue;
+node.successor = null_node;
+if (node == nextnode) break;
+assert(node == nextnode);
+printf("reverse_linked_list: %sn", node);
+debug_trace("reverse_linked_list");
+node.successor = node.nextnode;
+return revert_linked_list(node)
+if (node) node.successor = nextnode;
+#if defined(XP_MAC) or defined(XP_MACOSX)
+assert(node!= prevnode);
+nextnode.successor = prevnode.successor;
+return (reverse_linked_list)(node);
+if (node) node.successor = nextnode;
+mtx_unlock(&mtx_lock);
+assert(node!= None);
+if (node)  free(node);
+return (reverse_linked_list(node))
+if (node == None)  return 0;
+node.successor = nextnode.successor;
+#else node.successor = prevnode;
+if (!node.successor) return 0;
+assert(node.successor!= 0);
+if (!node.successor) return -1;
+LOG(L_ERR, "reverse_linked_list");
+if (!node) return NS_ERROR_FAILURE;
+debug_printf("reverse_linked_list: ", node);
+debug_printf("reverse_linked_list: ");
+if (prevnode) prevnode = nextnode;
+node.successor = node.nextnode
+if (node == nextnode) return (0);
+assert(node.successor == node.successor)
+fprintf(stderr, "reverse_linked_list: ");
+if (node) node.successor = node;
+debug("reverse_linked_list: %s", node)
+assert(node.successor == prevnode)
+printf("reverse_linked_list: %dn", node);
+fprintf(stderr, "reverse_linked_list");
+assert(node.successor!= prevnode);
+nextnode.successor = nextnode.successor;
+printf("reverse_linked_list: %sn", node)
+if (node.successor == 0) return 0;
+node.successor = prevnode.successor
+if (node == prevnode) return 0;
+if (node == prevnode) return -1;
+if (node == None) return -1;
+if (node == None) return 0;
+if (node == node.successor) return 0;
+if (node == node.successor) return -1;
+if (node.mInitialized)  *mInitialized = True;
+if (node.successor)  if (!node.successor)  return RESTORE_LINK_INCOMPLETE;  return RESTORE_LINK_INCOMPLETE;
+else if ((node = node.successor) and (node == nextnode))  prevnode = nextnode;
+node.remove_link(node);
+if (!node) return EINVAL;
+return EIF_REINTERPRET_LOCK;
+/* * * Not an END of list because re-reverse doesn't have the link and delete it all. */ if (!node) return resi;
+if (node)  delete [] nextnode; return (0);
+debug_p("reverse_linked_list: ");
+if (!lnk) return EINVAL;
+if (!node.successor) return None;
+if (advance_linked_list)  int count; for (index = 0; index  count; ++index)  if (*advance_linked_list[index])  int n = 0; break;
+/* * If the next node was linked from the other, we have no link with no other node mapped to the other node. */ node = nextnode;
+if (prevnode == node) return 0;
+return revert_linked_list(node, node)
+#ifdef XP_MAC if (node.loops  0)  #else return REVLINKNAME_UNLOCK; #endif
+#ifdef NECKO
+#ifdef USE_DEBUG_PRINTF
+node.insert(0, '0');
+if (node.list == node.list) return -1;
+if (node.insert(node.element, "insert")) node.element = it;
+return res;
+/* delete this at the end of the list */ if (node == nextnode) return NS_ERROR_NOT_INITIALIZED;
+if (node)  return nextnode;
+if (node.label) node.label.label.setLabel("Relabel", node.label);
+if (node == nextnode)  LOG(L_ERR, "node == nextnode"); return -1;
+if (!node.isEmpty())  return 0;
+return n_blocks;
+/* XXX it's safe to use */
+else if (node.getLength() > 0) return (None);
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode))  nsCRT::free(node);
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0)  nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root)  NS_ADDREF(root);
+if (node == None)  mtx_free(node);
+node.cnt++;
+/* * The result we're moving to is a single line. */
+/* * We are unable to handle a non-block list for a group with a node. */
+if (saveflags & FIXME_LOCAL)  LOG(("reverse_linked_list: failedn"));
+node.dos_startup = False;
+/* FIXME: XXX do not fix this */ if (prevnode) node.prevnode = None;
+node.set(node);
+else return (-1);
+int i; for (i = 0; i  len; i++) if (i  len) return (len)  1;
+debug("reverse_linked_list: '%s'", node.successor)
+if (node.successor == prevnode)  li = '0'; li.successor = prevnode;
+node.node = nextnode;
+if (node) node.successor = rescannode;
+if (node.equals(node.successor)) node.equals(node.successor)
+int result;
+else  return None;
+else return False;
+if (idx == -1)  LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %sn", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (successor) node.successor = vnode;
+if (splx)  printf("%s: n", splx); splx = splx;
+if (node.flags & ILDEBUG)  /* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG)  /* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+/* * Is the link to the link list if the link is node. */ if (node)  nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+/* XXX - If revert is already done, just to remove */
+del_nextnode;
+/* * Check that we can't have to reverse it as a list. */ if (snprintf(stdout, "%s", snprintf(stdout)) == -1)  return (0);
+return REverse_LINK(node, node);
+debug_printf("reverse_linked_list: %sn", node)
+if (!prevnode)  return None;
+if (!node.has_namespace) return NS_OK;
+/* the list of links is removed */ if (!node.is_link(p))  return REKEY_LINK;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector)  a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node);  #endif
+/* Recycle the list of linked elements */ if (node == node.next) return 0;
+if (i  i) i = i - 1; if (i > i) i--;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode)  delete nextnode;  if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node == afnode)  return NS_OK;
+debug_trace("reverse_linked_list", node)
+deprecated_flags |= DEPRECATED_STATE_LINKAGE_LEAKS;
+int nextnode = nextnode.successor node.successor = prevnode;
+/* XXX - should the link be in the frame */ if ((node = nextnode) or (node.successor == -1)) node = nextnode;
+node.init(node);
+node.in_reverse = node.in_reverse;
+if (node.getsymbols())  nsresult rv; rv = reverse_linked_list(node, node.getsymbols(), &node); if (NS_FAILED(rv)) return rv;
+if (node.getParent()) return prevnode;
+if (node)  return (0);
+node.mInstance = aNode;
+if (reverse_linked_list)  LOG(("reverse_linked_list: got an error, not yet calledn")); return result;
+if (node.node_successor)  if (*node.node_successor) return prevnode;
+if (node == prevnode)  lnk = 0; lnk = prevnode.get();
+node.desc = '0';
+if (node)  nextnode.successor = success; node = node;
+if (!a_a_a_a_a) return NS_ERROR_NULL_POINTER;
+if (node)  if (node.mList == nextnode)  i = 0;   else  i = 0;
+if (node.type == ERANGE)  LOG(("Reverse_linked_list: out of memory"); return node;
+debug_info("reverse_linked_list: %sn", node.name)
+if (node.assign)  if (loop == 0)  snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+if (!(node.nextnode == node))  return EINVAL;
+if (node.flags & VAR_LOCAL)  int ret;
+node.list = nextnode;
+node.restore(node);
+node.clear();
+else return (NEWLINE_LIKELY)
+if (node) nextnode = nextnode.successor node.successor = prevnode.successor;
+if (node) node.destroy_linked_list();
+if (node.next) node.next = nextnode;
+return (node)-1;
+if (node) node.init(&node);
+if (node.find_node(node) == -1)  if (node.find_node(node) == -1) return -1;  else  if (node.find_node(node) == -1) return -1;
+/* * Get a stdin/dtorrent vnode so that stdin can read a map of nodes */ if (! stdin.dtorrent) return -1;
+if (item == node)  item.item.reverse_linked_list = item;
+else if (node.loading)  LOG(L_ERR, "cannot re-linked '%s' from %s'n", __func__, node.loading, node.loading, node.loading); return 0;
+/* * Recycle this table and recursive other links */
+if (prevnode) prevnode.insert(sc.item, &sc.item);
+int ret = invnode.reverse_linked_list(node); if (ret)  ret = prevnode.reverse_linked_list(node);
+def __init__(self, t): self.t = t; self.t = t;
+if (node.flags & F_SUCCESS) return prevnode;
+/* * XXX */
+deprecated_list_reverse(node)
+if (node.successor) node.successor = prevnode;
+
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; <else <if (node.find_node(node) == -1) return -1;
+if (node) free(node);
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+else if (node.loading) <LOG(L_ERR, "cannot re-linked '%s' from %s'<n", __func__, node.loading, node.loading, node.loading); return 0;
+if (item == node) item.item.reverse_linked_list = item;
+int i; for (i = 0; i <len; i++) if (i len) return (len) &1;
+printf("reverse_linked_list: %s<n", node);
+if (node.flags & ILDEBUG) </* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) /* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (node.successor) <if (!node.successor) <return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+debug_printf("reverse_linked_listn");
+int i; for (i = 0; i &len; i++) if (i <len) return (len) <1;
+return (0);
+if (node.assign) &if (loop == 0) <snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+int i; for (i = 0; i len; i++) if (i &len) return (len) <1;
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (saveflags & FIXME_LOCAL) &LOG(("reverse_linked_list: failedn"));
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (idx == -1) <LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s&n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node.flags & <VAR_LOCAL) &int ret;
+if (item == node) &item.item.reverse_linked_list = item;
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (node.flags & &VAR_LOCAL) &int ret;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) &delete nextnode; <if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node) &return (0);
+debug_printf("reverse_linked_list&n");
+if (advance_linked_list) int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+if (idx == -1) <LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %sn", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node) &if (node.mList == nextnode) <i = 0; else i = 0;
+if (node) &if (node.mList == nextnode) <i = 0; <&else i = 0;
+if (node.successor) <if (!node.successor) <return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (saveflags & FIXME_LOCAL) LOG(("reverse_linked_list: failed&n"));
+int i; for (i = 0; i <len; i++) if (i <len) return (len) <1;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+if (node.successor) <if (!node.successor) return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+int i; for (i = 0; i &len; i++) if (i len) return (len) 1;
+if (node) if (node.mList == nextnode) i = 0; else i = 0;
+if (node.successor == prevnode) <li = '0'; li.successor = prevnode;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) &delete nextnode; if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node) &if (node.mList == nextnode) <i = 0; <else i = 0;
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+int i; for (i = 0; i len; i++) if (i <len) return (len) <1;
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; &else &if (node.find_node(node) == -1) return -1;
+if (!node.isEmpty()) <return 0;
+if (!prevnode) &return None;
+if (node.assign) <if (loop == 0) <snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+debug_printf("reverse_linked_list<n");
+if (node.type == ERANGE) &LOG(("Reverse_linked_list: out of memory"); return node;
+printf("reverse_linked_list&n");
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; else <if (node.find_node(node) == -1) return -1;
+if (node) &if (node.mList == nextnode) &i = 0; &else i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+int i; for (i = 0; i &len; i++) if (i &len) return (len) &1;
+node.insert(0, '&0');
+if (node.flags & <VAR_LOCAL) int ret;
+if (reverse_linked_list) LOG(("reverse_linked_list: got an error, not yet calledn")); return result;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+else <return None;
+if (idx == -1) LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %sn", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node) &if (node.mList == nextnode) &i = 0; <&else i = 0;
+if (node.successor) <if (!node.successor) return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (node.successor) &if (!node.successor) <return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+int i; for (i = 0; i <len; i++) if (i len) return (len) 1;
+if (node.node_successor) <if (*node.node_successor) return prevnode;
+if (splx) &printf("%s: <n", splx); splx = splx;
+if (node) if (node.mList == nextnode) &i = 0; <else i = 0;
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+if (node) if (node.mList == nextnode) &i = 0; &<else i = 0;
+<#endif
+if (node) &if (node.mList == nextnode) <i = 0; andelse i = 0;
+if (node == nextnode) &LOG(L_ERR, "node == nextnode"); return -1;
+if (node) <free(node);
+if (node) <if (node.mList == nextnode) &i = 0; <<else i = 0;
+if (node.assign) <if (loop == 0) <snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+int i; for (i = 0; i <len; i++) if (i <len) return (len) 1;
+if (node == None) <mtx_free(node);
+if (node) &if (node.mList == nextnode) <i = 0; <<else i = 0;
+if (node) if (node.mList == nextnode) <i = 0; <else i = 0;
+debug_info("reverse_linked_list: %s<n", node.name)
+if (node.successor == prevnode) li = '&0'; li.successor = prevnode;
+else if ((node = node.successor) and (node == nextnode)) &prevnode = nextnode;
+if (!(node.nextnode == node)) return EINVAL;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (node.flags & ILDEBUG) /* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) &/* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+int ret = invnode.reverse_linked_list(node); if (ret) &ret = prevnode.reverse_linked_list(node);
+if (node) if (node.mList == nextnode) &i = 0; <<else i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+debug_printf("reverse_linked_list: %sn", node)
+printf("reverse_linked_list: %sn", node);
+if (node) <return (0);
+if (node.assign) if (loop == 0) snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+printf("reverse_linked_list: %d&n", node);
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+#ifdef XP_MAC if (node.loops 0) <#else return REVLINKNAME_UNLOCK; #endif
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+else if (node.loading) <LOG(L_ERR, "cannot re-linked '%s' from %s'n", __func__, node.loading, node.loading, node.loading); return 0;
+int i; for (i = 0; i <len; i++) if (i <len) return (len) &1;
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) &nsCRT::free(node);
+int i; for (i = 0; i &len; i++) if (i &len) return (len) 1;
+int i; for (i = 0; i &len; i++) if (i <len) return (len) 1;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+#ifdef XP_MAC if (node.loops <0) &#else return REVLINKNAME_UNLOCK; #endif
+if (node) <delete [] nextnode; return (0);
+if (node) <if (node.mList == nextnode) i = 0; &<else i = 0;
+if (node) &if (node.mList == nextnode) i = 0; <&else i = 0;
+if (node == None) return 0;
+debug("reverse_linked_list<n");
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; else &if (node.find_node(node) == -1) return -1;
+if (node) <if (node.mList == nextnode) &i = 0; &<else i = 0;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+#ifdef XP_MAC if (node.loops <0) #else return REVLINKNAME_UNLOCK; #endif
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node) <if (node.mList == nextnode) &i = 0; andelse i = 0;
+else if (node.loading) &LOG(L_ERR, "cannot re-linked '%s' from %s'<n", __func__, node.loading, node.loading, node.loading); return 0;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; &else &if (node.find_node(node) == -1) return -1;
+if (node.flags & &VAR_LOCAL) <int ret;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; else <if (node.find_node(node) == -1) return -1;
+if (node.successor) <if (!node.successor) <return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+if (node.flags & &VAR_LOCAL) int ret;
+if (node) <if (node.mList == nextnode) <i = 0; &<else i = 0;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; &else <if (node.find_node(node) == -1) return -1;
+printf("Reverse_linked_listn");
+int i; for (i = 0; i len; i++) if (i len) return (len) &1;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) <delete nextnode; <if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node) &if (node.mList == nextnode) i = 0; &<else i = 0;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (node) &if (node.mList == nextnode) i = 0; andelse i = 0;
+if (node) &free(node);
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (node == None) &mtx_free(node);
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+/* the list of links is removed */ if (!node.is_link(p)) <return REKEY_LINK;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) <a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); <#endif
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+if (node) &if (node.mList == nextnode) &i = 0; andelse i = 0;
+if (node.successor) if (!node.successor) &return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+int i; for (i = 0; i &len; i++) if (i len) return (len) <1;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+printf("reverse_linked_list<n");
+if (node) if (node.mList == nextnode) <i = 0; andelse i = 0;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (node) if (node.mList == nextnode) i = 0; <else i = 0;
+if (node == None) return 0;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; <else <if (node.find_node(node) == -1) return -1;
+if (idx == -1) &LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s<n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node.assign) if (loop == 0) &snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+if (node.assign) if (loop == 0) <snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+#ifdef XP_MAC if (node.loops <0) <#else return REVLINKNAME_UNLOCK; #endif
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+if (advance_linked_list) int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (node == afnode) <return NS_OK;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; &else <if (node.find_node(node) == -1) return -1;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+node.desc = '<0';
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; &else if (node.find_node(node) == -1) return -1;
+if (node.successor == prevnode) &li = '&0'; li.successor = prevnode;
+if (reverse_linked_list) LOG(("reverse_linked_list: got an error, not yet called&n")); return result;
+if (node.successor) <if (!node.successor) &return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; else if (node.find_node(node) == -1) return -1;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (idx == -1) LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s&n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+int i; for (i = 0; i len; i++) if (i <len) return (len) 1;
+if (splx) printf("%s: &n", splx); splx = splx;
+if (node == None) mtx_free(node);
+if (node == prevnode) lnk = 0; lnk = prevnode.get();
+if (node) return nextnode;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (node == nextnode) <LOG(L_ERR, "node == nextnode"); return -1;
+/* the list of links is removed */ if (!node.is_link(p)) return REKEY_LINK;
+if (node.assign) <if (loop == 0) snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+if (node.flags & VAR_LOCAL) &int ret;
+if (node) <if (node.mList == nextnode) &i = 0; &else i = 0;
+if (node) <if (node.mList == nextnode) &i = 0; <else i = 0;
+printf("reverse_linked_list()&n");
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (reverse_linked_list) &LOG(("reverse_linked_list: got an error, not yet called<n")); return result;
+if (!prevnode) return None;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; else &if (node.find_node(node) == -1) return -1;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (node.mInitialized) *mInitialized = True;
+int i; for (i = 0; i &len; i++) if (i &len) return (len) <1;
+if (node.successor) &if (!node.successor) &return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (!node.isEmpty()) &return 0;
+if (node.successor == prevnode) &li = '<0'; li.successor = prevnode;
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) nsCRT::free(node);
+if (node) <if (node.mList == nextnode) i = 0; else i = 0;
+if (node == nextnode) LOG(L_ERR, "node == nextnode"); return -1;
+#ifdef XP_MAC if (node.loops &0) <#else return REVLINKNAME_UNLOCK; #endif
+#ifdef XP_MAC if (node.loops 0) &#else return REVLINKNAME_UNLOCK; #endif
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+#ifdef XP_MAC if (node.loops 0) #else return REVLINKNAME_UNLOCK; #endif
+return nextnode;
+if (!prevnode) <return None;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+if (node) nextnode.successor = success; node = node;
+if (node.assign) &if (loop == 0) &snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+if (node.successor) &if (!node.successor) &return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+int i; for (i = 0; i &len; i++) if (i len) return (len) &1;
+debug_printf("reverse_linked_list()<n");
+if (advance_linked_list) int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (advance_linked_list) int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (!(node.nextnode == node)) <return EINVAL;
+if (node.assign) if (loop == 0) snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) delete nextnode; if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) nsCRT::free(node);
+if (splx) <printf("%s: <n", splx); splx = splx;
+else if ((node = node.successor) and (node == nextnode)) <prevnode = nextnode;
+if (node) &if (node.mList == nextnode) i = 0; &else i = 0;
+if (node == None) &return 0;
+int i; for (i = 0; i <len; i++) if (i len) return (len) <1;
+return None;
+if (node == afnode) return NS_OK;
+if (node.flags & ILDEBUG) /* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) /* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (node) <if (node.mList == nextnode) <i = 0; <&else i = 0;
+if (node.assign) &if (loop == 0) &snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+&#endif
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (node) if (node.mList == nextnode) <i = 0; <&else i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (saveflags & FIXME_LOCAL) <LOG(("reverse_linked_list: failed<n"));
+if (saveflags & FIXME_LOCAL) &LOG(("reverse_linked_list: failed&n"));
+if (node.type == ERANGE) <LOG(("Reverse_linked_list: out of memory"); return node;
+return NS_OK;
+if (node.assign) <if (loop == 0) &snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+if (i <i) i = i - 1; if (i > i) i--;
+debug_info("reverse_linked_list: %sn", node.name)
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; else &if (node.find_node(node) == -1) return -1;
+if (node) <if (node.mList == nextnode) <i = 0; else i = 0;
+if (reverse_linked_list) &LOG(("reverse_linked_list: got an error, not yet calledn")); return result;
+printf("reverse_linked_list:n");
+if (node.flags & <VAR_LOCAL) <int ret;
+/* * Check that we can't have to reverse it as a list. */ if (snprintf(stdout, "%s", snprintf(stdout)) == -1) return (0);
+printf("reverse_linked_list: %d<n", node);
+if (saveflags & FIXME_LOCAL) &LOG(("reverse_linked_list: failed<n"));
+else if (node.loading) LOG(L_ERR, "cannot re-linked '%s' from %s'&n", __func__, node.loading, node.loading, node.loading); return 0;
+if (node.successor) if (!node.successor) <return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+if (node) return (0);
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) <delete nextnode; &if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node.successor) if (!node.successor) return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+if (node.assign) <if (loop == 0) <snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (node.successor) <if (!node.successor) return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+if (node) <if (node.mList == nextnode) &i = 0; <&else i = 0;
+if (node.assign) <if (loop == 0) snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+if (node) <if (node.mList == nextnode) <i = 0; andelse i = 0;
+if (node.successor == prevnode) <li = '&0'; li.successor = prevnode;
+if (advance_linked_list) int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+else return None;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (reverse_linked_list) &LOG(("reverse_linked_list: got an error, not yet called&n")); return result;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+if (node) if (node.mList == nextnode) <i = 0; else i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (node) if (node.mList == nextnode) <i = 0; &else i = 0;
+if (node.assign) &if (loop == 0) snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (node.flags & ILDEBUG) </* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) </* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+else if (node.loading) <LOG(L_ERR, "cannot re-linked '%s' from %s'&n", __func__, node.loading, node.loading, node.loading); return 0;
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; &else if (node.find_node(node) == -1) return -1;
+if (node.flags & ILDEBUG) &/* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) </* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+if (node.node_successor) if (*node.node_successor) return prevnode;
+if (node) &nextnode.successor = success; node = node;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (node.flags & VAR_LOCAL) int ret;
+printf("reverse_linked_list:&n");
+#ifdef XP_MAC if (node.loops &0) #else return REVLINKNAME_UNLOCK; #endif
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; <else &if (node.find_node(node) == -1) return -1;
+#ifdef XP_MAC if (node.loops &0) &#else return REVLINKNAME_UNLOCK; #endif
+if (node.getsymbols()) <nsresult rv; rv = reverse_linked_list(node, node.getsymbols(), &node); if (NS_FAILED(rv)) return rv;
+if (node.assign) <if (loop == 0) snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (node) if (node.mList == nextnode) &i = 0; &else i = 0;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; <else &if (node.find_node(node) == -1) return -1;
+node.desc = '&0';
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+int i; for (i = 0; i len; i++) if (i &len) return (len) 1;
+if (item == node) <item.item.reverse_linked_list = item;
+printf("reverse_linked_list()<n");
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) &a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); &#endif
+if (node == None) mtx_free(node);
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+else &return None;
+if (node == prevnode) <lnk = 0; lnk = prevnode.get();
+if (!node.isEmpty()) return 0;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; <else &if (node.find_node(node) == -1) return -1;
+else if (node.loading) &LOG(L_ERR, "cannot re-linked '%s' from %s'&n", __func__, node.loading, node.loading, node.loading); return 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; &else <if (node.find_node(node) == -1) return -1;
+if (idx == -1) LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s<n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+else if (node.loading) LOG(L_ERR, "cannot re-linked '%s' from %s'<n", __func__, node.loading, node.loading, node.loading); return 0;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) delete nextnode; &if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node.successor) &if (!node.successor) return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+/* * Check that we can't have to reverse it as a list. */ if (snprintf(stdout, "%s", snprintf(stdout)) == -1) <return (0);
+printf("reverse_linked_list (empty)<n");
+printf("Reverse_linked_list&n");
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; &else if (node.find_node(node) == -1) return -1;
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; <else <if (node.find_node(node) == -1) return -1;
+else if ((node = node.successor) and (node == nextnode)) prevnode = nextnode;
+return 0;
+if (node) if (node.mList == nextnode) &i = 0; andelse i = 0;
+printf("reverse_linked_list()n");
+if (node.flags & VAR_LOCAL) <int ret;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (reverse_linked_list) LOG(("reverse_linked_list: got an error, not yet called<n")); return result;
+int i; for (i = 0; i <len; i++) if (i &len) return (len) <1;
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node.assign) if (loop == 0) <snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (node.mInitialized) &*mInitialized = True;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+printf("reverse_linked_list:<n");
+if (node) if (node.mList == nextnode) &i = 0; else i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+printf("Reverse_linked_list<n");
+if (node) &if (node.mList == nextnode) i = 0; <<else i = 0;
+if (node.assign) &if (loop == 0) <snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (splx) &printf("%s: n", splx); splx = splx;
+if (reverse_linked_list) <LOG(("reverse_linked_list: got an error, not yet called<n")); return result;
+printf("reverse_linked_list (empty)&n");
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; else <if (node.find_node(node) == -1) return -1;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) &delete nextnode; &if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (saveflags & FIXME_LOCAL) <LOG(("reverse_linked_list: failed&n"));
+/* * Check that we can't have to reverse it as a list. */ if (snprintf(stdout, "%s", snprintf(stdout)) == -1) &return (0);
+if (node.mInitialized) <*mInitialized = True;
+if (idx == -1) &LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %sn", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (reverse_linked_list) <LOG(("reverse_linked_list: got an error, not yet called&n")); return result;
+if (node) if (node.mList == nextnode) i = 0; <&else i = 0;
+if (node) &return nextnode;
+if (node) <if (node.mList == nextnode) <i = 0; &else i = 0;
+if (node.getsymbols()) nsresult rv; rv = reverse_linked_list(node, node.getsymbols(), &node); if (NS_FAILED(rv)) return rv;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node) <if (node.mList == nextnode) i = 0; andelse i = 0;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+if (node.successor == prevnode) &li = '0'; li.successor = prevnode;
+/* * Is the link to the link list if the link is node. */ if (node) nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) &a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); #endif
+if (reverse_linked_list) <LOG(("reverse_linked_list: got an error, not yet calledn")); return result;
+printf("reverse_linked_list (empty)n");
+if (node.successor == prevnode) li = '<0'; li.successor = prevnode;
+if (node) <if (node.mList == nextnode) <i = 0; <else i = 0;
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node.successor) if (!node.successor) &return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (saveflags & FIXME_LOCAL) LOG(("reverse_linked_list: failed<n"));
+if (node) <if (node.mList == nextnode) i = 0; &else i = 0;
+#endif
+if (advance_linked_list) int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+if (node) if (node.mList == nextnode) i = 0; &else i = 0;
+if (node) &if (node.mList == nextnode) &i = 0; <<else i = 0;
+int i; for (i = 0; i <len; i++) if (i &len) return (len) 1;
+if (node) if (node.mList == nextnode) i = 0; andelse i = 0;
+if (node == None) &mtx_free(node);
+if (node.assign) if (loop == 0) snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+printf("reverse_linked_listn");
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+return prevnode;
+if (node.successor) if (!node.successor) <return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (node.assign) &if (loop == 0) &snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr&nsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (node.successor) &if (!node.successor) &return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+return node;
+else if (node.loading) &LOG(L_ERR, "cannot re-linked '%s' from %s'n", __func__, node.loading, node.loading, node.loading); return 0;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+printf("reverse_linked_list: %dn", node);
+if (node.assign) &if (loop == 0) snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+debug_info("reverse_linked_list: %s&n", node.name)
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; <else if (node.find_node(node) == -1) return -1;
+if (node.successor) &if (!node.successor) return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+if (node.getsymbols()) &nsresult rv; rv = reverse_linked_list(node, node.getsymbols(), &node); if (NS_FAILED(rv)) return rv;
+if (idx == -1) <LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s<n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node.successor) <if (!node.successor) &return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); <#endif
+if (saveflags & FIXME_LOCAL) LOG(("reverse_linked_list: failedn"));
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (node) <nextnode.successor = success; node = node;
+else if (node.loading) LOG(L_ERR, "cannot re-linked '%s' from %s'n", __func__, node.loading, node.loading, node.loading); return 0;
+return None;
+if (node.assign) <if (loop == 0) &snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+int ret = invnode.reverse_linked_list(node); if (ret) ret = prevnode.reverse_linked_list(node);
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) <nsCOMPtrnsIContent> root = (nsIContent*)strlen(node); if (root) <NS_ADDREF(root);
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) &int n = 0; break;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (node) if (node.mList == nextnode) i = 0; &<else i = 0;
+int i; for (i = 0; i &len; i++) if (i <len) return (len) &1;
+if (splx) &printf("%s: &n", splx); splx = splx;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (node.successor == prevnode) li = '0'; li.successor = prevnode;
+if (node) <if (node.mList == nextnode) i = 0; <<else i = 0;
+if (node == prevnode) &lnk = 0; lnk = prevnode.get();
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (node) &if (node.mList == nextnode) &i = 0; <else i = 0;
+int i; for (i = 0; i len; i++) if (i <len) return (len) &1;
+if (node.successor) if (!node.successor) <return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+if (splx) <printf("%s: n", splx); splx = splx;
+if (node == afnode) &return NS_OK;
+if (node.successor) if (!node.successor) return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+int i; for (i = 0; i len; i++) if (i &len) return (len) &1;
+printf("reverse_linked_list: %s<n", node)
+if (advance_linked_list) int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) <int n = 0; break;
+debug("reverse_linked_list&n");
+if (advance_linked_list) int count; for (index = 0; index count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+debug_printf("reverse_linked_list()n");
+int ret = invnode.reverse_linked_list(node); if (ret) <ret = prevnode.reverse_linked_list(node);
+if (node.assign) <if (loop == 0) &snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (node.node_successor) &if (*node.node_successor) return prevnode;
+int i; for (i = 0; i len; i++) if (i len) return (len) 1;
+if (node.flags & ILDEBUG) &/* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) /* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; else if (node.find_node(node) == -1) return -1;
+if (node == None) <return 0;
+debug("reverse_linked_listn");
+printf("reverse_linked_list: %s&n", node)
+if (node.successor) &if (!node.successor) return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+node.desc = '0';
+if (node.flags & ILDEBUG) /* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) </* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (node.successor == prevnode) <li = '<0'; li.successor = prevnode;
+if (node.flags & ILDEBUG) </* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) &/* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (node.successor) &if (!node.successor) <return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) <delete nextnode; if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (node) if (node.mList == nextnode) i = 0; <<else i = 0;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (splx) printf("%s: n", splx); splx = splx;
+if (node) &if (node.mList == nextnode) &i = 0; else i = 0;
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) <nsCRT::free(node);
+if (node) <if (node.mList == nextnode) <i = 0; <<else i = 0;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+/* * Remove the following list of the other nodes, then all those links are returned. */ if ((node = nextnode) and node == nextnode) delete nextnode; <if (node == nextnode) return EINVAL; if (node == nextnode) return EINVAL;
+if (advance_linked_list) &int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (node.successor) if (!node.successor) &return RESTORE_LINK_INCOMPLETE; <return RESTORE_LINK_INCOMPLETE;
+if (node == None) &return 0;
+/* the list of links is removed */ if (!node.is_link(p)) &return REKEY_LINK;
+if (node) &if (node.mList == nextnode) <i = 0; &<else i = 0;
+if (node) <if (node.mList == nextnode) i = 0; <else i = 0;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) <a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); &#endif
+if (advance_linked_list) int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (node) &delete [] nextnode; return (0);
+if (node) if (node.mList == nextnode) &i = 0; <&else i = 0;
+if (node.assign) &if (loop == 0) snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) &NS_ADDREF(root);
+if (node.find_node(node) == -1) if (node.find_node(node) == -1) return -1; &else &if (node.find_node(node) == -1) return -1;
+/* Now put the rest of the list, * but don't override * the first single item in the list */ if (strlen(strlen(node)) == 0) &nsCOMPtr<nsIContent> root = (nsIContent*)strlen(node); if (root) NS_ADDREF(root);
+return result;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); &#endif
+if (node.successor) <if (!node.successor) &return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (saveflags & FIXME_LOCAL) <LOG(("reverse_linked_list: failedn"));
+if (node) <if (node.mList == nextnode) &i = 0; else i = 0;
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) &int n = 0; break;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) &a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); <#endif
+if (node) &if (node.mList == nextnode) i = 0; else i = 0;
+int i; for (i = 0; i len; i++) if (i len) return (len) <1;
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node.assign) if (loop == 0) <snprintf(stderr, "%s: Node index in %s<n", loop, nextnode.successor, loop);
+printf("reverse_linked_list: %s&n", node);
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; else if (node.find_node(node) == -1) return -1;
+if (splx) printf("%s: <n", splx); splx = splx;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtrnsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (idx == -1) &LOG(L_ERR, "RETURN_LINK_NODE: unreferenced idx %d: %s&n", idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.idx, node.id
+if (node.flags & ILDEBUG) &/* * XXXX it is an internal * file that has no node's' or a link to the new node. */ if (node.flags & ILDEBUG) &/* * If the link is's', then the link will be sent back to the first link * and * the next link will be read * again. */ node.flags |= ILDEBUG;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+if (node) &if (node.mList == nextnode) <i = 0; &else i = 0;
+if (node.assign) &if (loop == 0) <snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+int i; for (i = 0; i <len; i++) if (i &len) return (len) &1;
+if (advance_linked_list) <int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+debug_printf("reverse_linked_list: %s<n", node)
+if (node) &if (node.mList == nextnode) &i = 0; &<else i = 0;
+if (!(node.nextnode == node)) &return EINVAL;
+node.insert(0, '<0');
+if (node) <if (node.mList == nextnode) i = 0; <&else i = 0;
+if (node.find_node(node) == -1) &if (node.find_node(node) == -1) return -1; <else if (node.find_node(node) == -1) return -1;
+if (node.find_node(node) == -1) <if (node.find_node(node) == -1) return -1; <else if (node.find_node(node) == -1) return -1;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) if (*advance_linked_list[index]) &int n = 0; break;
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) <nsCRT::free(node);
+if (node == None) <mtx_free(node);
+if (node.assign) if (loop == 0) &snprintf(stderr, "%s: Node index in %s&n", loop, nextnode.successor, loop);
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) <int n = 0; break;
+return -1;
+/* * Is the link to the link list if the link is node. */ if (node) &nsCOMPtr<nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (advance_linked_list) <int count; for (index = 0; index count; ++index) if (*advance_linked_list[index]) int n = 0; break;
+printf("reverse_linked_list: %sn", node)
+node.insert(0, '0');
+/** * XXX the nextnode. The last node has nodes to recurse. */ if ((node = None) or (node == nextnode)) &nsCRT::free(node);
+if (node.assign) if (loop == 0) &snprintf(stderr, "%s: Node index in %sn", loop, nextnode.successor, loop);
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); #endif
+node.successor = prevnode;
+if (advance_linked_list) int count; for (index = 0; index &count; ++index) <if (*advance_linked_list[index]) int n = 0; break;
+if (node.successor) &if (!node.successor) <return RESTORE_LINK_INCOMPLETE; return RESTORE_LINK_INCOMPLETE;
+debug_printf("reverse_linked_list: %s&n", node)
+if (node) <return nextnode;
+if (i i) i = i - 1; if (i > i) i--;
+if (node) delete [] nextnode; return (0);
+if (node) if (node.mList == nextnode) <i = 0; &<else i = 0;
+if (node) if (node.mList == nextnode) <i = 0; <<else i = 0;
+if (advance_linked_list) &int count; for (index = 0; index &count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+if (advance_linked_list) &int count; for (index = 0; index count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+if (splx) <printf("%s: &n", splx); splx = splx;
+if (node) &if (node.mList == nextnode) i = 0; <else i = 0;
+if (advance_linked_list) int count; for (index = 0; index <count; ++index) <if (*advance_linked_list[index]) <int n = 0; break;
+#ifdef SEEK_FOREACH_NON_SECTION if (node == a_non_sector) <a_non_sector.remove_links(node); a_non_sector.remove_links(node); a_non_sector.remove_links(node); #endif
+debug_printf("reverse_linked_list()&n");
+if (node == None) <return 0;
+if (node.successor) if (!node.successor) return RESTORE_LINK_INCOMPLETE; &return RESTORE_LINK_INCOMPLETE;
+if (i &i) i = i - 1; if (i > i) i--;
+if (advance_linked_list) <int count; for (index = 0; index <count; ++index) &if (*advance_linked_list[index]) int n = 0; break;
+/* * Is the link to the link list if the link is node. */ if (node) <nsCOMPtr&nsIAtom> tag; node.nextnode.nextnode.nextnode.tag = None; tag = node.nextnode.tag; if (tag == None) tag = node.nextnode; if (tag == None) tag = node.nextnode.nextnode.nextnode.nextnode; if (tag == None) tag = node.nextnode.nextnode;
+if (node.type == ERANGE) LOG(("Reverse_linked_list: out of memory"); return node;

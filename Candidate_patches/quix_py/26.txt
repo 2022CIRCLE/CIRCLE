@@ -1,0 +1,357 @@
+golden:
+return rest_subsets + [[first] + subset for subset in rest_subsets]
+inference:
+return [[first] + subset for subset in rest_subsets - 1]
+return [[first] + subset for subset in rest_subsets]
+return [[first] + subsets for subset in rest_subsets]
+return [[first] + subsets for subsets in rest_subsets]
+return ([first] + subset for subset in rest_subsets)
+return [[first] + subset for subset in rest_subsets + 1]
+return [[first] + subset for subset in sleep_subsets]
+return rest_subsets;
+return ([first] + subset for subset in rest_subsets])
+return [[first] + subset for subset in rest_subsets];
+return [[last] + subset for subset in rest_subsets]
+return [([first] + subset for subset in rest_subsets)]
+return [ [first] + subset for subset in rest_subsets]
+return [[first] + subset[0] for subset in rest_subsets]
+return [[first] + rest_subsets for subset in rest_subsets]
+return rest_subsets[first] + subset;
+return [[] + subset for subset in rest_subsets]
+return [[first], subset for subset in rest_subsets]
+return [(first) + subset for subset in rest_subsets]
+return [first + subset for subset in rest_subsets]
+return [[first] + subset for (subset in rest_subsets)]
+return [[first] + subset for subset in rest_subsets - 2]
+return [(first + subset) for subset in rest_subsets]
+return [[subset] + subset for subset in rest_subsets]
+return [[int] + subset for subset in rest_subsets]
+return [subset + subset for subset in rest_subsets]
+return [[first] + *subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets  2]
+return [[first] + subset for subset in rest_subsets  1]
+return [first + subset for subset in rest_subsets - 1]
+return [[first] + subset for subset in rest_subsets ]
+return [[i] + subset for subset in rest_subsets]
+return rest_subsets + rest_subsets;
+return [[first_subset] + subset for subset in rest_subsets]
+return [subset for subset in rest_subsets]
+return [[first] + [subset for subset in rest_subsets]]
+return [[first] + subset for subset in *rest_subsets]
+return [[_first] + subset for subset in rest_subsets]
+return [[0] + subset for subset in rest_subsets]
+return [[first] + subset, rest_subsets]
+return [[first] + subset for subset in powersets]
+return subsets[first] + subset for subset in rest_subsets]
+return [[first] + len for subset in rest_subsets]
+return rest_subsets[first] + subset
+return [[first] + subset.get() for subset in rest_subsets]
+return [] + subset for subset in rest_subsets;
+return [[first].subset for subset in rest_subsets]
+return [[first] + (subset for subset in rest_subsets)]
+return [[first] + subset[1] for subset in rest_subsets]
+return arr[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in power_subsets]
+return [[first] + subset for subset in subsets]
+return rest[first] + subset for subset in rest_subsets]
+return [ [first] + subset for subset in rest_subsets ]
+return [[First] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets []]
+return [subsets[first] + subset for subset in rest_subsets]
+return first + subset for subset in rest_subsets;
+return [[first] + subset; for subset in rest_subsets]
+return [[th] + subset for subset in rest_subsets]
+return [first] + subset for subset in rest_subsets]
+return [[first] + base + subset for subset in rest_subsets]
+return [[first] + *subsets for subset in rest_subsets]
+return [subset[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets+1]
+return [[1] + subset for subset in rest_subsets]
+return [[first + subset for subset in rest_subsets - 1]]
+ret = [[first] + subset for subset in rest_subsets]
+return [first] + subsets for subset in rest_subsets]
+return [[first] + rest_subsets]
+return [[first] + subset[i] for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + 2]
+return [[first] + prefix for subset in rest_subsets]
+return [[first] + 1 for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets ()]
+#endif return [[first] + subset for subset in rest_subsets]
+return [[-1] + subset for subset in rest_subsets]
+return [[first] + subset) for subset in rest_subsets]
+return [[this] + subset for subset in rest_subsets]
+return [([first] + subset) for subset in rest_subsets]
+return [[second] + subset for subset in rest_subsets]
+return [[first] + subset for subset, rest_subsets]
+return [[first]+subset for subset in rest_subsets]
+return [[first] + subsets]
+else return [[first] + subset for subset in rest_subsets]
+return [0] + subset for subset in rest_subsets]
+return [*rest + subset for subset in rest_subsets]
+return [[first] + subset for subset in ref_subsets]
+return [[first] + subset for subset in regsubsets]
+return [[first] + subset for subset in rest_subset_subsets]
+return [[first] + const subset for subset in rest_subsets]
+return [[first++] + subset for subset in rest_subsets]
+return [[first] + non_subset for subset in rest_subsets]
+return [[next] + subset for subset in rest_subsets]
+return [[first] + subset for subset in reg_subsets]
+return ([[first] + subset for subset in rest_subsets])
+return [[first_subset + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets - 1)
+return [[first] + subset as subset for subset in rest_subsets]
+return [[&first] + subset for subset in rest_subsets]
+result = [[first] + subset for subset in rest_subsets]
+return list([[first] + subset for subset in rest_subsets])
+return [[first] + subset for subset in base_subsets]
+return [[first] + subset for subset in arr_subsets]
+return _([first] + subset for subset in rest_subsets])
+return [[first] + subset_subset for subset in rest_subsets]
+return first + subset for subset in rest_subsets
+return [[first ] + subset for subset in rest_subsets]
+return [[first] * subset for subset in rest_subsets]
+return [[first] + subset for subset in all_subsets]
+return [-1] + subset for subset in rest_subsets]
+return [(*rest) + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets)
+return [[first] + subset for subset in rest_subsets[0]]
+return [[first] + self.subset for subset in rest_subsets]
+return [[first] + subset for subset in _subsets]
+return [[first] + len for len in rest_subsets]
+return [[(first) + subset for subset in rest_subsets]
+return [[] + subsets for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets++]
+return [[*first] + subset for subset in rest_subsets]
+return [[first] + subset + subset for subset in rest_subsets]
+break;
+return rest_subsets[first] + subsets
+return [[first] + subset for subset in rest_subsets, 0]
+return [int(first) + subset for subset in rest_subsets)]
+return [[first] + subset for subset in rest_subsets  1)
+return rest_subsets + first + subset for subset in rest_subsets]
+return [[first] + subset and subset for subset in rest_subsets]
+return [_([first] + subset for subset in rest_subsets)]
+return (([first] + subset for subset in rest_subsets))
+return [[first] + subset for subset in list_subsets]
+return [[first] + subset for subset in powerset_subsets]
+return [[first]] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + 1)
+return first + subset for subset in rest_subsets]
+return rest;
+return [[first] + subset for subset in rest_subsets-1]
+return [[first] + subset() for subset in rest_subsets]
+return rest_subsets + rest_subsets
+return [[first] for subset in rest_subsets]
+return [[first] + subset for subset in powerset(rest)]
+return [[first] + subset for subset in _rest_subsets]
+return [[first] + set(subset) for subset in rest_subsets]
+return [[first) + subset for subset in rest_subsets]
+return powerset([first] + subset for subset in rest_subsets])
+return [[first] + subset for subset in end_subsets]
+return [[first] + subset for subset in wakeup_subsets]
+return [[first] + subset for subset in rest_subsets + first]
+return [[first]+1 for subset in rest_subsets]
+return [] + subsets for subset in rest_subsets]
+return [[first] + subset for subset in free_subsets]
+return [] + subset for subset in rest_subsets
+return [[first] + subset for subset in rest_subsets:]
+return [[first] + subset for subset in proc_subsets]
+return [[first] + [subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets, *rest]
+return [] + subset for subset in rest_subsets]
+return [] + subsets;
+return [[first] + subset for subset in ret_subsets]
+return subsets;
+return rest_subsets[first];
+return [[first] + subset for subset in rest_subsets + len]
+return [[first] + subset for subset in rest_subsets;]
+return [[first] + subset for subset in rest_subsets
+return [[first] + subset for subset in rest_subsets[i]]
+return rest_subsets[i];
+return [] + subsets for subset in rest_subsets;
+return [[first] + subset for subset in m_subsets]
+return [[first] + subset for subset in rest_subsets - rest]
+return [[first] + subset for subset in i_subsets]
+return [first] + subset for subset in rest_subsets - 1]
+return [first + subset for subset in rest_subsets  0]
+res = [[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest]
+return [[first] + subset for subset in rest_subsets, *rest)
+return [[first] + subset for subset in __rest_subsets]
+return rest_subsets[first] + subsets;
+return [[first]+subset for subset in rest_subsets - 1]
+return [] + subsets
+return ret;
+return [[first] + subset + rest_subsets]
+return [[first] + subset for subset in rest_subsets  16]
+return [[first] + subset]
+return [[first] + subset for subset in rest_subsets] + rest;
+return [[first] + subset for subset in rest)
+return [[first] + subsets + rest_subsets]
+return [[first] + subset for subset in rest_subsets - first]
+return [[first] + subset for subset in rest_subsets[1]]
+r = [[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets, len]
+return rest_subsets
+return _([first] + subset for subset in rest_subsets)
+return [[first] + subset for subset in rest_subsets  6]
+return [[first] + subset for subset in rest_subsets  4]
+return [[first] + subset for subset in rest_subsets[first]]
+return []
+return result;
+return 0;
+return [[first] + subsets[0] for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + first ]
+return [[first] + subset for subset in rest_subsets if subset!= rest_subsets]
+return [[first] + subset for subset in rest_subsets] + rest_subsets;
+return [[first] + subset for subset in rest_subsets, (int) rest_subsets]
+return rest_subsets + [[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + rest_refs]
+return [[first] + subset for subset in rest_subsets, rest_subsets2]
+return [[first] + ioctl(subset, rest_subsets))
+return [[first] + subset for subset in rest_subsets - rest_subsets]
+return [[first] + subset for subset in rest_subsets, retval]
+return [[first] + subsets[i] for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + rest_sets]
+return [(*rest) + (first + subset) for subset in rest_subsets]
+return [[first] + subsets[1] for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets, &subsets]
+return [[first] + subset for subset in rest_subsets if __unused]
+return [[first] + a_subset for a_subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets]  rest_subsets? [] : [];
+return [[first] + subset for subset in rest_subsets  0]
+return [[first] + ids, subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets] + rest_subsets + rest_subsets
+return rest_subsets[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets = 0]
+return [[first] + subset for subset in rest_subsets, ie]
+return [[first] + subset for subset in rest_subsets]  0, and ((first) and (subset)); )
+return [(*rest)[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets]  0, 0
+return [[first] + subset for subset in rest_subsets]  1  0
+return [[first] + subset for subset in rest_subsets + fns_type]
+return [(unsigned char)([first] + subset for subset in rest_subsets)]
+return [[first] + subset for subset in rest_subsets, dummy)
+return [[first] + subset for subset in rest_subsets]? 0 : 0;
+return [[first] + subset for subset in rest_subsets + '.']
+return [[first] + subset for subset in rest_subsets]? [] : [];
+return [(int)[first] + subset for subset in rest_subsets]
+return [[first] + idx for subset in rest_subsets]
+return [[first] + id_subset for id_subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets if not]
+return [[first] + subset for subset in rest_subsets + ((*rest) * rest_subsets)]
+return [[first] + subset for subset in rest_subsets, rest_subsets++]
+return [(int)([first] + subset for subset in rest_subsets)]
+return [[first] + subset for subset in rest_subsets, rest_subsets]
+return [[first] + subset for subset in rest_subsets, sleep = sleep - sleep - sleep)
+return [[first] + snprintf(subset, "%s:%d", first, rest_subsets))
+return [[first] + subset for subset in rest_subsets if not pending]
+return rest_subsets[0] + subset for subset in rest_subsets]
+return [[first] + iid_subset for iid_subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets, m_match_ptr]
+return [[first] + subset for subset in rest_subsets, "");
+return [[first] + dummy_subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets, int num_subsets]
+return [[first] + subset for subset in rest_subsets + rest_length]
+return [((*rest)[first] + subset) for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + rest_subsets]
+return [((*rest)[first] + subset for subset in rest_subsets])? [] : [] rest]
+return [(*rest_subsets)[first] + subset for subset in rest_subsets]
+return [[first] + i, subset for subset in rest_subsets]
+return [(next) + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets + rest_subsets + rest_subsets]
+return [[first] + oss[oss[first]] for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets if (rest_subsets == None) and rest_subsets == None) return []
+return [(rhstr_t)[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets if subset  rest_subsets]
+return [[first] + subset for subset in rest_subsets  2? [] : [])
+return [[first] + subset for subset in rest_subsets if (arr)]
+return [[first] + subset for subset in rest_subsets]  0;
+return [[first] + subset for subset in rest_subsets if *reset]
+return [[first] + subset for subset in rest_subsets - rest_subsets - rest_subsets]
+return [[first] + subset for subset in rest_subsets]  0? 1 : 0;
+return [[first] + cset(subset) for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets] + rest_subsets + rest_subsets;
+return [[first] + subset for subset in rest_subsets if_init_subsets]
+return [[first] + subset for subset in rest_subsets, []]
+return [[first] + subset for subset in rest_subsets]  0, rest_subsets;
+return [[first] + subset for subset in rest_subsets + rc_subsets]
+return [[first] + subset for subset in rest_subsets  rest_subsets]
+return rest_subsets + ([first] + subset for subset in rest_subsets])
+return [[first] + subset for subset in rest_subsets, dummy]
+return [[first] + subset for subset in rest_subsets] 1 0
+return [[first] + subset for subset in rest_subsets &4]
+return [[first] + subset for subset in rest_subsets &= 0]
+return [[first] + subset for subset in rest_subsets 2]
+return [[first] + subset for subset in rest_subsets] &1 0
+return [[first] + subset for subset in rest_subsets] 1 &0
+return [[first] + subset for subset in rest_subsets] &0;
+return [[first] + subset for subset in rest_subsets &1)
+return [[first] + subset for subset in rest_subsets]
+return [[first] + subset for subset in rest_subsets if subset &rest_subsets]
+return [[first] + subset for subset in rest_subsets &0]
+return [((*rest)[first] + subset for subset in rest_subsets])? [] : [] <rest]
+return [[first] + subset for subset in rest_subsets &2]
+return [[first] + subset for subset in rest_subsets <2]
+return [[first] + subset for subset in rest_subsets, sleep <= sleep - sleep - sleep)
+return [[first] + subset for subset in rest_subsets 4]
+return [[first] + subset for subset in rest_subsets &1]
+return [[first] + subset for subset in rest_subsets] &1 <0
+return [[first] + subset for subset in rest_subsets] <0, rest_subsets;
+return [((*rest)[first] + subset for subset in rest_subsets])? [] : [] rest]
+return [[first] + subset for subset in rest_subsets rest_subsets]
+return [first + subset for subset in rest_subsets <0]
+return [[first] + subset for subset in rest_subsets, sleep = sleep - sleep - sleep)
+return [[first] + subset for subset in rest_subsets if subset <rest_subsets]
+return [[first] + subset for subset in rest_subsets] 0, and ((first) and (subset)); )
+return [[first] + subset for subset in rest_subsets] <0, 0
+return [[first] + subset for subset in rest_subsets 16]
+return [first + subset for subset in rest_subsets 0]
+return [[first] + subset for subset in rest_subsets] &0, and ((first) and (subset)); )
+return [[first] + subset for subset in rest_subsets <rest_subsets]
+return [[first] + subset for subset in rest_subsets] &0, and ((first) and (subset)); <)
+return [[first] + subset for subset in rest_subsets, sleep &= sleep - sleep - sleep)
+return [[first] + subset for subset in rest_subsets] &0, and ((first) and (subset)); &)
+return [[first] + subset for subset in rest_subsets] &0? 1 : 0;
+return [[first] + subset for subset in rest_subsets <1)
+return [[first] + subset for subset in rest_subsets <6]
+return [[first] + subset for subset in rest_subsets if subset rest_subsets]
+return [[first] + subset for subset in rest_subsets] 0, and ((first) and (subset)); <)
+return [[first] + subset for subset in rest_subsets <1]
+return [[first] + subset for subset in rest_subsets 2? [] : [])
+return [[first] + subset for subset in rest_subsets] <rest_subsets? [] : [];
+return [[first] + subset for subset in rest_subsets] <0;
+return [[first] + subset for subset in rest_subsets] 1 <0
+return [[first] + subset for subset in rest_subsets 1]
+return [[first] + subset for subset in rest_subsets] <0? 1 : 0;
+return [[first] + subset for subset in rest_subsets <2? [] : [])
+return [[first] + subset for subset in rest_subsets] &1 &0
+return [[first] + subset for subset in rest_subsets &rest_subsets]
+return [[first] + subset for subset in rest_subsets = 0]
+return [[first] + subset for subset in rest_subsets] <1 <0
+return [[first] + subset for subset in rest_subsets] &0, 0
+return [[first] + subset for subset in rest_subsets] 0;
+return [[first] + subset for subset in rest_subsets 0]
+return [[first] + subset for subset in rest_subsets <16]
+return [[first] + subset for subset in rest_subsets] rest_subsets? [] : [];
+return [[first] + subset for subset in rest_subsets 6]
+return [[first] + subset for subset in rest_subsets <0]
+return [[first] + subset for subset in rest_subsets] 0, 0
+return [((*rest)[first] + subset for subset in rest_subsets])? [] : [] &rest]
+return [[first] + subset for subset in rest_subsets &2? [] : [])
+return [[first] + subset for subset in rest_subsets] <0, and ((first) and (subset)); )
+return [[first] + subset for subset in rest_subsets &16]
+return [[first] + subset for subset in rest_subsets] <1 0
+return [[first] + subset for subset in rest_subsets <= 0]
+return [[first] + subset for subset in rest_subsets] <1 &0
+return [first + subset for subset in rest_subsets &0]
+return [[first] + subset for subset in rest_subsets <4]
+return [[first] + subset for subset in rest_subsets 1)
+return [[first] + subset for subset in rest_subsets] <0, and ((first) and (subset)); <)
+return [[first] + subset for subset in rest_subsets] <0, and ((first) and (subset)); &)
+return [[first] + subset for subset in rest_subsets] 0, and ((first) and (subset)); &)
+return [[first] + subset for subset in rest_subsets] 0? 1 : 0;
+return [[first] + subset for subset in rest_subsets] &rest_subsets? [] : [];
+return [[first] + subset for subset in rest_subsets &6]
+return [[first] + subset for subset in rest_subsets] 0, rest_subsets;
+return [[first] + subset for subset in rest_subsets] &0, rest_subsets;

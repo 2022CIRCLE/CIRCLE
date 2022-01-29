@@ -1,0 +1,640 @@
+golden:
+if (!_TIFFMergeFields(tif, fax3Fields, TIFFArrayCount(fax3Fields))) {
+inference:
+if (!_TIFFMergeField(tif, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(&tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), 0)){
+if (!_TIFFMergeField(tif, fax2Fields, TIFFArrayCount(fax2Fields))){
+if (!_TIFF_MergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, &fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL))){
+if (!_TIFFMergeField(&tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, fax4Fields, TIFFArrayCount(fax4Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount())){
+if (!__TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if(!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, *fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), NULL)){
+if (!(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, PR_TRUE))){
+if (!_TIFFMergeField(tif, fax3Fields, 0)){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, fax3)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFF_ArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, &fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, PR_FALSE))){
+if (!_TIFFMergeField(tif, TIFF_FAXMODE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField((tif)tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!GetTIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(&fax3Fields))){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields) && TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), fax3Fields)){
+else if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields) || TIFFArrayCount(fax3Fields)){
+if (!_MergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (! TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFTableCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, FALSE))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), PR_FALSE)){
+if (!_TIFFMergeField(tif, fax3Fields | TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), PR_TRUE)){
+if (!_TIFFMergeField(tif, fax3Fields, tif->tif_clientdata)){
+if (!_TIFFMergeField((tif->tif_clientdata), fax3Fields, TIFFArrayCount(fax3Fields))){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))!= 0){
+if (!_TIFFMergeField(tif, fax3_Fields, TIFFArrayCount(fax3_Fields))){
+if (!NS_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMLergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(ffax3Fields))){
+if (!_TIFFMergeField (tif, fax3Fields, TIFFArrayCount (fax3Fields))){
+if (!&_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (_TIFFMergeField(tif, fax3Fields)){
+if (!nsCRT::TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields || TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(flags))){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TRUE))){
+if (!_TIFFMergeField(ifp, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, TIFFFIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, (int) TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), 0){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, false))){
+if (_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3_fields, TIFFArrayCount(fax3_fields))){
+if (!get_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!tif->tif_clientdata.TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (tif->tif_clientdata == NULL){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), tif->tif_clientdata)){
+if (!_TIFFMergeField((tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField((tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayLength(fax3Fields))){
+if (NS_FAILED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields, 0)){
+if (!_TIFFMergeField(tif, FALSE, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), FALSE)){
+if (!_TIFFMemoryField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0, 0))){
+if (!_TIFFMergeField(tif, fax3Fields, NULL, TIFFArrayCount(fax3Fields))){
+if (!._TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMEMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, old_fax3Fields, TIFFArrayCount(old_fax3Fields))){
+if (!_TIFFMergeField(tif.tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, (int)fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount (fax3Fields))){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(false))){
+if (!g_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (tif->tif_clientdata!= NULL){
+if (!_TIFFMergeField(tif, TIFFFields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TRUE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, nsnull))){
+if (!_TIFFMergeField(tif, fax3Fields, (TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(th, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), false)){
+if (&_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!m_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, Fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_MASK, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rv))){
+if (!_TIFFMergeField(tif, fax1Fields, TIFFArrayCount(fax1Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, flags))){
+if (!_TIFFMergeField((TIFF)tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFList(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax2Fields))){
+if (!_GetTIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (nsnull!= _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(fd, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, NULL)){
+if (!_tIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(*tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, (void *) TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArraySize(fax3Fields))){
+if (!_TIFFMergeField(tif, new_fax3Fields, TIFFArrayCount(new_fax3Fields))){
+if (!_TIFFMergeField(if, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(TIFF, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, FALSE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayList(fax3Fields))){
+if (!_TIFFMergeField(tif, flags, TIFFArrayCount(flags))){
+if (!_TIFFMergeField(tif, TIFF3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount((tif->tif_clientdata)))){
+switch (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (tif->tif_clientdata._TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, sizeof(tif)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), 0)){
+if (!_TIFFMergeField(tif, 0)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields, 0))){
+if (!TIFFMergeField(tif, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rc))){
+if (!_TIFFMergeField(tif, &fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), nsnull)){
+if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fs, TIFFArrayCount(fs))){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields, TIFFArrayCount(fax3Fields))){
+TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF);  else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL, NULL))){
+if (!_TIFFMergeField(tif, fax3Fields);{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount()))){
+if (!_TIFFMergeField(tif, TIFF)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &flags))){
+if (!_TIFFMergeField(tif, flags)){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields));{
+TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF);{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), NULL, NULL)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0xff))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && scheme){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || scheme){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayCount(tif))){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtem))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL, 0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFType(tif))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rt))){
+tif = _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (tif){
+if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_LOCK)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtflag))){
+tif = _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (!tif){
+if (!tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed");{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFactory))){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))!= -1){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtflags))){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (tif == NULL){
+if (!True){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFGetOffsetToArray((int)tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_MAX_LINENAME_SIZE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0;  if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0;  /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF);  else{
+if (!_TIFFMergeField(tif, TIFFARRAY_LENGTH(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0;  /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF);  else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFF_MODE_ALL){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &spl))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))) || ((tif->tif_clientdata) == tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFSetField(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!isVariant()){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && ((tif->tif_clientdata & TIFF_DATA)!= 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata!= NULL)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObject))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_Mask))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata & TIFFMergeCSTAG_DEVICE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_TRANSLIER(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArena_Count(flags)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFSetFunc)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && (tif->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tiff_clientdata->tiff_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tiff_clientdata->tiff_clientdata->tif_clientdata->tif_clientdata->tif_{
+if (!_TIFFMergeField(tif, TIFFFax3(tif), fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFunction(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0;  if (!_TIFFFunction(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && (*(*(*(*)&)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata == NS_CONST_CAST(TIFFInitCCITTFax3 & NS_FIRST_CCITTFax3))){
+if (!_TIFFMergeField(tif, TIFF_AF_INET, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && (tif->tif_clientdata->flags & TIFF_MAXIMEMBER)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (!_TIFFMergeField(tif, TIFFARRAY(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), TIFF_EMPTY_RUNTIME_MASK)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_IFS(0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_INIT_FAILURE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_IsApplication(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_READ_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_COMPONENT_{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_Count(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif->tif_clientdata, TIFFInitCCITTFax3, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObjects))){
+if (!_TIFFMergeField(tif, TIFF_CIRCLE_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFGetCount(tif->tif_clientdata), 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, TIFFIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &id)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_IS_FAILED(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!(tif->tif_clientdata && ((tif->tif_clientdata & TIFF_CALLOR)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!TIFFInitCCITTFax3(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_FLAGS))){
+if (!_TIFFMergeField(tif, TIFFARRAY_NAMESPACE(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_FALSE))){
+if (!_TIFFMergeField(tif, TIFFARRAY_BODY(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObjectMap_Mem))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), TIFFInitCCITTFax3(tif->tif_clientdata), TIFFInitCCITTFax3(tif->tif_clientdata), TIFF_ADDS)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_DEVICE_SYNC)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_CIRCLEHR){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_SIZE_LENGTH(nsIXULPrompt))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_PkTIFF_REMOVED){
+if (!_TIFFMergeField(tif, TIFF_READ_ALLOC, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!mCrpid){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_MULTI_POINT)){
+if (!_TIFFMergeField(tif, TIFF_PARENa, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &aFlags))){
+if (!_TIFFMergeField(tif, TIFFFactoryInitCCIsBuilding)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFlags))){
+if (!_TIFFMergeField(tif, TIFF_ATOMIC_MULTI, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed");{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif->tif_clientdata, TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed");{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeFax3(tif->tif_clientdata, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFReaderCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_Flags[fax3Fields].flags){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), fcnt)){
+if (!_TIFFMergeField(tif, TIFFIFF_BUFFER_SIZE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_SECONDARY_MAX))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArena)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &ioctlr)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFDataSet))){
+if (!_TIFFMergeField(tif, TIFF_PARENO(tif), fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_LINES, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0;  /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF);  else return 01;  if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_ALL)){
+if (!_TIFFMergeField(tif, TIFF_FAILURE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayLength(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed");{
+if (!_TIFFMergeField(tif, TIFFARRAY_FOREACH, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_CCR, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFIFFAR_FLOAT_SIZE(fax3), TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, TIFF_FOREACH(tif->tif_clientdata, fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFAR_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), TIFFInitCCITTFax3(tif->tif_clientdata), TIFFInitCCITTFax3(tif->tif_clientdata), TIFF_ADDS)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArena_Count(flags)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFList(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_SECONDARY_MAX))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(ffax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!(tif->tif_clientdata && ((tif->tif_clientdata & TIFF_CALLOR)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFReaderCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFGetOffsetToArray((int)tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields || TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFARRAY_BODY(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF)){
+if (tif->tif_clientdata == NULL){
+if (!nsCRT::TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObjectMap_Mem))){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!mCrpid){
+if (!_TIFFMergeField(tif, TIFF_PARENa, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFIFFAR_FLOAT_SIZE(fax3), TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, Fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObjects))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_SIZE_LENGTH(nsIXULPrompt))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_MAX_LINENAME_SIZE)){
+if (!_TIFFMergeField(tif, TIFF3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rc))){
+if (!_TIFFMergeField(tif, FALSE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, old_fax3Fields, TIFFArrayCount(old_fax3Fields))){
+if (!(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!__TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields | TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, new_fax3Fields, TIFFArrayCount(new_fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rv))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields, 0))){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))!= -1){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFDataSet))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (! TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_CCR, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_READ_ALLOC, TIFFArrayCount(fax3Fields))){
+if (NS_FAILED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFType(tif))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fs, TIFFArrayCount(fs))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount(tif->tif_clientdata))){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0xff))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(&fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!isVariant()){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFGetCount(tif->tif_clientdata), 0)){
+if (!_TIFFMergeField(tif, &fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayCount(tif))){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_FAILURE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount())){
+if (!_TIFFMergeField(tif, fax3Fields, &fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata == NS_CONST_CAST(TIFFInitCCITTFax3 & NS_FIRST_CCITTFax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && scheme){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), 0){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rt))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, flags))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFlags))){
+if (!_TIFFMergeField(tif, NULL, TIFFArrayCount(fax3Fields))){
+if (!_MergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!GetTIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!m_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!get_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_Count(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_TRANSLIER(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && (*(*(*(*)&)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &flags))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), &tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && (tif->tif_clientdata->flags & TIFF_MAXIMEMBER)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata & TIFFMergeCSTAG_DEVICE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (tif->tif_clientdata!= NULL){
+if (!_TIFFMergeField(tif, 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayLength(fax3))){
+if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif))){
+if (!_TIFFMergeField((tif)tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+<if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TRUE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayList(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TRUE))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax1Fields, TIFFArrayCount(fax1Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, false))){
+if (!._TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (tif == NULL){
+if (!_TIFFMergeField(tif, TIFF_PARENO(tif), fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields) || TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(tif, FALSE, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (_TIFFMergeField(tif, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &aFlags))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFF_MODE_ALL){
+if (NS_SUCCEEDED(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, TIFF_AF_INET, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))) || ((tif->tif_clientdata) == tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields) && TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_MULTI_POINT)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), NULL, NULL)){
+if (!_TIFFMergeField((tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount((tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, fax3Fields, NULL)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArraySize(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, fax3Fields, 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!tif->tif_clientdata){
+if (!True){
+if (!_TIFFMergeField(tif, fax3_Fields, TIFFArrayCount(fax3_Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_FLAGS))){
+if (!_TIFFMergeField(TIFF, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_Mask))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFunction(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFunction(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, (TIFFArrayCount(fax3Fields)))){
+if(!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata!= NULL)){
+if (!&_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_ALL)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || scheme){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFObject))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(false))){
+if (!(_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (&_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (tif->tif_clientdata._TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), FALSE)){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata), fax3Fields)){
+if (!_TIFFMergeField(tif, TIFF_LINES, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFAR_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, TIFF_FOREACH(tif->tif_clientdata, fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeFax3(tif->tif_clientdata, fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFactory))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, FALSE))){
+if (!_TIFFMergeField(tif, fax3Fields, (int) TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, (void *) TIFFArrayCount(fax3Fields))){
+if (!NS_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount(tif)))){
+if (!_TIFFMergeField(tif, (int)fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFunction(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFunction(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF)){
+switch (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount (fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFIFF_BUFFER_SIZE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, nsnull))){
+if (!_TIFFMergeField(tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), 0)){
+if (!g_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL, 0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &spl))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!tif->tif_clientdata){
+if (!_TIFFMergeField((tif->tif_clientdata), fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, &fax3Fields)){
+if (TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(*tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+&if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_INIT_FAILURE)){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (!tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (tif->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata->tif_clientdata)){
+if (!_TIFFMergeField(tif, *fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_tIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0, 0))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), TIFF_EMPTY_RUNTIME_MASK)){
+if (!_TIFFMergeField(tif, TIFF_MASK, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!TIFFInitCCITTFax3(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, TIFFARRAY_NAMESPACE(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif.tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_CIRCLEHR){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_DEVICE_SYNC)){
+TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (tif->tif_clientdata){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFFields))){
+if (!_TIFFMergeField(tif)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, flags, TIFFArrayCount(flags))){
+TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_Flags[fax3Fields].flags){
+if (!_TIFFMergeField (tif, fax3Fields, TIFFArrayCount (fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtem))){
+if (!_TIFFMemoryField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFSetFunc)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), PR_TRUE)){
+if (!_TIFFMergeField((TIFF)tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFSetField(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), PR_FALSE)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_IsApplication(tif->tif_clientdata)){
+if (!_GetTIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(&fax3Fields))){
+if (!TIFFMergeField(tif, fax3Fields)){
+if (!TIFFMergeField(tif, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) || (!_TIFFMergeField(tif, TIFFARRAY(tif)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(fax3Fields), tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, TIFFFactoryInitCCIsBuilding)){
+if (!_TIFFMergeField(tif, fax2Fields, TIFFArrayCount(fax2Fields))){
+if (!_TIFFMergeField(if, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &ioctlr)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(flags))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &id)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFErrorExt(tif->tif_clientdata)))){
+if (!_TIFFMergeField(tif, TIFFArrayCount(tif->tif_clientdata, TIFFArrayCount(tif->tif_clientdata))){
+if (!_TIFFMergeField(tif, flags)){
+if (!_TIFFMergeField(tif, fax3Fields)){
+if (_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+tif = _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (tif){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), &tif->tif_clientdata)){
+if (!_TIFFMergeField((tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_IS_FAILED(tif->tif_clientdata)){
+if (!_TIFFMergeField(tif, fax4Fields, TIFFArrayCount(fax4Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayLength(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFF_ArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, PR_TRUE))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(0))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFTableCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_LOCK)){
+if ((!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)))!= 0){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, 0)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax2Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, NULL, NULL))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), NULL)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFFArena)){
+if (!_TIFFMergeField(tif, TIFF_CIRCLE_FIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(&tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) && ((tif->tif_clientdata & TIFF_DATA)!= 0)){
+tif = _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)); if (!tif){
+if (nsnull!= _TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(tif))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), nsnull)){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), false)){
+if (!_TIFF_MergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3)){
+TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), fcnt)){
+if (!_TIFFMergeField(tif, fax3, TIFFArrayCount(fax3))){
+if (!_TIFFMergeField(tif, fax3Fields, NULL, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_FAXMODE, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMEMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFFax3(tif), fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFFArrayCount()))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtflag))){
+if (!_TIFFMergeField(th, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, TIFFIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFactory(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; <if (!_TIFFFactory(tif->tif_clientdata, "TIFFFactory", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_TIFFFunction(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &if (!_TIFFFunction(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF)){
+else if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) &&!_PkTIFF_REMOVED){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, PR_FALSE))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, TIFF_FALSE))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, sizeof(tif)))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFFields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields, &rtflags))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; &if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMLergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeField(tif->tif_clientdata, TIFFInitCCITTFax3, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(&tif->tif_clientdata, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields), TIFF_IFS(0))){
+if (!_TIFFMergeField(ifp, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFFIELDS, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3_fields, TIFFArrayCount(fax3_fields))){
+if (!_TIFFMergeField(fd, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; </* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); <else return 01; if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFFARRAY_LENGTH(fax3Fields), TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFMergeArray(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; /* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else{
+if (!_TIFFMergeField(tif, TIFFARRAY_FOREACH, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields)) ||!_TIFFErrorExt(tif->tif_clientdata, "TIFFInitCCITTFax3", "Merging CCITT Fax 3 codec-specific tags failed"); return 0; &/* * The default format is Class/F-style w/o RTC. */ return TIFFSetField(tif, TIFFTAG_FAXMODE, FAXMODE_CLASSF); &else return 01; <if (!_TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){
+if (!_TIFFMergeField(tif, TIFF_ATOMIC_MULTI, TIFFArrayCount(fax3Fields))){
+if (!tif->tif_clientdata.TIFFMergeField(tif, fax3Fields, TIFFArrayCount(fax3Fields))){

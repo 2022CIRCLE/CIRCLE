@@ -1,0 +1,520 @@
+golden:
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO!", &time_str, &time_str_len, &timezone_object, date_ce_timezone)) {
+inference:
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NULL, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS!= zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))!= 0){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len)){
+if(SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters("|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __func__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zd_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC) &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (suCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS("|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS())){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS (TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&time_str), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(this, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|SO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO")){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == (zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&time_str))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __unused, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS () TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(time_str), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), NULL, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO" )){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(NULL), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(__func__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TCS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend__parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO"))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (SUCCESS == (zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", 0, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS  zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS() TSRMLS_CC){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __user, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC)&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() ts, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")) == 0){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC)), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSR_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|SO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO");{
+if (SUCCESS == zend_parse_parameters(DateTime.NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", 0, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(){
+if (SUCCESS == parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __user__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (result == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subcache == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS()){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO").get()){
+if (SUCCESS == zend_parse_parameters(SEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS (TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (subject == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO"); &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters()){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &str, &str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&timezone_object), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(DATE_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "/|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, 0, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(zero, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(Timezone_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NS_LITERAL_STRING("|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &timestr, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(timezone_object), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS (TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (!SUCCESS){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), '|sO', &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", NULL, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subscription == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+else if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&time_str, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() * TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO").get()){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO");{
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))!= NULL){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ts, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, NULL, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", (u_long)&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(OK, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TRUE, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_c_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timer, &timer_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, 0, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"); &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str)){
+if (subCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timestr, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &timestr, &timestr_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &temp_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &zval_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, PR_TRUE)){
+if (SUCCEEDED(SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SubCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timestr, &timestr_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(), "|sO"))){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0, 0)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, NULL, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ts) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS("cc.so", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tsep_sec)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &td_td_td_td)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ts_context) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(XP_MAC)? "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__func__)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, getter_AddRefs(timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tmp)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(XS_DATE_PARSE), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &error_handling)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_key)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TCSR_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, TSRMLS_CC_PARAMETER)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_len, &timezone_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &daemon_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0, 0)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &otimezone_object, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tx_tx_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_itime_timezone(time_str))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TimeZone) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_timezone_object())){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_get())){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &error_handling)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone, &zval_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &ttytime)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TimeZone, ZEND_NUM_ARGS(&time_str)), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__zero_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &u_int)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &time_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &do_timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &date_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__save_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &save_timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &flags)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tty_tty)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &desc)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object_page, &timezone_object_page)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(td, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object_len, &timezone_object_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_user_file_name())){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &rtsy_op, rtsy_op_op_sym, rtsy_op_op_sym)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(time_str) &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone, &ts)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(PTR_TO_INT32(TSRMLS_CC)))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &d_t)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &ts_object, ts_object_type)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tty)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &state)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &timestr, &timestr_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &d_t)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ts) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS (TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tty_tty)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS () TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS() TSRMLS_CC){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO" )){
+if (result == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &ttytime)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS("cc.so", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS <zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object_len, &timezone_object_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &error_handling)){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ts_context) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &daemon_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(zero, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &ts_object, ts_object_type)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &otimezone_object, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_len, &timezone_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS (TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__func__)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_key)){
+if (SUCCEEDED(SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))){
+if (SUCCESS == zend_parse_parameters(&ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __unused, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &timestr, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TCSR_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TRUE, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO").get()){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|SO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tsep_sec)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC)&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NS_LITERAL_STRING("|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, 0, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(XP_MAC)? "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters()){
+if (subscription == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0, 0)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))!= NULL){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &do_timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (SUCCESS == zend_parse_parameters(SEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SubCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(OK, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, PR_TRUE)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(timezone_object), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend__parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", (u_long)&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subject == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &flags)){
+if (SUCCESS == zend_parse_parameters( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&time_str, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS(TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zd_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", 0, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS( TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC) &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(NULL), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &zval_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", time_str, time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, NULL, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__save_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &td_td_td_td)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timestr, &timestr_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_itime_timezone(time_str))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "/|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TCS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(time_str), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&time_str), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &temp_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_c_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (!SUCCESS){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, 0, 0)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &u_int)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &str, &str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", NULL, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NULL, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subcache == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() ts, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &error_handling)){
+if (SUCCESS == zend_parse_parameters(ts, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &rtsy_op, rtsy_op_op_sym, rtsy_op_op_sym)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(&time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS(), "|sO"))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __user, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(this, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS("|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (suCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSR_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() * TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, getter_AddRefs(timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tmp)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"); &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters( ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if(SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(time_str) &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC)), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TimeZone) TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object_get())){
+if (SUCCESS == zend_parse_parameters (TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == ZEND_NUM_ARGS()){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_user_file_name())){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, get_timezone_object())){
+if (SUCCESS!= zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO")){
+else if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TimeZone, ZEND_NUM_ARGS(&time_str)), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters("|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(&timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timer, &timer_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, NULL, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(DATE_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(TZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO"))!= 0){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS (TSRMLS_CC, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object_page, &timezone_object_page)){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|so", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (subCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(timezone_object))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(XS_DATE_PARSE), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &save_timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEXT_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __func__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &date_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(__func__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO"))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(PTR_TO_INT32(TSRMLS_CC)))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone, &zval_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()) &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &time_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() __user__, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &timezone_object, &timezone_object_len)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &desc)){
+if (SUCCESS == (zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &timezone_object)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|SO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&timezone_object), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone, &ts)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tx_tx_object)){
+if (SUCCESS == zend_parse_parameters(DateTime.NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (SUCCESS == (zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &timestr, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), '|sO', &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS())){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, &date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(td, "|sO"), &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS( TSRMLS_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(&time_str))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), NULL, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, NULL)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, 0, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, timezone_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO"); &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if ((SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO")) == 0){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(Timezone_CC), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, &timezone_timezone)){
+if (SUCCESS == zend_parse_parameters (ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, TSRMLS_CC_PARAMETER)){
+if (SUCCESS == zend_parse_parameters(TSRMLS_CC, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &tty)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &state)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(ZEND_NUM_ARGS()))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone))){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS(), "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone, &__zero_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO").get()){
+if (SUCCESS &zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", &time_str, &time_str_len, &timezone_object, date_ce_timezone)){
+if (SUCCESS == zend_parse_parameters(ZEND_NUM_ARGS() TSRMLS_CC, "|sO", 0, &time_str, &time_str_len, &timezone_object, date_ce_timezone)){

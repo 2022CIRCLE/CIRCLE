@@ -1,0 +1,374 @@
+golden:
+distance + length_by_edge[node, nextnode]
+inference:
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + nextnode
+get(unvisited_nodes, nextnode) + length_by_edge(node, nextnode)
+get (unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node]
+get(unvisited_nodes, nextnode) + path_length(node, nextnode)
+get(unvisited_nodes, nextnode) + get(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + (long)length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + len_by_edge[node, nextnode]
+heappush(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + *length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, distance]
+get(unvisited_nodes, nextnode) + length[node, nextnode]
+get(unvisited_nodes, nextnode)) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) +  length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + llength_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + extent[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[lnk, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node.get(), nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node] + nextnode
+unvisited_nodes + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + path_length[node, nextnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] + 1)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + 1
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]+1)
+get(unvisited_nodes, nextnode) + length_by_edge[node], nextnode)
+get(unvisited_nodes, nextnode, length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + shortest_path_length(node, nextnode)
+get(nvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + nextnode.get()
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]-1)
+get(unvisited_nodes, nextnode) + endnode
+get (unvisited_nodes, nextnode) + length_by_edge (node, nextnode)
+get(unvisited_nodes, next_node) + length_by_edge[node, next_node]
+get (unvisited_nodes, nextnode) + length_by_edge [node, nextnode]
+get(unvisited_nodes, nextnode) + * length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, len]
+get(unvisited_nodes, nextnode) + size_by_edge[node, nextnode]
+get(unvisited_nodes, node) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + path[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + lengths[node, nextnode]
+get(unvisited_nodes, nextnode) + self.length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + path_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, 1]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode];
+get(unvisited_nodes, nextnode) + length(node, nextnode)
+get(unvisited_nodes, nextnode) + const length_by_edge[node, nextnode]
+unvisited_nodes[node] + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + width[node, nextnode]
+get(unvisited_nodes, lastnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + len;
+get(unvisited_nodes, node) + length_by_edge[node, node]
+get(unvisited_nodes, nextnode) + nextnode[node]
+get(unvisited_nodes, nextnode) + llength(node, nextnode)
+unvisited_nodes += length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + nextnode;
+(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[firstnode, nextnode]
+get(unvisited_nodes, nextnode) + length[node]
+get(unvisited_nodes, nextnode) - length_by_edge[node, nextnode]
+int get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node], nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[i, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode.get()]
+get(unvisited_nodes, nextnode) + length_by_edge[endnode, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, 0]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode - 1]
+get(unvisited_nodes, nextnode) + max(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + (long) length_by_edge[node, nextnode]
+get(uvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[startnode, nextnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] >> 1)
+get(unvisited_nodes, nextnode) + length_by_edge[a, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node] - nextnode
+unvisited_nodes.add(nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + len_nextnode
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode.len)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]))
+get(unvisited_nodes, nextnode) + free(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + l_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[startnode, endnode]
+get(unvisited_nodes, nextnode) * length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[(long)node, nextnode]
+get(unvisited_nodes, nextnode) += length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_node[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, None]
+get(unvisited_nodes, nextnode) + len_nodes[node, nextnode]
+get(unvisited_nodes, nextnode) + unvisited_nodes[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node].successors
+get(unvisited_nodes, nextnode) + 1
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]*2)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + distance
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] - 1
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, i]
+get(unvisited_nodes, nextnode) + nextnode.successors
+get(unvisited_nodes, nextnode) +(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + len[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + -length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + offset
+get(unvisited_nodes, nextnode) + distance[node, nextnode]
+get(unvisited_nodes, nextnode) + _length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode)  + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) = length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + lastnode
+get(unvisited_nodes, nextnode) + this.length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].len
+get(unvisited_nodes, nextnode) + length_by_edge[len, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].get()
+get(unvisited_nodes, nextnode) + the_length_by_edge[node, nextnode]
+find(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode)+1
+get(unvisited_nodes, nextnode) + length_by_end[node, nextnode]
+length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, 0)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, i)
+get(unvisited_nodes, nextnode) + len + length_by_edge[node, nextnode]
+get((unvisited_nodes, nextnode) + length_by_edge[node, nextnode])
+goto out;
+get(unvisited_nodes, nextnode) + length_by_edge[node, node]
+get(unvisited_nodes, nextnode) + 2*length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + len
+get(unvisited_nodes, nextnode) + a_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, distance)
+get(unvisited_nodes, nextnode) + length_by_edge[&node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[endnode, endnode]
+get(unvisited_nodes, nextnode) + llength[node, nextnode]
+get(unvisited_nodes, nextnode) + distance_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + lnk_edge[node, nextnode]
+*get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + height[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by-edge[node, nextnode]
+get(unvisited_nodes, nextnode) + depth_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + heap_length(node, nextnode)
+get(unvisited_nodes, nextnode) + length_by(node, nextnode)
+get(unvisited_nodes, nextnode) +, length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + nextnode.len
+get(unvisited_nodes, nextnode) + size(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + sizeof(length_by_edge[node], nextnode)
+get(unvisited_nodes, nextnode) + 1 + length_by_edge[node, nextnode]
+get(unvisited_nodes, firstnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + long_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + shortest_length(node, nextnode)
+get(unvisited_nodes, nextnode), length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode.len]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode) + 1
+get(unvisited_nodes, nextnode) + length_by_edge[node.nextnode]
+get(unvisited_nodes, &nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]+1
+get(unvisited_nodes, nextnode) + prev_edge[node, nextnode]
+get(unvisited_nodes, nextnode));
+get(unvisited_nodes, nextnode) + length_by_edge[node].nextnode
+get(unvisited_nodes, nextnode) + length_by_edge[node.len, nextnode]
+get(unvisited_nodes, nextnode) + new_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + dev_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + path_size(node, nextnode)
+get(unvisited_nodes, nextnode) + shortest_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + limit_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + sizeof(unvisited_nodes)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, path)
+get(unvisited_nodes, nextnode) + next_node
+goto get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + len
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode or 0]
+get(unvisited_nodes, nextnode) + length_by_edge[node] + 1
+get(unvisited_nodes, nextnode) + length_by_edge[node];
+get(unvisited_nodes, nextnode) + flength_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + nextnode.size()
+get(unvisited_nodes, nextnode) + length-by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] >> 2)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, end]
+get(unvisited_nodes, nextnode) + node_length[node, nextnode]
+get (unvisited_nodes, nextnode) + length_by_edge(node, nextnode)
+get(unvisited_nodes, lastnode) + length_by_edge[node, lastnode]
+get(unvisited_nodes, nextnode) + len(node)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] * 2)
+get(unvisited_nodes, nextnode) + length;
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode) - 1
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].next)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].successor
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].len()
+get(unvisited_nodes, nextnode) + distance
+get(unvisited_nodes, prevnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + lengths[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]);
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]1)
+get(unvisited_nodes, nextnode) + nextnode.length
+get(unvisited_nodes, nextnode) + path_len(node, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] or 0
+get(unvisited_nodes, nextnode))
+get(unvisited_nodes, nextnode) + length(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, a)
+get(unvisited_nodes, nextnode) + length_by_edge[node]+1
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]])
+get(unvisited_nodes, nextnode) + heappush(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, tp]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, &empty)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, startnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] + length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - 1);
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, maxflen]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + len(node)
+get(unvisited_nodes, nextnode) + len(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node] /* node in the list */
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] + sizeof(unvisited_nodes),nextnode)
+get(unvisited_nodes, nextnode) + dw_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + '.'
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + length_by_edge[node] + length_by_edge[node]
+get(unvisited_nodes, nextnode) + dna_nextnode
+get(unvisited_nodes, nextnode) + p_long_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (unvisited_nodes & 0xffffffffffffffff))
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, get(unvisited_nodes, nextnode))
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, a]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - sizeof(unvisited_nodes))
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, get(node_heap, nextnode)]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, first=None)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & '')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], nextnode)
+get(unvisited_nodes, nextnode) + nextnode.length()
+get(unvisited_nodes, nextnode) + ns_edges_to_length(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, idx]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node] + length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - len)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].fp
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, get(unvisited_nodes, nextnode)]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, length_by_edge[node]]
+get(unvisited_nodes, nextnode) + length_by_edge[node] + nextnode.get()
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] + sizeof(nvisited_nodes))
+get(unvisited_nodes, nextnode) + lhs_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].cstrlen('0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, sizeof(nvisited_nodes)]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0x7fffffff)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? length_by_edge[node] : length_by_edge[node])
+get(unvisited_nodes, nextnode) + nextnode[node_length - 1]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, node.desc]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, node.flags)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] or 'u'
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], tpl)
+get(unvisited_nodes, nextnode) + fsd_length(node, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] /*
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '0' : '0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].successors
+get(unvisited_nodes, nextnode) + lnk_length(node, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + length_by_end_offset(node)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, path]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], ptr_t node)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].nextnode
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] * a)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, cnt]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + length_by_edge[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], i)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0xff)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (int)nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode] + len;
+get(unvisited_nodes, nextnode) + u_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "0" : "0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0x80)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + '/'
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, startnode, endnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + length_by_edge[node.size() - 1]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, lastnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] * 1000)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], get(unvisited_nodes, nextnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, &cnt]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, '0']
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode) + distance
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] * 4)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - 1)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode]  length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0xffff)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, node.destroy()]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, get(nvisited_nodes, nextnode)]
+get(unvisited_nodes, nextnode) + heap_length(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + len_by_edge[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (unvisited_nodes + 2)]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] or '/'
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode] + length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] * 3)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], cnt]
+get(unvisited_nodes, nextnode) + d.nextnode
+get(unvisited_nodes, nextnode) + length_by_edge[node] + (int)nextnode
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] and (length_by_edge[node] and (length_by_edge[node] and (length_by_edge[node] and (length_by_edge[node]))))
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] or '.'
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], *for_same_nodes
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nvisited_nodes]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] /* allocate */
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, &node_size]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, &dist]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], max_dw]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] and (nvp_free(nvp)))
+get(unvisited_nodes, nextnode) + lnk_update(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + dprintf(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + nss_nextnode[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, splx]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - length_by_edge[node])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, lnk)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] = 0
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], nextnode, maxnode)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, '.')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode, s)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + (dist_length - a)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] and!(ap? nextnode.len : 1)))
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + length_by_edge[node, nextnode] + length_by_edge[node]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, None]
+get(unvisited_nodes, nextnode) + None_path_length(node, nextnode)
+get(unvisited_nodes, nextnode) + lnk_length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] + (int)sizeof(nextnode)
+get(unvisited_nodes, nextnode) + i_length(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + lnk(length_by_edge[node, nextnode])
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, a, b]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode], &len)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] + length_by_edge[node])
+get(unvisited_nodes, nextnode) + <length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]<1)
+get(unvisited_nodes, nextnode) <+ length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (unvisited_nodes & 0xffffffffffffffff))
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '<0' : '&0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '&0' : '<0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '0' : '0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "&0" : "0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '&0' : '0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] = 0
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - <len)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode] length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]1)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]&1)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "<0" : "0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & &0x80)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "<0" : "&0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & '')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '0' : '<0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '<0' : '<0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].cstrlen('0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (unvisited_nodes & <0xffffffffffffffff))
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & &0x7fffffff)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '<0' : '0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & <0x7fffffff)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] &= 0
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - &len)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '0' : '&0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "&0" : "&0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "0" : "&0")
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].cstrlen('&0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, (unvisited_nodes & &0xffffffffffffffff))
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? '&0' : '&0')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & &'')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, '<0']
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode] &length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0x7fffffff)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & <'')
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "<0" : "<0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "0" : "<0")
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode].cstrlen('<0')
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, '&0']
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, nextnode, nextnode] <length_by_edge[node]
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & 0x80)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] - len)
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "&0" : "<0")
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode]? "0" : "0")
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode, '0']
+get(unvisited_nodes, nextnode) + (length_by_edge[node, nextnode] & <0x80)
+get(unvisited_nodes, nextnode) + length_by_edge[node, nextnode] <= 0
+get(unvisited_nodes, nextnode) &+ length_by_edge[node, nextnode]
+get(unvisited_nodes, nextnode) + &length_by_edge[node, nextnode]
