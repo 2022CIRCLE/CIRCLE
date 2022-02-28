@@ -7,4 +7,6 @@
 
 ## Note
 
-The source code will be released after the double-blind review.
+Now we release the correct patches only for Defects4J, as for other benchmarks, we perform exact match to calculate number of correct patches, which means the patches are identical to the ground truth ones.
+
+More detailed information and the source code will be released after the double-blind review.
