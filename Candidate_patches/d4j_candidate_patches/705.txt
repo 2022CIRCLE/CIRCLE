@@ -1,6 +1,3 @@
-golden:
-if (u * v == 0) {
-inference:
 if (u == 0){
 if (u  v){
 if (v == 0){

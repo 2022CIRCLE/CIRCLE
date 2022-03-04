@@ -1,6 +1,3 @@
-golden:
-final EigenDecomposition dec = new EigenDecomposition(m);
-inference:
 
 final Decomposition dec = new Decomposition(m);
 final InternalDecomposition dec = new InternalDecomposition(m);

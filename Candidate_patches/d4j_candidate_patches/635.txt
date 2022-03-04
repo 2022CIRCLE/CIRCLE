@@ -1,6 +1,3 @@
-golden:
-out.write(ch);
-inference:
 out.write('0');
 out.write(ch.get());
 out.write("u00");

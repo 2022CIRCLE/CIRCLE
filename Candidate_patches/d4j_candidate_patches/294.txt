@@ -1,6 +1,3 @@
-golden:
-String propName = parent.getLastChild().getString(); if (!validProperties.contains(propName)) { if (NodeUtil.isVarOrSimpleAssignLhs(parent, gramps)) {
-inference:
 if (nodeUtil.isVarOrSimpleAssignLhs(parent, gramps)){
 if (NodeUtil.isVarOrSimpleAssignLhs(parent, gramps)){
 if (!validProperties.contains(parent))  if (NodeUtil.isVarOrSimpleAssignLhs(parent, gramps)){

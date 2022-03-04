@@ -1,6 +1,3 @@
-golden:
-isEquals = lhs.equals(rhs);
-inference:
 isEquals = lhs.get().equals(rhs);
 
 isEquals = lhs.getClass().equals(rhs);

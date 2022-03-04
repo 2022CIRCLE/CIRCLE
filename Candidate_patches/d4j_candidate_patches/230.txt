@@ -1,6 +1,3 @@
-golden:
-private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote) throws IOException {
-inference:
 static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){
 static void escapeJavaStyleString(Writer out, String str) throws IOException{
 private static void escapeJavaStyleString(Writer out, String str, boolean escapeSingleQuote){

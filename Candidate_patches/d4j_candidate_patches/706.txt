@@ -1,6 +1,3 @@
-golden:
-typeReference.setString(aliasName);
-inference:
 typeReference.setString(aliasName);
 typeReference.setString(aliasName.get());
 typeReference = typeReference;

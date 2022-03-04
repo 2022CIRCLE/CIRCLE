@@ -1,6 +1,3 @@
-golden:
-addToSetIfLocal(lhs, gen);
-inference:
 
 addToSetIfLocal(n.getFirstChild(), gen);
 addToSetIfLocal(lhs, gen, 0);

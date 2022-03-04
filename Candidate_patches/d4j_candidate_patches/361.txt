@@ -1,6 +1,3 @@
-golden:
-writer.write(entityValue);
-inference:
 writer.write(entityValue.get());
 
 writer.write(entityValue, 0);

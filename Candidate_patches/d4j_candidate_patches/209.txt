@@ -1,6 +1,3 @@
-golden:
-chiSquare += residual * residual / residualsWeights[i];
-inference:
 chiSquare += residual * residual / residualsWeights[i];
 chiSquare += residual / residualsWeights[i];
 chiSquare += residual * residual / residuals[i];

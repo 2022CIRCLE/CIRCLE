@@ -1,6 +1,3 @@
-golden:
-for (Node c = n.getFirstChild(); c != null; c = c.getNext()) {
-inference:
 for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
 for (Node c = n.getFirstChild(); c!= null; c = c.getNext()){
 for (Node c = n.firstChild; c!= null; c = c.next){

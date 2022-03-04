@@ -1,6 +1,3 @@
-golden:
-report(t, n, GOOG_SCOPE_NON_ALIAS_LOCAL, n.getString());
-inference:
 report(t, n, GOOG_SCOPE_NON_ALIAS_LOCAL, n.getUnicode());
 report(t, n, GOOG_SCOPE_NON_ALIAS_LOCAL, &n.getString());
 report(t, n, GOOG_SCOPE_NON_ALIAS_LOCAL, n);

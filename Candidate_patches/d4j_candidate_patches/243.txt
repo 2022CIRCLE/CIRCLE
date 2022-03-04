@@ -1,6 +1,3 @@
-golden:
-private boolean canInline() {
-inference:
 static boolean canInline(){
 boolean canInline(){
 static inline boolean canInline(){

@@ -1,6 +1,3 @@
-golden:
-private void createSynthesizedExternVar(String varName) { Node nameNode = Node.newString(Token.NAME, varName);  // Mark the variable as constant if it matches the coding convention // for constant vars. // NOTE(nicksantos): honestly, i'm not sure how much this matters. // AFAIK, all people who use the CONST coding convention also // compile with undeclaredVars as errors. We have some test // cases for this configuration though, and it makes them happier. if (compiler.getCodingConvention().isConstant(varName)) { nameNode.putBooleanProp(Node.IS_CONSTANT_NAME, true); }  getSynthesizedExternsRoot().addChildToBack( new Node(Token.VAR, nameNode)); varsToDeclareInExterns.remove(varName);
-inference:
 static void createSynthesizedExternVar(String varName)  Node nameNode = Node.newString(Token.NAME, varName); varsToDeclareInExterns.remove(varName);
 static void createSynthesizedExternVar(String varName)  Node nameNode = Node.newString(Token.NAME, varName);
 void createSynthesizedExternVar(String varName)  Node nameNode = Node.newString(Token.NAME, varName); varsToDeclareInExterns.remove(varName);

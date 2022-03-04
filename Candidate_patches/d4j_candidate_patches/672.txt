@@ -1,6 +1,3 @@
-golden:
-return iValue - ((ValuedEnum) other).iValue;
-inference:
 return (iValue - ((ValuedEnum) other).iValue);
 return (iValue - ((ValuedEnum) other).iValue;
 return iValue - ((ValuedEnum) other).iValue;

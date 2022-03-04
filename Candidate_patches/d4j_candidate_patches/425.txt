@@ -1,6 +1,3 @@
-golden:
-minutesOffset = FieldUtils.safeAdd(hoursInMinutes, minutesOffset);
-inference:
 minutesOffset = FieldUtils.safeAdd(hoursInMinutes, minutesOffset);
 minutesOffset = FieldUtils.safeAdd(hoursInMinutes, minutesOffset, 0);
 minutesOffset = FieldUtils.safeAdd(hoursInMinutes, -minutesOffset);

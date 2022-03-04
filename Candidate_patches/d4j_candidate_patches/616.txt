@@ -1,6 +1,3 @@
-golden:
-String result = stream.getRemainingJSDocLine();
-inference:
 String result = stream.getRemainingJSDocLine();
 
 String result = stream.GetRemainingJSDocLine();

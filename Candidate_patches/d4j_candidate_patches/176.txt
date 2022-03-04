@@ -1,6 +1,3 @@
-golden:
-while (n.next != child) {
-inference:
 while (n.next!= child){
 while (n.next == child){
 while ((n.next!= child)){

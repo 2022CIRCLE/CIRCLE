@@ -1,6 +1,3 @@
-golden:
-long local = convertUTCToLocal(instant); return convertLocalToUTC(local, false, earlierOrLater ? instantAfter : instantBefore);
-inference:
 long local = convertUTCToLocal(instant); return convertLocalToUTC(local, false, earlierOrLater? instantAfter : instantBefore);
 return convertUTCToLocal(instant, false, earlierOrLater? instantAfter : instantBefore);
 return convertLocalToUTC(instant, false, earlierOrLater? instantAfter : instantBefore);

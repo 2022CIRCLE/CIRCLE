@@ -1,6 +1,3 @@
-golden:
-int i = className.lastIndexOf(PACKAGE_SEPARATOR_CHAR);
-inference:
 long i = className.lastIndexOf(PACKAGE_SEPARATOR_CHAR);
 int i = className.lastIndexOf(PACKAGE_SEPARATOR_CHAR);
 int i;

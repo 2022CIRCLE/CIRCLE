@@ -1,6 +1,3 @@
-golden:
-return getRegistry().contains(new IDKey(value));
-inference:
 return getRegistry().contains(value);
 return getRegistry().containsKey(value);
 return getRegistry().contains(key);

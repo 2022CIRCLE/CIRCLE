@@ -1,6 +1,3 @@
-golden:
-node = node.getFirstChild();
-inference:
 node = node.getFirstChild();
 
 node = node.getFirstChild(node);

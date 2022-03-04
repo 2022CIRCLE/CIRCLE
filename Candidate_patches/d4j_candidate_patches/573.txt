@@ -1,6 +1,3 @@
-golden:
-final Line reverted = new Line(zero, zero.subtract(direction));
-inference:
 final Line reverted = new Line(zero);
 final Line reverted = new Line(zero, 0);
 reverted = new Line(zero, zero.subtract(direction));

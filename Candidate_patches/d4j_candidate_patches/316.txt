@@ -1,6 +1,3 @@
-golden:
-String joinString = (right == null) ? "," : NodeUtil.getStringValue(right);
-inference:
 
 String joinString = ",";
 String joinString = NodeUtil.getStringValue(right);

@@ -1,6 +1,3 @@
-golden:
-return reportMatcher(Any.ANY).returnChar();
-inference:
 return anyChar;
 return anyChar();
 return reportMatcher(Any.ANY);

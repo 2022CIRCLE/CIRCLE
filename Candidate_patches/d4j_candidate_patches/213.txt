@@ -1,6 +1,3 @@
-golden:
-mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
-inference:
 mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
 
 mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();

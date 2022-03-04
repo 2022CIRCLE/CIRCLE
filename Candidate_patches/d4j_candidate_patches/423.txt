@@ -1,6 +1,3 @@
-golden:
-int hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 60);
-inference:
 int hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 0);
 long hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 60);
 int hoursInMinutes = FieldUtils.safeMultiply(hoursOffset, 60, 0);

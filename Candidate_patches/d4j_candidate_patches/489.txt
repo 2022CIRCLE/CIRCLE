@@ -1,6 +1,3 @@
-golden:
-if (flags.process_closure_primitives) { options.closurePass = true; }  initOptionsFromFlags(options);
-inference:
 
 initOptionsFromFlags(options);
 options.closurePass = true;

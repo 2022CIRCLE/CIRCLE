@@ -1,6 +1,3 @@
-golden:
-if (n.isGetProp()) {
-inference:
 if (!n.isGetProp()){
 if (n.isGetProp()){
 if (n.getProp()){

@@ -1,6 +1,3 @@
-golden:
-if (options.dependencyOptions.needsManagement() && options.closurePass) {
-inference:
 if (options.dependencyOptions && options.closurePass){
 if (options.dependencyOptions.isEmpty() && options.closurePass){
 if (options.dependencyOptions.needsManagement()){

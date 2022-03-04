@@ -1,6 +1,3 @@
-golden:
-ancillaryTypes = interfaces == null ? new Class<?>[0] : interfaces;
-inference:
 ancillaryTypes = interfaces == null? new Class?>[0] : interfaces;
 ancillaryTypes = interfaces == null? new Class?>[0] : interfaces;
 

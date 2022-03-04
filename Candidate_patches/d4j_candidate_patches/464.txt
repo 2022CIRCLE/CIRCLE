@@ -1,6 +1,3 @@
-golden:
-if (verificationMode instanceof MockAwareVerificationMode && ((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()) {
-inference:
 if (verificationMode instanceof MockAwareVerificationMode){
 if (verificationMode instanceof MockAwareVerificationMode && ((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()){
 if (verificationMode!= null && ((MockAwareVerificationMode) verificationMode).getMock() == invocation.getMock()){

@@ -1,6 +1,3 @@
-golden:
-recordDepScope(recordNode, ns);
-inference:
 recordDepScope(nameNode, ns);
 
 recordDepScope(recordNode);

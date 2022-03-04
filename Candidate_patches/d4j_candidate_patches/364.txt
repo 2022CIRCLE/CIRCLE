@@ -1,6 +1,3 @@
-golden:
-throw new IllegalArgumentException ("Function values at endpoints do not have different signs." + "  Endpoints: [" + min + "," + max + "]" + "  Values: [" + yMin + "," + yMax + "]"); } else { // solve using only the first endpoint as initial guess ret = solve(min, yMin, max, yMax, min, yMin); // either min or max is a root }  return ret;
-inference:
 return ret;
 return solve(min, yMin, max, yMax, min, yMin);
 return resolve(min, yMin, max, yMax, min, yMin);

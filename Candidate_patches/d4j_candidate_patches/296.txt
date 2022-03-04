@@ -1,6 +1,3 @@
-golden:
-if (!maybeModifiedArguments && !staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()) {
-inference:
 if (!maybeModifiedArguments &&!staleVars.contains(v)){
 if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined()){
 if (!maybeModifiedArguments &&!staleVars.contains(v) && referenceInfo.isWellDefined() && referenceInfo.isAssignedOnceInLifetime()){

@@ -1,6 +1,3 @@
-golden:
-if (isClassOrEnum) { return true; } return (type == Type.FUNCTION || aliasingGets == 0) && (parent == null || parent.canCollapseUnannotatedChildNames());
-inference:
 return (type == Type.FUNCTION || aliasingGets == 0) && (parent == null || parent.canCollapseUnannotatedChildNames());
 return true;
 return (type == Type.FUNCTION || aliasingGets == 0) && (parent == null || parent.canCollapseUnannotatedChildNames());

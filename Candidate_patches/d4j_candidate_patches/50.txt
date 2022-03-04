@@ -1,6 +1,3 @@
-golden:
-if (MathUtils.compareTo(entry, 0, epsilon) >= 0) {
-inference:
 if (MathUtils.compareTo(entry, 0) >= 0){
 if (mathUtils.compareTo(entry, 0, epsilon) >= 0){
 if (MathUtils.compareTo(entry, 0, epsilon) >= 0){

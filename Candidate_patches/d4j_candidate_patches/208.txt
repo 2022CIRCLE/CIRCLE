@@ -1,6 +1,3 @@
-golden:
-return TernaryValue.TRUE;
-inference:
 return TernaryValue.true;
 return TernaryValue.false;
 return (TernaryValue.true);

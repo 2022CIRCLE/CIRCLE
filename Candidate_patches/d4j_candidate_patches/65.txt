@@ -1,6 +1,3 @@
-golden:
-DurationField rangeField = fieldType.getRangeDurationType().getField(iChronology);
-inference:
 DurationField rangeField = fieldType.getCurrentDurationType().getField(iChronology);
 DurationField rangeField = fieldType.getRuleDurationType().getField(iChronology);
 DurationField rangeField = fieldType.getDateDurationType().getField(iChronology);

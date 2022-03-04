@@ -1,6 +1,3 @@
-golden:
-this(time, RegularTimePeriod.DEFAULT_TIME_ZONE, Locale.getDefault());
-inference:
 this(time, Locale.getDefault());
 this(time, RegularTimePeriod.DEFAULT_TIME_ZONE, &locale);
 this(time, TimeZone.DEFAULT_TIME_ZONE, Locale.getDefault());

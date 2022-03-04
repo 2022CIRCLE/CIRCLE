@@ -1,6 +1,3 @@
-golden:
-if (NodeUtil.isAssignmentOp(parent) && parent.getFirstChild() == n) { isSet = true; type = Name.Type.OTHER; } } } name = n.getString();
-inference:
 
 name = n.getString();
 isSet = true; type = Name.Type.OTHER;

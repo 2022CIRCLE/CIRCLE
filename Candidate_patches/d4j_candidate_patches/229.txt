@@ -1,6 +1,3 @@
-golden:
-escapeJavaStyleString(writer, str, escapeSingleQuotes);
-inference:
 escapeJavaStyleString(writer, str);
 escapeJavaStyleString(writer, str.get(), escapeSingleQuotes);
 escapeJavaStyleString(writer, str, escapeSingleQuotes, 0);

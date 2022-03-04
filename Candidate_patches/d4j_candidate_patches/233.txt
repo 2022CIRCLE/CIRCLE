@@ -1,6 +1,3 @@
-golden:
-if (c > 0x7F) {
-inference:
 if (c >= 0x7F){
 if (c > 0x7F){
 if (c > 0){

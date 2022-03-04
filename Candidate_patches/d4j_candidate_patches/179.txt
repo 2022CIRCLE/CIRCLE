@@ -1,6 +1,3 @@
-golden:
-grandparent.addChildBefore(newDecl, varNode);
-inference:
 grandparent.addChildBefore(newDecl, varNode);
 grandparent.addChildBefore(newDecl, varNode.get());
 grandparent.addChildBefore(n, varNode);

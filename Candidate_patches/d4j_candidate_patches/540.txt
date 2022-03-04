@@ -1,6 +1,3 @@
-golden:
-wData[p - 1][j] = ei1[j] * mainBidiagonal[p - 1] / singularValues[j];
-inference:
 
 wData[p - 1][j] = ei1[j] * ei1[j] / singularValues[j];
 wData[i - 1][j] = ei1[j] * mainBidiagonal[i - 1] / singularValues[j];

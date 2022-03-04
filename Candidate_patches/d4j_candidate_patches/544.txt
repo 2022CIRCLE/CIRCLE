@@ -1,6 +1,3 @@
-golden:
-if ((long) x == x) {
-inference:
 if (x == x){
 if ((long)x == x){
 if ((int) x == x){

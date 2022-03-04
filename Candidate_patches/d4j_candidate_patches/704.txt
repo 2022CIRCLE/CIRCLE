@@ -1,6 +1,3 @@
-golden:
-traverse(c);
-inference:
 traverse(node);
 traverse(&c);
 

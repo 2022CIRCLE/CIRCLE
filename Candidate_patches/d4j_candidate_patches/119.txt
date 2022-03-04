@@ -1,6 +1,3 @@
-golden:
-if (field == Calendar.SECOND) { done = true; }
-inference:
 
 if (field == Calendar.SECOND)  done = true;
 done = true;

@@ -1,6 +1,3 @@
-golden:
-return optimizer.getFunctionValue();
-inference:
 return optimizer.getFunctionValue();
 return optimizer.GetFunctionValue();
 return optimizer.getFunctionValue();

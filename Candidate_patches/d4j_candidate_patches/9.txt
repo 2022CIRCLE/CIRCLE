@@ -1,6 +1,3 @@
-golden:
-return new LocalDate( yearOfEra, calendar.get(Calendar.MONTH) + 1, calendar.get(Calendar.DAY_OF_MONTH) );
-inference:
 return new LocalDate(yearOfEra, calendar.get(Calendar.MONTH) + 1, calendar.get(Calendar.DAY_OF_MONTH));
 return new LocalDate(yearOfEra, calendar.get(Calendar.YEAR) + 1, calendar.get(Calendar.DAY_OF_MONTH));
 return new Date( yearOfEra, calendar.get(Calendar.MONTH) + 1, calendar.get(Calendar.DAY_OF_MONTH) );

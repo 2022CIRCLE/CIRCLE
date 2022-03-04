@@ -1,6 +1,3 @@
-golden:
-new NodeTraversal( compiler, new NormalizeStatements(compiler, assertOnChange)) .traverse(root);
-inference:
 new NodeTraversal(compiler, renamer).traverse(root);
 .traverse(root);
 NodeTraversal( compiler, new NormalizeStatements(compiler, assertOnChange)).traverse(root);

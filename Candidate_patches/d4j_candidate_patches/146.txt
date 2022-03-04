@@ -1,6 +1,3 @@
-golden:
-this.maybeAliased = !assignNode.getParent().isExprResult();
-inference:
 
 this.maybeAliased =!assignNode.getParent().isExprResult();
 this.maybeAliased =!assignNode.getParent();

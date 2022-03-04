@@ -1,6 +1,3 @@
-golden:
-return appendTo == null ? null : appendTo.append(QUOTE);
-inference:
 return (appendTo == null? null : appendTo.append(QUOTE));
 return appendTo == null? appendTo : appendTo.append(QUOTE);
 return (appendTo == null)? null : appendTo.append(QUOTE);

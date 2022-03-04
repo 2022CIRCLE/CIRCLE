@@ -1,6 +1,3 @@
-golden:
-return isZero ? NaN : INF;
-inference:
 return (isZero? NaN : INF);
 return isZero? NaN : INF;
 return isZero? NaN : null;

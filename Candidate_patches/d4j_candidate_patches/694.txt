@@ -1,6 +1,3 @@
-golden:
-return withOuterClass(cls);
-inference:
 return cls;
 return withInstance(cls);
 return (withOuterClass(cls));

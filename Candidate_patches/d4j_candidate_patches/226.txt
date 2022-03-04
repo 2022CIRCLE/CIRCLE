@@ -1,6 +1,3 @@
-golden:
-return escapeJavaStyleString(str, true);
-inference:
 return escapeJavaStyleString(str, true);
 return escapeJavaStyleString(str);
 return escapeJavaStyleString(str, false);

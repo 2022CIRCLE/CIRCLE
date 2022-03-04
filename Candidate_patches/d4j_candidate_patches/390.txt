@@ -1,6 +1,3 @@
-golden:
-return (T) reportMatcher(Any.ANY).returnFor(clazz);
-inference:
 return reportMatcher(Any.ANY).returnFor(clazz);
 return (T)any.returnFor(clazz);
 return (T) reportMatcher(Any.ANY).returnFor(clazz);

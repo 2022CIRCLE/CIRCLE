@@ -1,6 +1,3 @@
-golden:
-val.set(fields[i][0], val.get(fields[i][0]) - offset);
-inference:
 val.set(fields[i][0], val.get(fields[i][0]));
 val.set(fields[i][0], offset);
 val.set(fields[i][0], fields[i][0] - offset);

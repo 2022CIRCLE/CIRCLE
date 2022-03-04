@@ -1,6 +1,3 @@
-golden:
-double[] errors = new double[problem.getAllParameters().length];
-inference:
 double [] errors = new double[problem.getAllParameters().length];
 
 double[] errors = new double[p];

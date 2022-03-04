@@ -1,6 +1,3 @@
-golden:
-return this.extraInterfaces(java.io.Serializable.class);
-inference:
 return this.extraInterfaces(java.io.Serializable);
 return this.extraInterfaces();
 return this.extraInterfaces(java.io.Serializable.class);

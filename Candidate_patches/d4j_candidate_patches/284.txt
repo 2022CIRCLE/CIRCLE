@@ -1,6 +1,3 @@
-golden:
-throw new VerificationInOrderFailure(join( "No interactions wanted here:", new LocationImpl(), "But found this interaction on mock '" + undesired.getMock() + "':", undesired.getLocation() ));
-inference:
 return 0;
 return null;
 return false;

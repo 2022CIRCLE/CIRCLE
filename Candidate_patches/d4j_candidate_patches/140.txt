@@ -1,6 +1,3 @@
-golden:
-return cs1.equals(cs2);
-inference:
 return (cs1.equals(cs2));
 return (cs1 == cs2)? cs1 : cs2;
 return cs1.equals(cs2);

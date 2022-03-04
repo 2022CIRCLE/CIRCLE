@@ -1,6 +1,3 @@
-golden:
-weightMatrix = org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(dim, dim); for (int i = 0; i < dim; i++) { weightMatrix.setEntry(i, i, weight[i]); }
-inference:
 weightMatrix = org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(dim);
 
 return org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(dim, dim);

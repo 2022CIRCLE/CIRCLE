@@ -1,6 +1,3 @@
-golden:
-builder.setTagAsStrict( options.getLanguageOut() == LanguageMode.ECMASCRIPT5_STRICT);
-inference:
 builder.setTagAsStrict(options.languageOut == LanguageMode.ECMASCRIPT5_STRICT);
 builder.setTagAsStrict( options.languageOut == LanguageMode.ECMASCRIPT5_STRICT);
 builder.setTagAsStrict( options.getLanguageOut() == LanguageMode.ECMASCRIPT6_STRICT);

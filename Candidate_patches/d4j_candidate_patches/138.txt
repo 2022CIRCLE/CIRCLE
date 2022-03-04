@@ -1,6 +1,3 @@
-golden:
-this.parent = parent;  // only named functions may be hoisted. this.isHoisted = NodeUtil.isHoistedFunctionDeclaration(root);
-inference:
 this.parent = parent;
 this.parent = parent;
 

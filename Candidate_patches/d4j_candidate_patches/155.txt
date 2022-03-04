@@ -1,6 +1,3 @@
-golden:
-return m.containsKey(value);
-inference:
 return m.containsKey(value);
 return (m.containsKey(value));
 return (m.containsKey(value));

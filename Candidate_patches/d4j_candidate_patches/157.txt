@@ -1,6 +1,3 @@
-golden:
-final Float f = createFloat(str); if (!(f.isInfinite() || (f.floatValue() == 0.0F && !allZeros))) { return f; }
-inference:
 
 return createFloat(str);
 f = createFloat(str);

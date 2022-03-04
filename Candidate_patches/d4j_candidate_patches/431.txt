@@ -1,6 +1,3 @@
-golden:
-private boolean hasExceptionHandler(Node cfgNode) { return false; }
-inference:
 boolean hasExceptionHandler(Node cfgNode)  return false;
 static boolean hasExceptionHandler(Node cfgNode)  return false;
 private boolean hasExceptionHandler(Node cfgNode)  return false;

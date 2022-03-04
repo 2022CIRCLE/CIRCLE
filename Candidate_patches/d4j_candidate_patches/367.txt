@@ -1,6 +1,3 @@
-golden:
-token = eatTokensUntilEOL();
-inference:
 token = eatTokensUntilEOL(token);
 token = eatTokensUntilEOL();
 token = eatTokensUntilEOL(&token);

@@ -1,6 +1,3 @@
-golden:
-for (int i = 0; current != null && i < intIndex; i++){ { elem = current;
-inference:
 for (int i = 0; current!= null && i  intIndex; i++){  elem = current;
 for (int i = 0; current!= null && i = intIndex; i++){  elem = current;
 for (int i = 0; current!= null && i  intIndex; i++){

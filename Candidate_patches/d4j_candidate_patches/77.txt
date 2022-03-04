@@ -1,6 +1,3 @@
-golden:
-public <T> T mock(Class<T> classToMock, MockSettings mockSettings, boolean shouldResetOngoingStubbing) { return mock(classToMock, mockSettings); }
-inference:
 public T> T mock(ClassT> classToMock, MockSettings mockSettings)  return mock(classToMock, mockSettings);
 public T> T mock(ClassT> classToMock, boolean shouldResetOngoingStubbing)  return mock(classToMock, mockSettings);
 T mock(ClassT> classToMock, MockSettings mockSettings, boolean shouldResetOngoingStubbing)  return mock(classToMock, mockSettings);

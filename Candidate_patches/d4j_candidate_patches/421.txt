@@ -1,6 +1,3 @@
-golden:
-getRegistry().remove(new IDKey(value));
-inference:
 getRegistry().remove(value);
 getRegistry().remove(key);
 GetRegistry().remove(new IDKey(value));

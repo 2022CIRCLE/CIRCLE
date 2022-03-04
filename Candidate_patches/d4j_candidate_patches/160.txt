@@ -1,6 +1,3 @@
-golden:
-if (checker.converged(iter, previous, current)) {
-inference:
 if (checker.converged(iter, previous)){
 if (checker.converged(iter, previous, current)){
 if (checker.converged(iter, previous, current)){

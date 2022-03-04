@@ -1,6 +1,3 @@
-golden:
-Iterator iterator = this.dataset.getKeys().iterator();
-inference:
 Iterator iterator = this.dataset.iterator();
 
 ConstIterator iterator = this.dataset.getKeys().iterator();

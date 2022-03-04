@@ -1,6 +1,3 @@
-golden:
-return StringDescription.toString(m).equals(arg.toString());
-inference:
 return StringDescription.equals(m);
 return StringDescription.Equals(m);
 return m.equals(arg.toString());

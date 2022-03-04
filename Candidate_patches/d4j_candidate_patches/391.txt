@@ -1,6 +1,3 @@
-golden:
-return (T) anyObject();
-inference:
 return (T) anyObject();
 return anyObject();
 return (T)anyObject();

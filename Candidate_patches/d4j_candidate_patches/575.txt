@@ -1,6 +1,3 @@
-golden:
-if (minutesOffset < 0 || minutesOffset > 59) {
-inference:
 if (minutesOffset  0 || minutesOffset > 60){
 if (minutesOffset  0 || minutesOffset >= 59){
 if (minutesOffset  0 || minutesOffset > 59){

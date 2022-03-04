@@ -1,6 +1,3 @@
-golden:
-coefficients[i] = (basicRow == null ? 0 : getEntry(basicRow, getRhsOffset())) - (restrictToNonNegative ? 0 : mostNegative); if (basicRow != null) { for (int j = getNumObjectiveFunctions(); j < getNumObjectiveFunctions() + i; j++) { if (tableau.getEntry(basicRow, j) == 1) { coefficients[i] = 0; } }
-inference:
 coefficients[i] = (basicRow == null? 0 : getEntry(basicRow, getRhsOffset())) - (restrictToNonNegative? 0 : mostNegative); for (int j = getNumObjectiveFunctions(); j  getNumObjectiveFunctions() + i; j++)  if (tableau.getEntry(basicRow, j) == 1)  coefficients[i] = 0;
 if (tableau.getEntry(basicRow, i) == 1)  coefficients[i] = 0;
 coefficients[i] = 0;

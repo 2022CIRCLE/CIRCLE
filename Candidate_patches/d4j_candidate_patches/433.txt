@@ -1,6 +1,3 @@
-golden:
-Node childVal = child.getFirstChild();
-inference:
 
 Node childVal = ref.getFirstChild();
 Node childVal = child.getFirstChild();

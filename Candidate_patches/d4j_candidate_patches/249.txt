@@ -1,6 +1,3 @@
-golden:
-(new NodeTraversal(compiler, this)).traverse(root);
-inference:
 NodeTraversal(compiler, this);
 (nodeTraversal(compiler, this)).traverse(root);
 NodeTraversal(compiler, this).traverse(root);

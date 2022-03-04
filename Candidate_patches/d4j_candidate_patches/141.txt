@@ -1,6 +1,3 @@
-golden:
-return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
-inference:
 return (double.isNaN(x) && double.isNaN(y)) || x == y;
 return (double.isNaN(x) && double.isNaN(y)) || (x == y);
 return (Double.isNaN(x) && Double.isNaN(y)) || (x == y);

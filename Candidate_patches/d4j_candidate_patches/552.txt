@@ -1,6 +1,3 @@
-golden:
-return reportMatcher(new InstanceOf(clazz)).<T>returnNull();
-inference:
 return (reportMatcher(new InstanceOf(clazz)).T>returnNull());
 return reportMatcher(new InstanceOf(class)).T>returnNull();
 return ReportMatcher(new InstanceOf(clazz)).T>returnNull();

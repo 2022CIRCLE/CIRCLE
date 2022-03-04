@@ -1,6 +1,3 @@
-golden:
-if(Character.isWhitespace(c)) { if(!wasWhite) { wasWhite= true; regex.append("\\s*+"); } continue; } wasWhite= false;
-inference:
 
 if(Character.isWhitespace(c)) continue;
 if(Character.isWhitespace(c))

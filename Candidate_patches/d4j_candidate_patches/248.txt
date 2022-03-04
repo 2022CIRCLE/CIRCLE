@@ -1,6 +1,3 @@
-golden:
-if (n.isName() && jsScope.isDeclared(n.getString(), true)) { Var dep = jsScope.getVar(n.getString()); def.depends.add(dep);
-inference:
 if (n.isName())  Var dep = jsScope.getVar(n.getString()); def.depends.add(dep);
 if (n.isName() && jsScope.isDeclared(n.getUnicode(), true))  Var dep = jsScope.getVar(n.getUnicode()); def.depends.add(dep);
 if (n.isName() && jsScope.isDeclared(n.getString(), true))  Var dep = jsScope.getVar(n.getString()); def.depends.add(dep);

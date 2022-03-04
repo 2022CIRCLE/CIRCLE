@@ -1,6 +1,3 @@
-golden:
-String moduleName = guessCJSModuleName(normalizeSourceName(script.getSourceFileName()));
-inference:
 String moduleName = guessCJSModuleName(normalizeSourceName(script.getSourceFileName()));
 
 String moduleName = guessCJSModuleName(script.getSourceFileName());

@@ -1,6 +1,3 @@
-golden:
-return isNoType() || isNoObjectType() || isNoResolvedType();
-inference:
 return (isNoType() || isNoObjectType() || isNoResolvedType());
 return isNoType() || isNoObjectType();
 return isNoType();

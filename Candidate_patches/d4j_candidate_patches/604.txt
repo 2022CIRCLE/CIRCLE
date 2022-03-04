@@ -1,6 +1,3 @@
-golden:
-if (detectImplicitPrototypeCycle()) {
-inference:
 if (detectImplicitPrototypeCycle(t)){
 if (detectImplicitPrototypeCycle()){
 if (!detectImplicitPrototypeCycle()){

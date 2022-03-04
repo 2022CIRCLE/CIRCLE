@@ -1,6 +1,3 @@
-golden:
-final double[] out = new double[v.length];
-inference:
 
 double[] out = new double[v.length];
 final double[] out = new double[v.length - 1];

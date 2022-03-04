@@ -1,6 +1,3 @@
-golden:
-Preconditions.checkState(body.getNext() == null &&
-inference:
 
 Preconditions.checkState(body.getNext() == n);
 Preconditions.checkState(body.getNext() == null);

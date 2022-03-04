@@ -1,6 +1,3 @@
-golden:
-if (tokenLen >= 4) { rule = selectNumberRule(Calendar.YEAR, tokenLen); } else { rule = TwoDigitYearField.INSTANCE;
-inference:
 rule = selectNumberRule(Calendar.YEAR, tokenLen);
 rule = SelectNumberRule(Calendar.YEAR, tokenLen);
 Rule rule = selectNumberRule(Calendar.YEAR, tokenLen);

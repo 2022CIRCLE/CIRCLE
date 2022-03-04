@@ -1,6 +1,3 @@
-golden:
-parametersNode = paramBuilder.build();
-inference:
 parametersNode = paramBuilder.build();
 parametersNode = paramBuilder.get();
 parametersNode = paramBuilder.build();

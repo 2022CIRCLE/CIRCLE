@@ -1,6 +1,3 @@
-golden:
-switch (node.getType()) {
-inference:
 switch (node){
 switch (node.type){
 switch (node.getType()){

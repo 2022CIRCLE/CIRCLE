@@ -1,6 +1,3 @@
-golden:
-this.rows = rowDimension; this.columns = columnDimension;
-inference:
 
 this(rowDimension, columnDimension);
 this.rows = rowDimension; this.columns = columnDimension;

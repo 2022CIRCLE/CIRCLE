@@ -1,6 +1,3 @@
-golden:
-setMillis(type.getField(getChronology()).add(getMillis(), amount));
-inference:
 setMillis(type.getField(getChronology()));
 
 SetMillis(type.getField(getChronology()).add(getMillis(), amount));

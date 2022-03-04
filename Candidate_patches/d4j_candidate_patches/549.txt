@@ -1,6 +1,3 @@
-golden:
-return var != null && var.getScope() == s && !blacklistedVars.contains(var);
-inference:
 return (var!= null && var.getScope() == s &&!blacklistedVars.contains(var));
 return (var!= null) && (var.getScope() == s &&!blacklistedVars.contains(var));
 return (var!= null) && var.getScope() == s &&!blacklistedVars.contains(var);

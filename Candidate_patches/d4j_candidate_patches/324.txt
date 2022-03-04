@@ -1,6 +1,3 @@
-golden:
-sum += jacobian[i][pj] * residuals[i];
-inference:
 sum += jacobian[i][pj] * residuals[i];
 sum += jacobian[i][j] * residuals[i];
 sum += jacobian[i][i] * residuals[i];

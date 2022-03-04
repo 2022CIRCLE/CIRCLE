@@ -1,6 +1,3 @@
-golden:
-if (index < this.keys.size()) {
-inference:
 if (index = this.keys.size()){
 if (index  this.values.size()){
 if (index >= this.keys.size()){

@@ -1,6 +1,3 @@
-golden:
-if (val.startsWith("--")) {
-inference:
 if (val.startsWith("--")){
 if (val.startsWith("-")){
 if (val.startsWith('-')){

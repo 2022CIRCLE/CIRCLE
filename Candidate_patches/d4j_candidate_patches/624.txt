@@ -1,6 +1,3 @@
-golden:
-String code = toSource(root, sourceMap);
-inference:
 String code = toSource(sourceMap);
 
 String code = toSource(cb, sourceMap);

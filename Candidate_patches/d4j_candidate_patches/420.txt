@@ -1,6 +1,3 @@
-golden:
-getRegistry().add(new IDKey(value));
-inference:
 getRegistry().addElement(new IDKey(value));
 getRegistry().add(value);
 getRegistry().add(key);

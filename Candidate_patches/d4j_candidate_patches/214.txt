@@ -1,6 +1,3 @@
-golden:
-if (inferred) { // Determining declaration for #2 inferred = !(rhsValue != null && rhsValue.isFunction() && (info != null || !scope.isDeclared(qName, false)));
-inference:
 if (inferred)
 
 inferred =!(rhsValue!= null && rhsValue.isFunction() && (info!= null ||!scope.isDeclared(qName, false)));

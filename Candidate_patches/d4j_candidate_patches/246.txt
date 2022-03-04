@@ -1,6 +1,3 @@
-golden:
-if (c.canInline()) {
-inference:
 if (c.canInline()){
 if (!c.canInline()){
 if (c.canInline()){

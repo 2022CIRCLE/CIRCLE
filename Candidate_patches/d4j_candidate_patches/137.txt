@@ -1,6 +1,3 @@
-golden:
-visitParameterList(t, n, functionType);
-inference:
 VisitParameterList(t, n, functionType);
 visitParameterList(child, n, functionType);
 visitParameterList(t, n, functionType);

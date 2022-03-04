@@ -1,6 +1,3 @@
-golden:
-if (provided != null) {
-inference:
 if (provided){
 if (!provided){
 if (provided!= ns){

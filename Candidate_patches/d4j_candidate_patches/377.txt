@@ -1,6 +1,3 @@
-golden:
-return fit(new Gaussian.Parametric(), guess);
-inference:
 return fit(new Gaussian.Integer(), guess);
 return fit(new Gaussian.Arena(), guess);
 return fit(new Gaussian.Parametric());

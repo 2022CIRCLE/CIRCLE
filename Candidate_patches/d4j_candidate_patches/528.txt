@@ -1,6 +1,3 @@
-golden:
-PathIterator iterator2 = p1.getPathIterator(null);
-inference:
 
 PathIterator iterator2 = p1.getPathIterator();
 PathIterator iterator2 = p1.getPath();

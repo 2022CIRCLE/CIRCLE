@@ -1,6 +1,3 @@
-golden:
-Object clone = createCopy(0, getItemCount() - 1);
-inference:
 Object clone = createCopy(0, getItemCount() - 1);
 Object clone = createCopy(0, getItemCount());
 Object clone = createCopy(0, 0, getItemCount() - 1);

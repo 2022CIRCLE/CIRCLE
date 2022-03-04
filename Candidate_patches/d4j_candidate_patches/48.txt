@@ -1,6 +1,3 @@
-golden:
-years = FieldUtils.safeAdd(years, months / 12); months = months % 12; if (years != 0) { result = result.withYears(years); } if (months != 0) { result = result.withMonths(months);
-inference:
 if (years!= 0)  result = result.withYears(years);
 result = FieldUtils.safeAdd(years, months / 12);
 if (years!= 0)  result = result.withMonths(years);

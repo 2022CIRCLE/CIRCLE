@@ -1,6 +1,3 @@
-golden:
-if ((Boolean) tree.getAttribute()) {
-inference:
 if ((Boolean) tree){
 if ((Boolean) tree.getAttribute()){
 if ((Boolean) tree.getAttribute()){

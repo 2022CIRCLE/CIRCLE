@@ -1,6 +1,3 @@
-golden:
-if (NodeUtil.isName(n) && variable.equals(n.getString())) {
-inference:
 if (NodeUtil.isName(n) && variable.Equals(n.getString())){
 if (NodeUtil.isName(n)){
 if (NodeUtil.isName(n) && variable.get() == n.getString()){

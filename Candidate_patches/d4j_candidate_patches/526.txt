@@ -1,6 +1,3 @@
-golden:
-sep = sep.finish(f.getPrinter(), f.getParser());
-inference:
 sep = sep.finish(f.getPrinter(), f.getParser());
 sep = sep.finish(f.getPrinter());
 sep = sep.finish(f);

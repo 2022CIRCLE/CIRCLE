@@ -1,6 +1,3 @@
-golden:
-millis -= iOffset; } else { int offset = iZone.getOffsetFromLocal(millis); millis -= offset; if (offset != iZone.getOffset(millis)) { String message = "Illegal instant due to time zone offset transition (" + iZone + ')'; if (text != null) { message = "Cannot parse \"" + text + "\": " + message; } throw new IllegalArgumentException(message); } }  return millis;
-inference:
 return 0;
 return millis;
 return iMillis;

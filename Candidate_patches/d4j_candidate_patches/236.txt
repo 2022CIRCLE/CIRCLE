@@ -1,6 +1,3 @@
-golden:
-if (Precision.compareTo(entry, 0d, maxUlps) > 0) {
-inference:
 if (Precision.compareTo(entry, 0, maxUlps) > 0){
 if (!Precision.compareTo(entry, 0d, maxUlps)){
 if (Precision.compareTo(entry, 0d) > 0){

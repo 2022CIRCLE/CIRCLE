@@ -1,6 +1,3 @@
-golden:
-return this.domainAxes.indexOf(axis);
-inference:
 return this.domainAxes[0].indexOf(axis);
 return (this.domainAxes.indexOf(axis));
 return this.domainAxes.indexOf((int)axis);

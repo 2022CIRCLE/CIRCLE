@@ -1,6 +1,3 @@
-golden:
-int g = (int) ((value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
-inference:
 long g = (int) ((value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
 long g = (long) ((value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);
 int g = (int) ((value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0);

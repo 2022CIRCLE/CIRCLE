@@ -1,6 +1,3 @@
-golden:
-final BigDecimal[] out = new BigDecimal[v.length];
-inference:
 
 BigDecimal[] out = new BigDecimal[v.length];
 const BigDecimal[] out = new BigDecimal[v.length];

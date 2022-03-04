@@ -1,6 +1,3 @@
-golden:
-defineObjectLiteral(n);
-inference:
 
 defineObjectLiteral(n.getParent());
 defineObjectLiteral(&n);

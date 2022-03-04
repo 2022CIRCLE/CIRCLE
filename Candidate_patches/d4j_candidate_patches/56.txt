@@ -1,6 +1,3 @@
-golden:
-addExpr(first, p, context); cc.addOp(opstr, true); addExpr(last, p + 1, rhsContext);
-inference:
 
 addExpr(first, p, context); cc.addOp(opstr, true); addExpr(last, p + 1, rhsContext);
 AddExpr(first, p, context); cc.addOp(opstr, true); AddExpr(last, p + 1, rhsContext);

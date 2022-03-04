@@ -1,6 +1,3 @@
-golden:
-return invocation.callRealMethod();
-inference:
 return invocation.callRealMethod();
 return answer;
 return InvocationOnMock(invocation);

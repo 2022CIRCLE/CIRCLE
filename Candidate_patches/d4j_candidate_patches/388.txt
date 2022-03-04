@@ -1,6 +1,3 @@
-golden:
-copy.data = new java.util.ArrayList();
-inference:
 copy = new java.util.ArrayList();
 copy.data = new java.util.ArrayList(this);
 copy.data = java.util.ArrayList();

@@ -1,6 +1,3 @@
-golden:
-default: // Other op force a local value: //  x = '' + g (x is now an local string) //  x -= g (x is now an local number) if (isAssignmentOp(value) || isSimpleOperator(value) || isImmutableValue(value)) { return true; }  throw new IllegalStateException( "Unexpected expression node" + value + "\n parent:" + value.getParent());
-inference:
 
 default:
 default: return true;

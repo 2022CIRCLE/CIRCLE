@@ -1,6 +1,3 @@
-golden:
-if (lessThan(getZero())) {
-inference:
 if (lessThan(getZero())){
 if (lessThan(getZero(), 0)){
 if (lessThan(getTwo())){

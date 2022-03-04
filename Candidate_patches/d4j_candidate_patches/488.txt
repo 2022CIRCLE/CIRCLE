@@ -1,6 +1,3 @@
-golden:
-description.appendText(wanted.toString());
-inference:
 description.appendText(wanted.get());
 description.appendText("");
 description.appendText(wanted);

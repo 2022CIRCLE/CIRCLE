@@ -1,6 +1,3 @@
-golden:
-: withSettings();  return mockSettings.serializable()
-inference:
 return mockSettings.serializable();
 return mockSettings;
 return mockSettings.serializable()

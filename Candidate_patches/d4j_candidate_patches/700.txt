@@ -1,6 +1,3 @@
-golden:
-return NodeUtil.isExpressionNode(maybeExpr);
-inference:
 return (NodeUtil.isExpressionNode(maybeExpr));
 return n.isExpressionNode(maybeExpr);
 return isExpressionNode(maybeExpr);

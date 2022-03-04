@@ -1,6 +1,3 @@
-golden:
-return iZone.convertLocalToUTC(localInstant, false);
-inference:
 return iZone.convertLocalToUTC(localInstant);
 return iZone.convertLocalToUTC(localInstant, 0);
 return (iZone.convertLocalToUTC(localInstant, false));

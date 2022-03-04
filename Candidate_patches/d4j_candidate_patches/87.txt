@@ -1,6 +1,3 @@
-golden:
-return newNode( Token.FOR, transform(loopNode.getIterator()), transform(loopNode.getIteratedObject()), transformBlock(loopNode.getBody()));
-inference:
 return newNode( Token.FOR, transform(loopNode));
 return newNode( Token.FOR, transform(loopNode.getIterator()), transform(loopNode.getIteratedObject()), transformBlock(loopNode.getBody()));
 return newNode( Token.FOR, transform(loopNode.getBody()));

@@ -1,6 +1,3 @@
-golden:
-public T[] sample(int sampleSize) throws NotStrictlyPositiveException {
-inference:
 T[] sample(int sampleSize){
 T[] sample(int size){
 private T[] sample(int sampleSize){

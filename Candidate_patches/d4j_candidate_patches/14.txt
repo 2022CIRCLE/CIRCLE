@@ -1,6 +1,3 @@
-golden:
-return method.equals(o);
-inference:
 return (method.equals(o));
 return equals(method, o);
 return bool(method.equals(o));

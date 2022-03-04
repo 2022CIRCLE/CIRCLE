@@ -1,6 +1,3 @@
-golden:
-if (lTData[i][i] < absolutePositivityThreshold) { throw new NotPositiveDefiniteMatrixException(); }
-inference:
 
 if (lTData[i][i]  absolutePositivityThreshold)
 if (lTData[i][i]  absolutePositivityThreshold)  throw new NotPositiveDefiniteMatrixException();

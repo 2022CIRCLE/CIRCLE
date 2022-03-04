@@ -1,6 +1,3 @@
-golden:
-return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
-inference:
 return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
 return (double) getSampleSize() * getNumberOfSuccesses();
 return (double) ((double) getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();

@@ -1,6 +1,3 @@
-golden:
-final Double d = createDouble(str); if (!(d.isInfinite() || (d.doubleValue() == 0.0D && !allZeros))) { return d; }
-inference:
 
 return createDouble(str);
 return createInteger(str);

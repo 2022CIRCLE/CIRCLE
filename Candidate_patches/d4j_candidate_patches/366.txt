@@ -1,6 +1,3 @@
-golden:
-if (areNodesEqualForInlining(lhs, elseOp.getFirstChild()) && // if LHS has side effects, don't proceed [since the optimization // evaluates LHS before cond] // NOTE - there are some circumstances where we can // proceed even if there are side effects... !mayEffectMutableState(lhs)) {
-inference:
 if (areNodesEqualForInlining(lhs, elseOp.getFirstChild())){
 if (areNodesEqualForInlining(lhs, elseOp.getFirstChild()) && LHS has side effects, don't proceed [since the optimization evaluates LHS before cond] - there are some circumstances where we can proceed even if there are side effects...!mayEffectMutableState(lhs)){
 if (areNodesEqualForInlining(lhs, elseOp.getFirstChild()) &&!mayEffectMutableState(lhs)){

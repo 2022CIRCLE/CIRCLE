@@ -1,6 +1,3 @@
-golden:
-if (n.getParent() == null) { List<DiGraphEdge<Node,Branch>> outEdges = gNode.getOutEdges(); if (outEdges.size() == 1) { return tryRemoveUnconditionalBranching(outEdges.get(0).getDestination().getValue()); } }
-inference:
 
 return tryRemoveUnconditionalBranching(n.getParent());
 ListDiGraphEdgeNode,Branch>> outEdges = gNode.getOutEdges(); if (outEdges.size() == 1)  return tryRemoveUnconditionalBranching(outEdges.get(0).getDestination().getValue());

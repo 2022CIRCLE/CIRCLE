@@ -1,6 +1,3 @@
-golden:
-} else if (n.getJSType() != null && parent.isAssign()) { return;
-inference:
 
 }else if (n.getJSType()!= null && parent.isAssign())
 }else if ((n.getJSType()!= null) && parent.isAssign())  return;

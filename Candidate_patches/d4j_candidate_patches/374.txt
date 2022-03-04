@@ -1,6 +1,3 @@
-golden:
-if (ch3 < 'A' || ch3 > 'Z' || ch4 < 'A' || ch4 > 'Z') {
-inference:
 if (ch3  'A' || ch3 > 'Z' || ch4  'A' || ch4 > 'Z'){
 if (ch3 = 'A' || ch3 >= 'Z' || ch4 = 'A' || ch4 >= 'Z'){
 if (ch3  'A' || ch3 > 'Z'){

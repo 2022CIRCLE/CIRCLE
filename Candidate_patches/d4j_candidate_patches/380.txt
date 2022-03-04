@@ -1,6 +1,3 @@
-golden:
-case Token.BLOCK: if (n.hasChildren()) { Node first = n.getFirstChild(); return tryRemoveUnconditionalBranching(first); } else { return tryRemoveUnconditionalBranching(ControlFlowAnalysis.computeFollowNode(n)); }
-inference:
 
 return tryRemoveUnconditionalBranching(ControlFlowAnalysis.computeFollowNode(n));
 case Token.BLOCK: return tryRemoveUnconditionalBranching(ControlFlowAnalysis.computeFollowNode(n));

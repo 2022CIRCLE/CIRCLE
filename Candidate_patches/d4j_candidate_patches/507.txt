@@ -1,6 +1,3 @@
-golden:
-if (!(varianceImpl instanceof Variance)) {
-inference:
 if (!varianceImpl){
 if (!varianceImpl.increment(value)){
 if (!(varianceImpl instanceof Variance)){

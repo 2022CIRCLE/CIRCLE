@@ -1,6 +1,3 @@
-golden:
-long instantBefore = convertUTCToLocal(instant - 3 * DateTimeConstants.MILLIS_PER_HOUR); long instantAfter = convertUTCToLocal(instant + 3 * DateTimeConstants.MILLIS_PER_HOUR); if (instantBefore == instantAfter) {
-inference:
 if (instantBefore == instantAfter){
 instantBefore = convertUTCToLocal(instant - 3 * DateTimeConstants.MILLIS_PER_HOUR); instantAfter = convertUTCToLocal(instant + 3 * DateTimeConstants.MILLIS_PER_HOUR); if (instantBefore == instantAfter){
 if (instant){

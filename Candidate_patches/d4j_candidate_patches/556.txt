@@ -1,6 +1,3 @@
-golden:
-return resultEqualsValue && ctorType.isSubtype(type) ? ctorType : null;
-inference:
 return resultEqualsValue;
 return resultEqualsValue && (ctorType.isSubtype(type)? ctorType : null);
 return resultEqualsValue && ctorType.isSubtype(type)? ctorType : null;

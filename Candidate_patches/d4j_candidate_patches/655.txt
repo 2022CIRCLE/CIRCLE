@@ -1,6 +1,3 @@
-golden:
-Iterator iter = res.entries.iterator();
-inference:
 Iterator iter = res.entries.iterator();
 
 Iterator iter = entries.iterator();

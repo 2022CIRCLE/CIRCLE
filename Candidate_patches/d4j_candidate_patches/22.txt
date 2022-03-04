@@ -1,6 +1,3 @@
-golden:
-if (maybeTypeOfThis instanceof ObjectType) {
-inference:
 if (maybeTypeOfThis == ObjectType){
 if (maybeTypeOfThis){
 if (!maybeTypeOfThis){

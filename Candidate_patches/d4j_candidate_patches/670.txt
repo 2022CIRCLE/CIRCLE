@@ -1,6 +1,3 @@
-golden:
-final CharSequence result = lookupMap.get(subSeq);
-inference:
 CharSequence result = lookupMap.get(subSeq);
 CharSequence result = lookupMap(subSeq);
 CharSequence result = lookupMap.get(subSequence);

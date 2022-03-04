@@ -1,6 +1,3 @@
-golden:
-return parseTypeName(token);
-inference:
 return parseTypeName(token.get());
 return parseContextTypeName(token);
 return parseTypeName(token, true);

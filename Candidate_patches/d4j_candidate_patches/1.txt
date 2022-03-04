@@ -1,6 +1,3 @@
-golden:
-VerificationDataImpl data = new VerificationDataImpl(invocationContainerImpl.getInvocations(), invocationMatcher);
-inference:
 VerificationDataImpl data = new VerificationDataImpl(invocationContainerImpl, invocationMatcher);
 VerificationDataImpl data = new VerificationDataImpl(invocationContainerImpl);
 VerificationDataImpl data = new VerificationDataImpl(invocationMatcher);

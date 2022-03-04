@@ -1,6 +1,3 @@
-golden:
-boolean replacedPrototype = prototype != null;
-inference:
 
 boolean replacedPrototype = prototype!= null;
 boolean replacedPrototype;

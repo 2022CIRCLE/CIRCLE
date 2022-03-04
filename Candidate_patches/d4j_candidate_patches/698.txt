@@ -1,6 +1,3 @@
-golden:
-Map<TemplateType, JSType> inferred = inferTemplateTypesFromParameters(fnType, n);
-inference:
 MapTemplateType, JSType> inferred = inferTemplateTypesFromParameters(n, fnType);
 MapTemplateType, JSType> inferred;
 MapJSType> inferred = inferTemplateTypesFromParameters(fnType, n);

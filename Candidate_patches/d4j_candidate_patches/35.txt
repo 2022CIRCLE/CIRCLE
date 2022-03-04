@@ -1,6 +1,3 @@
-golden:
-final T[]out = (T[]) java.lang.reflect.Array.newInstance(singletons.get(0).getClass(), sampleSize);
-inference:
 
 T[] out = (T[]) java.lang.reflect.Array.newInstance(singletons.get(0).getClass(), sampleSize);
 final T[]out = (T[]) java.lang.reflect.Array.newInstance(singletons[0].getClass(), sampleSize);

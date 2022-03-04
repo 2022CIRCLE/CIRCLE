@@ -1,6 +1,3 @@
-golden:
-final double[] scale; if (vecAbsoluteTolerance == null) { scale = new double[y0.length]; java.util.Arrays.fill(scale, scalAbsoluteTolerance); } else { scale = vecAbsoluteTolerance; }
-inference:
 
 scale = vecAbsoluteTolerance;
 scale = new double[y0.length];

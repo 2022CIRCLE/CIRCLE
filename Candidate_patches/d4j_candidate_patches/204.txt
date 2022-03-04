@@ -1,6 +1,3 @@
-golden:
-char[] buffer = new char[count];
-inference:
 char[] buffer = new char[count];
 buffer = new char[count];
 

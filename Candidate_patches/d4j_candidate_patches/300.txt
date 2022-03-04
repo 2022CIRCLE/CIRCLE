@@ -1,6 +1,3 @@
-golden:
-Iterator iter = entries.iterator(); while (iter.hasNext()) { iter.advance(); res.setEntry(iter.key(), iter.value() / v.getEntry(iter.key()));
-inference:
 res.setEntry(entry.key(), entry.value() / v.getEntry(entry.key()));
 
 res = new OpenMapRealVector(this);

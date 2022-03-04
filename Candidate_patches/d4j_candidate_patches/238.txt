@@ -1,6 +1,3 @@
-golden:
-if (zone.useDaylightTime()
-inference:
 if (zone && zone.useDaylightTime()
 if (Zone.useDaylightTime()
 if (!zone.useDaylightTime()

@@ -1,6 +1,3 @@
-golden:
-int result = this.rangeAxes.indexOf(axis);
-inference:
 long result = this.rangeAxes.indexOf(axis);
 int result = this.rangeAxes.indexOf(axis);
 int result = 0;

@@ -1,6 +1,3 @@
-golden:
-if (assignedToUnknownValue && hasPropertyAssign) {
-inference:
 if (assignedToUnknownValue){
 if (assignedToUnknownValue && hasPropertyAssign){
 if (assignedToUnknownValue &&!hasPropertyAssign){

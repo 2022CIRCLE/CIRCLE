@@ -1,6 +1,3 @@
-golden:
-Node moduleExportsProp = IR.getprop(IR.name(moduleName),
-inference:
 Node moduleExportsProp = IR.getProperty(IR.name(moduleName),
 Node moduleExportsProp = IR.getProperty(moduleName,
 Node moduleExportsProp = IR.getprop(moduleName,

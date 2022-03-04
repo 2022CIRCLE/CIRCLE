@@ -1,6 +1,3 @@
-golden:
-int rhType = right.getType();
-inference:
 
 int rhType = right.getType();
 int rhType = right.getType().get();

@@ -1,6 +1,3 @@
-golden:
-switch (n.getType()) {
-inference:
 switch (n.getType()){
 switch (n.getType().get()){
 switch ((n.getType())){

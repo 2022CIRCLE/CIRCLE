@@ -1,6 +1,3 @@
-golden:
-int idx = 1; while (count < index) { count += idx; ++idx; } --idx; indices[last] = idx;
-inference:
 
 int idx = 1; while (count  index)  count += idx; ++idx;  --idx; indices[last] = idx;
 while (count  index)  count += idx; ++idx;  --idx; indices[last] = idx;

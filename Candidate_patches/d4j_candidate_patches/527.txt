@@ -1,6 +1,3 @@
-golden:
-if (rValue.getJSType() != null && !rValue.getJSType().isUnknownType()) {
-inference:
 if (rValue.getJSType()!= null){
 if (!rValue.getJSType().isUnknownType()){
 if (rValue.getJSType()!= null &&!rValue.getJSType().isUnknownType()){

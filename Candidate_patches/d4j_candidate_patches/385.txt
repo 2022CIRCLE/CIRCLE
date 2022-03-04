@@ -1,6 +1,3 @@
-golden:
-Node nameNode = NodeUtil.newName( compiler.getCodingConvention(), alias, gramps.getFirstChild(), refName.fullName());
-inference:
 nameNode = NodeUtil.newName( compiler.getCodingConvention(), alias, gramps.getFirstChild(), refName.fullName());
 Node nameNode = NodeUtil.newName( compiler.getCodingConvention(), alias, gramps.getFirstChild(), refName.get());
 Node nameNode = NodeUtil.newName(alias, gramps.getFirstChild(), refName.fullName());

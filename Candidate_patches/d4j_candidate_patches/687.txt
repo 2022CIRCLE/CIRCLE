@@ -1,6 +1,3 @@
-golden:
-Node cArg = callNode.getFirstChild().getNext();
-inference:
 Node cArg = callNode.getFirstChild();
 Node cArg = callNode.getFirstChild().getNext();
 Node cArg = callNode.getFirstChild();

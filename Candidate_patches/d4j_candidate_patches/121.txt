@@ -1,6 +1,3 @@
-golden:
-if (nextCfgNode == fallThrough) {
-inference:
 if (nextCfgNode == fallThrough){
 if (n.nextCfgNode == fallThrough){
 if (n.hasChildren() && nextCfgNode == fallThrough){

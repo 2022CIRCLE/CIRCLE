@@ -1,6 +1,3 @@
-golden:
-private <T> T withOuterClass(Class<T> cls) {
-inference:
 T> T withOuterClass(ClassT> cls){
 static T> T withOuterClass(ClassT> cls){
 T withOuterClass(ClassT> cls){

@@ -1,6 +1,3 @@
-golden:
-RectangleConstraint c4 = new RectangleConstraint(0.0, new Range(0.0, constraint.getWidth() - w[2]), LengthConstraintType.RANGE, h[2], null, LengthConstraintType.FIXED);
-inference:
 c4 = new RectangleConstraint(0.0, new Range(0.0, constraint.getWidth() - w[2]), LengthConstraintType.RANGE, h[2], null, LengthConstraintType.FIXED);
 RectangleConstraint c4 = new RectangleConstraint(0.0, new Range(0.0, w[2]), LengthConstraintType.RANGE, h[2], null, LengthConstraintType.FIXED);
 RectangleConstraint c4 = new RectangleConstraint(0, new Range(0.0, constraint.getWidth() - w[2]), LengthConstraintType.RANGE, h[2], null, LengthConstraintType.FIXED);

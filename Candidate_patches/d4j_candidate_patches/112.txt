@@ -1,6 +1,3 @@
-golden:
-FastDateFormat format = (FastDateFormat) cDateInstanceCache.get(key);
-inference:
 FastDateFormat format = cDateInstanceCache.get(key);
 FastDateFormat format = (FastDateFormat)cDateInstanceCache.get(key);
 FastDateFormat format = (FastDateFormat) cDateInstanceCache[key];

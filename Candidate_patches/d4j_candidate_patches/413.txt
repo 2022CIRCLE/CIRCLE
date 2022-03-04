@@ -1,6 +1,3 @@
-golden:
-boolean removed = markers.remove(marker);
-inference:
 
 boolean removed = markers.removeElement(marker);
 boolean removed;

@@ -1,6 +1,3 @@
-golden:
-return multiplyFast(x);
-inference:
 return multiply(x);
 return multiplyFast((int)x);
 return x;

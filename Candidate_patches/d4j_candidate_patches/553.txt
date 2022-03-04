@@ -1,6 +1,3 @@
-golden:
-return reportMatcher(new Same(value)).<T>returnNull();
-inference:
 return (reportMatcher(new Same(value)).T>returnNull());
 return reportMatcher(new Same(value)); T>returnNull();
 return ReportMatcher(new Same(value)).T>returnNull();

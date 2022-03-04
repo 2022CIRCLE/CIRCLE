@@ -1,6 +1,3 @@
-golden:
-if (!qVar.isTypeInferred()) {
-inference:
 if (qVar.isTypeInferred()){
 if (!qVar.isTypeInferred()){
 if (qVar){

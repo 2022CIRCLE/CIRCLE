@@ -1,6 +1,3 @@
-golden:
-String id = printOffset(millisOffset);
-inference:
 
 String id = millisOffset;
 int id = printOffset(millisOffset);

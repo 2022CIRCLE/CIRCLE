@@ -1,6 +1,3 @@
-golden:
-if (dec == null && exp == null && isDigits(numeric.substring(1)) && (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
-inference:
 if (dec == null && exp == null && isDigits(numeric.substring(1))){
 if (dec == null && exp == null){
 if (dec == null && exp == null && isDigits(string.substring(1)) && (string.charAt(0) == '-' || Character.isDigit(string.charAt(0)))){

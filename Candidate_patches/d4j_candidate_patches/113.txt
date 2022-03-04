@@ -1,6 +1,3 @@
-golden:
-if (locale == null) { locale = Locale.getDefault(); }
-inference:
 
 locale = Locale.get();
 locale = Locale.getDefault();

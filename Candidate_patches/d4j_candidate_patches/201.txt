@@ -1,6 +1,3 @@
-golden:
-cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
-inference:
 cfa.createEdge(node, Branch.UNCOND, finallyNode);
 cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
 

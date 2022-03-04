@@ -1,6 +1,3 @@
-golden:
-return extraInterfaces != null && java.util.Arrays.asList(extraInterfaces).contains(java.io.Serializable.class);
-inference:
 return (extraInterfaces!= null) && java.util.Arrays.asList(extraInterfaces).contains(java.io.Serializable.class);
 return (extraInterfaces!= null && java.util.Arrays.asList(extraInterfaces).contains(java.io.Serializable.class));
 return extraInterfaces!= null && java.util.Arrays.asList(extraInterfaces)!= 0;

@@ -1,6 +1,3 @@
-golden:
-DateTimeParserBucket bucket = new DateTimeParserBucket( instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
-inference:
 DateTimeParserBucket bucket = new DateTimeParserBucket( instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
 DateTimeParserBucket bucket = new DateTimeParserBucket( instantLocal, chrono, iLocale, iPivotYear, iDefaultYear );
 DateTimeParserBucket bucket = new DateTimeParserBucket(instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);

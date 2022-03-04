@@ -1,6 +1,3 @@
-golden:
-long result = Math.round(factorialDouble(n)); if (result == Long.MAX_VALUE) {
-inference:
 long result = FactorialDouble(n); if (result == Long.MAX_VALUE){
 long result = factorialDouble(n); if (result == Long.MAX_VALUE){
 long result = factorial(n); if (result == Long.MAX_VALUE){

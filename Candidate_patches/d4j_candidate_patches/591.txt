@@ -1,6 +1,3 @@
-golden:
-c[ii][ii] -= e * e;
-inference:
 c[ii][ii] -= e * e;
 c[ii][ii] -= (int)e * e;
 ii[ii] -= e * e;

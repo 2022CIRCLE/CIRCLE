@@ -1,6 +1,3 @@
-golden:
-converged = checker.converged(iter, previous, current);
-inference:
 converged = checker.converged(iter, previous);
 converged = checker.converged(iter, previous, current, 0);
 converged = checker.converged(iter, previous, current);

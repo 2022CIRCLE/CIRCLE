@@ -1,6 +1,3 @@
-golden:
-String name = child.getString();
-inference:
 
 String name;
 String name = child.getUnicode();

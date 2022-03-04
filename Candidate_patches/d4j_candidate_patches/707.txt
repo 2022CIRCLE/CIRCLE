@@ -1,6 +1,3 @@
-golden:
-aliasUsages.add(new AliasedTypeNode(typeNode, aliasedNode.getQualifiedName() + name.substring(endIndex)));
-inference:
 AliasedTypeNode(typeNode, aliasedNode.getQualifiedName() + name.substring(endIndex));
 AliasedTypeNode(aliasNode, aliasedNode.getQualifiedName() + name.substring(endIndex));
 AliasedTypeNode(aliasedNode, aliasedNode.getQualifiedName() + name.substring(endIndex));

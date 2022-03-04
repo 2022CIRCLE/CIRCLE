@@ -1,6 +1,3 @@
-golden:
-if (a0 > overflow) {
-inference:
 if (a0 >= overflow){
 if ((a0 > overflow)){
 if (a0  overflow){

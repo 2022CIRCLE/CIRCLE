@@ -1,6 +1,3 @@
-golden:
-EntityCollection entities = owner.getEntityCollection();
-inference:
 EntityCollection entities = owner.getEntityCollection();
 
 EntityCollection entities = owner.GetEntityCollection();

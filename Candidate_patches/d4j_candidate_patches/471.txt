@@ -1,6 +1,3 @@
-golden:
-boolean hasSideEffects = false; if (block.hasChildren()) { Preconditions.checkState(block.hasOneChild()); Node stmt = block.getFirstChild(); if (stmt.isReturn()) { hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler); } }
-inference:
 
 boolean hasSideEffects = false;
 Node stmt = block.getFirstChild(); if (stmt.isReturn())  hasSideEffects = NodeUtil.mayHaveSideEffects(stmt.getFirstChild(), compiler);

@@ -1,6 +1,3 @@
-golden:
-return -val1;
-inference:
 return val1;
 return (-val1);
 return 0;

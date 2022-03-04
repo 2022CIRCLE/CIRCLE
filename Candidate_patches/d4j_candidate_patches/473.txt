@@ -1,6 +1,3 @@
-golden:
-if (DateTimeUtils.isContiguous(partial)) {
-inference:
 if (DateTimeUtils.isContiguous(partial.get())){
 if (DateTimeUtils.isContiguous(partial)){
 if (dateTimeUtils.isContiguous(partial)){

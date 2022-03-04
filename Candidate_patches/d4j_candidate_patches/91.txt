@@ -1,6 +1,3 @@
-golden:
-Calendar c = new GregorianCalendar(mTimeZone);
-inference:
 c = new GregorianCalendar(mTimeZone);
 
 Calendar c = new GregorianCalendar(this);

@@ -1,6 +1,3 @@
-golden:
-if (NodeUtil.hasFinally(n)) { Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName); }
-inference:
 
 Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
 Node finallyBlock = n.getLastChild();

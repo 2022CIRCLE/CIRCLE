@@ -1,6 +1,3 @@
-golden:
-return VariableLiveness.KILL;
-inference:
 return VariableLiveness;
 return VariableLiveness.READ;
 

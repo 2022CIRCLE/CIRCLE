@@ -1,6 +1,3 @@
-golden:
-generator.addMapping( sourceFile, originalName, new FilePosition(node.getLineno(), node.getCharno()), outputStartPosition, outputEndPosition);
-inference:
 generator.addMapping( sourceFile, originalName, new FilePosition(node.lineno, node.charno), outputStartPosition, outputEndPosition);
 
 generator.addMapping(sourceFile, originalName, new FilePosition(node.lineno, node.charno), outputStartPosition, outputEndPosition);

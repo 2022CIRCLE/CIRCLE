@@ -1,6 +1,3 @@
-golden:
-throw new SmartNullPointerException(join( "You have a NullPointerException here:", new Location(), "Because this method was *not* stubbed correctly:", location, "" ));
-inference:
 return new SmartNullPointerException(join( "You have a NullPointerException here:", new Location(), "Because this method was *not* stubbed correctly:", location, "" ));
 return null;
 return NS_OK;

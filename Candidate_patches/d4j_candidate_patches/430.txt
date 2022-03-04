@@ -1,6 +1,3 @@
-golden:
-return decode(x);
-inference:
 return x;
 return decode((int)x);
 return (decode(x));

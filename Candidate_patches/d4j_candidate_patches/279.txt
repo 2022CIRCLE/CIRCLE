@@ -1,6 +1,3 @@
-golden:
-setMillis(getChronology().weekyears().add(getMillis(), weekyears));
-inference:
 setWeekyears(getChronology().weekyears().add(getMillis(), weekyears));
 setMillis(getChronology().weekyears().add(getMillis(), weekyears));
 setMillis(getChronology().weekyears().add(getMillis(), weekyears));

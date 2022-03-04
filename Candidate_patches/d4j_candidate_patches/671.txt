@@ -1,6 +1,3 @@
-golden:
-return Class.forName(name, false, Thread.currentThread().getContextClassLoader());
-inference:
 return Class.forName(name, false, thread.get().getContextClassLoader());
 return Class.forName(name, false);
 return Class.forName(name, true, Thread.currentThread().getContextClassLoader());

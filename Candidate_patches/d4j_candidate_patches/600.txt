@@ -1,6 +1,3 @@
-golden:
-if (parent != null && parent.getType() == Token.ASSIGN) {
-inference:
 if (parent!= null){
 if (parent){
 if (parent!= null){

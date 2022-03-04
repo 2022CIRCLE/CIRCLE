@@ -1,6 +1,3 @@
-golden:
-Constructor<T> c = cls.getDeclaredConstructor(outerClassInstance.getClass()); return c.newInstance(outerClassInstance);
-inference:
 return cls.newInstance(outerClassInstance);
 return cls.getDeclaredConstructor(outerClassInstance);
 return cls.getDeclaredConstructor(outerClassInstance.getClass());

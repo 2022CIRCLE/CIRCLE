@@ -1,6 +1,3 @@
-golden:{
-if(input.charAt(index) == '&' && index < seqEnd - 1 && input.charAt(index + 1) == '#') {{
-inference:{
 if (input.charAt(index) == '&' && index  seqEnd - 1 && input.charAt(index + 1) == '#'){
 if((input.charAt(index) == '&' && index  seqEnd - 1 && input.charAt(index + 1) == '#'){
 if(input.charAt(index) == '&' && index = seqEnd - 1 && input.charAt(index + 1) == '#'){

@@ -1,6 +1,3 @@
-golden:
-long s = getDataItem(this.minMiddleIndex).getPeriod().getStart() .getTime(); long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd() .getTime();
-inference:
 long s = getDataItem(this.minMiddleIndex).getPeriod().getStart().getTime(); long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd().getTime();
 long s = getDataItem(this.minMiddleIndex).getPeriod().getStart(); long e = getDataItem(this.minMiddleIndex).getPeriod().getEnd();
 

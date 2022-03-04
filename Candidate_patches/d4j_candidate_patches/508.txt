@@ -1,6 +1,3 @@
-golden:
-if (!(geoMeanImpl instanceof GeometricMean)) {
-inference:
 if (!(meanImpl instanceof GeometricMean)){
 if (!(geoMeanImpl == GeometricMean)){
 if (!(geoMeanImpl instanceof GeometricMean)){

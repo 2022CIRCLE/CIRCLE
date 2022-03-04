@@ -1,6 +1,3 @@
-golden:
-nodes.add(new Node(Token.TRUE));
-inference:
 nodes.addElement(new Node(Token.true));
 nodes.add(node);
 nodes.add(new Node(Token.false));

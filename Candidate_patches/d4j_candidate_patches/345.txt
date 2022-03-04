@@ -1,6 +1,3 @@
-golden:
-targetY = -REDUCTION_FACTOR * yB;
-inference:
 targetY = REDUCTION_FACTOR * yB;
 targetY = -REDUCTION_FACTOR * yB;
 targetY = yB;

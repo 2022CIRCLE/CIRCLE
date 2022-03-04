@@ -1,6 +1,3 @@
-golden:
-if (comment.getValue().indexOf("/* @") != -1 || comment.getValue().indexOf("\n * @") != -1) {
-inference:
 if (comment.getValue().indexOf("/* @")!= -1){
 if (comment.getValue().Equals("/* @") || comment.getValue().Equals("n * @")){
 if ( comment.getValue().indexOf("/* @")!= -1 || comment.getValue().indexOf("n * @")!= -1){

@@ -1,6 +1,3 @@
-golden:
-if (options.checkGlobalThisLevel.isOn()) {
-inference:
 if (!options.checkGlobalThisLevel.isOn()){
 if (!options.checkGlobalThisLevel){
 if (options.checkGlobalThisLevel){

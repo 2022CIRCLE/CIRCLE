@@ -1,6 +1,3 @@
-golden:
-if (cls.getTypeParameters().length > 0 || toClass.equals(cls)) {
-inference:
 if (cls.getTypeParameters().length > 0){
 if ((cls.getTypeParameters().length > 0) || toClass.equals(cls)){
 if (cls.getTypeParameters().length > 0 && toClass.equals(cls)){

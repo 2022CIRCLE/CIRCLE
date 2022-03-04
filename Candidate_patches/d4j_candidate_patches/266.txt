@@ -1,6 +1,3 @@
-golden:
-throw MathRuntimeException.createIllegalArgumentException(LocalizedFormats.NOT_POSITIVE_POISSON_MEAN, p);
-inference:
 throw MathRuntimeException.createIllegalArgumentException(LocalizedFormats.NOT_POSITIVE_POISSON_MEAN, p);
 throw MathRuntimeException.createIllegalArgumentException(LocalizedFormats.NOT_POSITIVE_POISSON_MEAN);
 throw MathRuntimeException.createIllegalArgumentException(LocalizedFormats.NOT_POSITION_POISSON_MEAN, p);

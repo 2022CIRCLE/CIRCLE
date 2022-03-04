@@ -1,6 +1,3 @@
-golden:
-current = new VectorialPointValuePair(point, objective);
-inference:
 current = new VectorialPointValuePair(point);
 current = new VectorialPointValuePair(point, objective, 0);
 current = new VectorialPointValuePair();

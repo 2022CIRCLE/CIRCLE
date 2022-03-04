@@ -1,6 +1,3 @@
-golden:
-return REGISTRY.get() != null ? REGISTRY.get() : Collections.<Object, Object>emptyMap();
-inference:
 return (REGISTRY.get()!= null? REGISTRY.get() : Collections.Object, Object>emptyMap());
 return REGISTRY.get()!= null? REGISTRY.get() : Collections.Object, Object>emptyMap();
 return (REGISTRY)!= null? REGISTRY.get() : Collections.Object, Object>emptyMap();

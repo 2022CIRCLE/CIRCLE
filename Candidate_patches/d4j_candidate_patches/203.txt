@@ -1,6 +1,3 @@
-golden:
-registerTypeVariablesOn(getActualTypeArgumentFor(typeVariable));
-inference:
 registerTypeVariablesOn(typeVariable);
 registerTypeVariablesOn(getActualTypeArgumentFor(typeVariable));
 

@@ -1,6 +1,3 @@
-golden:
-if (!ControlFlowGraph.isEnteringNewCfgNode(sibling)) {
-inference:
 if (!ControlFlowGraph.isEnteringNewCfgNode(n)){
 if (!ControlFlowGraph.isEnteringNewCfgNode(sibling)){
 if (!controlFlowGraph.isEnteringNewCfgNode(sibling)){

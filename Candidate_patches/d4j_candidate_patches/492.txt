@@ -1,6 +1,3 @@
-golden:
-foldedSize += sb.length() + 2; arrayFoldedChildren.add(Node.newString(sb.toString()));
-inference:
 foldedSize += sb.length() + 1; arrayFoldedChildren.add(Node.newString(sb.toString()));
 foldedSize += sb.length() + 2; arrayFoldedChildren.add(node.newString(sb.toString()));
 foldedSize += sb.length() + 2; arrayFoldedChildren.add(Node.newString(sb.get()));

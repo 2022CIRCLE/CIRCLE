@@ -1,6 +1,3 @@
-golden:
-Node fallThrough = tryRemoveUnconditionalBranching(computeFollowing(n));
-inference:
 Node fallThrough = tryRemoveUnconditionalBranching(n);
 Node fallThrough = tryRemoveUnconditionalBranching(n.getParent());
 Node fallThrough = tryRemoveUnconditionalBranching(n.computeFollowing());

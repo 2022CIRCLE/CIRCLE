@@ -1,6 +1,3 @@
-golden:
-return (Class) actual;
-inference:
 return (Class) actual;
 return Object.class;
 return (Class) actual.get();

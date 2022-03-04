@@ -1,6 +1,3 @@
-golden:
-return getCumPct((Comparable<?>) v);
-inference:
 return getCumPct(v);
 return v;
 return getCumPct((Comparable?>) v);

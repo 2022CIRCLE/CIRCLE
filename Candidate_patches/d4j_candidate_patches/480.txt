@@ -1,6 +1,3 @@
-golden:
-throw new PathIsExploredException(); // XXX
-inference:
 
 return new PathIsExploredException();
 return 0;

@@ -1,6 +1,3 @@
-golden:
-return Math.floor(Math.exp(binomialCoefficientLog(n, k)) + 0.5);
-inference:
 return Math.floor(Math.exp(binomialCoefficientLog(n, k)) + 0.5);
 return Math.floor(math.exp(binomialCoefficientLog(n, k)) + 0.5);
 return Math.floor(Math.exp(binomialCoefficientLog(n, k)));

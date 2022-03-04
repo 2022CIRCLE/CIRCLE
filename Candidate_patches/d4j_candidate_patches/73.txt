@@ -1,6 +1,3 @@
-golden:
-if (!ControlFlowGraph.isEnteringNewCfgNode(child)) { // Not a FUNCTION
-inference:
 if (!ControlFlowGraph.isEnteringNewCfgNode(child))
 if (!controlFlowGraph.isEnteringNewCfgNode(child))
 if (!ControlFlowGraph.isEnteringNewCfgNode(n))

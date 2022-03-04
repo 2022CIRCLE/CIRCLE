@@ -1,6 +1,3 @@
-golden:
-ret = (Double.doubleToRawLongBits(real) == Double.doubleToRawLongBits(rhs.getReal())) && (Double.doubleToRawLongBits(imaginary) == Double.doubleToRawLongBits(rhs.getImaginary()));
-inference:
 ret = (doubleToRawLongBits(real) == doubleToRawLongBits(rhs.getReal())) && (doubleToRawLongBits(imaginary) == doubleToRawLongBits(rhs.getImaginary()));
 ret = (doubleToRawLongBits(real) == Double.doubleToRawLongBits(rhs.getReal())) && (doubleToRawLongBits(imaginary) == Double.doubleToRawLongBits(rhs.getImaginary()));
 ret = (doubleToRawLongBits(real) == doubleToRawLongBits(rhs.getReal())) && doubleToRawLongBits(imaginary) == doubleToRawLongBits(rhs.getImaginary()));

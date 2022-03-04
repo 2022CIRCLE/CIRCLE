@@ -1,6 +1,3 @@
-golden:
-return i;
-inference:
 return (i);
 return (int)i;
 return ch;

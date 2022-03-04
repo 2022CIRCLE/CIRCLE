@@ -1,6 +1,3 @@
-golden:
-return recordDeepStubAnswer( newDeepStubMock(returnTypeGenericMetadata), container );
-inference:
 return recordDeepStubAnswer(returnTypeGenericMetadata, container);
 return recordDeepStubAnswer(newDeepStubMock(returnTypeGenericMetadata));
 return recordDeepStubAnswer(nsDeepStubMock(returnTypeGenericMetadata), container );

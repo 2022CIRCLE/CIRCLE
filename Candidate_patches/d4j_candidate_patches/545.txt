@@ -1,6 +1,3 @@
-golden:
-return getMock(invocation);
-inference:
 return getMock(invocation, null);
 return (getMock(invocation));
 return Mock(invocation);

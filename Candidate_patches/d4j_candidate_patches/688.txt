@@ -1,6 +1,3 @@
-golden:
-if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1) {
-inference:
 if (NodeUtil.mayEffectMutableState(cArg, compiler) && (NodeUtil.getNameReferenceCount( block, fnParam.getString()) > 1)){
 if (NodeUtil.mayEffectMutableState(cArg, compiler)){
 if (NodeUtil.mayEffectMutableState(cArg, compiler) && NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1){

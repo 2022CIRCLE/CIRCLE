@@ -1,6 +1,3 @@
-golden:
-iterations = new Incrementor(0, new MaxIterCallback());
-inference:
 
 iterations = new Incrementor();
 iterations = new Incrementor(1, new MaxIterCallback());

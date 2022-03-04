@@ -1,6 +1,3 @@
-golden:
-if (n.isQualifiedName() && n.getJSDocInfo() != null) { return; } else if (n.isExprResult()) { return; }
-inference:
 
 return;
 else if (n.isExprResult())  return;

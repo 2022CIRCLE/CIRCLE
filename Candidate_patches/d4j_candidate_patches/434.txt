@@ -1,6 +1,3 @@
-golden:
-if (!MathUtils.equals(getEntry(i, col), 0.0, epsilon)) { if (row == null) { row = i; } else { return null; }
-inference:
 if (!MathUtils.equals(getEntry(i, col), 0.0))  if (row == null)  row = i;  else  return null;
 if (!MathUtils.equals(getEntry(i, col), 0.0, epsilon))  if (row == null)  row = i;
 if (!MathUtils.equals(getEntry(i, col), 0.0))  if (row == null)  row = i;  else  return null;

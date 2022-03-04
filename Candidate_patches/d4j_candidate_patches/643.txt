@@ -1,6 +1,3 @@
-golden:
-catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
-inference:
 catch (ArgumentsAreDifferent e){
 catch (ExceptionsAreDifferent e){
 catch (ExceptionAssertionError e){

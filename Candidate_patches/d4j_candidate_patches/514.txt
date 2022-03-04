@@ -1,6 +1,3 @@
-golden:
-int p = problem.getAllParameters().length;
-inference:
 long p = problem.getAllParameters().length;
 double p = problem.getAllParameters().length;
 

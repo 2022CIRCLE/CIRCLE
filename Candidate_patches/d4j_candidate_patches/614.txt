@@ -1,6 +1,3 @@
-golden:
-throw new FractionConversionException(value, p2, q2);
-inference:
 return new FractionConversionException(value, p2, q2);
 throw new FractionConversionException(value, p2);
 throw new FractionConversionException(value, q2);

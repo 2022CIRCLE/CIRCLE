@@ -1,6 +1,3 @@
-golden:
-Location loc1 = remainingRegion.checkPoint(line.toSubSpace(v1D));
-inference:
 Location loc1 = remainingRegion.checkPoint(subLine.line.toSubSpace(v1D));
 Location loc1 = remainingRegion.checkPoint(line);
 Location loc1 = remainingRegion.checkPoint(line.toSubSpace(v1D));

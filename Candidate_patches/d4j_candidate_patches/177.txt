@@ -1,6 +1,3 @@
-golden:
-} else if (isVar) { Node grandparent = parent.getParent(); Node value = n.hasChildren() ? v.getInitialValue().detachFromParent() : null; Node varNode = parent;
-inference:
 
 }else if (isVar)
 }else if (isVar)  Node varNode = parent;

@@ -1,6 +1,3 @@
-golden:
-if (o1 == null || o2 == null) {
-inference:
 if (o1 == null){
 if (o1 == null || o2 == null){
 if (o1 == null){

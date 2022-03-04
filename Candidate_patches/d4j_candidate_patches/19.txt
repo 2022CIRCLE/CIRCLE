@@ -1,6 +1,3 @@
-golden:
-max += Math.max(max, Math.abs(a));
-inference:
 max += a;
 max += max;
 max += Math.max(max, a);

@@ -1,6 +1,3 @@
-golden:
-if (!(meanImpl instanceof Mean)) {
-inference:
 if (!meanImpl.increment(value)){
 if (!meanImpl){
 if (meanImpl == null){

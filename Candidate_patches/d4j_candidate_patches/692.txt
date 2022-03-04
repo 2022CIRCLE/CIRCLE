@@ -1,6 +1,3 @@
-golden:
-if (upper == -1 || upper > str.length()) {
-inference:
 if (upper == -1 || upper >= str.length()){
 if (upper == -1){
 if (upper == -1 || upper > str.length()){

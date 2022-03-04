@@ -1,6 +1,3 @@
-golden:
-Node constructor = n.getFirstChild(); scope = traverse(constructor, scope);
-inference:
 
 Node constructor = n; scope = traverse(constructor, scope);
 Node constructor = n.getFirstChild(); scope = traverse(constructor, scope);

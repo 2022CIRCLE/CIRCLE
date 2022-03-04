@@ -1,6 +1,3 @@
-golden:
-res[i] = diff * x[i] + boundaries[0][i];
-inference:
 res[i] = diff * x[i];
 double res[i] = diff * x[i] + boundaries[0][i];
 res[i] = x[i] + x[i];

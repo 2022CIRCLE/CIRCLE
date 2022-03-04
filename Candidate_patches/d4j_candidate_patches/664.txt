@@ -1,6 +1,3 @@
-golden:
-if (declarationRoot.getType() == Token.FUNCTION) { for (Node c = declarationRoot.getFirstChild().getNext().getFirstChild(); c != null; c = c.getNext()) { String name = c.getString(); renamer.addDeclaredName(name); } Node functionBody = declarationRoot.getLastChild(); findDeclaredNames(functionBody, null, renamer); }  else
-inference:
 if (declarationRoot.getType() == Token.FUNCTION)
 else
 if (declarationRoot)

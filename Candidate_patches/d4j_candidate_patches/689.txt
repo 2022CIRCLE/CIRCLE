@@ -1,6 +1,3 @@
-golden:
-if (scopeToDeclareIn.isDeclared(variableName, false)) {
-inference:
 if (scopeToDeclareIn.isDeclared(variableName)){
 if (scopeToDeclareIn.isDeclared(variableName.get(), false)){
 if (!scopeToDeclareIn.isDeclared(variableName, false)){

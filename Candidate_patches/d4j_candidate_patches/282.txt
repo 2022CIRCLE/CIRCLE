@@ -1,6 +1,3 @@
-golden:
-return details.getCause().getMessage();
-inference:
 return details.getCause().getMessage().get();
 return details.getCause();
 return details.getCause().getMessage();

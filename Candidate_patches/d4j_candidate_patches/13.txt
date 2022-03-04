@@ -1,6 +1,3 @@
-golden:
-super(paint, stroke, paint, stroke, alpha);
-inference:
 super(value, stroke, paint, stroke, alpha);
 super(value, paint, stroke, alpha);
 super(color, paint, alpha);

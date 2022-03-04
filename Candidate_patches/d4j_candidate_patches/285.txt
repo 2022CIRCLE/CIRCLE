@@ -1,6 +1,3 @@
-golden:
-Builder x = OriginalMapping.newBuilder() .setOriginalFile(sources[entry.getSourceFileId()]) .setLineNumber(entry.getSourceLine()) .setColumnPosition(entry.getSourceColumn());
-inference:
 Builder x = OriginalMapping.newBuilder().setOriginalFile(sources[entry.getSourceFileId()]).setLineNumber(entry.getSourceLine()).setColumnPosition(entry.getSourceColumn());
 Builder x = OriginalMapping.newBuilder().setOriginalFile(sources[entry.getSourceFileId()]);.setLineNumber(entry.getSourceLine());.setColumnPosition(entry.getSourceColumn());
 Builder x = originalMapping.newBuilder().setOriginalFile(sources[entry.getSourceFileId()]).setLineNumber(entry.getSourceLine()).setColumnPosition(entry.getSourceColumn());

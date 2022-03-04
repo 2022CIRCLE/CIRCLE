@@ -1,6 +1,3 @@
-golden:
-if (!NodeUtil.isObjectLitKey(n, n.getParent())) {
-inference:
 if (!nodeUtil.isObjectLitKey(n, n.getParent())){
 if (!NodeUtil.isObjectLitKey(n, parent)){
 if (!NodeUtil.isObjectLitKey(t, n.getParent())){

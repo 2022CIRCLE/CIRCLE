@@ -1,6 +1,3 @@
-golden:
-return next.filterCandidate(mocks, field, fieldInstance);
-inference:
 return next.filterCandidate(mocks, field);
 return next.filterCandidate(&mocks, field, fieldInstance);
 return next.filterCandidate(mocks, field, fieldInstance, mocks);

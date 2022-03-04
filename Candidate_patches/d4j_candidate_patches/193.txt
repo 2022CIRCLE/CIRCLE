@@ -1,6 +1,3 @@
-golden:
-return rowData.getObject(columnKey);
-inference:
 return rowData.getObject(columnKey);
 return (rowData.getObject(columnKey));
 return rowData;

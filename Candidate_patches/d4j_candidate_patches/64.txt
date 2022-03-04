@@ -1,6 +1,3 @@
-golden:
-if (compare < 0 || (compare != 0 && loopUnitField.isSupported() == false)) {
-inference:
 if (compare  0){
 if (compare  0 || (compare!= 0 && loopUnitField.isSupported() == false)){
 if (compare  0 && loopUnitField.isSupported() == false){

@@ -1,6 +1,3 @@
-golden:
-default: throw new IllegalArgumentException("Node cannot be refined. \n" + node.toStringTree());
-inference:
 default: throw new IllegalArgumentException("Node cannot be refined. n");
 default: break;
 

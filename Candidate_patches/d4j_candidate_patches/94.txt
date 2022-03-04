@@ -1,6 +1,3 @@
-golden:
-if (durationField.isSupported()) { return 1; }
-inference:
 if (durationField.isSupported())  return 1;
 
 if (durationField.isSupported()) return 1;

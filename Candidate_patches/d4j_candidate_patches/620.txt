@@ -1,6 +1,3 @@
-golden:
-int gcd = greatestCommonDivisor(Math.abs(numerator), denominator);
-inference:
 int gcd = greatestCommonDivisor(numerator, denominator);
 long gcd = greatestCommonDivisor(Math.abs(numerator), denominator);
 int gcd;

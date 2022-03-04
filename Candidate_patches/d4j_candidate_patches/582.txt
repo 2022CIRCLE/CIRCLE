@@ -1,6 +1,3 @@
-golden:
-setResult(x, (goalType == GoalType.MAXIMIZE) ? -fx : fx, count); return x; } ++count; } throw new MaxIterationsExceededException(maximalIterationCount);
-inference:
 
 setResult(x, (goalType == GoalType.MAXIMIZE)? -fx : fx, count); return x;  ++count;
 setResult(x, (goalType == GoalType.MAXIMIZE)? -fx : fx, count); return x;

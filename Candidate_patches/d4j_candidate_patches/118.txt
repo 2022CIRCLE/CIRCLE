@@ -1,6 +1,3 @@
-golden:
-Partial newPartial = new Partial(iChronology, newTypes, newValues);
-inference:
 Partial newPartial = new Partial(iChronology, newTypes);
 Partial newPartial = new Partial(iChronology, newTypes, newValues, 0);
 Partial newPartial = new Partial(&iChronology, newTypes, newValues);

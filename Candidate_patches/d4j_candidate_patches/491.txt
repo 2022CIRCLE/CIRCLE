@@ -1,6 +1,3 @@
-golden:
-sb.append(NodeUtil.getStringValue(elem));
-inference:
 sb.append(nodeUtil.getStringValue(elem));
 sb.append(elem);
 sb.append(NodeUtil.getStringValue(elem));

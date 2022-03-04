@@ -1,6 +1,3 @@
-golden:
-boolean needReset = currentEvent.reset(eventT, eventY);
-inference:
 
 boolean needReset = currentEvent.reset(eventT);
 boolean needReset = currentEvent.reset(eventT, eventY, 0);

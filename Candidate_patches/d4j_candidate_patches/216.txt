@@ -1,6 +1,3 @@
-golden:
-if (templateTypeName != null && !foundTemplateType) {
-inference:
 if (templateTypeName!= null){
 if (templateTypeName!= null &&!foundTemplateType){
 if (!foundTemplateType){

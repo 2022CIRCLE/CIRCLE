@@ -1,6 +1,3 @@
-golden:
-int j = 4 * n - 1;
-inference:
 int j = 4 * n;
 long j = 4 * n - 1;
 int j = 4 * n - 1;

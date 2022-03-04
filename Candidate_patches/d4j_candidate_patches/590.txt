@@ -1,6 +1,3 @@
-golden:
-swap[r] = r; for (int i = r + 1; i < order; ++i) { int ii  = index[i]; int isi = index[swap[i]]; if (c[ii][ii] > c[isi][isi]) { swap[r] = i; } }   // swap elements if (swap[r] != r) { int tmp = index[r]; index[r] = index[swap[r]]; index[swap[r]] = tmp; }
-inference:
 
 if (swap[r]!= r)  int tmp = index[r]; index[r] = index[swap[r]]; index[swap[r]] = tmp;
 swap[r] = r; for (int i = r + 1; i  order; ++i)  int ii = index[i]; int isi = index[swap[i]]; if (c[ii][ii] > c[isi][isi])  swap[r] = i;

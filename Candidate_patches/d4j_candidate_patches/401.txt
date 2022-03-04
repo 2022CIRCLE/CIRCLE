@@ -1,6 +1,3 @@
-golden:
-return (List) reportMatcher(Any.ANY).returnList();
-inference:
 return (List) anyMatcher(Any.ANY);
 return reportMatcher(Any.ANY);
 return Any.ANY;

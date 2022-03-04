@@ -1,6 +1,3 @@
-golden:
-static float toJavaVersionInt(String version) {
-inference:
 static float toJavaVersionInt(int version){
 static float toJavaVersionInt(){
 toJavaVersionInt(String version){

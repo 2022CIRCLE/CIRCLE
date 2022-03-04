@@ -1,6 +1,3 @@
-golden:
-for (Var s : def.depends) {
-inference:
 for (Node s : def.depends){
 for (Var s : def){
 for (Var s : def.variables){

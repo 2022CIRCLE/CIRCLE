@@ -1,6 +1,3 @@
-golden:
-case Token.HOOK: return checkHookBranchReadBeforeKill( n.getFirstChild().getNext(), n.getLastChild(), variable);
-inference:
 
 case Token.HOOK: return checkHookBranchReadBeforeKill(n.getFirstChild().getNext(), n.getLastChild(), variable);
 case Token.HOOK: return checkHookBranchReadBeforeKill(n, n.getFirstChild().getNext(), n.getLastChild(), variable);

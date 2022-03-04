@@ -1,6 +1,3 @@
-golden:
-instant = gregorianToJulian(instant);
-inference:
 instant = gregorianToJulian(instant);
 instant = gregorianToJulian(instant, value);
 instant = ToJulian(instant);

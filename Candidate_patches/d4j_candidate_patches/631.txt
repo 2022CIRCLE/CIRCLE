@@ -1,6 +1,3 @@
-golden:
-long instantLocal = instantMillis + chrono.getZone().getOffset(instantMillis); chrono = selectChronology(chrono); int defaultYear = chrono.year().get(instantLocal);
-inference:
 
 int defaultYear = chrono.year().get(instantMillis);
 int defaultYear = chrono.year().get(instantMillis + chrono.getZone().getOffset(instantMillis));

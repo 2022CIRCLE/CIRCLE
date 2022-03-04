@@ -1,6 +1,3 @@
-golden:
-return new VectorialPointValuePair(point, objective);
-inference:
 return new VectorialPointValuePair(point, objective, 0);
 return new VectorialPointValuePair(point);
 return new PointValuePair(point, objective);

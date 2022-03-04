@@ -1,6 +1,3 @@
-golden:
-if (parent.isVar()) { if (n.hasChildren() && n.getFirstChild().isQualifiedName()) {
-inference:
 if (parent)  if (n.hasChildren() && n.getFirstChild().isQualifiedName()){
 if (n.hasChildren() && n.getFirstChild().isQualifiedName()){
 if (parent.isVar() && n.hasChildren() && n.getFirstChild().isQualifiedName()){

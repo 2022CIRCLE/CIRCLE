@@ -1,6 +1,3 @@
-golden:
-if (value != null) { Node addition = IR.add( IR.string("").srcref(callTarget), value.detachFromParent());
-inference:
 if (value)  Node addition = IR.add(IR.string("").srcref(callTarget), value.detachFromParent());
 if (value)  Node addition = IR.add(IR.string("").srcref(callTarget), value);
 if (value!= null)

@@ -1,6 +1,3 @@
-golden:
-return new LocalDate( date.getYear() + 1900, date.getMonth() + 1, date.getDate() );
-inference:
 return new LocalDate( date.getYear() + 1900, date.getMonth() + 1, date.getDate() );
 return new LocalDate(date.getYear() + 1900, date.getMonth() + 1, date.getDate());
 return new Date( date.getYear() + 1900, date.getMonth() + 1, date.getDate() );

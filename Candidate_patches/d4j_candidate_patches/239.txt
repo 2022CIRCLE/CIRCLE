@@ -1,6 +1,3 @@
-golden:
-String param = params.getParameter(0);
-inference:
 
 String param = params.getParameter(null);
 String param = params.getParameter();

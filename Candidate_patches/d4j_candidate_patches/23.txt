@@ -1,6 +1,3 @@
-golden:
-if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType() || !(baseType instanceof PrototypeObjectType)) {
-inference:
 if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType()){
 if (baseType.hasReferenceName() || baseType.isUnknownType() || isNativeObjectType() || baseType.isFunctionPrototypeType()){
 if (baseType.hasReferenceName() || baseType.isUnknownType()){

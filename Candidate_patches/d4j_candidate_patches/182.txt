@@ -1,6 +1,3 @@
-golden:
-rowData.removeValue(columnKey);
-inference:
 
 columnData.removeValue(columnKey);
 rowData.removeValue(columnKey.get());

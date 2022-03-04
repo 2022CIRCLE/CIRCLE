@@ -1,6 +1,3 @@
-golden:
-String s = trimJsWhiteSpace(rawJsString);
-inference:
 String s = trimJsWhiteSpace(s);
 s = trimJsWhiteSpace(rawJsString);
 String s = trimJsWhiteSpace(rawJsString.get());

@@ -1,6 +1,3 @@
-golden:
-public JSType getLeastSupertype(JSType that) { if (!that.isRecordType()) { return super.getLeastSupertype(that); } RecordTypeBuilder builder = new RecordTypeBuilder(registry); for (String property : properties.keySet()) { if (that.toMaybeRecordType().hasProperty(property) && that.toMaybeRecordType().getPropertyType(property).isEquivalentTo( getPropertyType(property))) { builder.addProperty(property, getPropertyType(property), getPropertyNode(property)); } } return builder.build(); }
-inference:
 public JSType getLeastSupertype()  return super.getLeastSupertype(that);
 public JSType getLeastSupertype(JSType that)  return super.getLeastSupertype(that);
 static JSType getLeastSupertype(JSType that)  return super.getLeastSupertype(that);

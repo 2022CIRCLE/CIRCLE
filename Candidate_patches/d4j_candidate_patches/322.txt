@@ -1,6 +1,3 @@
-golden:
-incrementIterationsCounter();
-inference:
 
 incrementIterationsCounter(&current);
 incrementIterationsCounter();

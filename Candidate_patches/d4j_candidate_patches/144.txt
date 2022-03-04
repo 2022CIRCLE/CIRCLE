@@ -1,6 +1,3 @@
-golden:
-return new BigDecimal(str);
-inference:
 return new BigDecimal(str.get());
 return new Decimal(str);
 return new BigDecimal(&str);

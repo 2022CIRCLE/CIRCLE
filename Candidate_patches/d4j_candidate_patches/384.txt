@@ -1,6 +1,3 @@
-golden:
-Node node = newNode(type, operand);
-inference:
 Node node = newNode(type);
 Node node = newNode(type, operand, 0);
 Node node = newNode(type, operand, null);

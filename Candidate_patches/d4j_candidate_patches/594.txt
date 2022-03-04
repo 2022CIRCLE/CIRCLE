@@ -1,6 +1,3 @@
-golden:
-Node function = fnScope.getRootNode();
-inference:
 Node function = fnScope.getParent();
 Node function = fnScope;
 

@@ -1,6 +1,3 @@
-golden:
-return contains(str.toUpperCase(), searchStr.toUpperCase());
-inference:
 return contains(str.get(), searchStr.get());
 return contains(str, searchStr);
 return contains(str);

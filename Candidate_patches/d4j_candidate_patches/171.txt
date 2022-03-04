@@ -1,6 +1,3 @@
-golden:
-final RealMatrix arz = randn1(dimension, lambda);
-inference:
 
 final RealMatrix arz = randn2(dimension, lambda);
 final RealMatrix arz = randn1(size, lambda);

@@ -1,6 +1,3 @@
-golden:
-return realMethod.invoke(mock, rawArguments);
-inference:
 return realMethod.invoke(mock);
 return callRealMethod(mock, rawArguments);
 return realMethod.invoke(mock, &rawArguments);

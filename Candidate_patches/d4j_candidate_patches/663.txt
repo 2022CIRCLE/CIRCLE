@@ -1,6 +1,3 @@
-golden:
-return solve(min, max);
-inference:
 return solve(f, min, max);
 return solve(min, max, 0);
 return solve(min, max, initial);

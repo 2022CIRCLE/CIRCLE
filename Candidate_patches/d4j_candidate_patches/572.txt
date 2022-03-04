@@ -1,6 +1,3 @@
-golden:
-for (Map.Entry<TypeVariable<?>, Type> entry : toTypeVarAssigns.entrySet()) { Type toTypeArg = entry.getValue(); Type fromTypeArg = fromTypeVarAssigns.get(entry.getKey());
-inference:
 for (Map.EntryTypeVariable?>, Type> entry : toTypeVarAssigns)  Type toTypeArg = entry.getValue(); Type fromTypeArg = fromTypeVarAssigns.get(entry.getKey());
 for (Map.EntryTypeVariable?>, Type> entry : typeVarAssigns.entrySet())  Type toTypeArg = entry.getValue(); Type fromTypeArg = fromTypeVarAssigns.get(entry.getKey());
 for (Map.EntryTypeVariable?>, Type> entry : toTypeVarAssigns);

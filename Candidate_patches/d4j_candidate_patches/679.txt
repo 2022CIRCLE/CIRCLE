@@ -1,6 +1,3 @@
-golden:
-dev = ((double) observed[i] - expected[i]); sumSq += dev * dev / expected[i];
-inference:
 sumSq += (double) observed[i] - expected[i];
 
 sumSq += ((double) observed[i] - expected[i]);

@@ -1,6 +1,3 @@
-golden:
-setMillis(getChronology().millis().add(getMillis(), millis));
-inference:
 setMillis(getChronology().millis());
 SetMillis(getChronology().millis().add(getMillis(), millis));
 setMillis(getChronology().millis().add(getMillis(), millis));

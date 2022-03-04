@@ -1,6 +1,3 @@
-golden:
-mockInstance = classInstantiator.instantiate(mockedProxyType);
-inference:
 mockInstance = classInstantiator.instantiate(mockedProxyType);
 mockInstance = classInstantiator.instantiate(mockedProxyType);
 mockInstance = classInstantiator.instantiate(&mockedProxyType);

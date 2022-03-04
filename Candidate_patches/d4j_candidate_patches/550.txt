@@ -1,6 +1,3 @@
-golden:
-defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), true);
-inference:
 defineSlot(astParameter, functionNode, JSType, true);
 defineSlot(astParameter, functionNode, jsDocParameters.getJSType(), true);
 defineSlot(astParameter, functionNode, jsDocParameter.getJSType());

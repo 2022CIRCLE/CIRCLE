@@ -1,6 +1,3 @@
-golden:
-bucket.setZone(DateTimeZone.forID(id)); return position + id.length();
-inference:
 return position + id.length();
 return (position + id.length());
 bucket.setZone(DateTimeZone.get()); return position + id.length();

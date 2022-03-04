@@ -1,6 +1,3 @@
-golden:
-char ch4 = str.charAt(4);
-inference:
 
 char ch4 = str.charAt(3);
 char ch4 = str;

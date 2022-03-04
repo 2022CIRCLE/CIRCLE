@@ -1,6 +1,3 @@
-golden:
-case '\0': sb.append("\\0"); break;
-inference:
 
 case '0': sb.append("0"); break;
 case '0': sb.append('0'); break;

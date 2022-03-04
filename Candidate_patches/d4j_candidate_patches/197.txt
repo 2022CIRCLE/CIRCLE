@@ -1,6 +1,3 @@
-golden:
-return foundDigit && !hasExp;
-inference:
 return foundDigit && hasExp;
 return foundDigit;
 return foundDigit &&!hasExp;

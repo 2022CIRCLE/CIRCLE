@@ -1,6 +1,3 @@
-golden:
-Integer basicRow = getBasicRow(getNumObjectiveFunctions() + i);
-inference:
 Integer basicRow = getRow(getNumObjectiveFunctions() + i);
 Integer basicRow = getBasicRow(getNumObjectiveFunctions());
 Integer basicRow = getBasicRow(i);

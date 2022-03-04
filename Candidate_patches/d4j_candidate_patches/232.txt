@@ -1,6 +1,3 @@
-golden:
-char c = str.charAt(i);
-inference:
 const char c = str.charAt(i);
 char c = str.CharAt(i);
 

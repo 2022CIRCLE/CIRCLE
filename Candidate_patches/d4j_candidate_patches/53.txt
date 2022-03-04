@@ -1,6 +1,3 @@
-golden:
-res[i] = (x[i] - boundaries[0][i]) / diff;
-inference:
 double res[i] = (x[i] - boundaries[0][i]) / diff;
 res[i] = (x[i] - boundaries[0][i]) / diff;
 res[i] = (x[i] - boundaries[i][i]) / diff;

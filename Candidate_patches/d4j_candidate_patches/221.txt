@@ -1,6 +1,3 @@
-golden:
-result = lvalInt >>> rvalInt;
-inference:
 result = lvalInt >> rvalInt;
 result = lvalInt >>> rvalInt;
 result = lvalInt >>= rvalInt;

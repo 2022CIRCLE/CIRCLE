@@ -1,6 +1,3 @@
-golden:
-for (final EventState remaining : occuringEvents) { remaining.stepAccepted(eventT, eventY); }
-inference:
 
 for (EventState remaining : occuringEvents)  remaining.stepAccepted(eventT, eventY);
 for (final EventState remaining : occuringEvents)

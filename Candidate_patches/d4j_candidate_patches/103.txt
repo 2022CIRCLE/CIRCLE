@@ -1,6 +1,3 @@
-golden:
-return (a <= b) ? b : (Float.isNaN(a + b) ? Float.NaN : b);
-inference:
 return (a = b)? (float) b : (Float.isNaN(a + b)? Float.NaN : b);
 return (a = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
 return ((a = b)? b : (Float.isNaN(a + b)? Float.NaN : b));

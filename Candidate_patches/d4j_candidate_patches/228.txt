@@ -1,6 +1,3 @@
-golden:
-private static String escapeJavaStyleString(String str, boolean escapeSingleQuotes) {
-inference:
 static String escapeJavaStyleString(String str, boolean escapeSingleQuotes){
 static void escapeJavaStyleString(String str, boolean escapeSingleQuotes){
 static const String escapeJavaStyleString(String str, boolean escapeSingleQuotes){

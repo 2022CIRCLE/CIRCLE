@@ -1,6 +1,3 @@
-golden:
-Preconditions.checkState(tryBody.isLabelName()); Preconditions.checkState(finallyBody.isLabelName());
-inference:
 
 Preconditions.checkState(tryBody.isLabelName()); Preconditions.checkState(finallyBody.isLabelName());
 preconditions.checkState(tryBody.isLabelName()); preconditions.checkState(finallyBody.isLabelName());

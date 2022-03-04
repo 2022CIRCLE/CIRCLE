@@ -1,6 +1,3 @@
-golden:
-double criterion = 0; for (int i = 0; i < rows; ++i) { final double residual = residuals[i]; criterion += residual * residual * residualsWeights[i]; } return Math.sqrt(criterion / rows);
-inference:
 double criterion = 0; for (int i = 0; i  rows; ++i)  final double residual = residuals[i]; criterion += residual * residual * residualsWeights[i];
 double criterion; for (int i = 0; i  rows; ++i)  final double residual = residuals[i]; criterion += residual * residual * residualsWeights[i];  return Math.sqrt(criterion / rows);
 double criterion = 0; for (i = 0; i  rows; ++i)  final double residual = residuals[i]; criterion += residual * residual * residualsWeights[i];  return Math.sqrt(criterion / rows);

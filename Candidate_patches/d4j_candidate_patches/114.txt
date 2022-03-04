@@ -1,6 +1,3 @@
-golden:
-if (locale != null) { key = new Pair(key, locale);
-inference:
 if (locale!= null)
 if (locale!= null)
 if (locale)  key = new Pair(key, locale);

@@ -1,6 +1,3 @@
-golden:
-if (hasSideEffects && NodeUtil.canBeSideEffected(cArg)) { return CanInlineResult.NO; }
-inference:
 
 if (hasSideEffects && NodeUtil.canBeSideEffected(cArg))  return CanInlineResult.NO;
 return CanInlineResult.NO;

@@ -1,6 +1,3 @@
-golden:
-return MOCKITO_CORE.mock((Class<T>) object.getClass(), withSettings() .spiedInstance(object) .defaultAnswer(CALLS_REAL_METHODS));
-inference:
 return MOCKITO_CORE.mock((ClassT>) object.getClass(), withSettings().spiedInstance(object).defaultAnswer(CALLS_REAL_METHODS));
 return MOCKITO_CORE.mock((ClassT>) object.getClass(), withSettings().spiedInstance(object));
 return MOCKITO_CORE.mock((ClassT>) object.getClass());

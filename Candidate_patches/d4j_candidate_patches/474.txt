@@ -1,6 +1,3 @@
-golden:
-if ( source.substring(startIndex, endIndex).compareTo( getImaginaryCharacter()) != 0) {
-inference:
 if (source.substring(startIndex, endIndex).equals(getImaginaryCharacter())){
 if ( source.substring(startIndex, endIndex).equals(getImaginaryCharacter())){
 if ( source.substring(startIndex, endIndex).compareTo(getImaginaryCharacter())!= 0){

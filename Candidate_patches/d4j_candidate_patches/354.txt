@@ -1,6 +1,3 @@
-golden:
-if (divisor.getReal() == 0.0 && divisor.getImaginary() == 0.0) {
-inference:
 if (divisor.getReal() == 0.0){
 if (divisor.getReal() == 0.0 && divisor.getImaginary() == 0.0){
 if (divisor.getReal() == null && divisor.getImaginary() == null){

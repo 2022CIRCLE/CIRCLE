@@ -1,6 +1,3 @@
-golden:
-int greater = replacementList[i].length() - searchList[i].length();
-inference:
 int greater = replacementList[i].length() - searchList[i].length();
 int greater = searchList[i].length() - searchList[i].length();
 long greater = replacementList[i].length() - searchList[i].length();

@@ -1,6 +1,3 @@
-golden:
-return createComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
-inference:
 return createComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
 return newComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
 return CreateComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());

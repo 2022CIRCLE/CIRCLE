@@ -1,6 +1,3 @@
-golden:
-if (parent.getType() == Token.COMMA) { Node gramps = parent.getParent(); if (gramps.isCall() && parent == gramps.getFirstChild()) { if (n == parent.getFirstChild() && parent.getChildCount() == 2 && n.getNext().isName() && "eval".equals(n.getNext().getString())) { return; }
-inference:
 
 if (parent.getType() == Token.COMMA) return;
 if (n == parent.getFirstChild() && parent.getChildCount() == 2 && n.getNext().isName() && "eval".equals(n.getNext().getString()))  return;

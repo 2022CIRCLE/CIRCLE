@@ -1,6 +1,3 @@
-golden:
-for (int position = indexOfVararg; position < matchers.size(); position++) { Matcher m = matchers.get(position); if (m instanceof CapturesArguments) { ((CapturesArguments) m).captureFrom(invocation.getRawArguments()[position - indexOfVararg]);
-inference:
 for (int position = indexOfVararg; position  matchers.size(); position++)  Matcher m = matchers.get(position); if (m instanceof CapturesArguments)  ((CapturesArguments) m).captureFrom(invocation.getRawArguments()[position - indexOfVararg]);
 for (position = indexOfVararg; position  matchers.size(); position++)  Matcher m = matchers.get(position); if (m instanceof CapturesArguments)  ((CapturesArguments) m).captureFrom(invocation.getRawArguments()[position - indexOfVararg]);
 for (int position = indexOfVararg; position  matchers.size(); position++)  Matcher m = matchers.get(position); if (m instanceof CapturesArguments)  ((CapturesArguments) m).captureFrom(invocation.getRawArguments(position - indexOfVararg));

@@ -1,6 +1,3 @@
-golden:
-if (value != null || v.getJSDocInfo() != null) {
-inference:
 if (value!= null){
 if (value!= null){
 if (value!= null && v.getJSDocInfo()!= null){

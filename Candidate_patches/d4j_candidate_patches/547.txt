@@ -1,6 +1,3 @@
-golden:
-Class<?> clz = invocation.getMethod().getReturnType(); final Object mock = org.mockito.Mockito.mock(clz, this);
-inference:
 Object mock = org.mockito.Mockito.mock(invocation.getMethod().getReturnType());
 Object mock = org.mockito.Mockito.mock(invocation.getMethod(), this);
 

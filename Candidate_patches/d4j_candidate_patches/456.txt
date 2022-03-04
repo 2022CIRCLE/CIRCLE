@@ -1,6 +1,3 @@
-golden:
-milliseconds -= reduceAndCorrect(start, end, Calendar.MILLISECOND, milliseconds); seconds -= reduceAndCorrect(start, end, Calendar.SECOND, seconds); minutes -= reduceAndCorrect(start, end, Calendar.MINUTE, minutes); hours -= reduceAndCorrect(start, end, Calendar.HOUR_OF_DAY, hours); days -= reduceAndCorrect(start, end, Calendar.DAY_OF_MONTH, days); months -= reduceAndCorrect(start, end, Calendar.MONTH, months); years -= reduceAndCorrect(start, end, Calendar.YEAR, years);
-inference:
 milliseconds -= reduceAndCorrect(start, end, Calendar.MILLISECOND, milliseconds); seconds -= reduceAndCorrect(start, end, Calendar.SECOND, seconds); minutes -= reduceAndCorrect(start, end, Calendar.MINUTE, minutes); hours -= reduceAndCorrect(start, end, Calendar.HOUR_OF_DAY, hours); days -= reduceAndCorrect(start, end, Calendar.DAY_OF_MONTH, days); months -= reduceAndCorrect(start, end, Calendar.MONTH, months); years -= reduceAndCorrect(start, end, Calendar.YEAR, years);
 milliseconds -= limit(start, end, Calendar.MILLISECOND, milliseconds); seconds -= limit(start, end, Calendar.SECOND, seconds); minutes -= limit(start, end, Calendar.MINUTE, minutes); hours -= limit(start, end, Calendar.HOUR_OF_DAY, hours); days -= limit(start, end, Calendar.DAY_OF_MONTH, days); months -= limit(start, end, Calendar.MONTH, months); years -= limit(start, end, Calendar.YEAR, years);
 

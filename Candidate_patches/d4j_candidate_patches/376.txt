@@ -1,6 +1,3 @@
-golden:
-if ((p2 > overflow) || (q2 > overflow)) {
-inference:
 if ((p2 >= overflow) || (q2 >= overflow)){
 if ((p2 > overflow) || (q2 > overflow)){
 if ((p2  overflow) || (q2  overflow)){

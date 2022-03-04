@@ -1,6 +1,3 @@
-golden:
-if (searchChars[j + 1] == cs.charAt(i + 1)) {
-inference:
 if (SearchChars[j + 1] == cs.charAt(i + 1)){
 if (searchChars[i + 1] == cs.charAt(i + 1)){
 if (searchChars[j + 1] == cs.charAt(i + 1)){

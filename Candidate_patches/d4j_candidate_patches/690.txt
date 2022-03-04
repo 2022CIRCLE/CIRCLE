@@ -1,6 +1,3 @@
-golden:
-return (Math.abs(u) + Math.abs(v));
-inference:
 return (Math.abs(u) + v);
 return (Math.abs(u));
 return (math.abs(u) + math.abs(v));

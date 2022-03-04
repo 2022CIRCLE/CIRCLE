@@ -1,6 +1,3 @@
-golden:
-return m1.equals(m2);
-inference:
 return (m1.equals(m2));
 return m1.equals(m2);
 return m2.equals(m2);

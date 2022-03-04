@@ -1,6 +1,3 @@
-golden:
-return canMoveAggressively(value) || canMoveModerately(initialization, reference);
-inference:
 return canMoveAggressively(value);
 return (canMoveAggressively(value) || canMoveModerately(initialization, reference));
 return canMoveAggressively(value) || canMoveModerately(initialization, reference);

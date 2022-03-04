@@ -1,6 +1,3 @@
-golden:
-if (n != null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP ) {
-inference:
 if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign)){
 if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){
 if (n!= null && NodeUtil.isVarOrSimpleAssignLhs(n, assign) && n.getType() == Token.GETPROP){

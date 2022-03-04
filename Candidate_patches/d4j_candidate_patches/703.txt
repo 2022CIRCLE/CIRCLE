@@ -1,6 +1,3 @@
-golden:
-return sumYY - sumXY * sumXY / sumXX;
-inference:
 return sumYY - sumXY * sumXX;
 return (sumYY - sumXY * sumXY / sumXX);
 return sumYY - sumXY * sumXY / sumXX;

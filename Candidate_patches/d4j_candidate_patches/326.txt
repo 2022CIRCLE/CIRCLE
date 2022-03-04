@@ -1,6 +1,3 @@
-golden:
-determineLMParameter(oldRes, delta, diag, work1, work2, work3);
-inference:
 determineLMParameter(oldRes, delta, diag, work1, work2, work3);
 determineLMParameter(newRes, delta, diag, work1, work2, work3);
 determineLMParameter(oldRes, delta, diag, work1, work2);

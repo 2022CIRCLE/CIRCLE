@@ -1,6 +1,3 @@
-golden:
-if (builder.length() > 0) { builder.append(' '); }
-inference:
 
 if (builder.length() > 0)  builder.append(' ');
 builder.append(' ');

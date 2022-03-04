@@ -1,6 +1,3 @@
-golden:
-int[] values = chrono.get(zeroInstance, chrono.set(start, 0L), chrono.set(end, 0L));
-inference:
 int[] values = chrono.get(zeroInstance, chrono.set(start, 0L), chrono.set(end, 0L));
 int[] values = chrono.get(zeroInstance, chrono.set(start, 0L), chrono.set(end, 0L));
 int[] values = chrono.get(zeroInstance, chrono.set(start, 0, 0L), chrono.set(end, 0, 0L));

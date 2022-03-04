@@ -1,6 +1,3 @@
-golden:
-case 'x' : { entityValue = Integer.parseInt(entityContent.substring(2), 16);
-inference:
 case 'x':  entityValue = Integer.parseInt(entityContent.substring(2), 16);
 case 'x': entityValue = Integer.parseInt(entityContent.substring(2), 16);
 case 'X':  entityValue = Integer.parseInt(entityContent.substring(2), 16);

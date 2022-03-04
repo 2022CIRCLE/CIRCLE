@@ -1,6 +1,3 @@
-golden:
-if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())) { registerMismatch(rightType, leftType, null); } else {
-inference:
 if ((leftType.isConstructor() || leftType.isEnumType()) && (rightType.isConstructor() || rightType.isEnumType())){
 if (leftType.isConstructor() || leftType.isEnumType()){
 else{

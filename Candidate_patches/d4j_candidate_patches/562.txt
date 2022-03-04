@@ -1,6 +1,3 @@
-golden:
-if (index >= 0 && !this.allowDuplicateXValues) {
-inference:
 if (index >= 0 &&!this.allowDuplicateXValues){
 if (index >= 0){
 if (!this.allowDuplicateXValues){

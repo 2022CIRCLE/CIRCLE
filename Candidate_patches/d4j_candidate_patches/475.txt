@@ -1,6 +1,3 @@
-golden:
-sb.append(getPropertyType(property).toString());
-inference:
 sb.append(property);
 sb.append(getPropertyType(property));
 sb.append(getPropertyType(property).get());

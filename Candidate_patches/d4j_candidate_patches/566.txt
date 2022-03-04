@@ -1,6 +1,3 @@
-golden:
-StringBuilder buf = new StringBuilder((array[startIndex] == null ? 16 : array[startIndex].toString().length()) + separator.length());
-inference:
 StringBuilder buf = new StringBuilder((array[startIndex] == null? 16 : array[startIndex].get().length()) + separator.length());
 StringBuilder buf = new StringBuilder((array[startIndex] == null? 16 : array[startIndex].get()) + separator.length());
 StringBuffer buf = new StringBuffer((array[startIndex] == null? 16 : array[startIndex].toString().length()) + separator.length());

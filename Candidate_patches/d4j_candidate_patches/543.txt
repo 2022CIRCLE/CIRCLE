@@ -1,6 +1,3 @@
-golden:
-new Reporter().smartNullPointerException(location);
-inference:
 new Reporter().smartNullPointerException(location);
 new Reporter().smartNullPointerException(obj, location);
 new Reporter().smartNullPointerException(null);

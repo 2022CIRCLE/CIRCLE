@@ -1,6 +1,3 @@
-golden:
-sum = Math.max(sum, 4);
-inference:
 sum = max(sum, 4);
 sum = Math.max(sum, 4);
 sum = Math.max(sum, 2);

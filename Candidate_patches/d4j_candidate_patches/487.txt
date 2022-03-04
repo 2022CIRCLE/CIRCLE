@@ -1,6 +1,3 @@
-golden:
-.defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
-inference:
 .defaultAnswer(returnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
 .defaultAnswer(ReturnsDeepStubsAnswerUsing(returnTypeGenericMetadata));
 .defaultAnswer(getter_AddRefs(returnTypeGenericMetadata));

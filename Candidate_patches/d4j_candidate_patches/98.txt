@@ -1,6 +1,3 @@
-golden:
-if (categoryKeys.length != this.startData[0].length) {
-inference:
 if (categoryKeys.length!= 0){
 if (categoryKeys[i].length!= this.startData[0].length){
 if (categoryKeys.length  this.startData[0].length){

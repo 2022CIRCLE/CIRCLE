@@ -1,6 +1,3 @@
-golden:
-pos += Character.charCount(Character.codePointAt(input, pos));
-inference:
 pos = Character.charCount(Character.codePointAt(input, pos));
 
 pos += Character.charCount();

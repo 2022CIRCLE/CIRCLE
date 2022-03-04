@@ -1,6 +1,3 @@
-golden:
-if (!mockitoCore.isTypeMockable(rawType)) {
-inference:
 if (!mockitoCore.isTypeMockable(rawType)){
 if (mockitoCore.isTypeMockable(rawType)){
 if (!mockitoCore.isType(rawType)){

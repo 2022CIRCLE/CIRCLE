@@ -1,6 +1,3 @@
-golden:
-error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"), right);
-inference:
 error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"), right);
 error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"));
 error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0", right));

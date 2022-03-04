@@ -1,6 +1,3 @@
-golden:
-out.write(entityValue);
-inference:
 
 out.write(entityValue.get());
 out.write(EntityValue);

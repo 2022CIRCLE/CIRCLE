@@ -1,6 +1,3 @@
-golden:
-if (hoursInMinutes < 0) { minutesOffset = hoursInMinutes - minutesOffset; } else { minutesOffset = hoursInMinutes + minutesOffset; } offset = FieldUtils.safeMultiply(minutesOffset, DateTimeConstants.MILLIS_PER_MINUTE);
-inference:
 offset = FieldUtils.safeMultiply(hoursOffset, DateTimeConstants.MILLIS_PER_MINUTE);
 offset = FieldUtils.safeMultiply(hoursInMinutes, DateTimeConstants.MILLIS_PER_MINUTE);
 offset = FieldUtils.safeMultiply(minutesOffset, DateTimeConstants.MILLIS_PER_MINUTE);

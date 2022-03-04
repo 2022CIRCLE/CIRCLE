@@ -1,6 +1,3 @@
-golden:
-if (filename.indexOf(filenamePrefix) == 0) {
-inference:
 if (filename.indexOf(filenamePrefix)  0){
 if (filename.indexOf(filenamePrefix) == -1){
 if (filename.indexOf(filenamePrefix) == 0){

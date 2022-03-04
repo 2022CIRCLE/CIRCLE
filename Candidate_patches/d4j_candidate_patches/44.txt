@@ -1,6 +1,3 @@
-golden:
-return (T[]) new Object[] { null };
-inference:
 return (T[]) new Object[]  null;
 return (T[]) new (Object[])  null ;
 return (T[]) new T[]  null ;

@@ -1,6 +1,3 @@
-golden:
-yTmp[j] = y[j] + stepSize * sum;
-inference:
 yTmp[j] = y[j] + stepSize * sum;
 
 yTmp[j] = y[j] + stepSize * sum + 1;

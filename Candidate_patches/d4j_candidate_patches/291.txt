@@ -1,6 +1,3 @@
-golden:
-switch (val.getType()) {
-inference:
 switch (val.getType()){
 switch (val.type){
 switch (val.isType()){

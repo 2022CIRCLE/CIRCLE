@@ -1,6 +1,3 @@
-golden:
-classes[i] = array[i].getClass();
-inference:
 classes[i] = array[i].getClass();
 classes[i] = array[i];
 classes[i] = array[i].get();

@@ -1,6 +1,3 @@
-golden:
-final int hexDigits = str.length() - pfxLen; if (hexDigits > 16) { // too many for Long
-inference:
 hexDigits = str.length() - pfxLen; if (hexDigits > 16)
 
 if (pfxLen > 16)

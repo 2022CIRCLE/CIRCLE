@@ -1,6 +1,3 @@
-golden:
-stop = checker.converged(iter, previous, current);
-inference:
 stop = checker.converged(iter, previous);
 stop = checker.converged(iter, previous, current, 0);
 stop = checker.converged(iter, previous, current);

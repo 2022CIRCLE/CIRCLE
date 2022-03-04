@@ -1,6 +1,3 @@
-golden:
-return super.equals(obj);
-inference:
 return (super.equals(obj));
 return true;
 return obj == this;

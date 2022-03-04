@@ -1,6 +1,3 @@
-golden:
-if ((work[i + 3] <= TOLERANCE_2 * work[i]) &&
-inference:
 if (work[i + 3] = TOLERANCE_2 * work[i])
 if ((work[i + 3] = TOLERANCE_2 * work[i]) ||
 if ((work[i + 3] = TOLERANCE_2 * work[i])

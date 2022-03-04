@@ -1,6 +1,3 @@
-golden:
-if (!Double.isNaN(lvalue)) { minimum = Math.min(minimum, lvalue); } if (!Double.isNaN(uvalue)) { maximum = Math.max(maximum, uvalue); }
-inference:
 
 if (!Double.isNaN(lvalue))  minimum = Math.min(minimum, lvalue); if (!Double.isNaN(uvalue))  maximum = Math.max(maximum, uvalue);
 if (!Double.isNaN(lvalue) &&!Double.isNaN(uvalue))  maximum = Math.max(maximum, uvalue);

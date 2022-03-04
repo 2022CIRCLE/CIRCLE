@@ -1,6 +1,3 @@
-golden:
-if (n.isExprResult()) {
-inference:
 if (n.isExprResult()){
 if (!n.isExprResult()){
 if (n.isExprResult()){

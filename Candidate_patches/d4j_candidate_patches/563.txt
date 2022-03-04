@@ -1,6 +1,3 @@
-golden:
-addToSetIfLocal(lhs, kill);
-inference:
 
 addToSetIfLocal(n.getFirstChild(), kill);
 addToSetIfLocal(lhs, kill, conditional);

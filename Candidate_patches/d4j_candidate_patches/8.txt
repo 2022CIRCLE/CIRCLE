@@ -1,6 +1,3 @@
-golden:
-int len = thisBuf.length - strLen;
-inference:
 int len = buffer.length - strLen;
 
 int len = thisBuf.length - strLen;

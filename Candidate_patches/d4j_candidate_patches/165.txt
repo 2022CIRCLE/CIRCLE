@@ -1,6 +1,3 @@
-golden:
-if (iter % n == 0 ||
-inference:
 if (iter % n == 0 ||
 if (iter & n == 0 ||
 if (iter % n == 0)

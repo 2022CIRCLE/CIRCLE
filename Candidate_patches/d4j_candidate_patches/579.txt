@@ -1,6 +1,3 @@
-golden:
-double fx = computeObjectiveValue(f, x); if (goalType == GoalType.MAXIMIZE) {
-inference:
 if (goalType == GoalType.MAXIMIZE){
 if (goalType == GoalType.MAXIMIZE)  double fx = computeObjectiveValue(f, x);{
 double fx = computeObjectiveValue(f, x, 0); if (goalType == GoalType.MAXIMIZE){

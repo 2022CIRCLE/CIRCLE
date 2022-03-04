@@ -1,6 +1,3 @@
-golden:
-mant = str.substring(0, expPos);
-inference:
 mant = expPos;
 mant = exp.substring(0, expPos);
 mant = str.substring(0, expPos);

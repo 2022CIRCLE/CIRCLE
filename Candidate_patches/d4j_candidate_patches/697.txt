@@ -1,6 +1,3 @@
-golden:
-if (!NodeUtil.isGet(first)) {
-inference:
 if (!nodeUtil.isGet(first)){
 if (!NodeUtil.isEmpty()){
 if (nodeUtil.isGet(first)){

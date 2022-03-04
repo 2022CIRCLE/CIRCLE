@@ -1,6 +1,3 @@
-golden:
-return solve(f, min, yMin, max, yMax, initial, yInitial);
-inference:
 return solve(f, min, yMin, max, yMax, initial, yInitial);
 return solve(f, min, yMin, max, yMax, initial, yInitial, 0);
 return solve(f, min, max, yMin, initial, yInitial);

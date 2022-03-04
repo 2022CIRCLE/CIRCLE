@@ -1,6 +1,3 @@
-golden:
-return recordDeepStubMock(invocation, container);
-inference:
 return recordDeepStubMock(invocation);
 return RecordDeepStubMock(invocation, container);
 return recordDeepStubMock(invocation, &container);

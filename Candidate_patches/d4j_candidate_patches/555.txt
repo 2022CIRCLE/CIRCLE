@@ -1,6 +1,3 @@
-golden:
-return best(current, previous, isMinim);
-inference:
 return best(current, previous, isMinim);
 return best(current, previous, &isMinim);
 return best(current, prev, isMinim);

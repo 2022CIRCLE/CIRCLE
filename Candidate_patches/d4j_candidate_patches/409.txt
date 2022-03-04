@@ -1,6 +1,3 @@
-golden:
-return reportMatcher(Any.ANY).returnString();
-inference:
 return anyMatcher(Any.ANY);
 return reportMatcher(Any.ANY);
 return ReportMatcher(Any.ANY).returnString();

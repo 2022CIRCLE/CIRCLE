@@ -1,6 +1,3 @@
-golden:
-new FieldSetter(fieldInstance, field).set(matchingMock);
-inference:
 new FieldSetter(fieldInstance, field, matchingMock);
 new FieldSetter(fieldInstance, field).set(matchingMock);
 new FieldSetter(fieldInstance, field, &matchingMock);

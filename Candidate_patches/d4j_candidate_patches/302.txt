@@ -1,6 +1,3 @@
-golden:
-return " title=\"" + toolTipText + "\" alt=\"\"";
-inference:
 return " title="" + toolTipText + "" alt=""";
 return " title="" + toolTipText + "" alt="";
 return " title="" + toolTipText;

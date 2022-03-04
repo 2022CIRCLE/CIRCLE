@@ -1,6 +1,3 @@
-golden:
-return 0.5 * (1.0 + Erf.erf((x - mean) /
-inference:
 return (0.5 * (1.0 + Erf.erf((x - mean) /
 return 0.5 * (2.0 + Erf.erf((x - mean) /
 return 0.5 * (1.0 + Erf.erf((x - mean) /

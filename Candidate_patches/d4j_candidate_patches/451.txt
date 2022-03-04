@@ -1,6 +1,3 @@
-golden:
-if (y >= TWO_POWER_52 || y <= -TWO_POWER_52) {
-inference:
 if (y >= TWO_POWER_52){
 if (y >= TWO_POWER_52 || y = -TWO_POWER_52){
 if (y >= TWO_POWER_52 && y = -TWO_POWER_52){

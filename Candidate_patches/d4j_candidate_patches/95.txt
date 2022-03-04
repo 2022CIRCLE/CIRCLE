@@ -1,6 +1,3 @@
-golden:
-int compare = lastUnitField.compareTo(loopUnitField);
-inference:
 int compare = lastUnitField.compareTo(lastUnitField);
 int compare;
 long compare = lastUnitField.compareTo(loopUnitField);

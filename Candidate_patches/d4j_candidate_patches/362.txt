@@ -1,6 +1,3 @@
-golden:
-if (excerpt.equals(LINE) && 0 <= charno && charno < sourceExcerpt.length()) {
-inference:
 if (excerpt.equals(LINE) && 0 = charno && charno  sourceExcerpt.length()){
 if (excerpt.equals(LINE) && 0 = charno){
 if (excerpt.equals(LINE)){

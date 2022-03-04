@@ -1,6 +1,3 @@
-golden:
-final int iptMinus1 = ipt; final int jptMinus1 = jpt;
-inference:
 
 int iptMinus1 = ipt; int jptMinus1 = jpt;
 final int iptMinus2 = ipt; final int jptMinus2 = jpt;

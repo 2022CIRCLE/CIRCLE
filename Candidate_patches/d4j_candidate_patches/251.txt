@@ -1,6 +1,3 @@
-golden:
-state.setTotal(DatasetUtilities.calculatePieDatasetTotal( plot.getDataset()));
-inference:
 
 state.setTotal(datasetUtilities.calculatePieDatasetTotal( plot.getDataset()));
 state.setTotal(PiePieDatasetTotal( plot.getDataset()));

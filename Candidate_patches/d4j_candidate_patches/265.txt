@@ -1,6 +1,3 @@
-golden:
-if (lhs.getType() == Token.GETPROP && lhs.getLastChild().getString().equals("prototype")) { return false; } if (lhs.getQualifiedName() != null && lhs.getQualifiedName().contains(".prototype.")) {
-inference:
 if (lhs.getType() == Token.GETPROP && lhs.getLastChild().getString().Equals("prototype"))  return false;  if (lhs.getQualifiedName()!= null && lhs.getQualifiedName().Equals(".prototype.")){
 if (lhs.getType() == Token.GETPROP && lhs.getLastChild().getString().Equals("prototype")){
 if (n.getType() == Token.GETPROP && n.getLastChild().getString().equals("prototype"))  return false;  if (n.getQualifiedName()!= null && n.getQualifiedName().contains(".prototype.")){

@@ -1,6 +1,3 @@
-golden:
-Node catchBody = block(catchNode).copyInformationFrom(catchNode);
-inference:
 Node catchBody = block(catchNode).copyInformationFrom(catchNode);
 
 Node catchBody = block(catchNode);

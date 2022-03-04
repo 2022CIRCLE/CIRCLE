@@ -1,6 +1,3 @@
-golden:
-return mockSettings
-inference:
 return mockSettings;
 return mockSettings.get()
 return MockSettings

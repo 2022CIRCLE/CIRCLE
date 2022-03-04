@@ -1,6 +1,3 @@
-golden:
-if (!Character.isDigit(lastChar)) {
-inference:
 if (!Character.isDigit(lastChar)){
 if (!Character.isDigit(lastChar, 0)){
 if (!Character.isDigit(&lastChar)){

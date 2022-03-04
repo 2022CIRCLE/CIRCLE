@@ -1,6 +1,3 @@
-golden:
-int len = Character.codePointCount(input, 0, input.length());
-inference:
 long len = Character.codePointCount(input, 0, input.length());
 
 int len = Character.codePointCount(input, 0);

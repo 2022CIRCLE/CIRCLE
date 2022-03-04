@@ -1,6 +1,3 @@
-golden:
-n.setJSType(type); for (Node arg = constructor.getNext(); arg != null; arg = arg.getNext()) { scope = traverse(arg, scope); }
-inference:
 
 for (Node arg = constructor.getNext(); arg!= null; arg = arg.getNext())  scope = traverse(arg, scope);
 n.setJSType(type);

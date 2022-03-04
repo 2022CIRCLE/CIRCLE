@@ -1,6 +1,3 @@
-golden:
-buf.append('.'); FormatUtils.appendPaddedInteger(buf, dp, 3);
-inference:
 FormatUtils.appendPaddedInteger(buf, dp, 3);
 FormatUtils.appendInteger(buf, dp, 3);
 formatUtils.appendPaddedInteger(buf, dp, 3);

@@ -1,6 +1,3 @@
-golden:
-if (str.startsWith("--")) { return null; }
-inference:
 
 if (str.startsWith("--"))  return null;
 if (str.startsWith("--")) return null;

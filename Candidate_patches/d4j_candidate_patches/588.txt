@@ -1,6 +1,3 @@
-golden:
-a = FastMath.sqrt(c1 / c2);
-inference:
 a = FastMath.sqrt((int)c1 / c2);
 a = FastMath.sqrt((c1 / c2));
 

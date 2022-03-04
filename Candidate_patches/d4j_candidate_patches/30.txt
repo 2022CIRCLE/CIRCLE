@@ -1,6 +1,3 @@
-golden:
-return cAvailableLocaleSet.contains(locale);
-inference:
 return (cAvailableLocaleSet.contains(locale));
 return isAvailableLocale(locale);
 return mAvailableLocaleSet.contains(locale);

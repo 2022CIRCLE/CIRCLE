@@ -1,6 +1,3 @@
-golden:
-throw new NoInteractionsWanted(join( "No interactions wanted here:", new LocationImpl(), "But found this interaction on mock '" + undesired.getMock() + "':", undesired.getLocation(), scenario ));
-inference:
 NoInteractionsWanted(join( "No interactions wanted here:", new LocationImpl(), "But found this interaction on mock '" + undesired.getMock() + "':", undesired.getLocation(), scenario ));
 throw new NoInteractionsWanted(join( "No interactions wanted here:", new LocationImpl(), "But found this interaction on mock '" + undesired.getMock() + "':", undesired.getLocation(), scenario ));
 return new NoInteractionsWanted(join( "No interactions wanted here:", new LocationImpl(), "But found this interaction on mock '" + undesired.getMock() + "':", undesired.getLocation(), scenario ));

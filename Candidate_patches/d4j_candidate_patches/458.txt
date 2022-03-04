@@ -1,6 +1,3 @@
-golden:
-currentEvent.stepAccepted(eventT, eventY); isLastStep = currentEvent.stop();
-inference:
 isLastStep = currentEvent.stop();
 
 isLastStep = currentEvent.stepAccepted(eventT, eventY);

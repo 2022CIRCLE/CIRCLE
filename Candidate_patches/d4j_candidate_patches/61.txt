@@ -1,6 +1,3 @@
-golden:
-if ( !Character.isJavaIdentifierPart(s.charAt(i))) {
-inference:
 if (!Character.isJavaIdentifierPart(i)){
 if (!Character.isJavaIdentifierPart(s)){
 if (!Character.isJavaIdentifierPart(s.charAt(i))){

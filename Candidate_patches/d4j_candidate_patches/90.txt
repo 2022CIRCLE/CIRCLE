@@ -1,6 +1,3 @@
-golden:
-final int dp = p1[i] - p2[i];
-inference:
 int dp = p1[i] - p2[i];
 
 dp = p1[i] - p2[i];

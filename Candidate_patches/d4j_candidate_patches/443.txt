@@ -1,6 +1,3 @@
-golden:
-if (i < csLast && j < searchLast && ch >= Character.MIN_HIGH_SURROGATE && ch <= Character.MAX_HIGH_SURROGATE) {
-inference:
 if (i  searchLast && ch >= Character.MIN_HIGH_SURROGATE && ch = Character.MAX_HIGH_SURROGATE){
 if (i  csLast && j  searchLast && ch >= Character.MIN_HIGH_SURROGATE && ch = Character.MAX_HIGH_SURROGATE){
 if (i  csLast && j  searchLast){

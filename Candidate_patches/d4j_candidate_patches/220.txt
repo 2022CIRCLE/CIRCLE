@@ -1,6 +1,3 @@
-golden:
-return NodeUtil.isFunctionExpression(n);
-inference:
 return NodeUtil.isReduceableFunctionExpression(n);
 return (NodeUtil.isFunctionExpression(n));
 return isReduceableFunctionExpression(n);

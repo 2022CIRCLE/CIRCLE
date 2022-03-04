@@ -1,6 +1,3 @@
-golden:
-parseDirectives(bodyNode);
-inference:
 
 parseDirectives(node);
 parseDirectives(bodyNode.get());

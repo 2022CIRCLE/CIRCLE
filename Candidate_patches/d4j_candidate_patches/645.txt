@@ -1,6 +1,3 @@
-golden:
-double dOn = object.doubleValue();
-inference:
 double dOn = 0;
 dOn = object.doubleValue();
 double dOn = doubleValue();

@@ -1,6 +1,3 @@
-golden:
-return reportTypeSyntaxWarning("msg.jsdoc.missing.lp");
-inference:
 return reportTypeSyntaxWarning("msg.jsdoc.missing.lp");
 return ReportTypeSyntaxWarning("msg.jsdoc.missing.lp");
 return reportTypeSyntaxWarning(_("msg.jsdoc.missing.lp"));

@@ -1,6 +1,3 @@
-golden:
-buf.append((char) (entityValue));
-inference:
 buf.append(entityValue);
 buf.append((char)entityValue);
 buf += (char) (entityValue);

@@ -1,6 +1,3 @@
-golden:
-MockHandler<T> newMockHandler = new MockHandler<T>(oldMockHandler); MethodInterceptorFilter newFilter = new MethodInterceptorFilter(newMockHandler, (MockSettingsImpl) org.mockito.Mockito.withSettings().defaultAnswer(org.mockito.Mockito.RETURNS_DEFAULTS));
-inference:
 
 MockHandlerT> newMockHandler = new MockHandlerT>(oldMockHandler);
 MockHandlerT> newMockHandler = new MockHandlerT>(oldMockHandler); MethodInterceptorFilter newFilter = new MethodInterceptorFilter(newMockHandler, (MockSettingsImpl) org.mockito.Mockito.withSettings());

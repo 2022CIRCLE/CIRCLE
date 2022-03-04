@@ -1,6 +1,3 @@
-golden:
-return assign;
-inference:
 return assign;
 
 return assign || assign;
